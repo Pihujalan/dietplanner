@@ -1,0 +1,28 @@
+# VS Code Extensions for Diet Planner Project
+# Install these extensions for the best development experience
+
+# Python Development
+ms-python.python
+ms-python.vscode-pylance
+ms-python.flake8
+ms-python.black-formatter
+
+# Jupyter Notebook Support
+ms-toolsai.jupyter
+ms-toolsai.vscode-jupyter-cell-tags
+ms-toolsai.vscode-jupyter-slideshow
+
+# Git Integration
+eamodio.gitlens
+mhutchie.git-graph
+
+# General Development
+ms-vscode.vscode-json
+redhat.vscode-yaml
+ms-vscode.powershell
+
+# Optional but Recommended
+ms-vscode-remote.remote-containers
+ms-vscode-remote.remote-wsl
+formulahendry.auto-rename-tag
+bradlc.vscode-tailwindcss

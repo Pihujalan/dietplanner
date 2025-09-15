@@ -1,0 +1,34 @@
+# Diet Planner Project Dependencies
+# All packages needed for the diet planning machine learning project
+
+# Core Data Science
+numpy==1.24.3
+pandas==2.0.3
+scikit-learn==1.3.0
+matplotlib==3.7.2
+seaborn==0.12.2
+
+# Jupyter Notebook Support
+jupyter==1.0.0
+notebook==6.5.4
+ipykernel==6.25.0
+jupyterlab==4.0.7
+
+# Machine Learning Utilities
+joblib==1.3.2
+pickle-mixin==1.0.2
+
+# Data Processing
+openpyxl==3.1.2
+xlrd==2.0.1
+
+# Development Tools
+pytest==7.4.2
+black==23.7.0
+flake8==6.0.0
+
+# Visualization
+plotly==5.15.0
+
+# Optional: Web Interface
+streamlit==1.25.0
