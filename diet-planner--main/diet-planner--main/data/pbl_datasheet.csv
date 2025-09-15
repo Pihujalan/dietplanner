@@ -1,0 +1,1941 @@
+Weight_kg,Height,Age,Gender,Food Allergies,Activity level,Eating preference,Medical Issue,BMI,,Medical_Issue_Standardized,BMI_Category
+85,5.05,39,Female,Unknown,Sedentary,Non Vegetarian,Pcos/Pcod,35.87618412,,PCOS/PCOD,Obese
+72,4.9,28,Female,Unknown,Sedentary,Non Vegetarian,Unknown,32.27828197,,Unknown,Obese
+97.1,5.5,26,Female,Milk,Lightly Active,Non Vegetarian,Chronic Inflammation And Stress,34.55126286,,"Inflammation, Mental Health",Obese
+94.9,5.3,29,Female,Unknown ,Sedentary,Non Vegetarian,Vitamin Deficiency,36.36508005,,Vitamin Deficiency,Obese
+102.3,5.5,41,Female,Sprouts,Sedentary,Non Vegetarian,Unknown,36.40158795,,Unknown,Obese
+46,5.5,26,Female,"Milk, Sugar",Very Active,Vegetarian,Acne And Pigmentation,16.36826047,,Skin Issues,Underweight
+61.7,5.1,19,Female,Unknown,Moderately Active,Vegetarian,Other,25.53376673,,Unknown,Overweight
+75,5.5,37,Female,Meat,Lightly Active,Eggetarian,Thyroid,26.6873812,,Thyroid,Overweight
+84,5.3,42,Female,Unknown,Moderately Active,Non Vegetarian,Pcos/Pcod,32.18826896,,PCOS/PCOD,Obese
+97.5,5.6,34,Female,Unknown,Lightly Active,Vegetarian,Unknown,33.46560158,,Unknown,Obese
+69.3,5.2,52,Female,"Mushrooms, Cheese, Avocado",Sedentary,Vegetarian,Unknown,27.58650118,,Unknown,Overweight
+71.5,5.1,35,Female,Unknown ,Moderately Active,Vegetarian,Unknown,29.58937312,,Unknown,Overweight
+79,5.2,34,Female,Unknown ,Sedentary,Non Vegetarian,Thyroid,31.4478152,,Thyroid,Obese
+85.5,5.1,39,Female,"Brocolli, Mushrooms",Sedentary,Non Vegetarian,Thyroid,35.38309653,,Thyroid,Obese
+136,5.4,44,Female,Besan,Sedentary,Vegetarian,Depression,50.20205133,,Mental Health,Obese
+86,5.1,39,Female,"Broccoli, Musrooms",Sedentary,Eggetarian,Thyroid,35.59001522,,Thyroid,Obese
+85,5.4,26,Female,Unknown,Lightly Active,Vegetarian,Unknown,31.37628208,,Unknown,Obese
+72,5.1,35,Female,Unknown ,Moderately Active,Vegetarian,Unknown,29.79629181,,Unknown,Overweight
+88,5.3,27,Female,Unknown ,Moderately Active,Vegetarian,Pcos/Pcod,33.72104367,,PCOS/PCOD,Obese
+102,5.4,28,Female,"Cabage , Cauliflower, Broccoli, Dairy",Sedentary,Eggetarian,Thyroid,37.65153849,,Thyroid,Obese
+62,5.4,24,Female,"Wheat, Dairy Products",Lightly Active,Vegetarian,Unknown,22.88622928,,Unknown,Normal
+92.5,5.6,32,Female,Unknown,Lightly Active,Eggetarian,Pcos/Pcod,31.74941689,,PCOS/PCOD,Obese
+57.25,5,32,Female,Unknown,Sedentary,Vegetarian,Pcos/Pcod,24.64935485,,PCOS/PCOD,Normal
+57.25,5,32,Female,Unknown,Sedentary,Vegetarian,Pcos/Pcod,24.64935485,,PCOS/PCOD,Normal
+80.5,5.65,40,Male,Unknown,Lightly Active,Non Vegetarian,Unknown,27.14370079,,Unknown,Overweight
+84,5.4,58,Female,Figs,Sedentary,Vegetarian,"Stress, Joint Pain, Anxiety,  Depression And My Sugar Is On Borderline As Well.",31.00714935,,"Diabetes, Mental Health, Pain",Obese
+80.5,5.65,41,Male,Unknown,Lightly Active,Non Vegetarian,Unknown,27.14370079,,Unknown,Overweight
+70,5.3,24,Female,Unknown,Sedentary,Eggetarian,Pcos/Pcod,26.82355746,,PCOS/PCOD,Overweight
+87,5.2,29,Female,Unknown ,Lightly Active,Vegetarian,Post Partum,34.63240408,,Post Partum,Obese
+70,5.3,24,Female,Unknown,Sedentary,Eggetarian,Pcos/Pcod,26.82355746,,PCOS/PCOD,Overweight
+75,5,35,Female,Unknown,Very Active,Eggetarian,Other,32.29173125,,Unknown,Obese
+75,5.2,49,Female,"Onion, Garlic",Sedentary,Vegetarian,Thyroid And Bp,29.85552076,,"Blood Pressure, Thyroid",Overweight
+95,5.4,38,Female,Curd,Sedentary,Eggetarian,Post Partum,35.06760938,,Post Partum,Obese
+91,5.1,34,Female,Pineapple,Sedentary,Vegetarian,Pcos/Pcod,37.65920215,,PCOS/PCOD,Obese
+91,5.1,34,Female,Pineapple,Sedentary,Vegetarian,Pcos/Pcod,37.65920215,,PCOS/PCOD,Obese
+79,5.4,25,Female,Unknown,Sedentary,Non Vegetarian,Extreme Weightloss Diet,29.1614857,,Unknown,Overweight
+75.5,5.4,37,Female,Unknown,Lightly Active,Eggetarian,Unknown,27.86952114,,Unknown,Overweight
+67,5.2,35,Female,Unknown,Lightly Active,Vegetarian,Unknown,26.67093188,,Unknown,Overweight
+91,5.1,34,Female,Pineapple,Sedentary,Vegetarian,Pcos/Pcod,37.65920215,,PCOS/PCOD,Obese
+83,5.1,32,Female,Unknown,Moderately Active,Vegetarian,Post Partum,34.34850306,,Post Partum,Obese
+119,5.3,34,Female,Dairy,Lightly Active,Non Vegetarian,Thyroid,45.60004769,,Thyroid,Obese
+87.5,5.7,36,Male,Unknown,Moderately Active,Non Vegetarian,Unknown,28.98867841,,Unknown,Overweight
+76,5.4,38,Female,Unknown,Sedentary,Vegetarian,Post Partum,28.05408751,,Post Partum,Overweight
+60,5.4,31,Female,Unknown,Sedentary,Non Vegetarian,Unknown,22.14796382,,Unknown,Normal
+108,5.3,55,Female,Unknown,Lightly Active,Eggetarian,Thyroid,41.38491723,,Thyroid,Obese
+75,5.6,33,Female,Unknown,Lightly Active,Vegetarian,Post Partum,25.74277045,,Post Partum,Overweight
+65,5.4,35,Female,Unknown,Sedentary,Non Vegetarian,Nothing,23.99362747,,Unknown,Normal
+54,5,30,Female,Unknown,Lightly Active,Eggetarian,Post Partum,23.2500465,,Post Partum,Normal
+98,5.7,20,Female,Unknown,Lightly Active,Eggetarian,Unknown,32.46731982,,Unknown,Obese
+70,5.4,34,Female,dairy,Moderately Active,Non Vegetarian,Unknown,25.83929112,,Unknown,Overweight
+85,5,44,Female,Unknown,Sedentary,Non Vegetarian,Pcos/Pcod,36.59729542,,PCOS/PCOD,Obese
+88,5.6,36,Female,Unknown,Lightly Active,Non Vegetarian,Thyroid,30.20485066,,Thyroid,Obese
+87.2,5.1,29,Female,Unknown,Lightly Active,Non Vegetarian,Unknown,36.08662008,,Unknown,Obese
+95,5.1,33,Male,Unknown,Lightly Active,Non Vegetarian,No Internal Issues,39.3145517,,Unknown,Obese
+70,5.2,32,Female,Unknown,Moderately Active,Vegetarian,Pcos/Pcod,27.86515271,,PCOS/PCOD,Overweight
+106,5.3,24,Female,"Soya Chunks, Quinoa, Oats, Rajma",Sedentary,Vegetarian,Pcos/Pcod,40.61852987,,PCOS/PCOD,Obese
+108,5.3,55,Female,Unknown,Lightly Active,Eggetarian,Thyroid,41.38491723,,Thyroid,Obese
+102,5.4,37,Female,Unknown,Lightly Active,Vegetarian,Thyroid,37.65153849,,Thyroid,Obese
+75,5.2,36,Female,Unknown,Sedentary,Vegetarian,Diabetes,29.85552076,,Diabetes,Overweight
+77,5.4,47,Female,Unknown,Lightly Active,Vegetarian,Unknown,28.42322024,,Unknown,Overweight
+94,5.5,26,Female,Mushroom,Moderately Active,Non Vegetarian,Other,33.44818444,,Unknown,Obese
+72.8,5.2,30,Female,Unknown,Moderately Active,Eggetarian,Pcos/Pcod,28.97975881,,PCOS/PCOD,Overweight
+74,5.1,29,Female,Unknown,Lightly Active,Non Vegetarian,Unknown,30.62396658,,Unknown,Obese
+76,5.6,27,Female,Unknown,Lightly Active,Non Vegetarian,"Pigmentation, Constipation , Weight",26.08600739,,Digestive Issues,Overweight
+86,5.3,31,Female,Unknown,Moderately Active,Non Vegetarian,Unknown,32.95465631,,Unknown,Obese
+62,5.3,37,Female,Unknown,Moderately Active,Non Vegetarian,"Constipative, Belly Fat",23.75800804,,Unknown,Normal
+86,5.6,30,Female,Unknown,Moderately Active,Eggetarian,Pcos/Pcod,29.51837678,,PCOS/PCOD,Overweight
+73,5.7,29,Male,Unknown,Moderately Active,Vegetarian,Thyroid,24.18484027,,Thyroid,Normal
+84,5.5,25,Female,Unknown,Sedentary,Vegetarian,Post Partum,29.88986694,,Post Partum,Overweight
+66,5.3,43,Female,Unknown,Lightly Active,Eggetarian,Ulcerative Colitis,25.29078275,,Unknown,Overweight
+62,5.3,21,Female,Unknown,Lightly Active,Vegetarian,Unknown,23.75800804,,Unknown,Normal
+89,5.3,24,Female,Unknown,Moderately Active,Vegetarian,Unknown,34.10423735,,Unknown,Obese
+95,5.6,31,Female,Paneer,Sedentary,Eggetarian,Post Partum,32.60750923,,Post Partum,Obese
+85,5.2,36,Female,Unknown,Moderately Active,Vegetarian,Hypertension,33.83625686,,Blood Pressure,Obese
+98.15,5.4,38,Female,Unknown,Lightly Active,Eggetarian,Thyroid,36.23037748,,Thyroid,Obese
+69.7,5.1,30,Female,Unknown,Lightly Active,Non Vegetarian,Post Partum,28.84446582,,Post Partum,Overweight
+60,5.3,21,Female,Unknown,Sedentary,Vegetarian,Other,22.99162068,,Unknown,Normal
+78,5.2,32,Female,Unknown,Moderately Active,Non Vegetarian,Unknown,31.04974159,,Unknown,Obese
+96.3,4.11,33,Female,Unknown,Sedentary,Eggetarian,Unknown,61.36386673,,Unknown,Obese
+64.5,5.1,32,Female,Unknown,Moderately Active,Eggetarian,Thyroid,26.69251141,,Thyroid,Overweight
+56.2,5,26,Female,Unknown,Sedentary,Non Vegetarian,Unknown,24.19727062,,Unknown,Normal
+83,5.9,25,Female,Unknown,Lightly Active,Non Vegetarian,Pcos/Pcod,25.66516991,,PCOS/PCOD,Overweight
+89.85,5.2,32,Female,Unknown,Sedentary,Non Vegetarian,Thyroid,35.76691387,,Thyroid,Obese
+89.85,5.2,32,Female,Unknown,Sedentary,Non Vegetarian,Thyroid,35.76691387,,Thyroid,Obese
+75.5,5.4,37,Female,Unknown,Lightly Active,Eggetarian,Unknown,27.86952114,,Unknown,Overweight
+88,5.3,24,Female,Unknown,Very Active,Vegetarian,Unknown,33.72104367,,Unknown,Obese
+79,5.3,40,Female,"Nuts, Peanuts, Capsicum, Mushroom",Sedentary,Non Vegetarian,Pcos/Pcod,30.27230057,,PCOS/PCOD,Obese
+76,5.3,33,Female,Unknown,Sedentary,Non Vegetarian,Other,29.12271953,,Unknown,Overweight
+89.85,5.2,32,Female,Unknown,Sedentary,Non Vegetarian,Thyroid,35.76691387,,Thyroid,Obese
+65.5,5.3,42,Female,Unknown,Moderately Active,Eggetarian,Pcos/Pcod,25.09918591,,PCOS/PCOD,Overweight
+71.5,5.6,36,Female,Unknown,Sedentary,Vegetarian,Post Partum,24.54144116,,Post Partum,Normal
+69,5.3,26,Female,Unknown,Sedentary,Eggetarian,Unknown,26.44036379,,Unknown,Overweight
+91,5.3,38,Female,Unknown,Sedentary,Vegetarian,Other,34.8706247,,Unknown,Obese
+60,5.2,36,Female,Unknown,Lightly Active,Vegetarian,Unknown,23.88441661,,Unknown,Normal
+76,5.5,30,Female,Unknown,Sedentary,Vegetarian,Nothing,27.04321295,,Unknown,Overweight
+75,5.2,44,Female,Unknown,Moderately Active,Eggetarian,Pcos/Pcod,29.85552076,,PCOS/PCOD,Overweight
+80,5.2,50,Female,Unknown,Sedentary,Vegetarian,Post Partum,31.84588881,,Post Partum,Obese
+76.6,5.4,37,Female,Unknown,Moderately Active,Non Vegetarian,Post Partum,28.27556714,,Post Partum,Overweight
+54,5.3,48,Female,Dairy,Moderately Active,Non Vegetarian,Thyroid,20.69245862,,Thyroid,Normal
+60,4.11,24,Female,Unknown,Lightly Active,Vegetarian,Thyroid,38.23293877,,Thyroid,Obese
+102,5.5,31,Female,Unknown,Sedentary,Eggetarian,Pcos/Pcod,36.29483843,,PCOS/PCOD,Obese
+90,5.8,38,Male,Unknown,Sedentary,Non Vegetarian,Diabetes,28.79762002,,Diabetes,Overweight
+75,5.4,24,Female,"Tofu, Soya",Lightly Active,Non Vegetarian,Pcos/Pcod,27.68495478,,PCOS/PCOD,Overweight
+69,5.4,31,Female,Egg,Lightly Active,Non Vegetarian,Other,25.47015839,,Unknown,Overweight
+70,5.6,41,Female,Milk,Lightly Active,Non Vegetarian,Unknown,24.02658575,,Unknown,Normal
+85,5.3,33,Female,Unknown,Lightly Active,Vegetarian,Thyroid,32.57146264,,Thyroid,Obese
+114,5.6,32,Female,"Peanuts, Milk, Egg",Lightly Active,Non Vegetarian,Thyroid,39.12901108,,Thyroid,Obese
+66.5,5.023,25,Female,Unknown,Lightly Active,Vegetarian,Unknown,28.37039377,,Unknown,Overweight
+84,5.6,26,Female,Dairy,Lightly Active,Non Vegetarian,Pcos/Pcod,28.8319029,,PCOS/PCOD,Overweight
+108,5.8,34,Female,Arbi,Lightly Active,Eggetarian,Unknown,34.55714403,,Unknown,Obese
+94,5.6,32,Female,Mushroom,Sedentary,Non Vegetarian,Unknown,32.26427229,,Unknown,Obese
+92,5.1,47,Female,Unknown,Sedentary,Eggetarian,Thyroid,38.07303954,,Thyroid,Obese
+75,5.7,32,Female,Unknown,Lightly Active,Non Vegetarian,Thyroid,24.84743864,,Thyroid,Normal
+126,5.8,40,Male,Unknown,Sedentary,Non Vegetarian,Unknown,40.31666803,,Unknown,Obese
+58.5,5.1,27,Female,Curd,Lightly Active,Non Vegetarian,No Issues,24.2094871,,Unknown,Normal
+68.3,5.1,21,Female,Unknown,Sedentary,Non Vegetarian,Pcos/Pcod,28.26509348,,PCOS/PCOD,Overweight
+71,5.8,42,Male,Unknown,Lightly Active,Vegan,Unknown,22.71812246,,Unknown,Normal
+71,5.4,35,Female,Unknown,Moderately Active,Non Vegetarian,Unknown,26.20842385,,Unknown,Overweight
+60,5.15,31,Female,Brinjal,Sedentary,Non Vegetarian,Pcos/Pcod,24.35044302,,PCOS/PCOD,Normal
+77,5.05,26,Female,Unknown,Moderately Active,Vegetarian,Pcos/Pcod,32.49960208,,PCOS/PCOD,Obese
+75,5.3,38,Female,Unknown,Lightly Active,Eggetarian,Unknown,28.73952585,,Unknown,Overweight
+85,5.4,24,Female,Unknown,Sedentary,Non Vegetarian,Pcos/Pcod,31.37628208,,PCOS/PCOD,Obese
+76,5.2,32,Female,Unknown,Sedentary,Vegetarian,Pcos/Pcod,30.25359437,,PCOS/PCOD,Obese
+64,5.3,24,Female,Unknown,Sedentary,Vegetarian,Other,24.5243954,,Unknown,Normal
+78,5.5,35,Female,Unknown,Lightly Active,Non Vegetarian,Unknown,27.75487645,,Unknown,Overweight
+73,5.2,29,Female,Soya ,Very Active,Eggetarian,Thyroid,29.05937354,,Thyroid,Overweight
+60,5,27,Female,Unknown,Moderately Active,Vegetarian,Acidity Gas,25.833385,,Digestive Issues,Overweight
+54.9,5.4,32,Female,Unknown,Moderately Active,Non Vegetarian,Unknown,20.2653869,,Unknown,Normal
+80,5.6,40,Female,"Onion, Garlic",Sedentary,Vegetarian,Unknown,27.45895514,,Unknown,Overweight
+104,5.3,42,Female,Unknown,Lightly Active,Non Vegetarian,Diabetes,39.85214252,,Diabetes,Obese
+94,5.1,34,Male,Unknown,Lightly Active,Non Vegetarian,Unknown,38.90071431,,Unknown,Obese
+95,5.3,37,Female,Unknown,Lightly Active,Vegetarian,Thyroid,36.40339942,,Thyroid,Obese
+85,5.5,35,Female,Unknown,Lightly Active,Non Vegetarian,Pcos/Pcod,30.24569869,,PCOS/PCOD,Obese
+164,80,43,Female,Unknown,Lightly Active,Non Vegetarian,Unknown,0.275825204,,Unknown,Underweight
+117,5.51,33,Female,Unknown,Sedentary,Non Vegetarian,Pcos/Pcod,41.48133632,,PCOS/PCOD,Obese
+88.45,5.4,29,Female,Unknown,Sedentary,Non Vegetarian,Other,32.64979,,Unknown,Obese
+64,5.05,35,Female,Unknown,Sedentary,Non Vegetarian,Unknown,27.01265628,,Unknown,Overweight
+66,5.4,31,Female,Unknown,Moderately Active,Non Vegetarian,Unknown,24.3627602,,Unknown,Normal
+69,5.4,59,Female,Unknown,Very Active,Vegetarian,Diabetes,25.47015839,,Diabetes,Overweight
+66.95,5.2,24,Female,Unknown,Very Active,Non Vegetarian,Unknown,26.6510282,,Unknown,Overweight
+69,5.4,37,Female,Unknown,Lightly Active,Eggetarian,"Based On Current Reports - High Cholesterol Level, High Ldl Cholesterol, High Mean Platelet Volume, Low Hemoglobin, Low Mean Corpuscular Hemoglobin, Low Mean Corpuscular Hemoglobin Concent, Low Neutrophils (%) (Auto)  Also - Right Knee Pain Occasionally (Recently Started)",25.47015839,,"Anemia, Cholesterol, Pain",Overweight
+69,5.2,33,Female,Unknown,Moderately Active,Non Vegetarian,Pcos/Pcod,27.4670791,,PCOS/PCOD,Overweight
+89,5.2,33,Female,Unknown,Moderately Active,Non Vegetarian,Pcos/Pcod,35.4285513,,PCOS/PCOD,Obese
+75,5.5,26,Female,Unknown,Lightly Active,Non Vegetarian,Unknown,26.6873812,,Unknown,Overweight
+93,5.8,40,Female,Unknown,Sedentary,Eggetarian,Thyroid,29.75754069,,Thyroid,Overweight
+78.5,5.4,30,Female,Mushroom,Lightly Active,Non Vegetarian,Thyroid,28.97691933,,Thyroid,Overweight
+73,5.6,32,Female,"Vegetarian, Egg, Mushroom",Sedentary,Vegetarian,Unknown,25.05629657,,Unknown,Overweight
+88,5.5,30,Female,Unknown,Lightly Active,Vegetarian,Pcos/Pcod,31.31319394,,PCOS/PCOD,Obese
+94,5.7,33,Female,Unknown,Moderately Active,Non Vegetarian,Unknown,31.14212309,,Unknown,Obese
+87,5.7,31,Female,Unknown,Lightly Active,Eggetarian,Pcos/Pcod,28.82302882,,PCOS/PCOD,Overweight
+77,5.3,30,Female,Unknown,Sedentary,Non Vegetarian,Pcos/Pcod,29.50591321,,PCOS/PCOD,Overweight
+70,5.2,36,Female,Unknown,Sedentary,Eggetarian,Other,27.86515271,,Unknown,Overweight
+78,5.2,28,Female,Unknown,Lightly Active,Non Vegetarian,Unknown,31.04974159,,Unknown,Obese
+66.95,5.2,23,Female,Unknown,Moderately Active,Non Vegetarian,Other,26.6510282,,Unknown,Overweight
+66.95,5.2,23,Female,Unknown,Moderately Active,Non Vegetarian,Other,26.6510282,,Unknown,Overweight
+76,5.4,38,Female,Unknown,Sedentary,Eggetarian,High Bp,28.05408751,,Blood Pressure,Overweight
+79,5.3,39,Female,Unknown,Sedentary,Vegetarian,Post Partum,30.27230057,,Post Partum,Obese
+79,5.3,39,Female,Unknown,Sedentary,Vegetarian,Post Partum,30.27230057,,Post Partum,Obese
+79.83,5.3,24,Female,Unknown,Lightly Active,Non Vegetarian,Pcos/Pcod,30.59035132,,PCOS/PCOD,Obese
+58,5.2,37,Female,Unknown,Moderately Active,Vegetarian,Gallstones And Fatty Liver,23.08826938,,Fatty Liver,Normal
+62.5,5.7,20,Female,Unknown,Moderately Active,Vegetarian,Ibs,20.70619886,,Digestive Issues,Normal
+86,5.7,34,Female,Unknown,Lightly Active,Non Vegetarian,Pcos/Pcod,28.49172963,,PCOS/PCOD,Overweight
+78,5.4,25,Female,Unknown,Moderately Active,Non Vegetarian,Unknown,28.79235297,,Unknown,Overweight
+79,5.6,33,Female,Unknown ,Sedentary,Non Vegetarian,Unknown,27.11571821,,Unknown,Overweight
+81,5,54,Female,Unknown,Lightly Active,Eggetarian,Thyroid,34.87506975,,Thyroid,Obese
+93.7,5.4,28,Female,Unknown,Sedentary,Vegetarian,Thyroid,34.58773683,,Thyroid,Obese
+79,5.2,45,Female,Unknown,Moderately Active,Non Vegetarian,Unknown,31.4478152,,Unknown,Obese
+66.8,5.4,27,Female,Unknown,Lightly Active,Non Vegetarian,Unknown,24.65806639,,Unknown,Normal
+66.8,5.4,27,Female,Unknown,Lightly Active,Non Vegetarian,Unknown,24.65806639,,Unknown,Normal
+56,4.6,29,Female,Unknown,Lightly Active,Non Vegetarian,Other,28.48671944,,Unknown,Overweight
+78,5.3,44,Female,Unknown,Lightly Active,Eggetarian,Other,29.88910689,,Unknown,Overweight
+85,5.3,33,Female,Unknown,Moderately Active,Non Vegetarian,Pcos/Pcod,32.57146264,,PCOS/PCOD,Obese
+57,5.4,31,Female,Mushroom,Sedentary,Non Vegetarian,Unknown,21.04056563,,Unknown,Normal
+94,5.1,34,Male,Unknown,Lightly Active,Non Vegetarian,Unknown,38.90071431,,Unknown,Obese
+67,5.5,22,Female,Unknown,Lightly Active,Vegetarian,Unknown,23.8407272,,Unknown,Normal
+70,5.4,30,Female,Unknown,Moderately Active,Vegetarian,Thyroid,25.83929112,,Thyroid,Overweight
+75.45,5.3,35,Female,Unknown,Lightly Active,Vegetarian,Thyroid,28.91196301,,Thyroid,Overweight
+71.9,5.5,44,Female,"Flour, Cheese",Lightly Active,Non Vegetarian,Unknown,25.58430278,,Unknown,Overweight
+77,5.2,28,Female,Unknown,Lightly Active,Vegetarian,Pcos/Pcod,30.65166798,,PCOS/PCOD,Obese
+76,5.2,27,Female,Unknown,Sedentary,Vegetarian,Thyroid,30.25359437,,Thyroid,Obese
+75,5,25,Female,Unknown,Sedentary,Eggetarian,Pcos/Pcod,32.29173125,,PCOS/PCOD,Obese
+63,5.3,32,Female,Chicken,Lightly Active,Non Vegetarian,Unknown,24.14120172,,Unknown,Normal
+61,5.1,43,Female,Unknown,Sedentary,Eggetarian,Diabetes,25.24408056,,Diabetes,Overweight
+86,5.4,34,Female,Unknown,Sedentary,Non Vegetarian,Unknown,31.74541481,,Unknown,Obese
+90,5.4,43,Female,Peanut,Very Active,Non Vegetarian,Pcos/Pcod,33.22194573,,PCOS/PCOD,Obese
+75,5.2,33,Female,"Mushroom, Tofu.",Lightly Active,Vegetarian,Unknown,29.85552076,,Unknown,Overweight
+69,5.4,31,Female,Egg,Lightly Active,Non Vegetarian,Other,25.47015839,,Unknown,Overweight
+63,5.3,28,Female,Unknown,Lightly Active,Eggetarian,Unknown,24.14120172,,Unknown,Normal
+76,5.1,34,Female,Unknown,Lightly Active,Vegetarian,Unknown,31.45164136,,Unknown,Obese
+82.4,5.6,25,Female,"Mushroom, Drumsticks, Seafood",Sedentary,Non Vegetarian,Unknown,28.2827238,,Unknown,Overweight
+110,5.8,33,Male,Unknown,Sedentary,Non Vegetarian,Unknown,35.19709114,,Unknown,Obese
+80.2,5.5,35,Female,Unknown,Sedentary,Non Vegetarian,Thyroid,28.53770629,,Thyroid,Overweight
+63.6,5.1,37,Female,Unknown,Lightly Active,Vegetarian,Post Partum,26.32005777,,Post Partum,Overweight
+65.2,5.2,28,Female,Unknown,Lightly Active,Vegetarian,Pcos/Pcod,25.95439938,,PCOS/PCOD,Overweight
+142,5.11,27,Female,"Mushrooms, Soy, Red Meat",Moderately Active,Non Vegetarian,Pcos/Pcod,58.53513425,,PCOS/PCOD,Obese
+68,5.7,27,Female,"Chicken, Mutton",Sedentary,Eggetarian,Thyroid,22.52834436,,Thyroid,Normal
+80,5.6,24,Female,Unknown,Lightly Active,Vegetarian,Pcos/Pcod,27.45895514,,PCOS/PCOD,Overweight
+130,5.3,42,Female,Unknown,Sedentary,Vegetarian,Thyroid,49.81517815,,Thyroid,Obese
+84,5.1,31,Female,Unknown,Sedentary,Non Vegetarian,Thyroid,34.76234045,,Thyroid,Obese
+73,5.2,31,Female,Unknown,Lightly Active,Vegetarian,Bloating And Pigmentation,29.05937354,,Digestive Issues,Overweight
+69,5.1,32,Female,Unknown,Moderately Active,Vegetarian,Hair Thinning,28.55477965,,Unknown,Overweight
+72,5.2,28,Female,Unknown,Sedentary,Eggetarian,Nothing,28.66129993,,Unknown,Overweight
+68,5.4,58,Female,Unknown,Very Active,Vegetarian,Rheumatoid Arthritis,25.10102566,,Pain,Overweight
+60.78,5.3,39,Female,Unknown,Lightly Active,Non Vegetarian,Unknown,23.29051175,,Unknown,Normal
+105,5.6,33,Male,Unknown,Sedentary,Non Vegetarian,Unknown,36.03987863,,Unknown,Obese
+81,5.3,28,Female,Shellfish,Moderately Active,Non Vegetarian,Unknown,31.03868792,,Unknown,Obese
+95,5.2,33,Female,Unknown,Sedentary,Non Vegetarian,Unknown,37.81699296,,Unknown,Obese
+,5.6,37,Female,Unknown,Sedentary,Non Vegetarian,Sometimes Constipation,,,Digestive Issues,Obese
+67.2,5.2,21,Female,Unknown,Moderately Active,Vegetarian,Other,26.7505466,,Unknown,Overweight
+75.75,5.6,37,Female,Unknown,Lightly Active,Vegetarian,Unknown,26.00019815,,Unknown,Overweight
+88,5.2,53,Female,Unknown,Lightly Active,Vegetarian,Other,35.03047769,,Unknown,Obese
+80,5.2,46,Female,Unknown,Lightly Active,Vegetarian,Unknown,31.84588881,,Unknown,Obese
+87.7,5.3,27,Female,Unknown,Very Active,Vegetarian,Thyroid,33.60608557,,Thyroid,Obese
+130,5.4,26,Female,Unknown,Sedentary,Non Vegetarian,Pcos/Pcod,47.98725494,,PCOS/PCOD,Obese
+69,5.6,32,Female,Mushroom,Lightly Active,Non Vegetarian,Post Partum,23.68334881,,Post Partum,Normal
+79,5.6,30,Female,Unknown,Sedentary,Non Vegetarian,Post Partum,27.11571821,,Post Partum,Overweight
+63,5.6,30,Female,"Milk, Cheese",Sedentary,Non Vegetarian,Pcos/Pcod,21.62392718,,PCOS/PCOD,Normal
+79,5.6,30,Female,Unknown,Sedentary,Non Vegetarian,Post Partum,27.11571821,,Post Partum,Overweight
+79,5.6,30,Female,Unknown,Sedentary,Non Vegetarian,Post Partum,27.11571821,,Post Partum,Overweight
+87,5.7,43,Female,Egg,Sedentary,Non Vegetarian,Pcos/Pcod,28.82302882,,PCOS/PCOD,Overweight
+107.5,5.6,41,Female,Unknown,Sedentary,Non Vegetarian,Thyroid,36.89797098,,Thyroid,Obese
+107.5,5.6,41,Female,Unknown,Sedentary,Non Vegetarian,Thyroid,36.89797098,,Thyroid,Obese
+179,5,38,Female,Unknown,Moderately Active,Non Vegetarian,Pcos/Pcod,77.06959858,,PCOS/PCOD,Obese
+112,5.8,27,Female,Unknown,Lightly Active,Non Vegetarian,Pcos/Pcod,35.83703825,,PCOS/PCOD,Obese
+112,5.8,27,Female,Unknown,Lightly Active,Non Vegetarian,Pcos/Pcod,35.83703825,,PCOS/PCOD,Obese
+73,5.3,32,Female,Unknown,Very Active,Non Vegetarian,Thyroid,27.9731385,,Thyroid,Overweight
+63,5.3,32,Female,Unknown,Sedentary,Non Vegetarian,Unknown,24.14120172,,Unknown,Normal
+80,5.3,42,Female,Unknown,Very Active,Non Vegetarian,Unknown,30.65549424,,Unknown,Obese
+89,5.6,22,Female,Unknown,Moderately Active,Vegetarian,Pcos/Pcod,30.5480876,,PCOS/PCOD,Obese
+90,5.4,24,Female,Unknown,Sedentary,Non Vegetarian,Unknown,33.22194573,,Unknown,Obese
+74,5,25,Female,Unknown,Sedentary,Eggetarian,Pcos/Pcod,31.86117483,,PCOS/PCOD,Obese
+86,5.2,37,Female,Unknown,Sedentary,Non Vegetarian,Unknown,34.23433047,,Unknown,Obese
+73.55,5.3,25,Female,Unknown,Sedentary,Vegetarian,Pcos/Pcod,28.18389502,,PCOS/PCOD,Overweight
+68,5.3,39,Female,Unknown,Moderately Active,Eggetarian,Unknown,26.05717011,,Unknown,Overweight
+84.3,5.5,42,Female,Unknown,Lightly Active,Non Vegetarian,Unknown,29.99661647,,Unknown,Overweight
+102,5.4,28,Female,Dairy,Sedentary,Eggetarian,Thyroid,37.65153849,,Thyroid,Obese
+76,5.3,43,Female,Unknown,Moderately Active,Non Vegetarian,Peri Menopause Weight Gain,29.12271953,,Weight Issues,Overweight
+102,5.4,28,Female,Unknown,Very Active,Eggetarian,Thyroid,37.65153849,,Thyroid,Obese
+90,5.3,24,Female,Unknown,Moderately Active,Non Vegetarian,Unknown,34.48743103,,Unknown,Obese
+72,5.2,33,Female,Unknown,Moderately Active,Vegetarian,Thyroid,28.66129993,,Thyroid,Overweight
+77,5.4,34,Female,Unknown,Very Active,Eggetarian,Issue,28.42322024,,Unknown,Overweight
+82,5.4,33,Female,Unknown,Sedentary,Vegetarian,Other,30.26888389,,Unknown,Obese
+73,5.2,35,Female,Unknown,Sedentary,Non Vegetarian,Other,29.05937354,,Unknown,Overweight
+106,5.9,41,Female,Unknown,Moderately Active,Non Vegetarian,Unknown,32.77720495,,Unknown,Obese
+72,5,41,Female,Mushroom,Sedentary,Vegetarian,Knee Pain,31.000062,,Pain,Obese
+87,5.3,24,Female,Brinjal,Lightly Active,Non Vegetarian,Sinus,33.33784999,,Unknown,Obese
+99,5.3,41,Female,Unknown,Lightly Active,Vegetarian,Diabetes,37.93617413,,Diabetes,Obese
+120,5.9,32,Female,Brinjal,Sedentary,Non Vegetarian,Unknown,37.10626975,,Unknown,Obese
+83,5.6,34,Female,Unknown,Lightly Active .,Vegetarian,Unknown,28.48866596,,Unknown,Overweight
+126,5.7,17,Female,"Mushroom, Prawns",Sedentary,Non Vegetarian,Unknown,41.74369691,,Unknown,Obese
+85,5.1,36,Female,Unknown,Lightly Active,Vegetarian,Unknown,35.17617783,,Unknown,Obese
+81,5.4,29,Female,Unknown,Lightly Active,Eggetarian,Unknown,29.89975116,,Unknown,Overweight
+74,5.2,38,Female,Unknown,Lightly Active,Non Vegetarian,Thyroid,29.45744715,,Thyroid,Overweight
+73,5.4,25,Female,Unknown,Very Active,Non Vegetarian,Pcos/Pcod,26.94668931,,PCOS/PCOD,Overweight
+87,5.4,44,Male,Unknown,Moderately Active,Non Vegetarian,Unknown,32.11454754,,Unknown,Obese
+81.5,5.7,26,Female,Unknown,Sedentary,Non Vegetarian,Pcos/Pcod,27.00088332,,PCOS/PCOD,Overweight
+79,5.7,30,Female,Unknown,Lightly Active,Non Vegetarian,Thyroid,26.17263536,,Thyroid,Overweight
+89,5.5,28,Female,Unknown,Very Active,Non Vegetarian,Unknown,31.66902569,,Unknown,Obese
+83,5.4,22,Female,Unknown,Lightly Active,Non Vegetarian,Unknown,30.63801662,,Unknown,Obese
+85,5.4,28,Female,Unknown,Moderately Active,Non Vegetarian,Pcos/Pcod,31.37628208,,PCOS/PCOD,Obese
+67.8,4.8,44,Female,Unknown,Moderately Active,Non Vegetarian,Unknown,31.67504888,,Unknown,Obese
+90,5.7,32,Female,Dairy,Very Active,Non Vegetarian,Pcos/Pcod,29.81692636,,PCOS/PCOD,Overweight
+65,5,23,Female,Unknown,Lightly Active,Eggetarian,No Issue,27.98616708,,Unknown,Overweight
+98.6,5.5,57,Female,"Potatoe, Mint",Moderately Active,Non Vegetarian,Thyroid,35.08501048,,Thyroid,Obese
+74.5,5.3,35,Female,Unknown,Moderately Active,Eggetarian,Pcos/Pcod,28.54792902,,PCOS/PCOD,Overweight
+75,5.4,44,Female,Unknown,Sedentary,Vegetarian,Thyroid,27.68495478,,Thyroid,Overweight
+62.8,4.11,32,Female,Unknown,Sedentary,Non Vegetarian,Other,40.01714258,,Unknown,Obese
+61.6,5.6,39,Female,Tomato,Moderately Active,Eggetarian,Unknown,21.14339546,,Unknown,Normal
+64,5.4,30,Female,Unknown,Very Active,Non Vegetarian,Unknown,23.62449474,,Unknown,Normal
+69,5.4,20,Female,Unknown,Lightly Active,Non Vegetarian,"Acne And Inflammation, Nothing Serious",25.47015839,,"Inflammation, Skin Issues",Overweight
+120,5.5,31,Female,Unknown,Lightly Active,Eggetarian,Pcos/Pcod,42.69980992,,PCOS/PCOD,Obese
+58.75,5.05,27,Female,Dairy,Sedentary,Non Vegetarian,Unknown,24.79677432,,Unknown,Normal
+90,5.3,25,Female,Unknown,Lightly Active,Non Vegetarian,Pcos/Pcod,34.48743103,,PCOS/PCOD,Obese
+83,5.3,27,Female,Unknown,Moderately Active,Non Vegetarian,Unknown,31.80507528,,Unknown,Obese
+71,5.6,32,Female,Unknown,Moderately Active,Non Vegetarian,Pcos/Pcod,24.36982269,,PCOS/PCOD,Normal
+94.2,5.7,30,Male,Unknown,Sedentary,Non Vegetarian,Unknown,31.20838293,,Unknown,Obese
+92,5.4,34,Female,Egg,Sedentary,Non Vegetarian,Unknown,33.96021119,,Unknown,Obese
+92,5.7,34,Female,Unknown,Sedentary,Vegetarian,Unknown,30.47952473,,Unknown,Obese
+79,5.6,30,Female,Unknown,Sedentary,Non Vegetarian,Post Partum,27.11571821,,Post Partum,Overweight
+89,5.4,33,Female,Unknown,Lightly Active,Non Vegetarian,Diabetes,32.852813,,Diabetes,Obese
+90,5.11,35,Male,Unknown,Moderately Active,Vegetarian,Other,37.09973298,,Unknown,Obese
+52,5.4,26,Female,Ginger ,Moderately Active,Vegetarian,Unknown,19.19490198,,Unknown,Normal
+100,5.2,31,Female,Unknown,Sedentary,Non Vegetarian,Pcos/Pcod,39.80736101,,PCOS/PCOD,Obese
+71.15,5.1,35,Female,Unknown,Moderately Active,Non Vegetarian,Unknown,29.44453003,,Unknown,Overweight
+55,5.2,34,Female,Unknown,Lightly Active,Vegetarian,Pcos/Pcod,21.89404855,,PCOS/PCOD,Normal
+71,5,27,Female,Unknown,Sedentary,Vegetarian,Unknown,30.56950558,,Unknown,Obese
+78,5.6,30,Female,Unknown,Moderately Active,Eggetarian,Unknown,26.77248127,,Unknown,Overweight
+81,5.3,35,Female,Unknown,Moderately Active,Vegetarian,"Acne Issue, Slight High Cholesterol",31.03868792,,"Cholesterol, Skin Issues",Obese
+110,5.11,32,Male,Unknown,Moderately Active,Non Vegetarian,Diabetes,45.34411808,,Diabetes,Obese
+82,5,35,Female,Milk ,Sedentary,Vegetarian,Post Partum,35.30562617,,Post Partum,Obese
+97.5,5.6,24,Female,Unknown,Sedentary,Eggetarian,Pcos/Pcod,33.46560158,,PCOS/PCOD,Obese
+93,5.2,33,Female,Unknown,Sedentary,Non Vegetarian,Pcos/Pcod,37.02084574,,PCOS/PCOD,Obese
+112,5.1,29,Female,Mushrooms,Sedentary,Vegetarian,Unknown,46.34978726,,Unknown,Obese
+74.4,5.6,30,Female,Unknown,Moderately Active,Vegetarian,Unknown,25.53682828,,Unknown,Overweight
+112,5.1,29,Female,Mushroom,Sedentary,Vegetarian,Unknown,46.34978726,,Unknown,Obese
+67,5.2,37,Female,Unknown,Very Active,Eggetarian,Unknown,26.67093188,,Unknown,Overweight
+63,5.1,43,Female,Unknown,Lightly Active,Non Vegetarian,Unknown,26.07175533,,Unknown,Overweight
+70,4.8,39,Female,Unknown,Moderately Active,Non Vegetarian,Acidity,32.70285283,,Digestive Issues,Obese
+88,5.5,45,Female,Unknown,Moderately Active,Non Vegetarian,Unknown,31.31319394,,Unknown,Obese
+72,5.4,27,Female,"Tomato , Chickpea, Mushroom",Moderately Active,Non Vegetarian,Pcos/Pcod,26.57755658,,PCOS/PCOD,Overweight
+95,5.6,27,Female,Egg,Sedentary,Vegetarian,"I Had Borderline Hypothyroidism When Last Checked, But Its Been More Than 6 Months. I Am Not Able To Get Any Appointments Here.",32.60750923,,Thyroid,Obese
+90,5.2,38,Male,Unknown,Sedentary,Non Vegetarian,Diabetes,35.82662491,,Diabetes,Obese
+90,5.2,38,Male,Unknown,Sedentary,Non Vegetarian,Diabetes,35.82662491,,Diabetes,Obese
+85,5.3,30,Female,Unknown,Moderately Active,Non Vegetarian,Post Partum,32.57146264,,Post Partum,Obese
+77.2,5.3,3,Female,Onion,Very Active,Vegetarian,Other,29.58255195,,Unknown,Overweight
+78,5.1,38,Female,Unknown,Sedentary,Vegetarian,Thyroid,32.27931613,,Thyroid,Obese
+11,5.1,38,Female,Unknown,Lightly Active,Non Vegetarian,Pre-Diabetic,4.552211249,,Diabetes,Underweight
+86,5.3,45,Female,Unknown,Sedentary,Vegetarian,"Bloating, Not Abke To Loose Weight  ,Acidity ,Pcod Long Back",32.95465631,,"Digestive Issues, PCOS/PCOD",Obese
+84,5.6,29,Female,Unknown,Moderately Active,Vegetarian,Body Pains,28.8319029,,Pain,Overweight
+83,5.8,36,Female,Dairy,Lightly Active,Vegan,Blood Cancer,26.55780513,,Unknown,Overweight
+90,5.3,39,Female,Unknown,Sedentary,Non Vegetarian,Hypertension,34.48743103,,Blood Pressure,Obese
+81.45,5.05,38,Female,Unknown,Sedentary,Eggetarian,Other,34.37782584,,Unknown,Obese
+82,5.1,37,Female,Green Chillie,Lightly Active,Non Vegetarian,Pcos/Pcod,33.93466567,,PCOS/PCOD,Obese
+85.5,5.6,29,Female,"Mushroom, Beetroot, Avocado.",Lightly Active,Vegetarian,Pcos/Pcod,29.34675831,,PCOS/PCOD,Overweight
+102.5,5.6,34,Female,Unknown,Moderately Active,Vegetarian,Pcos/Pcod,35.18178628,,PCOS/PCOD,Obese
+64,5.1,29,Female,Unknown,Lightly Active,Vegetarian,Pcos/Pcod,26.48559272,,PCOS/PCOD,Overweight
+78.6,5.3,44,Female,Unknown,Lightly Active,Eggetarian,Unknown,30.1190231,,Unknown,Obese
+71,5.5,28,Female,Unknown,Lightly Active,Non Vegetarian,Thyroid,25.2640542,,Thyroid,Overweight
+76,5.6,42,Male,Unknown,Sedentary,Non Vegetarian,"On Recent Blood Lab Results, Following Levels Are High (Please Let Me Know If You Want Me Too Share Reports With The Levels) - Triglycerides Level, Cholesterol Level, Hdl Cholesterol, Cholesterol / Hdl Ratio,  Aspartate Amino Transf (Ast/Sgot), Alanine Aminotransferase (Alt/Sgpt), Albumin, Immature Granulocyte % (Auto), Neutrophils % (Auto), Lymphocytes % (Auto), Lymphocyte (Auto)",26.08600739,,Cholesterol,Overweight
+60.25,5.4,30,Female,Unknown,Sedentary,Vegetarian,Other,22.240247,,Unknown,Normal
+82.6,5.6,38,Female,Milk ,Sedentary,Non Vegetarian,Pcos/Pcod,28.35137119,,PCOS/PCOD,Overweight
+72.5,5.1,42,Female,Unknown,Sedentary,Vegetarian,Joint Pain,30.0032105,,Pain,Obese
+91,5.4,31,Female,Unknown,Lightly Active,Vegetarian,Thyroid,33.59107846,,Thyroid,Obese
+78.9,5.3,35,Female,Unknown,Lightly Active,Non Vegetarian,Unknown,30.2339812,,Unknown,Obese
+123,6,36,Male,Unknown,Lightly Active,Vegetarian,Unknown,36.77669392,,Unknown,Obese
+73,5.4,38,Female,Unknown,Sedentary,Vegetarian,Other,26.94668931,,Unknown,Overweight
+88,5.3,45,Female,Dairy,Lightly Active,Eggetarian,Thyroid,33.72104367,,Thyroid,Obese
+70.5,5.3,41,Female,Unknown,Lightly Active,Vegetarian,"Eczema, Acne",27.0151543,,Skin Issues,Overweight
+92,5.4,27,Female,Unknown,Sedentary,Non Vegetarian,Diabetes,33.96021119,,Diabetes,Obese
+99.5,5.3,37,Female,Soyabean,Sedentary,Vegetarian,Post Partum,38.12777097,,Post Partum,Obese
+62,5.2,51,Female,Unknown,Moderately Active,Non Vegetarian,Unknown,24.68056383,,Unknown,Normal
+80,5.2,40,Female,Unknown,Moderately Active,Non Vegetarian,Unknown,31.84588881,,Unknown,Obese
+89,5.3,24,Female,Unknown,Moderately Active,Vegetarian,Unknown,34.10423735,,Unknown,Obese
+84,5.3,32,Female,"Mushrooms, Cauliflower, Brinjal",Lightly Active,Vegetarian,Pcos/Pcod,32.18826896,,PCOS/PCOD,Obese
+77.65,5.3,38,Female,Unknown,Lightly Active,Non Vegetarian,Pcos/Pcod,29.7549891,,PCOS/PCOD,Overweight
+80,5.3,27,Female,Unknown,Sedentary,Non Vegetarian,Unknown,30.65549424,,Unknown,Obese
+79,5.4,31,Female,Unknown,Lightly Active,Non Vegetarian,Pcos/Pcod,29.1614857,,PCOS/PCOD,Overweight
+77.65,5.3,38,Female,Unknown,Lightly Active,Non Vegetarian,Pcos/Pcod,29.7549891,,PCOS/PCOD,Overweight
+66,5.2,27,Female,Unknown,Sedentary,Eggetarian,Acidity And Stones In Gall Bladder,26.27285827,,Digestive Issues,Overweight
+89,5.3,27,Female,Unknown,Lightly Active,Eggetarian,Pcos/Pcod,34.10423735,,PCOS/PCOD,Obese
+77,5,47,Female,Unknown,Sedentary,Eggetarian,Unknown,33.15284408,,Unknown,Obese
+64,5.3,41,Female,Unknown,Sedentary,Non Vegetarian,Unknown,24.5243954,,Unknown,Normal
+80.2,5,33,Female,Unknown,Sedentary,Vegetarian,Diabetes,34.53062462,,Diabetes,Obese
+106.6,5.6,31,Female,Unknown,Sedentary,Non Vegetarian,Unknown,36.58905773,,Unknown,Obese
+65,5.4,28,Female,Unknown,Lightly Active,Vegetarian,Thyroid,23.99362747,,Thyroid,Normal
+82,5.2,32,Female,Quinoa,Lightly Active,Non Vegetarian,Unknown,32.64203603,,Unknown,Obese
+98,5.6,36,Female,Unknown,Sedentary,Non Vegetarian,Thyroid,33.63722005,,Thyroid,Obese
+64.3,5.4,18,Female,Unknown,Sedentary,Vegetarian,"I Do Have Pcos Symptoms Only. Body Aches, Migraine, Low Metabolism, Weight Gain.",23.73523456,,"Migraine, PCOS/PCOD, Pain, Weight Issues",Normal
+91,5.4,39,Female,Unknown,Sedentary,Vegetarian,Unknown,33.59107846,,Unknown,Obese
+74,5.2,37,Female,Unknown,Sedentary,Non Vegetarian,Other,29.45744715,,Unknown,Overweight
+71,5.3,35,Female,Unknown,Lightly Active,Eggetarian,Unknown,27.20675114,,Unknown,Overweight
+72,5.2,34,Female,Unknown,Lightly Active,Vegetarian,Post Partum,28.66129993,,Post Partum,Overweight
+92,5.4,35,Female,Pineapples,Moderately Active,Eggetarian,Post Partum,33.96021119,,Post Partum,Obese
+81.5,5.2,26,Female,Unknown,Lightly Active,Non Vegetarian,Pcos/Pcod,32.44299922,,PCOS/PCOD,Obese
+95,5.5,25,Female,Unknown,Sedentary,Non Vegetarian,Other,33.80401618,,Unknown,Obese
+75,5.2,40,Female,Unknown,Lightly Active,Vegetarian,Post Partum,29.85552076,,Post Partum,Overweight
+89,5.3,26,Female,Unknown,Lightly Active,Eggetarian,No,34.10423735,,Unknown,Obese
+78.9,5.4,33,Female,"Egg, Tofu, Soyabean",Sedentary,Vegetarian,Cholesterol,29.12457242,,Cholesterol,Overweight
+93,5.6,30,Female,Unknown,Sedentary,Vegetarian,Thyroid,31.92103536,,Thyroid,Obese
+50,4.11,34,Female,Unknown,Sedentary,Eggetarian,Pcos/Pcod,31.86078231,,PCOS/PCOD,Obese
+78.4,5.6,33,Female,Prawns,Sedentary,Non Vegetarian,Unknown,26.90977604,,Unknown,Overweight
+90,5.7,43,Male,Unknown,Very Active,Non Vegetarian,Unknown,29.81692636,,Unknown,Overweight
+76,5.2,34,Female,Mushroom,Sedentary,Vegetarian,"Dark Circles, Dark Spots On Face Post 1 Year Of Deliverysymptoms Of Pcod As Have Delayed Periods Post Partum, And Also Lower Back Issue L4-L5. Also Feel A Little Bit Of Issues With My Lower Abdomen And Vaginal Loosening Is Also There",30.25359437,,"Fatty Liver, Hormonal Issues, PCOS/PCOD, Post Partum",Obese
+94,5.5,35,Female,Unknown,Moderately Active,Non Vegetarian,Post Partum,33.44818444,,Post Partum,Obese
+61.5,5.3,38,Female,Unknown,Moderately Active,Non Vegetarian,Pcos/Pcod,23.5664112,,PCOS/PCOD,Normal
+118,5.4,27,Female,Unknown,Sedentary,Vegetarian,Pcos/Pcod,43.55766218,,PCOS/PCOD,Obese
+94.25,5.6,29,Female,Unknown,Sedentary,Vegetarian,Pcos/Pcod,32.35008153,,PCOS/PCOD,Obese
+87.7,5.8,29,Female,Unknown,Sedentary,Non Vegetarian,"Inflamation, Thyroid",28.06168084,,Thyroid,Overweight
+76.5,5.4,32,Female,Unknown,Sedentary,Non Vegetarian,Thyroid,28.23865387,,Thyroid,Overweight
+75,6,29,Female,Unknown,Sedentary,Vegetarian,Post Partum,22.42481337,,Post Partum,Normal
+83,5.7,27,Female,Sea Food ,Lightly Active,Non Vegetarian,Unknown,27.49783209,,Unknown,Overweight
+72,5.2,26,Female,Unknown,Lightly Active,Eggetarian,Thyroid,28.66129993,,Thyroid,Overweight
+78,5.8,28,Female,"Beef, Soya",Moderately Active,Non Vegetarian,Pcos/Pcod,24.95793735,,PCOS/PCOD,Normal
+96,5.3,23,Female,Unknown,Sedentary,Vegetarian,Unknown,36.78659309,,Unknown,Obese
+56.1,4.11,38,Female,Soya ,Sedentary,Vegan ,Thyroid,35.74779775,,Thyroid,Obese
+83,5.4,37,Female,Mushrooms,Moderately Active,Eggetarian,Unknown,30.63801662,,Unknown,Obese
+104,5.3,26,Female,Unknown,Sedentary,Non Vegetarian,Pcos/Pcod,39.85214252,,PCOS/PCOD,Obese
+76,5.3,25,Female,Unknown,Sedentary,Non Vegetarian,Pcos/Pcod,29.12271953,,PCOS/PCOD,Overweight
+89,5.3,27,Female,Unknown,Sedentary,Vegetarian,Other,34.10423735,,Unknown,Obese
+68,5.3,25,Female,Unknown,Sedentary,Vegetarian,Pcos/Pcod,26.05717011,,PCOS/PCOD,Overweight
+98,5.3,35,Female,Egg,Sedentary,Non Vegetarian,Post Partum,37.55298045,,Post Partum,Obese
+63,5.1,36,Female,Unknown,Lightly Active,Vegetarian,Unknown,26.07175533,,Unknown,Overweight
+74,5.2,33,Female,Unknown,Moderately Active,Vegetarian,Pcos/Pcod,29.45744715,,PCOS/PCOD,Overweight
+74,5.2,33,Female,Unknown,Moderately Active,Vegetarian,Pcos/Pcod,29.45744715,,PCOS/PCOD,Overweight
+74,5.2,33,Female,Unknown,Moderately Active,Eggetarian,Pcos/Pcod,29.45744715,,PCOS/PCOD,Overweight
+72,5.2,33,Female,"Mushroom, Milk",Lightly Active,Non Vegetarian,Pcos/Pcod,28.66129993,,PCOS/PCOD,Overweight
+120,5.11,28,Male,Unknown,Lightly Active,Vegetarian,Unknown,49.46631064,,Unknown,Obese
+75,5.2,41,Female,Unknown,Moderately Active,Vegan,Thyroid,29.85552076,,Thyroid,Overweight
+75,5.2,41,Female,Unknown,Moderately Active,Vegan,Thyroid,29.85552076,,Thyroid,Overweight
+100.8,5.9,41,Female,"Sesame 
+Bajra 
+Avocado",Lightly Active,Vegetarian,Diabetes,31.16926659,,Diabetes,Obese
+112,5.3,35,Female,Unknown,Sedentary,Non Vegetarian,"Face Redness, Lethargy, Extreme Weight",42.91769194,,Unknown,Obese
+74,5.5,43,Female,Gluten Sensitive,Lightly Active,Non Vegetarian,Thyroid,26.33154945,,Thyroid,Overweight
+86,5.2,29,Female,Unknown,Sedentary,Vegetarian,Thyroid,34.23433047,,Thyroid,Obese
+90,5.7,48,Female,Unknown,Moderately Active,Eggetarian,Pcos/Pcod,29.81692636,,PCOS/PCOD,Overweight
+128,6.1,36,Male,Dragon Fruit,Lightly Active,Non Vegetarian,Fatty Liver,37.02715757,,Fatty Liver,Obese
+,5.6,28,Female,No,Sedentary,Non Vegetarian,Thyroid,,,Thyroid,Obese
+83,5.2,32,Female,No,Lightly Active,Non Vegetarian,Pcos/Pcod,33.04010964,,PCOS/PCOD,Obese
+102,5.4,38,Female,No,Sedentary,Non Vegetarian,Pcos/Pcod,37.65153849,,PCOS/PCOD,Obese
+82,5,31,Female,No,Sedentary,Non Vegetarian,Other,35.30562617,,Unknown,Obese
+60,5.1,34,Female,Unknown,Moderately Active,Eggetarian,Nothing,24.83024318,,Unknown,Normal
+73,5.5,36,Female,Unknown,Sedentary,Vegetarian,Unknown,25.9757177,,Unknown,Overweight
+76,5.3,25,Female,Unknown,Lightly Active,Non Vegetarian,Pcos/Pcod,29.12271953,,PCOS/PCOD,Overweight
+65,5,32,Female,Unknown,Sedentary,Non Vegetarian,Pcos/Pcod,27.98616708,,PCOS/PCOD,Overweight
+84,5.6,36,Female,Unknown,Lightly Active,Vegetarian,Thyroid,28.8319029,,Thyroid,Overweight
+57,5.3,34,Female,"Pineapple, Apple Cider Vinegar",Sedentary,Vegetarian,Thyroid,21.84203965,,Thyroid,Normal
+73.2,5.6,40,Female,Unknown,Moderately Active,Vegetarian,"Hair Loss,We Gained 9   S In Last 8 Months",25.12494396,,Unknown,Overweight
+79,5.3,34,Female,Unknown,Lightly Active,Non Vegetarian,Post Partum,30.27230057,,Post Partum,Obese
+88,5.7,47,Male,Unknown,Lightly Active,Non Vegetarian,Thyroid,29.154328,,Thyroid,Overweight
+80,5,32,Female,Unknown,Lightly Active,Non Vegetarian,Thyroid,34.44451333,,Thyroid,Obese
+65,5.2,32,Female,Unknown,Lightly Active,Eggetarian,Migraine,25.87478466,,Migraine,Overweight
+70,5.2,45,Female,Unknown,Lightly Active,Non Vegetarian,Thyroid,27.86515271,,Thyroid,Overweight
+73.5,5.5,30,Female,"Cashews, Honey, Anything With Sulphur , Egg Yolk,",Sedentary,Non Vegetarian,Unknown,26.15363357,,Unknown,Overweight
+70,5,20,Female,Unknown,Very Active,Non Vegetarian,Unknown,30.13894917,,Unknown,Obese
+66,5.2,37,Female,Unknown,Very Active,Non Vegetarian,Diabetes,26.27285827,,Diabetes,Overweight
+66,4.9,32,Female,Egg,Sedentary,Non Vegetarian,Unknown,29.58842514,,Unknown,Overweight
+69,5.3,33,Female,Unknown,Moderately Active,Eggetarian,Pcos/Pcod,26.44036379,,PCOS/PCOD,Overweight
+78,5.3,24,Female,Unknown,Lightly Active,Non Vegetarian,Pcos/Pcod,29.88910689,,PCOS/PCOD,Overweight
+65,5.4,28,Female,Unknown,Sedentary,Non Vegetarian,Pcos/Pcod,23.99362747,,PCOS/PCOD,Normal
+81.5,5.2,37,Female,Unknown,Lightly Active,Eggetarian,"Bp, Colestrol",32.44299922,,Blood Pressure,Obese
+110,5.7,30,Female,Unknown,Sedentary,Non Vegetarian,Post Partum,36.44291,,Post Partum,Obese
+83,5.6,25,Female,Unknown,Sedentary,Vegetarian,Post Partum,28.48866596,,Post Partum,Overweight
+110,5.7,30,Female,Unknown,Sedentary,Non Vegetarian,Post Partum And Over Weight Before Pregnancy,36.44291,,Post Partum,Obese
+110,5.7,30,Female,Unknown,Sedentary,Non Vegetarian,Post Partum And Over Weight Before Pregnancy,36.44291,,Post Partum,Obese
+110,5.7,30,Female,Unknown,Sedentary,Non Vegetarian,Post Partum And Over Weight Before Pregnancy,36.44291,,Post Partum,Obese
+97,5.7,30,Male,Brinjal,Lightly Active,Non Vegetarian,Other,32.13602063,,Unknown,Obese
+71.5,5.5,38,Female,Unknown,Moderately Active,Eggetarian,Thyroid,25.44197008,,Thyroid,Overweight
+81.7,5.3,25,Female,Unknown,Sedentary,Vegetarian,Pcos/Pcod,31.3069235,,PCOS/PCOD,Obese
+86,5.2,27,Female,Unknown,Moderately Active,Non Vegetarian,Pcos/Pcod,34.23433047,,PCOS/PCOD,Obese
+86,5.9,24,Female,Lactose,Moderately Active,Vegetarian,Unknown,26.59282665,,Unknown,Overweight
+73,5.3,32,Female,Unknown,Lightly Active,Non Vegetarian,Thyroid,27.9731385,,Thyroid,Overweight
+90,5.4,20,Female,Unknown,Lightly Active,Vegetarian,Unknown,33.22194573,,Unknown,Obese
+64,4.11,26,Female,Unknown,Sedentary,Non Vegetarian,Unknown,40.78180136,,Unknown,Obese
+91,5.1,24,Female,Unknown,Sedentary,Eggetarian,Thyroid,37.65920215,,Thyroid,Obese
+68,5,35,Female,Unknown,Lightly Active,Vegetarian,Unknown,29.27783633,,Unknown,Overweight
+68,5,35,Female,Unknown,Lightly Active,Vegetarian,Unknown,29.27783633,,Unknown,Overweight
+91,5.1,34,Female,Unknown,Sedentary,Eggetarian,Thyroid,37.65920215,,Thyroid,Obese
+85,5,44,Female,Unknown,Lightly Active,Eggetarian,Post Partum,36.59729542,,Post Partum,Obese
+76,5.8,26,Female,Unknown,Lightly Active,Eggetarian,Pcos/Pcod,24.31799024,,PCOS/PCOD,Normal
+90,5.6,42,Female,Unknown,Sedentary,Eggetarian,Unknown,30.89132454,,Unknown,Obese
+73,5,32,Female,Unknown,Sedentary,Vegetarian,Post Partum,31.43061842,,Post Partum,Obese
+79,5.3,34,Female,Unknown,Lightly Active,Non Vegetarian,Post Partum,30.27230057,,Post Partum,Obese
+89,5.5,28,Female,Unknown,Sedentary,Eggetarian,Unknown,31.66902569,,Unknown,Obese
+73,5.2,38,Female,Unknown,Moderately Active,Eggetarian,Pcos/Pcod,29.05937354,,PCOS/PCOD,Overweight
+73,5.5,32,Female,Unknown,Lightly Active,Non Vegetarian,Thyroid,25.9757177,,Thyroid,Overweight
+83,5.5,24,Female,Unknown,Sedentary,Non Vegetarian,Unknown,29.53403519,,Unknown,Overweight
+77,5.2,20,Female,Unknown,Moderately Active,Non Vegetarian,Gastric,30.65166798,,Digestive Issues,Obese
+77,5.2,20,Female,Unknown,Moderately Active,Non Vegetarian,Gastric,30.65166798,,Digestive Issues,Obese
+87,5.3,31,Female,Unknown,Moderately Active,Vegetarian,Pcos/Pcod,33.33784999,,PCOS/PCOD,Obese
+86.5,5.5,36,Female,Mushroom And Tendli,Sedentary,Non Vegetarian,Unknown,30.77944632,,Unknown,Obese
+88,5.3,29,Female,Unknown,Moderately Active,Non Vegetarian,Unknown,33.72104367,,Unknown,Obese
+90,5.4,43,Female,Unknown,Sedentary,Non Vegetarian,"Fatty Liver, High Triglycerides, Inflammation",33.22194573,,"Cholesterol, Fatty Liver, Inflammation",Obese
+88,5.4,30,Female,Unknown,Lightly Active,Non Vegetarian,Pcos/Pcod,32.48368027,,PCOS/PCOD,Obese
+87,5.2,24,Female,Unknown,Sedentary,Non Vegetarian,Other,34.63240408,,Unknown,Obese
+87,5.4,41,Female,Unknown,Lightly Active,Non Vegetarian,Thyroid,32.11454754,,Thyroid,Obese
+65,4.11,28,Female,Mushroom,Lightly Active,Vegetarian,Thyroid,41.419017,,Thyroid,Obese
+78,5.3,30,Female,Unknown,Very Active,Eggetarian,Post Partum,29.88910689,,Post Partum,Overweight
+65.1,5.3,29,Female,Unknown,Lightly Active,Non Vegetarian,Unknown,24.94590844,,Unknown,Normal
+113,5.7,35,Male,Unknown,Sedentary,Non Vegetarian,Unknown,37.43680754,,Unknown,Obese
+102,6,35,Male,Not Aware,Sedentary,Eggetarian,Unknown,30.49774618,,Unknown,Obese
+70,5.2,36,Female,Unknown,Sedentary,Eggetarian,Thalassemia Minor,27.86515271,,Unknown,Overweight
+91,5.4,30,Female,Unknown,Lightly Active,Non Vegetarian,Pcos/Pcod,33.59107846,,PCOS/PCOD,Obese
+82,5.7,28,Female,Unknown,Moderately Active,Eggetarian,Unknown,27.16653291,,Unknown,Overweight
+77,5.5,29,Female,Unknown,Lightly Active,Non Vegetarian,Unknown,27.3990447,,Unknown,Overweight
+82,5.4,35,Female,Unknown,Very Active,Vegetarian,Pcos/Pcod,30.26888389,,PCOS/PCOD,Obese
+80,5.5,33,Female,Unknown,Moderately Active,Vegan,Unknown,28.46653995,,Unknown,Overweight
+77,5.3,31,Female,Unknown,Moderately Active,Vegetarian,No Medical Issue,29.50591321,,Unknown,Overweight
+61,5.2,45,Female,Unknown,Moderately Active,Non Vegetarian,Pain In Muscle And Joints,24.28249022,,Pain,Normal
+80,5,32,Female,Unknown,Sedentary,Non Vegetarian,Thyroid,34.44451333,,Thyroid,Obese
+76,5.4,24,Female,Unknown,Sedentary,Vegetarian,Pcos/Pcod,28.05408751,,PCOS/PCOD,Overweight
+97,5.44,32,Female,Unknown,Lightly Active,Eggetarian,Unknown,35.28125373,,Unknown,Obese
+74.8,5.1,28,Female,Unknown,Sedentary,Vegetarian,Unknown,30.95503649,,Unknown,Obese
+74.8,5.1,28,Female,Unknown,Sedentary,Vegetarian,Unknown,30.95503649,,Unknown,Obese
+65,5.5,24,Female,Unknown,Sedentary,Non Vegetarian,Pcos/Pcod,23.12906371,,PCOS/PCOD,Normal
+67.7,5.4,27,Female,Egg,Sedentary,Non Vegetarian,Low Hemoglobin And Hypoglycemia Irregularity In Periods,24.99028584,,"Anemia, Hormonal Issues",Normal
+69,5.6,42,Female,Unknown,Moderately Active,Eggetarian,Diabetes,23.68334881,,Diabetes,Normal
+96,5.7,32,Male,Unknown,Lightly Active,Vegetarian,Nothing,31.80472145,,Unknown,Obese
+130,5.8,44,Male,Unknown,Sedentary,Non Vegetarian,Nothing,41.59656225,,Unknown,Obese
+82,5.25,26,Female,Unknown,Sedentary,Eggetarian,Unknown,32.02324369,,Unknown,Obese
+130,5.8,44,Male,Unknown,Sedentary,Non Vegetarian,Nothing,41.59656225,,Unknown,Obese
+66,5.4,32,Female,Unknown,Moderately Active,Eggetarian,Unknown,24.3627602,,Unknown,Normal
+65,5.2,31,Female,Unknown,Sedentary,Vegetarian,Unknown,25.87478466,,Unknown,Overweight
+89,5.5,36,Female,Unknown,Lightly Active,Non Vegetarian,Thyroid,31.66902569,,Thyroid,Obese
+85,5.7,32,Female,Cucumber,Lightly Active,Vegetarian,Unknown,28.16043045,,Unknown,Overweight
+94.5,5.7,26,Female,Unknown,Sedentary,Eggetarian,"Thyroid, Pre Diabetes, Vitamin Deficiency",31.30777268,,"Diabetes, Thyroid, Vitamin Deficiency",Obese
+72,5.6,28,Female,Unknown,Lightly Active,Eggetarian,Pcos/Pcod,24.71305963,,PCOS/PCOD,Normal
+79,5.8,24,Female,Unknown,Lightly Active,Eggetarian,Unknown,25.27791091,,Unknown,Overweight
+85,5.2,36,Female,Unknown,Moderately Active,Vegetarian,Hypertension,33.83625686,,Blood Pressure,Obese
+78.7,5.6,33,Female,Fish,Moderately Active,Eggetarian,Unknown,27.01274712,,Unknown,Overweight
+70,5.3,22,Female,Unknown,Sedentary,Vegetarian,No Thing,26.82355746,,Unknown,Overweight
+69,5.4,35,Female,Unknown,Lightly Active,Non Vegetarian,Pcos/Pcod,25.47015839,,PCOS/PCOD,Overweight
+92,5.8,32,Male,Unknown,Sedentary,Vegetarian,Other,29.43756713,,Unknown,Overweight
+74,5.2,24,Female,Nothing,Lightly Active,Eggetarian,Pcos/Pcod,29.45744715,,PCOS/PCOD,Overweight
+108.5,5,42,Female,"Banana, Guava, Egg, 
+Curd To Be Avoided For Now",Sedentary,Vegetarian,Hy,46.71537121,,Unknown,Obese
+75,5.4,39,Female,Nil,Lightly Active,Eggetarian,Other,27.68495478,,Unknown,Overweight
+64.8,5.6,25,Female,Unknown,Moderately Active,Vegetarian,Unknown,22.24175367,,Unknown,Normal
+79.8,5.5,30,Female,Unknown,Lightly Active,Vegetarian,Unknown,28.3953736,,Unknown,Overweight
+103,5.3,31,Female,Unknown,Sedentary,Non Vegetarian,Nil,39.46894884,,Unknown,Obese
+76,5.4,21,Female,"No, Dont Like Milk",Lightly Active,Non Vegetarian,Other,28.05408751,,Unknown,Overweight
+78,5.6,32,Female,Unknown,Sedentary,Non Vegetarian,Unknown,26.77248127,,Unknown,Overweight
+137,5.7,38,Female,Unknown,Moderately Active,Non Vegetarian,Post Partum,45.38798791,,Post Partum,Obese
+71.6,5.3,44,Female,Unknown,Lightly Active,Eggetarian,Pcos/Pcod,27.43666735,,PCOS/PCOD,Overweight
+71,5.4,27,Female,"Don'T Like Capsicum ,Egg",Sedentary,Vegetarian,Pcos/Pcod,26.20842385,,PCOS/PCOD,Overweight
+95,5.4,30,Female,Unknown,Sedentary,Non Vegetarian,Pcos/Pcod,35.06760938,,PCOS/PCOD,Obese
+67,5,28,Female,Unknown,Sedentary,Eggetarian,Post Partum,28.84727992,,Post Partum,Overweight
+76,5.4,39,Female,Green Peas,Sedentary,Non Vegetarian,Pcos/Pcod,28.05408751,,PCOS/PCOD,Overweight
+83,5.3,36,Female,Unknown,Sedentary,Eggetarian,Post Partum,31.80507528,,Post Partum,Obese
+81,5.4,40,Female,No,Moderately Active,Non Vegetarian,Pcos/Pcod,29.89975116,,PCOS/PCOD,Overweight
+115,5.1,37,Female,No,Very Active,Non Vegetarian,Thyroid,47.59129942,,Thyroid,Obese
+77,5.3,38,Female,Unknown,Sedentary,Non Vegetarian,Low Hemoglobin Low Vit D Nd Low Iron,29.50591321,,"Anemia, Vitamin Deficiency",Overweight
+81,5.2,27,Female,Unknown,Lightly Active,Non Vegetarian,Thyroid,32.24396242,,Thyroid,Obese
+80,5.2,41,Female,No,Lightly Active,Vegetarian,Unknown,31.84588881,,Unknown,Obese
+90,5.4,52,Female,No,Lightly Active,Eggetarian,Pcos/Pcod,33.22194573,,PCOS/PCOD,Obese
+107,5.6,35,Female,Unknown,Sedentary,Non Vegetarian,Pcos/Pcod,36.72635251,,PCOS/PCOD,Obese
+72,5.1,34,Female,Unknown,Sedentary,Non Vegetarian,Bloating,29.79629181,,Digestive Issues,Overweight
+79.8,5.5,28,Female,Unknown,Moderately Active,Non Vegetarian,Pcos/Pcod,28.3953736,,PCOS/PCOD,Overweight
+72,5.3,36,Female,Unknown,Sedentary,Vegetarian,Unknown,27.58994482,,Unknown,Overweight
+76.4,5.5,29,Female,No,Sedentary,Eggetarian,Migraine,27.18554565,,Migraine,Overweight
+77,5,36,Female,Unknown,Moderately Active,Non Vegetarian,Other,33.15284408,,Unknown,Obese
+79,5.9,29,Male,Milk,Sedentary,Non Vegetarian,High Bp,24.42829425,,Blood Pressure,Normal
+63,5.1,34,Female,Unknown,Lightly Active,Vegetarian,Post Partum,26.07175533,,Post Partum,Overweight
+66,4.11,26,Female,Unknown,Sedentary,Non Vegetarian,Other,42.05623265,,Unknown,Obese
+70,5.2,43,Female,Avacado,Moderately Active,Non Vegetarian,High Cholesterol,27.86515271,,Cholesterol,Overweight
+63.45,5.1,31,Female,Unknown,Sedentary,Non Vegetarian,Other,26.25798216,,Unknown,Overweight
+71,5.4,37,Female,Unknown,Very Active,Non Vegetarian,Unknown,26.20842385,,Unknown,Overweight
+68,5.4,31,Female,"Brinjal
+Shell Fish, Prawns",Lightly Active,Non Vegetarian,Unknown,25.10102566,,Unknown,Overweight
+73,5.5,26,Female,Na,Sedentary,Vegetarian,Na,25.9757177,,Unknown,Overweight
+96,5.8,31,Male,No,Sedentary,Non Vegetarian,Unknown,30.71746136,,Unknown,Obese
+109,5.6,47,Female,"Nuts, Ground Nut And Lemon. I Had 3 Hernia Surgery On Stomach. Because Gastric. Doctor Has Advised Me To Avoid Tangy Items. Ex Lemon",Moderately Active,Non Vegetarian,Unknown,37.41282638,,Unknown,Obese
+75,5.1,25,Female,Unknown,Lightly Active,Non Vegetarian,Pcos/Pcod,31.03780397,,PCOS/PCOD,Obese
+85,5.2,45,Female,Unknown,Sedentary,Eggetarian,Other,33.83625686,,Unknown,Obese
+70,5.4,52,Female,"Mushroom , Quinoa",Moderately Active,Eggetarian,Thyroid,25.83929112,,Thyroid,Overweight
+90,5.9,40,Male,Unknown,Sedentary,Non Vegetarian,Unknown,27.82970231,,Unknown,Overweight
+90,5.6,35,Female,Unknown,Lightly Active,Eggetarian,Thyroid,30.89132454,,Thyroid,Obese
+63.5,5.4,25,Female,Unknown,Sedentary,Non Vegetarian,Pcos/Pcod,23.43992838,,PCOS/PCOD,Normal
+63,5.1,44,Female,Don'T Know,Lightly Active,Vegetarian,Unknown,26.07175533,,Unknown,Overweight
+77,5.6,39,Female,Unknown,Lightly Active,Vegetarian,Thyroid,26.42924433,,Thyroid,Overweight
+92,5.11,33,Male,Dont Like Soyabean Chaap,Lightly Active,Vegetarian,Unknown,37.92417149,,Unknown,Obese
+99,5.7,32,Female,Unknown,Sedentary,Non Vegetarian,Unknown,32.798619,,Unknown,Obese
+64,5.2,29,Female,Unknown,Moderately Active,Eggetarian,Pcos/Pcod,25.47671105,,PCOS/PCOD,Overweight
+68,5.1,26,Female,Allergic To Fish.,Moderately Active,Non Vegetarian,Pcos/Pcod,28.14094227,,PCOS/PCOD,Overweight
+81,5.5,26,Female,Unknown,Sedentary,Eggetarian,Unknown,28.82237169,,Unknown,Overweight
+80,5.4,47,Female,Unknown,Moderately Active,Non Vegetarian,Diabetes,29.53061843,,Diabetes,Overweight
+73,5.2,30,Female,Unknown,Lightly Active,Vegetarian,Unknown,29.05937354,,Unknown,Overweight
+71.5,4.9,27,Female,No,Lightly Active,Eggetarian,Pcos/Pcod,32.05412723,,PCOS/PCOD,Obese
+70,5.2,36,Female,Unknown,Sedentary,Non Vegetarian,Unknown,27.86515271,,Unknown,Overweight
+98.7,5.6,33,Female,Nothing,Very Active,Non Vegetarian,Thyroid,33.87748591,,Thyroid,Obese
+81,5.7,29,Female,Unknown,Lightly Active,Non Vegetarian,Unknown,26.83523373,,Unknown,Overweight
+70,5.2,25,Female,Unknown,Sedentary,Vegetarian,Post Partum,27.86515271,,Post Partum,Overweight
+98,5.5,29,Female,Unknown,Moderately Active,Eggetarian,Pcos/Pcod,34.87151143,,PCOS/PCOD,Obese
+83,4.1,31,Female,Can'T Eat Mushrooms,Sedentary,Vegetarian,Pcos And Ibs,53.14720789,,"Digestive Issues, PCOS/PCOD",Obese
+69.2,5.08,44,Female,"Lactose Intolerance.
+( I Have Lactose Free Curd And Milk On Tea ) 
+Wheat Floor Gives Me Bloating . 
+Toor Dal With Palak Combination Doesn.T Suit Me .",Lightly Active,Eggetarian,"Insulin Resistance, Regular Gastric Problem And Activity.",28.86348351,,Digestive Issues,Overweight
+94,5.3,32,Female,"Fenugreek, Ground Nuts Increases My Acidity Sometimes",Sedentary,Non Vegetarian,Anxiety Stress,36.02020574,,Mental Health,Obese
+109,5.3,23,Female,No Curd And Diary Products,Sedentary,Eggetarian,Pcos/Pcod,41.76811091,,PCOS/PCOD,Obese
+85,5.2,34,Female,Lactose Intolerant But Yogurt Is Okay,Moderately Active,Non Vegetarian,Psoriasis,33.83625686,,Skin Issues,Obese
+99.7,5.3,36,Female,Unknown,Sedentary,Vegetarian,Unknown,38.2044097,,Unknown,Obese
+59,5.2,32,Female,No,Lightly Active,Vegetarian,Unknown,23.486343,,Unknown,Normal
+58.25,5.7,29,Female,"No Non-Veg Food, Egg Etc.",Lightly Active,Vegetarian,"Migraine, Iron Deficiency, Delayed Periods, Hypertension, Stress, Constipation",19.29817734,,"Anemia, Blood Pressure, Digestive Issues, Hormonal Issues, Mental Health, Migraine, Vitamin Deficiency",Normal
+85,5.4,39,Female,Unknown,Lightly Active,Non Vegetarian,Other,31.37628208,,Unknown,Obese
+63,5,33,Female,Almonds With Skin,Moderately Active,Non Vegetarian,Unknown,27.12505425,,Unknown,Overweight
+66.6,5.4,37,Female,Unknown,Lightly Active,Non Vegetarian,Pcos/Pcod,24.58423984,,PCOS/PCOD,Normal
+65,5,26,Female,Unknown,Sedentary,Eggetarian,Thyroid,27.98616708,,Thyroid,Overweight
+64.1,5.4,37,Female,Unknown,Lightly Active,Vegetarian,Unknown,23.66140801,,Unknown,Normal
+81,5.3,38,Female,No,Sedentary,Non Vegetarian,Other,31.03868792,,Unknown,Obese
+95,5.4,58,Female,Unknown,Lightly Active,Vegetarian,Other,35.06760938,,Unknown,Obese
+60,5.1,34,Female,Unknown,Moderately Active,Vegetarian,Prenatal,24.83024318,,Unknown,Normal
+81.5,5.5,31,Female,No Allergies,Sedentary,Eggetarian,Pcos/Pcod,29.00028757,,PCOS/PCOD,Overweight
+78,5.47,43,Female,Nil,Lightly Active,Non Vegetarian,Thyroid,28.06015235,,Thyroid,Overweight
+68,5.1,25,Female,Unknown,Lightly Active,Vegetarian,Non Alcoholic Fatty Liver,28.14094227,,Fatty Liver,Overweight
+54,5,27,Female,No,Sedentary,Eggetarian,Unknown,23.2500465,,Unknown,Normal
+70,5.3,37,Female,No,Lightly Active,Non Vegetarian,Diabetes,26.82355746,,Diabetes,Overweight
+77,5.3,36,Female,Peanut,Lightly Active,Non Vegetarian,Low Sugar,29.50591321,,Diabetes,Overweight
+84,5.5,26,Female,Unknown,Lightly Active,Eggetarian,Unknown,29.88986694,,Unknown,Overweight
+69.5,5.3,33,Female,Unknown,Sedentary,Eggetarian,Unknown,26.63196063,,Unknown,Overweight
+130,5.5,38,Female,No,Lightly Active,Non Vegetarian,Thyroid,46.25812741,,Thyroid,Obese
+88,5.4,40,Female,Unknown,Sedentary,Eggetarian,Perimenopause,32.48368027,,Unknown,Obese
+65,5.3,24,Female,Unknown,Lightly Active,Non Vegetarian,Unknown,24.90758907,,Unknown,Normal
+93.5,5,40,Female,"Gluten, Dairy(Lactose Intolerant), Apple Cider, Pappaya ( Tried But These Two Makes Me Vomit Instantly)",Sedentary,Non Vegetarian,Hidradenitis Suppurativa,40.25702496,,Unknown,Obese
+55.88,5.1,33,Female,Unknown,Lightly Active,Vegetarian,Unknown,23.12523314,,Unknown,Normal
+94.5,5.4,38,Female,Don'T Like Curd,Sedentary,Eggetarian,Post Partum,34.88304302,,Post Partum,Obese
+87,5.5,31,Female,No,Lightly Active,Non Vegetarian,"Fertility-Low Amh,Inflammation",30.95736219,,Inflammation,Obese
+72.45,5.6,32,Female,Unknown,Sedentary,Eggetarian,Post Partum,24.86751625,,Post Partum,Normal
+77,5.3,28,Female,Artificial Colour,Moderately Active,Non Vegetarian,Thyroid,29.50591321,,Thyroid,Overweight
+54.75,5.2,25,Female,Unknown,Lightly Active,Non Vegetarian,Unknown,21.79453015,,Unknown,Normal
+81,5.4,37,Female,No,Lightly Active,Non Vegetarian,Inflammation,29.89975116,,Inflammation,Overweight
+98,5.3,29,Female,Nil,Lightly Active,Non Vegetarian,Post Partum,37.55298045,,Post Partum,Obese
+97.4,5.6,35,Female,Unknown,Lightly Active,Vegetarian,Thyroid,33.43127789,,Thyroid,Obese
+87,5.2,40,Female,Unknown,Moderately Active,Non Vegetarian,No Issue,34.63240408,,Unknown,Obese
+60,5.2,27,Female,Unknown,Lightly Active,Eggetarian,Pcos/Pcod,23.88441661,,PCOS/PCOD,Normal
+82,5.6,39,Female,"Vegetarian, No Egg",Sedentary,Vegetarian,Cholesterol Since 4 Years,28.14542902,,Cholesterol,Overweight
+88,5.3,45,Female,"Mushrooms , Don'T Eat Non Vegetarian Food, Egg Don'T Eat Everyday",Moderately Active,Eggetarian,Thyroid Bp Perimenopause,33.72104367,,"Blood Pressure, Thyroid",Obese
+80,5.1,34,Female,Na,Lightly Active,Vegetarian,Post Partum,33.1069909,,Post Partum,Obese
+70,5.4,31,Female,Unknown,Moderately Active,Vegetarian,Thyroid,25.83929112,,Thyroid,Overweight
+96,5.5,42,Female,Unknown,Moderately Active,Vegetarian,Fat Loss,34.15984793,,Unknown,Obese
+71,5.2,24,Female,Mushroom,Sedentary,Vegetarian,Pcos/Pcod,28.26322632,,PCOS/PCOD,Overweight
+83.5,5.4,30,Female,Unknown,Lightly Active,Non Vegetarian,Pcos/Pcod,30.82258298,,PCOS/PCOD,Obese
+74,5.4,27,Female,Allergy To Canola Oil - Cauliflower Regulates Acne,Moderately Active,Non Vegetarian,Pcos/Pcod,27.31582205,,PCOS/PCOD,Overweight
+72,5,39,Female,No,Moderately Active,Non Vegetarian,Pcos/Pcod,31.000062,,PCOS/PCOD,Obese
+75,5,30,Female,No Allergies,Lightly Active,Non Vegetarian,Pcos/Pcod,32.29173125,,PCOS/PCOD,Obese
+80,5.4,36,Female,No,Sedentary,Non Vegetarian,Fatty Liver,29.53061843,,Fatty Liver,Overweight
+82.5,5.2,26,Female,Unknown,Lightly Active,Non Vegetarian,Unknown,32.84107283,,Unknown,Obese
+74,5.2,32,Female,Unknown,Moderately Active,Eggetarian,Pcos/Pcod,29.45744715,,PCOS/PCOD,Overweight
+81,5.1,32,Female,Unknown,Lightly Active,Non Vegetarian,See Above In Health Issues,33.52082829,,Unknown,Obese
+86,5.7,18,Female,No,Moderately Active,Vegetarian,Unknown,28.49172963,,Unknown,Overweight
+67.5,5.2,40,Female,Unknown,Moderately Active,Non Vegetarian,Thyroid,26.86996868,,Thyroid,Overweight
+86,5.3,33,Female,Pine Nuts / Pecan Nuts,Very Active,Vegetarian,Unknown,32.95465631,,Unknown,Obese
+76.1,5,31,Female,Unknown,Moderately Active,Eggetarian,Unknown,32.76534331,,Unknown,Obese
+91,5.4,32,Female,No,Sedentary,Eggetarian,Thyroid,33.59107846,,Thyroid,Obese
+80,5.3,31,Female,Unknown,Sedentary,Vegetarian,Unknown,30.65549424,,Unknown,Obese
+69,5.3,37,Female,"No Avacodo 
+Only Vegetarian",Sedentary,Eggetarian,Hormonal Acne Bloating,26.44036379,,"Digestive Issues, Hormonal Issues, Skin Issues",Overweight
+86,5.4,47,Female,Milk,Sedentary,Vegetarian,No,31.74541481,,Unknown,Obese
+78.5,5.6,35,Female,Unknown,Lightly Active,Vegetarian,Other,26.94409974,,Unknown,Overweight
+82,4.9,26,Female,Unknown,Sedentary,Non Vegetarian,Thyroid,36.76137668,,Thyroid,Obese
+95,5.6,36,Female,Unknown,Sedentary,Vegetarian,Thyroid,32.60750923,,Thyroid,Obese
+75,5.1,29,Female,Brinjal & Pumpkin,Lightly Active,Non Vegetarian,I Am Trying To Conceive But My Period Is Not Regular And My Weight Is Too Much.My Sleeping Pattern Is Not Good Pls Suggest Diet All Medical Expect.,31.03780397,,Unknown,Obese
+107,5.1,33,Female,Nill,Lightly Active,Vegetarian,Pcos/Pcod,44.28060033,,PCOS/PCOD,Obese
+63,5.6,39,Female,Unknown,Moderately Active,Non Vegetarian,Unknown,21.62392718,,Unknown,Normal
+82,5.6,31,Female,No,Sedentary,Non Vegetarian,Pcos/Pcod,28.14542902,,PCOS/PCOD,Overweight
+95,5.6,36,Female,Unknown,Sedentary,Vegetarian,Thyroid,32.60750923,,Thyroid,Obese
+88,5.4,34,Female,Unknown,Sedentary,Vegetarian,Unknown,32.48368027,,Unknown,Obese
+82.8,5.5,26,Female,Nope,Lightly Active,Eggetarian,Unknown,29.46286884,,Unknown,Overweight
+75,5.3,27,Female,Nothing,Moderately Active,Vegetarian,Unknown,28.73952585,,Unknown,Overweight
+83,5.6,26,Female,Unknown,Sedentary,Vegetarian,Pcos/Pcod,28.48866596,,PCOS/PCOD,Overweight
+75,5.3,28,Female,Nil,Lightly Active,Non Vegetarian,Unknown,28.73952585,,Unknown,Overweight
+70.8,5.4,29,Female,No,Sedentary,Non Vegetarian,Unknown,26.13459731,,Unknown,Overweight
+104.2,5.7,33,Female,Brinjal And Some Grains Like Rajma Gives Me A Lot Of Gas.,Sedentary,Non Vegetarian,Diabetes,34.52137474,,Diabetes,Obese
+69,5.3,37,Female,Cannot Digest Coffee,Sedentary,Vegetarian,Pcos/Pcod,26.44036379,,PCOS/PCOD,Overweight
+31,5.5,31,Female,No,Sedentary,Non Vegetarian,Pcos/Pcod,11.03078423,,PCOS/PCOD,Underweight
+70,5.5,30,Female,Unknown,Sedentary,Non Vegetarian,Pcos/Pcod,24.90822245,,PCOS/PCOD,Normal
+57,5,43,Female,Milk,Moderately Active,Non Vegetarian,Unknown,24.54171575,,Unknown,Normal
+80,5.2,32,Female,Gluten,Sedentary,Eggetarian,Pcos/Pcod,31.84588881,,PCOS/PCOD,Obese
+61.8,5.2,34,Female,Unknown,Moderately Active,Vegetarian,Pcos/Pcod,24.6009491,,PCOS/PCOD,Normal
+110,5.8,47,Female,Unknown,Sedentary,Non Vegetarian,Other,35.19709114,,Unknown,Obese
+120,5.4,28,Female,"Papaya, Banana",Lightly Active,Vegetarian,Unknown,44.29592764,,Unknown,Obese
+75,5.7,24,Female,Unknown,Sedentary,Vegetarian,Other,24.84743864,,Unknown,Normal
+69,5,31,Female,Unknown,Lightly Active,Non Vegetarian,Unknown,29.70839275,,Unknown,Overweight
+94,5.6,28,Female,Unknown,Sedentary,Vegetarian,Unknown,32.26427229,,Unknown,Obese
+88,5.1,35,Female,Unknown,Moderately Active,Vegetarian,Pcos/Pcod,36.41768999,,PCOS/PCOD,Obese
+63,5.3,25,Female,Unknown,Lightly Active,Eggetarian,Unknown,24.14120172,,Unknown,Normal
+89,5.2,40,Female,Unknown,Very Active,Non Vegetarian,Thyroid,35.4285513,,Thyroid,Obese
+64,5.3,32,Female,Unknown,Sedentary,Vegetarian,Thyroid,24.5243954,,Thyroid,Normal
+77,5.2,31,Female,Unknown,Lightly Active,Eggetarian,Unknown,30.65166798,,Unknown,Obese
+60,5.2,31,Female,Unknown,Sedentary,Vegetarian,Pcos/Pcod,23.88441661,,PCOS/PCOD,Normal
+67,5.6,35,Female,Unknown,Moderately Active,Non Vegetarian,Other,22.99687493,,Unknown,Normal
+60,5.2,31,Female,Unknown,Sedentary,Vegetarian,Pcos/Pcod,23.88441661,,PCOS/PCOD,Normal
+78.2,5.1,27,Female,No,Sedentary,Eggetarian,Pcos/Pcod,32.36208361,,PCOS/PCOD,Obese
+79.1,5.5,32,Female,Unknown,Sedentary,Non Vegetarian,Post Partum,28.14629137,,Post Partum,Overweight
+89,5.4,30,Female,Unknown,Moderately Active,Eggetarian,Pcos/Pcod,32.852813,,PCOS/PCOD,Obese
+84.55,5.4,30,Male,Unknown,Lightly Active,Non Vegetarian,Unknown,31.21017235,,Unknown,Obese
+79.2,5.2,24,Female,Radish,Moderately Active,Vegetarian,Unknown,31.52742992,,Unknown,Obese
+65.7,5,27,Female,Egg,Lightly Active,Vegetarian,Pcos/Pcod,28.28755658,,PCOS/PCOD,Overweight
+58,5.4,30,Female,Unknown,Lightly Active,Vegetarian,Unknown,21.40969836,,Unknown,Normal
+71,5.4,31,Female,Raw Groundnut,Lightly Active,Vegetarian,Pcos/Pcod,26.20842385,,PCOS/PCOD,Overweight
+95,5.9,29,Female,Unknown,Lightly Active,Eggetarian,Other,29.37579689,,Unknown,Overweight
+66,5.4,28,Female,Unknown,Moderately Active,Vegetarian,Unknown,24.3627602,,Unknown,Normal
+68,5,25,Female,Unknown,Sedentary,Vegetarian,Pcos/Pcod,29.27783633,,PCOS/PCOD,Overweight
+72,5.9,38,Female,Nil,Moderately Active,Non Vegetarian,Other,22.26376185,,Unknown,Normal
+85,5.2,39,Female,Non,Sedentary,Non Vegetarian,Thyroid,33.83625686,,Thyroid,Obese
+107,5.1,39,Female,Nil Known,Sedentary,Non Vegetarian,Thyroid,44.28060033,,Thyroid,Obese
+107,5.1,39,Female,Nil Known,Sedentary,Non Vegetarian,Thyroid,44.28060033,,Thyroid,Obese
+76,5.3,28,Female,Unknown,Sedentary,Non Vegetarian,Pcos/Pcod,29.12271953,,PCOS/PCOD,Overweight
+88,5.4,47,Female,Unknown,Moderately Active,Vegetarian,Thyroid,32.48368027,,Thyroid,Obese
+72,5.6,43,Female,Mushroom,Sedentary,Eggetarian,Other,24.71305963,,Unknown,Normal
+72,5.2,38,Female,Dairy And Gluton (I Think) Cos After Eating These I Get Boils,Sedentary,Vegan,Pcos/Pcod,28.66129993,,PCOS/PCOD,Overweight
+91.6,5.7,32,Female,Unknown,Lightly Active,Non Vegetarian,Post Partum,30.34700505,,Post Partum,Obese
+79,5.7,26,Female,No.,Sedentary,Eggetarian,Unknown,26.17263536,,Unknown,Overweight
+69.3,5.1,35,Female,Unknown,Moderately Active,Non Vegetarian,Pcos/Pcod,28.67893087,,PCOS/PCOD,Overweight
+78,5.2,30,Female,Unknown,Moderately Active,Non Vegetarian,Pcos/Pcod,31.04974159,,PCOS/PCOD,Obese
+63.6,5.4,27,Female,No,Lightly Active,Eggetarian,Other,23.47684165,,Unknown,Normal
+85,5.3,46,Female,None27   S,Moderately Active,Vegetarian,Unknown,32.57146264,,Unknown,Obese
+84,5.1,34,Female,No,Sedentary,Non Vegetarian,Other,34.76234045,,Unknown,Obese
+66.95,5.2,24,Female,No,Sedentary,Non Vegetarian,Post Partum,26.6510282,,Post Partum,Overweight
+75,5,37,Female,"Avocado, Celery",Sedentary,Non Vegetarian,Thyroid,32.29173125,,Thyroid,Obese
+97,5.3,32,Female,Unknown,Sedentary,Vegetarian,Pcos/Pcod,37.16978677,,PCOS/PCOD,Obese
+74,5.3,28,Female,Milk Products,Sedentary,Non Vegetarian,Pcos/Pcod,28.35633218,,PCOS/PCOD,Overweight
+74,5.1,31,Female,No,Very Active,Eggetarian,Thyroid,30.62396658,,Thyroid,Obese
+97,5.7,30,Female,Milk,Lightly Active,Non Vegetarian,Pcos/Pcod,32.13602063,,PCOS/PCOD,Obese
+100,5.4,26,Female,No,Lightly Active,Eggetarian,Pcos/Pcod,36.91327303,,PCOS/PCOD,Obese
+68,5.2,32,Female,Unknown,Moderately Active,Eggetarian,Post Partum,27.06900549,,Post Partum,Overweight
+63,5.1,29,Female,No,Sedentary,Vegetarian,Pcos/Pcod,26.07175533,,PCOS/PCOD,Overweight
+93,5.3,34,Female,Methi N Papaya Dont Suit Me,Moderately Active,Vegetarian,Pcos/Pcod,35.63701206,,PCOS/PCOD,Obese
+87,5.5,39,Female,Unknown,Lightly Active,Non Vegetarian,Unknown,30.95736219,,Unknown,Obese
+83,5.5,39,Female,Unknown,Moderately Active,Non Vegetarian,Unknown,29.53403519,,Unknown,Overweight
+78,5.8,33,Female,Saffron,Lightly Active,Non Vegetarian,Unknown,24.95793735,,Unknown,Normal
+74.6,5.3,26,Female,I Can.T Take Too Much Lactose,Lightly Active,Non Vegetarian,Pcos/Pcod,28.58624838,,PCOS/PCOD,Overweight
+74.6,5.3,26,Female,I Can.T Take Too Much Lactose,Lightly Active,Non Vegetarian,Pcos/Pcod,28.58624838,,PCOS/PCOD,Overweight
+80.6,5.3,24,Female,Only Vegetarian Food,Sedentary,Vegetarian,Na,30.88541045,,Unknown,Obese
+85,5.3,21,Female,Unknown,Moderately Active,Vegetarian,Pcos/Pcod,32.57146264,,PCOS/PCOD,Obese
+71,5.11,27,Female,Unknown,Lightly Active,Non Vegetarian,Diabetes,29.26756713,,Diabetes,Overweight
+94,5.5,26,Female,Unknown,Moderately Active,Vegetarian,Pcos/Pcod,33.44818444,,PCOS/PCOD,Obese
+70,5.3,37,Female,Unknown,Lightly Active,Non Vegetarian,Pcos/Pcod,26.82355746,,PCOS/PCOD,Overweight
+60,5.3,27,Female,No,Lightly Active,Vegetarian,Pcos/Pcod,22.99162068,,PCOS/PCOD,Normal
+102,5.2,42,Female,Unknown,Lightly Active,Vegetarian,Pcos/Pcod,40.60350823,,PCOS/PCOD,Obese
+105.9,5.4,43,Female,Unknown,Moderately Active,Non Vegetarian,Diabetes,39.09115614,,Diabetes,Obese
+60,5.1,29,Female,No,Sedentary,Non Vegetarian,Unknown,24.83024318,,Unknown,Normal
+94,5.7,32,Female,Can Not Digest Cold Salad,Lightly Active,Non Vegetarian,Unknown,31.14212309,,Unknown,Obese
+76,5.3,29,Female,Unknown,Lightly Active,Non Vegetarian,Unknown,29.12271953,,Unknown,Overweight
+88.3,5.4,30,Female,Honey,Lightly Active,Non Vegetarian,Pcos/Pcod,32.59442009,,PCOS/PCOD,Obese
+68.5,5.3,23,Female,No,Lightly Active,Vegetarian,Pcos/Pcod,26.24876695,,PCOS/PCOD,Overweight
+98,5.5,34,Female,Non,Moderately Active,Vegetarian,Unknown,34.87151143,,Unknown,Obese
+86,5.3,26,Female,Raw Onions,Sedentary,Non Vegetarian,Pcos/Pcod,32.95465631,,PCOS/PCOD,Obese
+94,5.3,35,Female,No,Lightly Active,Non Vegetarian,Pcos/Pcod,36.02020574,,PCOS/PCOD,Obese
+84.5,5.6,28,Female,Unknown,Lightly Active,Eggetarian,Unknown,29.00352137,,Unknown,Overweight
+66.7,5.6,26,Female,Unknown,Lightly Active,Vegetarian,Unknown,22.89390385,,Unknown,Normal
+93,5.2,34,Female,Too Much Egg Causes Gas,Lightly Active,Non Vegetarian,Thyroid,37.02084574,,Thyroid,Obese
+71.5,5.1,27,Female,Unknown,Lightly Active,Eggetarian,Unknown,29.58937312,,Unknown,Overweight
+67,5.2,40,Female,Grape Fruit,Moderately Active,Non Vegetarian,Pcos/Pcod,26.67093188,,PCOS/PCOD,Overweight
+103,5.4,29,Female,Unknown,Sedentary,Non Vegetarian,Pcos/Pcod,38.02067123,,PCOS/PCOD,Obese
+97.2,5.6,38,Female,Unknown,Moderately Active,Eggetarian,Unknown,33.3626305,,Unknown,Obese
+66,5.4,24,Female,Unknown,Moderately Active,Non Vegetarian,Unknown,24.3627602,,Unknown,Normal
+56,4.1,27,Female,Unknown,Moderately Active,Vegetarian,Other,35.85835713,,Unknown,Obese
+66.8,5.1,27,Female,Unknown,Moderately Active,Non Vegetarian,Unknown,27.6443374,,Unknown,Overweight
+68,5.4,28,Female,Unknown,Lightly Active,Eggetarian,Unknown,25.10102566,,Unknown,Overweight
+100,5.8,43,Male,Nil,Sedentary,Eggetarian,Unknown,31.99735558,,Unknown,Obese
+100,5.8,43,Male,Nil,Sedentary,Eggetarian,Unknown,31.99735558,,Unknown,Obese
+95,5.8,37,Male,No,Moderately Active,Vegetarian,Diabetes,30.3974878,,Diabetes,Obese
+75,5.4,59,Female,"Banana, Supota And Papaya",Lightly Active,Vegetarian,Unknown,27.68495478,,Unknown,Overweight
+63.5,5.1,35,Female,Unknown,Sedentary,Non Vegetarian,Post Partum,26.27867403,,Post Partum,Overweight
+96,5.2,24,Female,Unknown,Sedentary,Non Vegetarian,Pcos/Pcod,38.21506657,,PCOS/PCOD,Obese
+62.5,5.3,30,Female,Unknown,Sedentary,Vegetarian,Pcos/Pcod,23.94960488,,PCOS/PCOD,Normal
+59,5.2,26,Female,Unknown,Sedentary,Vegetarian,Unknown,23.486343,,Unknown,Normal
+86,5.6,32,Female,No,Sedentary,Vegetarian,Post Partum,29.51837678,,Post Partum,Overweight
+75,5.4,24,Female,Nothing,Sedentary,Non Vegetarian,No Issues,27.68495478,,Unknown,Overweight
+68,5.1,25,Female,Unknown,Very Active,Eggetarian,Unknown,28.14094227,,Unknown,Overweight
+83,5.2,35,Female,Unknown,Lightly Active,Vegetarian,Post Partum,33.04010964,,Post Partum,Obese
+86,5.3,34,Female,Unknown,Moderately Active,Eggetarian,Post Partum,32.95465631,,Post Partum,Obese
+82,5.3,36,Female,Na,Sedentary,Non Vegetarian,Pcos/Pcod,31.4218816,,PCOS/PCOD,Obese
+71.5,5.4,39,Female,Fermented Or Sour Or Curd,Very Active,Vegetarian,Mentioned Above,26.39299022,,Unknown,Overweight
+88,5.5,37,Female,No,Sedentary,Non Vegetarian,Unknown,31.31319394,,Unknown,Obese
+83,5.5,33,Female,No,Moderately Active,Eggetarian,Other,29.53403519,,Unknown,Overweight
+74,5.7,30,Female,Unknown,Moderately Active,Eggetarian,Pcos/Pcod,24.51613945,,PCOS/PCOD,Normal
+102,5.3,29,Female,Unknown,Sedentary,Non Vegetarian,Pcos/Pcod,39.08575516,,PCOS/PCOD,Obese
+123,5.6,23,Female,Unknown,Moderately Active,Vegetarian,Unknown,42.21814353,,Unknown,Obese
+65,5,37,Female,Raw Palak,Sedentary,Vegetarian,Thyroid,27.98616708,,Thyroid,Overweight
+63.7,5.1,31,Female,Unknown,Moderately Active,Non Vegetarian,Pcos/Pcod,26.3614415,,PCOS/PCOD,Overweight
+79,5.7,34,Female,Unknown,Sedentary,Non Vegetarian,Unknown,26.17263536,,Unknown,Overweight
+126,5.7,27,Female,No,Moderately Active,Vegetarian,Pcos/Pcod,41.74369691,,PCOS/PCOD,Obese
+93,5.4,39,Female,Unknown,Lightly Active,Vegetarian,Pcos/Pcod,34.32934392,,PCOS/PCOD,Obese
+108,5.4,31,Female,Unknown,Sedentary,Non Vegetarian,Other,39.86633488,,Unknown,Obese
+69,5.4,38,Female,Unknown,Sedentary,Non Vegetarian,Other,25.47015839,,Unknown,Overweight
+85,5.2,26,Female,Unknown,Very Active,Eggetarian,Unknown,33.83625686,,Unknown,Obese
+88,5.5,34,Female,Unknown,Moderately Active,Non Vegetarian,Pcos/Pcod,31.31319394,,PCOS/PCOD,Obese
+55.5,5.4,41,Female,Unknown,Moderately Active,Eggetarian,Unknown,20.48686653,,Unknown,Normal
+70,5,36,Female,Egg,Moderately Active,Vegetarian,Pcos/Pcod,30.13894917,,PCOS/PCOD,Obese
+97,5.2,39,Female,Unknown,Very Active,Non Vegetarian,Pcos/Pcod,38.61314018,,PCOS/PCOD,Obese
+66,5.6,42,Female,Unknown,Sedentary,Eggetarian,Unknown,22.65363799,,Unknown,Normal
+73,5.4,32,Female,Mushroom,Lightly Active,Vegetarian,Unknown,26.94668931,,Unknown,Overweight
+66,5.6,42,Female,Unknown,Sedentary,Eggetarian,Unknown,22.65363799,,Unknown,Normal
+62.2,4.8,33,Female,Unknown,Lightly Active,Eggetarian,Post Partum,29.05882066,,Post Partum,Overweight
+92,5.6,38,Female,Nil,Lightly Active,Eggetarian,Unknown,31.57779842,,Unknown,Obese
+74,5.4,39,Female,Allergic To Fish And Sea Food,Lightly Active,Non Vegetarian,Unknown,27.31582205,,Unknown,Overweight
+80,5.3,40,Female,No,Moderately Active,Non Vegetarian,Unknown,30.65549424,,Unknown,Obese
+78,5.2,40,Female,Unknown,Moderately Active,Non Vegetarian,Pcos/Pcod,31.04974159,,PCOS/PCOD,Obese
+55,5.5,34,Female,No,Lightly Active,Eggetarian,Unknown,19.57074621,,Unknown,Normal
+55,5.5,34,Female,No,Lightly Active,Eggetarian,Unknown,19.57074621,,Unknown,Normal
+55,5.5,34,Female,No,Lightly Active,Eggetarian,Unknown,19.57074621,,Unknown,Normal
+55,5.5,34,Female,No,Lightly Active,Eggetarian,Unknown,19.57074621,,Unknown,Normal
+81,5.4,29,Female,Unknown,Moderately Active,Eggetarian,Unknown,29.89975116,,Unknown,Overweight
+68,5.4,38,Female,Unknown,Sedentary,Non Vegetarian,Other,25.10102566,,Unknown,Overweight
+63.5,5.4,25,Female,Lactose Intolerant,Lightly Active,Non Vegetarian,Pcos/Pcod,23.43992838,,PCOS/PCOD,Normal
+76,5.7,30,Female,Not At All,Sedentary,Vegetarian,Unknown,25.17873782,,Unknown,Overweight
+72,5.4,33,Female,I Wont Eat Rice And Bread,Lightly Active,Non Vegetarian,Unknown,26.57755658,,Unknown,Overweight
+79,5.3,38,Female,Nine,Sedentary,Non Vegetarian,Knee Pain,30.27230057,,Pain,Obese
+74,5.4,32,Female,Unknown,Sedentary,Eggetarian,Pcos/Pcod,27.31582205,,PCOS/PCOD,Overweight
+96,5.5,27,Male,Unknown,Sedentary,Eggetarian,Unknown,34.15984793,,Unknown,Obese
+64,5.3,36,Female,Unknown,Lightly Active,Eggetarian,Post Partum,24.5243954,,Post Partum,Normal
+72,5.1,30,Female,Unknown,Sedentary,Non Vegetarian,Unknown,29.79629181,,Unknown,Overweight
+88,5.3,31,Female,Unknown,Lightly Active,Non Vegetarian,Unknown,33.72104367,,Unknown,Obese
+88,5.3,31,Female,Unknown,Lightly Active,Non Vegetarian,Unknown,33.72104367,,Unknown,Obese
+80,5.1,32,Female,Unknown,Lightly Active,Non Vegetarian,Other,33.1069909,,Unknown,Obese
+88.2,5.3,33,Female,Unknown,Sedentary,Eggetarian,Unknown,33.7976824,,Unknown,Obese
+83,5.3,53,Female,Unknown,Sedentary,Non Vegetarian,Hypertension,31.80507528,,Blood Pressure,Obese
+75,5.7,30,Female,No,Sedentary,Vegetarian,Unknown,24.84743864,,Unknown,Normal
+96,5,54,Female,Unknown,Sedentary,Non Vegetarian,"Fatty Liver, Pigmentation,Knees Pain, Bloating, Diabetes,Bp",41.333416,,"Blood Pressure, Diabetes, Digestive Issues, Fatty Liver, Pain",Obese
+108,5.1,28,Female,Unknown,Lightly Active,Vegetarian,Unknown,44.69443772,,Unknown,Obese
+108,5.1,28,Female,Unknown,Lightly Active,Vegetarian,Unknown,44.69443772,,Unknown,Obese
+96.3,5.6,23,Female,Unknown,Lightly Active,Vegetarian,Other,33.05371726,,Unknown,Obese
+70,5.6,31,Female,Unknown,Lightly Active,Non Vegetarian,No Pcod But Hormonal Issues,24.02658575,,"Hormonal Issues, PCOS/PCOD",Normal
+71,5.1,34,Female,"Fish, Peanuts, Coffee",Lightly Active,Non Vegetarian,Other,29.38245442,,Unknown,Overweight
+71,5.1,34,Female,"Fish, Peanuts, Coffee",Lightly Active,Non Vegetarian,Other,29.38245442,,Unknown,Overweight
+80.25,5.2,23,Female,Lemon/Lime And Ginger,Sedentary,Non Vegetarian,Post Partum,31.94540721,,Post Partum,Obese
+75,5.1,34,Female,Not Done Allergies Test. But As Of Now No Food Allergies I Noticed.,Sedentary,Vegetarian,Post Partum,31.03780397,,Post Partum,Obese
+58.2,5.2,26,Female,Unknown,Sedentary,Non Vegetarian,Pcos/Pcod,23.16788411,,PCOS/PCOD,Normal
+81,5.3,40,Female,No,Sedentary,Vegetarian,No Issues,31.03868792,,Unknown,Obese
+69,5.3,32,Female,Not That I Know,Moderately Active,Eggetarian,Unknown,26.44036379,,Unknown,Overweight
+65,5.3,35,Female,Unknown,Lightly Active,Non Vegetarian,Have A 1.5 Year Old Kid So Sleep Is Quite Disturbed At Night,24.90758907,,Unknown,Normal
+65,5.7,30,Female,"Mushrooms, Brinjal",Sedentary,Vegetarian,Unknown,21.53444682,,Unknown,Normal
+72,5.2,33,Female,Unknown,Moderately Active,Vegetarian,Thyroid,28.66129993,,Thyroid,Overweight
+107,5.5,36,Female,Pineapple Can'T Hv,Lightly Active,Non Vegetarian,Irregular Periods,38.07399718,,Hormonal Issues,Obese
+67,5.2,36,Female,Unknown,Moderately Active,Non Vegetarian,Thyroid,26.67093188,,Thyroid,Overweight
+88,5.1,34,Female,Unknown,Sedentary,Non Vegetarian,Pcos/Pcod,36.41768999,,PCOS/PCOD,Obese
+77,5.4,27,Female,Unknown,Lightly Active,Vegetarian,Unknown,28.42322024,,Unknown,Overweight
+81,5.2,42,Female,Unknown,Lightly Active,Vegetarian,Thyroid,32.24396242,,Thyroid,Obese
+88,5.5,43,Female,Unknown,Sedentary,Eggetarian,Thyroid,31.31319394,,Thyroid,Obese
+7.5,5.5,38,Female,No,Sedentary,Non Vegetarian,Pcos/Pcod,2.66873812,,PCOS/PCOD,Underweight
+82,5.4,30,Female,Unknown,Sedentary,Vegetarian,Post Partum,30.26888389,,Post Partum,Obese
+112,5,34,Female,No,Sedentary,Non Vegetarian,Unknown,48.22231867,,Unknown,Obese
+54.2,4.9,56,Female,Non,Lightly Active,Vegetarian,Rheumatoid,24.29837337,,Unknown,Normal
+,5.7,23,Female,Unknown,Sedentary,Vegetarian,Unknown,,,Unknown,Obese
+,5.7,23,Female,Unknown,Sedentary,Vegetarian,Unknown,,,Unknown,Obese
+77,5.1,33,Female,Unknown,Sedentary,Non Vegetarian,Other,31.86547874,,Unknown,Obese
+85.2,5.3,24,Female,No,Sedentary,Non Vegetarian,Unknown,32.64810137,,Unknown,Obese
+72,5.4,36,Female,No,Moderately Active,Non Vegetarian,Unknown,26.57755658,,Unknown,Overweight
+71,5.4,30,Female,"Lactose Intolerance, Can Have Yogurt In Moderate Amount, Ghee Paneer Cheese Is Fine, Egg Yolk Intolerance, Tamarind And Brinjal Causes Swelling In Joints",Moderately Active,Vegetarian,Other,26.20842385,,Unknown,Overweight
+62,5,29,Female,"Flaxseed 
+Milk And Milk Products (Paneer Is Okay)",Sedentary,Vegan,Unknown,26.69449783,,Unknown,Overweight
+87,5.5,33,Female,Unknown,Lightly Active,Non Vegetarian,Pcos/Pcod,30.95736219,,PCOS/PCOD,Obese
+62,5,29,Female,"Highly Allergic To Flaxseed 
+Milk And Milk Products (Paneer Is Okay)",Sedentary,Vegan ,Unknown,26.69449783,,Unknown,Overweight
+67.5,5.1,34,Female,No,Lightly Active,Non Vegetarian,Other,27.93402357,,Unknown,Overweight
+75,5.1,41,Female,Unknown,Lightly Active,Non Vegetarian,Diabetes,31.03780397,,Diabetes,Obese
+75,5.08,40,Female,Unknown,Lightly Active,Eggetarian,Unknown,31.28267721,,Unknown,Obese
+76,5.4,35,Female,Not Such,Sedentary,Eggetarian,Thyroid,28.05408751,,Thyroid,Overweight
+48.7,4.11,40,Female,No,Sedentary,Vegetarian,Thyroid,31.03240197,,Thyroid,Obese
+73,5.6,54,Female,Can Only Gave La Lactose Free Milk,Lightly Active,Non Vegetarian,High Blood Pressure,25.05629657,,Blood Pressure,Overweight
+78.9,5.5,28,Female,Egg,Sedentary,Vegetarian,Pcos/Pcod,28.07512502,,PCOS/PCOD,Overweight
+,5.5,25,Male,No,Sedentary,Non Vegetarian,Thyroid,,,Thyroid,Obese
+79,5.3,31,Female,No One,Lightly Active,Non Vegetarian,Pcos/Pcod,30.27230057,,PCOS/PCOD,Obese
+82,5.05,37,Female,Nil,Lightly Active,Non Vegetarian,Unknown,34.60996585,,Unknown,Obese
+71,5.2,27,Female,Unknown,Sedentary,Vegetarian,Pcos/Pcod,28.26322632,,PCOS/PCOD,Overweight
+71,5.1,31,Female,No,Moderately Active,Vegetarian,Post Partum,29.38245442,,Post Partum,Overweight
+71,5.1,31,Female,No,Moderately Active,Vegetarian,Post Partum,29.38245442,,Post Partum,Overweight
+72,5.4,28,Female,Ajinomoto,Moderately Active,Non Vegetarian,Pcos/Pcod,26.57755658,,PCOS/PCOD,Overweight
+68,5.4,25,Female,Unknown,Lightly Active,Vegetarian,Other,25.10102566,,Unknown,Overweight
+76,5.3,26,Female,No,Lightly Active,Non Vegetarian,Post Partum,29.12271953,,Post Partum,Overweight
+56,5.2,27,Female,Unknown,Lightly Active,Vegetarian,Bloating,22.29212216,,Digestive Issues,Normal
+100,5.6,30,Female,"Eggolant , Urad Dal",Moderately Active,Non Vegetarian,Thyroid,34.32369393,,Thyroid,Obese
+98,6,46,Male,No,Lightly Active,Vegetarian,Bp,29.30175613,,Blood Pressure,Overweight
+70.5,5.2,26,Female,Unknown,Lightly Active,Vegetarian,Pcos/Pcod,28.06418951,,PCOS/PCOD,Overweight
+66,5.2,34,Female,Unknown,Sedentary,Vegetarian,Post Partum,26.27285827,,Post Partum,Overweight
+87,5.4,45,Female,Unknown,Moderately Active,Non Vegetarian,Thyroid,32.11454754,,Thyroid,Obese
+82,5.3,26,Female,Unknown,Sedentary,Non Vegetarian,Pcos/Pcod,31.4218816,,PCOS/PCOD,Obese
+84,5.4,29,Female,No,Sedentary,Non Vegetarian,Post Partum,31.00714935,,Post Partum,Obese
+63.2,5.3,20,Female,Unknown,Moderately Active,Vegetarian,Unknown,24.21784045,,Unknown,Normal
+82,5.4,30,Female,No,Sedentary,Vegetarian,Post Partum,30.26888389,,Post Partum,Obese
+73,5.3,34,Female,Unknown,Very Active,Eggetarian,Pcos/Pcod,27.9731385,,PCOS/PCOD,Overweight
+96,5.5,34,Female,Egg,Lightly Active,Non Vegetarian,Pcos/Pcod,34.15984793,,PCOS/PCOD,Obese
+92,5.11,29,Female,Unknown,Sedentary,Non Vegetarian,Post Partum,37.92417149,,Post Partum,Obese
+84,5.2,42,Female,Nil But Not Very Fond Of Nonveg Es Seafood And Soya,Sedentary,Non Vegetarian,Prediabetic,33.43818325,,Diabetes,Obese
+83,5.5,23,Female,"Too Much Dairy Affects My Digestion, Bitter Gourd And Tinde Ki Sabzi I Can.T Have.",Lightly Active,Non Vegetarian,Unknown,29.53403519,,Unknown,Overweight
+84,5.1,28,Female,Peanuts,Sedentary,Non Vegetarian,Nil,34.76234045,,Unknown,Obese
+93,5.5,29,Female,Lactose'S Intolerant,Sedentary,Non Vegetarian,Unknown,33.09235269,,Unknown,Obese
+67.4,5.1,37,Female,Unknown,Lightly Active,Non Vegetarian,Thyroid,27.89263983,,Thyroid,Overweight
+77.6,5.1,39,Female,Unknown,Lightly Active,Eggetarian,Unknown,32.11378117,,Unknown,Obese
+80,5.3,30,Female,No,Sedentary,Vegetarian,Vitamin D Issue And Constipation Issue,30.65549424,,"Digestive Issues, Vitamin Deficiency",Obese
+90,5.4,39,Female,Nop,Very Active,Non Vegetarian,Thyroid,33.22194573,,Thyroid,Obese
+110,5.4,34,Female,Unknown,Sedentary,Non Vegetarian,Thyroid,40.60460034,,Thyroid,Obese
+88,5.8,26,Female,Kiwi,Sedentary,Vegetarian,Unknown,28.15767291,,Unknown,Overweight
+103,5.6,23,Female,Unknown,Lightly Active,Vegetarian,Unknown,35.35340475,,Unknown,Obese
+69,5.3,30,Female,Unknown,Moderately Active,Vegetarian,Unknown,26.44036379,,Unknown,Overweight
+62,5.1,33,Male,No,Moderately Active,Non Vegetarian,Pcos/Pcod,25.65791795,,PCOS/PCOD,Overweight
+96,5.6,51,Female,Unknown,Sedentary,Non Vegetarian,Other,32.95074617,,Unknown,Obese
+85,5.4,27,Female,Unknown,Sedentary,Non Vegetarian,Pcos/Pcod,31.37628208,,PCOS/PCOD,Obese
+81.6,5.2,37,Female,"I.M Sensitive To Juices, Can.T Eat Papaya, Lauki , Brinjal , Karela",Sedentary,Non Vegetarian,Post Partum,32.48280658,,Post Partum,Obese
+126,5.7,32,Female,Unknown,Moderately Active,Eggetarian,Other,41.74369691,,Unknown,Obese
+94.1,5.6,27,Female,Unknown,Sedentary,Non Vegetarian,Pcos/Pcod,32.29859599,,PCOS/PCOD,Obese
+70,5.3,32,Female,No,Sedentary,Vegetarian,Thyroid,26.82355746,,Thyroid,Overweight
+70,5.3,32,Female,No,Sedentary,Vegetarian,Thyroid,26.82355746,,Thyroid,Overweight
+70,5.3,32,Female,No,Sedentary,Vegetarian,Thyroid,26.82355746,,Thyroid,Overweight
+70,5.3,32,Female,No,Sedentary,Vegetarian,Thyroid,26.82355746,,Thyroid,Overweight
+75,5.6,31,Female,Unknown,Lightly Active,Non Vegetarian,Post Partum,25.74277045,,Post Partum,Overweight
+102.8,5.4,31,Female,Chickpeas,Sedentary,Vegetarian,Unknown,37.94684468,,Unknown,Obese
+91,5.5,29,Female,Unknown,Lightly Active,Vegetarian,Pcos/Pcod,32.38068919,,PCOS/PCOD,Obese
+79.5,5.45,29,Female,Nil,Sedentary,Non Vegetarian,"Pcod, Thyroid, Post Partum, Psoriatic Arthritis",28.81006239,,"PCOS/PCOD, Pain, Post Partum, Thyroid",Overweight
+67.4,5.1,37,Female,Unknown,Lightly Active,Non Vegetarian,Thyroid,27.89263983,,Thyroid,Overweight
+76.8,5,33,Female,Unknown,Sedentary,Non Vegetarian,Post Partum,33.0667328,,Post Partum,Obese
+81,4.11,35,Female,Unknown,Sedentary,Non Vegetarian,Nothing Specific.. Acid Reflux Sometimes,51.61446734,,Digestive Issues,Obese
+71,5.4,38,Female,Unknown,Moderately Active,Vegetarian,Unknown,26.20842385,,Unknown,Overweight
+67,5.3,27,Female,Red Meat ( Turned Vegetarian 6 Years Ago),Moderately Active,Eggetarian,Pcos/Pcod,25.67397643,,PCOS/PCOD,Overweight
+94,52,36,Female,Not So Far,Sedentary,Non Vegetarian,Pcos/Pcod,0.374189193,,PCOS/PCOD,Underweight
+74.5,5.3,40,Female,Unknown,Lightly Active,Non Vegetarian,Unknown,28.54792902,,Unknown,Overweight
+74.5,5.3,40,Female,Unknown,Lightly Active,Non Vegetarian,Unknown,28.54792902,,Unknown,Overweight
+89,5.3,43,Female,Unknown,Sedentary,Eggetarian,Thyroid,34.10423735,,Thyroid,Obese
+94,5.2,36,Female,So Far No,Sedentary,Non Vegetarian,Pcos/Pcod,37.41891935,,PCOS/PCOD,Obese
+94,5.5,33,Female,No,Very Active,Vegetarian,Post Partum,33.44818444,,Post Partum,Obese
+93,5.5,38,Female,Unknown,Sedentary,Vegetarian,Thyroid,33.09235269,,Thyroid,Obese
+93,5,33,Female,Unknown,Sedentary,Non Vegetarian,Post Partum,40.04174675,,Post Partum,Obese
+89.56,5.3,36,Female,No,Lightly Active,Non Vegetarian,Unknown,34.31882581,,Unknown,Obese
+78,5.4,25,Female,No,Lightly Active,Non Vegetarian,Pcos/Pcod,28.79235297,,PCOS/PCOD,Overweight
+90,5.3,25,Female,No,Sedentary,Non Vegetarian,Pcos/Pcod,34.48743103,,PCOS/PCOD,Obese
+97,5.4,39,Female,"Curd,",Sedentary,Vegetarian,Unknown,35.80587484,,Unknown,Obese
+81,5.3,38,Female,Unknown,Moderately Active,Non Vegetarian,Unknown,31.03868792,,Unknown,Obese
+78,5.3,39,Female,Unknown,Moderately Active,Non Vegetarian,Pcos/Pcod,29.88910689,,PCOS/PCOD,Overweight
+82,5.4,41,Female,No,Sedentary,Vegetarian,No Issues,30.26888389,,Unknown,Obese
+85,5.4,32,Female,Egg,Sedentary,Vegetarian,Post Partum,31.37628208,,Post Partum,Obese
+86,5,35,Female,No,Sedentary,Eggetarian,Other,37.02785183,,Unknown,Obese
+82,5.4,41,Female,No,Sedentary,Vegetarian,No Issues,30.26888389,,Unknown,Obese
+59.7,5.1,27,Female,Nothing,Lightly Active,Vegetarian,Pcos/Pcod,24.70609196,,PCOS/PCOD,Normal
+79,4.11,35,Female,Unknown,Moderately Active,Vegetarian,Unknown,50.34003605,,Unknown,Obese
+103,5.4,40,Female,None Or Maybe Unaware,Lightly Active,Vegetarian,Thyroid,38.02067123,,Thyroid,Obese
+80,5.3,19,Female,No,Sedentary,Vegetarian,"Constipation , Bloating , Stress",30.65549424,,"Digestive Issues, Mental Health",Obese
+86,5.6,30,Female,No,Lightly Active,Eggetarian,Pcos/Pcod,29.51837678,,PCOS/PCOD,Overweight
+90,5.6,32,Female,No,Moderately Active,Non Vegetarian,Swollen Hands And Feet Occasionally,30.89132454,,Unknown,Obese
+77.5,5.5,43,Male,Unknown,Very Active,Vegetarian,Vertigo,27.57696057,,Unknown,Overweight
+76,5.7,39,Male,No,Sedentary,Non Vegetarian,Unknown,25.17873782,,Unknown,Overweight
+76,5.7,39,Male,No,Sedentary,Non Vegetarian,Unknown,25.17873782,,Unknown,Overweight
+88,5,27,Female,Nil,Moderately Active,Non Vegetarian,Pcos/Pcod,37.88896467,,PCOS/PCOD,Obese
+67,5,28,Female,Nothing,Lightly Active,Vegetarian,Unknown,28.84727992,,Unknown,Overweight
+66,5.2,29,Female,Unknown,Lightly Active,Eggetarian,Unknown,26.27285827,,Unknown,Overweight
+66,5.2,29,Female,Unknown,Lightly Active,Eggetarian,Unknown,26.27285827,,Unknown,Overweight
+81,5.6,47,Female,No,Moderately Active,Vegetarian,Unknown,27.80219208,,Unknown,Overweight
+85,5.3,27,Female,Unknown,Sedentary,Non Vegetarian,Unknown,32.57146264,,Unknown,Obese
+84.7,5,52,Female,Mushroom,Sedentary,Non Vegetarian,Thyroid,36.46812849,,Thyroid,Obese
+88,5.3,29,Female,No,Lightly Active,Eggetarian,No,33.72104367,,Unknown,Obese
+85.6,5.2,31,Female,Unknown,Lightly Active,Vegetarian,Unknown,34.07510102,,Unknown,Obese
+88,5.3,29,Female,No,Lightly Active,Eggetarian,Unknown,33.72104367,,Unknown,Obese
+72,5.7,34,Female,No,Lightly Active,Non Vegetarian,Unknown,23.85354109,,Unknown,Normal
+83.5,5.2,60,Female,No,Lightly Active,Vegetarian,No Medical Issues,33.23914644,,Unknown,Obese
+105,5.5,28,Female,"No Food Allergy 
+I Prefer Non Veg Diet Plan",Sedentary,Non Vegetarian,Pcos/Pcod,37.36233368,,PCOS/PCOD,Obese
+90,5.1,34,Female,Unknown,Moderately Active,Non Vegetarian,Thyroid,37.24536476,,Thyroid,Obese
+73,5.3,28,Female,No,Sedentary,Vegetarian,Stress,27.9731385,,Mental Health,Overweight
+119.7,5.1,26,Male,Excessive Yogurt And Daal Leads To Bloating,Lightly Active,Non Vegetarian,Other,49.53633514,,Unknown,Obese
+67.55,5.4,30,Female,"Gluten,Dairy,Wheat,Red Lentil",Sedentary,Vegan,Pcos/Pcod,24.93491593,,PCOS/PCOD,Normal
+108,5.4,28,Female,Avocado,Sedentary,Non Vegetarian,Pcos/Pcod,39.86633488,,PCOS/PCOD,Obese
+72,5.7,42,Female,No,Moderately Active,Vegetarian,Unknown,23.85354109,,Unknown,Normal
+105,5.5,28,Female,"No Allergy
+But I Would Prefer Non Veg Food",Sedentary,Non Vegetarian,Pcos/Pcod,37.36233368,,PCOS/PCOD,Obese
+85.4,5.5,38,Female,No,Moderately Active,Vegetarian,"Pre Diabetic, Ocd, Thyroid, Constipation",30.38803139,,"Diabetes, Digestive Issues, Thyroid",Obese
+85.4,5.5,38,Female,No,Moderately Active,Vegetarian,"Pre Diabetic, Ocd, Thyroid, Constipation",30.38803139,,"Diabetes, Digestive Issues, Thyroid",Obese
+72,5.5,36,Female,Unknown,Lightly Active,Non Vegetarian,Thyroid,25.61988595,,Thyroid,Overweight
+80,5.2,32,Female,Gluten,Sedentary,Eggetarian,Diabetes,31.84588881,,Diabetes,Obese
+70,5.2,38,Female,Unknown,Lightly Active,Non Vegetarian,Other,27.86515271,,Unknown,Overweight
+64,5.2,29,Female,Unknown,Sedentary,Eggetarian,Irregular Periods,25.47671105,,Hormonal Issues,Overweight
+86,5.8,27,Female,Unknown,Sedentary,Non Vegetarian,Pcos/Pcod,27.5177258,,PCOS/PCOD,Overweight
+64.5,5.4,34,Female,Unknown,Lightly Active,Non Vegetarian,Pcos/Pcod,23.80906111,,PCOS/PCOD,Normal
+64.5,5.4,34,Female,Unknown,Lightly Active,Non Vegetarian,Pcos/Pcod,23.80906111,,PCOS/PCOD,Normal
+95.5,5.3,25,Female,Unknown,Lightly Active,Non Vegetarian,Unknown,36.59499625,,Unknown,Obese
+86,5.3,31,Female,Unknown,Moderately Active,Vegetarian,Unknown,32.95465631,,Unknown,Obese
+86,5.3,31,Female,Unknown,Moderately Active,Vegetarian,Unknown,32.95465631,,Unknown,Obese
+81,5.3,33,Female,Unknown,Lightly Active,Vegetarian,Diabetes,31.03868792,,Diabetes,Obese
+64,5.2,29,Female,Unknown,Sedentary,Eggetarian,Irregular Periods,25.47671105,,Hormonal Issues,Overweight
+86,5.4,42,Female,Mustard Sauce,Lightly Active,Eggetarian,Thyroid,31.74541481,,Thyroid,Obese
+102,5.6,31,Female,Nil,Lightly Active,Non Vegetarian,Other,35.01016781,,Unknown,Obese
+68,5.4,41,Female,Unknown,Lightly Active,Vegetarian,Unknown,25.10102566,,Unknown,Overweight
+61.3,4.9,24,Female,Unknown,Lightly Active,Non Vegetarian,Pcos/Pcod,27.48137062,,PCOS/PCOD,Overweight
+99.8,5.3,27,Female,No,Sedentary,Eggetarian,Thyroid,38.24272907,,Thyroid,Obese
+68,5.1,28,Female,Not Sure,Sedentary,Vegetarian,"Diabetes, Psoriasis, Vitamin Deficiency, Candidas",28.14094227,,"Diabetes, Skin Issues, Vitamin Deficiency",Overweight
+105,5.8,40,Male,No Allergies,Moderately Active,Non Vegetarian,Unknown,33.59722336,,Unknown,Obese
+105,5.8,40,Male,No Allergies,Moderately Active,Non Vegetarian,Unknown,33.59722336,,Unknown,Obese
+84,5.4,40,Female,Unknown,Sedentary,Non Vegetarian,Thyroid,31.00714935,,Thyroid,Obese
+85,5.4,37,Female,No Allergies,Sedentary,Non Vegetarian,Thyroid,31.37628208,,Thyroid,Obese
+73,5.2,42,Female,Unknown,Moderately Active,Non Vegetarian,Thyroid,29.05937354,,Thyroid,Overweight
+65,4.9,28,Female,Allergic To Egg,Moderately Active,Non Vegetarian,Pcos/Pcod,29.14011566,,PCOS/PCOD,Overweight
+64.6,5.3,37,Female,Unknown,Lightly Active,Eggetarian,Thyroid,24.7543116,,Thyroid,Normal
+94,5.6,47,Male,Nothing As Of Now,Lightly Active,Vegetarian,Diabetes,32.26427229,,Diabetes,Obese
+78,5.4,39,Female,Nothing,Lightly Active,Vegetarian,Periods Problem,28.79235297,,Hormonal Issues,Overweight
+90,5.5,33,Female,Unknown,Lightly Active,Non Vegetarian,Unknown,32.02485744,,Unknown,Obese
+79,5.7,38,Female,Unknown,Sedentary,Eggetarian,"I Dont Have Any Medical Issue, Gaining Weight A Lot Even Though I Don'T Eat Out Much",26.17263536,,Unknown,Overweight
+86,5.6,28,Female,Unknown,Very Active,Eggetarian,Unknown,29.51837678,,Unknown,Overweight
+85,5.4,33,Female,Sugarcane,Sedentary,Non Vegetarian,Pcos/Pcod,31.37628208,,PCOS/PCOD,Obese
+92.5,5.5,26,Female,Unknown,Sedentary,Eggetarian,Pcos/Pcod,32.91443681,,PCOS/PCOD,Obese
+92.5,5.5,26,Female,Unknown,Sedentary,Eggetarian,Pcos/Pcod,32.91443681,,PCOS/PCOD,Obese
+78,5.1,40,Female,Na,Lightly Active,Vegetarian,Unknown,32.27931613,,Unknown,Obese
+78,5.1,40,Female,Unknown,Lightly Active,Vegetarian,Other,32.27931613,,Unknown,Obese
+78,5.1,40,Female,Unknown,Moderately Active,Vegetarian,Unknown,32.27931613,,Unknown,Obese
+68,5.3,32,Female,No,Lightly Active,Eggetarian,Thyroid,26.05717011,,Thyroid,Overweight
+64,5.5,36,Female,No,Moderately Active,Vegetarian,Unknown,22.77323196,,Unknown,Normal
+100,5.5,38,Female,Nil,Sedentary,Non Vegetarian,Thyroid,35.58317493,,Thyroid,Obese
+83,5.5,33,Male,Unknown,Lightly Active,Vegetarian,Other,29.53403519,,Unknown,Overweight
+85,5.3,34,Female,Unknown,Lightly Active,Non Vegetarian,"Post Partam , Diabetes And Thyroid",32.57146264,,"Diabetes, Thyroid",Obese
+86,5.2,36,Female,"Bitter Gourd, Mushroom",Moderately Active,Non Vegetarian,Thyroid,34.23433047,,Thyroid,Obese
+68,5.3,30,Female,Avacado,Sedentary,Vegetarian,Pre Natal,26.05717011,,Unknown,Overweight
+75,5.3,27,Female,Unknown,Sedentary,Vegetarian,Unknown,28.73952585,,Unknown,Overweight
+80,5.2,30,Female,I Need To Find If Curd Suits Me I Usually Get Back Acne,Sedentary,Non Vegetarian,Unknown,31.84588881,,Unknown,Obese
+62,5.2,27,Female,Spicy Food,Sedentary,Vegetarian,Unknown,24.68056383,,Unknown,Normal
+95.6,5.7,26,Female,Unknown,Sedentary,Non Vegetarian,Pcos/Pcod,31.67220178,,PCOS/PCOD,Obese
+70,5.2,45,Female,"Avocado, Honey",Sedentary,Non Vegetarian,Weak Knees,27.86515271,,Unknown,Overweight
+82,5.3,28,Female,No,Lightly Active,Non Vegetarian,Pcos/Pcod,31.4218816,,PCOS/PCOD,Obese
+86,5.5,49,Female,Besan. I Eat Only Vegetarian,Moderately Active,Vegetarian,Unknown,30.60153044,,Unknown,Obese
+94,5,31,Female,Not Any As Of New,Sedentary,Vegetarian,Unknown,40.47230317,,Unknown,Obese
+89,5.3,26,Female,"Mushrooms, Peas, Chia Seeds",Sedentary,Vegetarian,Pcos/Pcod,34.10423735,,PCOS/PCOD,Obese
+75,5.1,28,Female,Nothing,Sedentary,Non Vegetarian,Other,31.03780397,,Unknown,Obese
+99,5.4,42,Female,Unknown,Moderately Active,Non Vegetarian,Unknown,36.5441403,,Unknown,Obese
+72,5.3,50,Female,Unknown,Lightly Active,Non Vegetarian,Diabetes,27.58994482,,Diabetes,Overweight
+99,5.4,29,Female,Unknown,Sedentary,Eggetarian,Thyroid,36.5441403,,Thyroid,Obese
+73.5,5.3,34,Female,No,Sedentary,Vegetarian,Thyroid,28.16473534,,Thyroid,Overweight
+73.5,5.3,34,Female,No,Sedentary,Vegetarian,Thyroid,28.16473534,,Thyroid,Overweight
+73.5,5.3,34,Female,No,Sedentary,Vegetarian,Thyroid,28.16473534,,Thyroid,Overweight
+91,5.6,34,Female,No,Lightly Active,Vegetarian,Post Partum,31.23456148,,Post Partum,Obese
+89.5,5.4,30,Female,Non,Sedentary,Non Vegetarian,Post Partum,33.03737937,,Post Partum,Obese
+80,5.4,26,Female,Unknown,Lightly Active,Eggetarian,Unknown,29.53061843,,Unknown,Overweight
+78,5.5,31,Female,No Clear Idea But Whenever I Have Roti Or Wheat Items I'M Getting Bloated So Badly,Lightly Active,Vegetarian,Spondylitis,27.75487645,,Unknown,Overweight
+122,5.7,25,Female,Nothing,Sedentary,Non Vegetarian,Other,40.41850018,,Unknown,Obese
+92.5,5.45,38,Female,"Seafood, Shellfish, Mushrooms",Lightly Active,Eggetarian,"Weight Gain , Low Iron, Hair Loss",33.52114177,,"Anemia, Weight Issues",Obese
+88,5,35,Female,Nothing,Moderately Active,Non Vegetarian,Thyroid,37.88896467,,Thyroid,Obese
+83,5.6,42,Female,Unknown,Moderately Active,Vegetarian,Fatty Liver,28.48866596,,Fatty Liver,Overweight
+130,5.5,26,Male,No,Sedentary,Eggetarian,Thyroid,46.25812741,,Thyroid,Obese
+82,5.4,35,Female,No,Moderately Active,Vegetarian,Unknown,30.26888389,,Unknown,Obese
+100,5.3,22,Female,Unknown,Sedentary,Non Vegetarian,Pcos/Pcod,38.31936781,,PCOS/PCOD,Obese
+100,5.3,22,Female,Unknown,Sedentary,Non Vegetarian,Pcos/Pcod,38.31936781,,PCOS/PCOD,Obese
+76,5.6,33,Female,None But Dont Like Sea Food At Alll,Lightly Active,Non Vegetarian,Thyroid,26.08600739,,Thyroid,Overweight
+114,5.6,34,Female,Unknown,Very Active,Non Vegetarian,Thyroid,39.12901108,,Thyroid,Obese
+118,5.5,31,Female,Unknown,Lightly Active,Non Vegetarian,Hypertension,41.98814642,,Blood Pressure,Obese
+80,5.2,28,Female,Unknown,Moderately Active,Non Vegetarian,Unknown,31.84588881,,Unknown,Obese
+80,5.2,28,Female,Unknown,Moderately Active,Non Vegetarian,Unknown,31.84588881,,Unknown,Obese
+83,5.3,30,Female,Nothing,Lightly Active,Non Vegetarian,Post Partum,31.80507528,,Post Partum,Obese
+94,5.4,23,Female,No Meat,Moderately Active,Vegetarian,Unknown,34.69847665,,Unknown,Obese
+78,5.2,31,Female,Unknown,Lightly Active,Vegetarian,Thyroid,31.04974159,,Thyroid,Obese
+90,5.4,23,Female,"Less Tolerable To Milk And Maida
+Cheese And Curd Is Fine",Sedentary,Vegetarian,Unknown,33.22194573,,Unknown,Obese
+85.5,5,34,Female,No,Lightly Active,Vegetarian,Post Partum,36.81257363,,Post Partum,Obese
+70.5,5.1,28,Female,Unknown,Sedentary,Non Vegetarian,Unknown,29.17553573,,Unknown,Overweight
+82,5.6,32,Female,Unknown,Lightly Active,Non Vegetarian,Pcos/Pcod,28.14542902,,PCOS/PCOD,Overweight
+75.3,5.2,38,Female,"Wheat ,I Cant Have It. It Causes Acidity To Me, But Barley Will Keep My Tummy Light",Moderately Active,Non Vegetarian,Thyroid,29.97494284,,Thyroid,Overweight
+66,5.3,56,Female,Kiwi,Lightly Active,Vegetarian,High Bp And Bones Issue As Stated,25.29078275,,Blood Pressure,Overweight
+74.3,5.7,34,Male,Unknown,Lightly Active,Non Vegetarian,Non Alcoholic Fatty Liver And Low Testosterone,24.61552921,,Fatty Liver,Normal
+76,5.2,35,Female,Lady Finger / Karela/ Kundru,Sedentary,Vegetarian,Iron Deficiency/ Low Bp,30.25359437,,"Anemia, Blood Pressure, Vitamin Deficiency",Obese
+68,5.3,35,Female,No,Lightly Active,Vegetarian,Unknown,26.05717011,,Unknown,Overweight
+80.3,5.5,43,Female,Not Really,Sedentary,Eggetarian,Thyroid,28.57328947,,Thyroid,Overweight
+89.5,5,30,Female,Unknown,Sedentary,Non Vegetarian,Pcos/Pcod,38.53479929,,PCOS/PCOD,Obese
+88,5.2,31,Female,Unknown,Sedentary,Vegetarian,Inflammation,35.03047769,,Inflammation,Obese
+78,5,32,Female,Unknown,Sedentary,Non Vegetarian,Thyroid,33.5834005,,Thyroid,Obese
+80,5.2,30,Female,Unknown,Lightly Active,Non Vegetarian,Unknown,31.84588881,,Unknown,Obese
+95,5.1,38,Female,Post Delivery Started Getting Allergy Towards High Protein Diets,Lightly Active,Non Vegetarian,Post Partum,39.3145517,,Post Partum,Obese
+104.3,5.3,27,Female,"Milk (Cannot Have It Daily, Once Or Twice A Week)",Moderately Active,Eggetarian,High Insulin,39.96710062,,Unknown,Obese
+80.8,5.4,20,Female,Unknown,Lightly Active,Vegetarian,No Medical Issues,29.82592461,,Unknown,Overweight
+71,5,43,Female,No,Sedentary,Non Vegetarian,Other,30.56950558,,Unknown,Obese
+76,5.3,26,Female,No,Sedentary,Vegetarian,No Medical Issue,29.12271953,,Unknown,Overweight
+75.6,5.1,33,Female,Unknown,Sedentary,Vegetarian,Post Partum,31.2861064,,Post Partum,Obese
+58,5.1,38,Female,Unknown,Moderately Active,Non Vegetarian,Unknown,24.0025684,,Unknown,Normal
+110,5.7,31,Male,Unknown,Sedentary,Non Vegetarian,Unknown,36.44291,,Unknown,Obese
+85,5.4,46,Female,Unknown,Moderately Active,Vegetarian,Unknown,31.37628208,,Unknown,Obese
+80,5.2,26,Female,Unknown,Lightly Active,Non Vegetarian,Insulin Resistance,31.84588881,,Unknown,Obese
+74,5.5,37,Female,No,Sedentary,Eggetarian,Unknown,26.33154945,,Unknown,Overweight
+74,5.5,37,Female,No,Sedentary,Eggetarian,Unknown,26.33154945,,Unknown,Overweight
+104,5.5,22,Female,Brinjal,Sedentary,Non Vegetarian,Obesity,37.00650193,,Weight Issues,Obese
+76,5.3,27,Female,Unknown,Lightly Active,Vegetarian,Pcos/Pcod,29.12271953,,PCOS/PCOD,Overweight
+65,5.1,33,Female,Mild Dairy Intolerance,Lightly Active,Non Vegetarian,Unknown,26.89943011,,Unknown,Overweight
+65,5,37,Female,Unknown,Sedentary,Non Vegetarian,Other,27.98616708,,Unknown,Overweight
+96,5.6,37,Male,Unknown,Sedentary,Non Vegetarian,Unknown,32.95074617,,Unknown,Obese
+78,5.5,42,Female,Unknown,Lightly Active,Non Vegetarian,Nothing Big Highlights By Dr Except Pre Diabetic And Insulin Resistance,27.75487645,,Diabetes,Overweight
+74.5,5.4,37,Female,Nil,Lightly Active,Non Vegetarian,Unknown,27.50038841,,Unknown,Overweight
+95,5.5,26,Female,Unknown,Moderately Active,Non Vegetarian,Pcos/Pcod,33.80401618,,PCOS/PCOD,Obese
+60.5,4.11,41,Female,Cannot Digest Nuts Very Well. Having A Lot Of Gut Issues.,Moderately Active,Eggetarian,Pcos/Pcod,38.55154659,,PCOS/PCOD,Obese
+80.9,5.4,29,Female,Mushroom And Shimla Mirchi,Moderately Active,Vegetarian,Thyroid,29.86283788,,Thyroid,Overweight
+92,5.2,34,Female,Unknown,Sedentary,Vegetarian,Cholesterol,36.62277213,,Cholesterol,Obese
+105,5.7,28,Female,Unknown,Lightly Active,Non Vegetarian,Unknown,34.78641409,,Unknown,Obese
+96,5.6,33,Female,Nil,Lightly Active,Non Vegetarian,Other,32.95074617,,Unknown,Obese
+55,5.2,32,Female,Unknown,Sedentary,Non Vegetarian,Autoimmune Condition ( Granulomatous Mastitis Of Breast),21.89404855,,Autoimmune,Normal
+70,5.4,37,Female,Nil,Lightly Active,Non Vegetarian,"Asthma , Hay Fever",25.83929112,,Unknown,Overweight
+95.2,5.3,32,Female,"Yeast (Anything Fermented - Like Breads, South Indian Etc.) Cannot Have. Capsicum, Mushrooms And Strawberry",Sedentary,Vegetarian,"Gallbladder Surgery Done, Weight Issue - Cholesterol Parameters",36.48003815,,Cholesterol,Obese
+79,5.4,39,Female,No,Sedentary,Vegan ,"High Bp, Stress",29.1614857,,"Blood Pressure, Mental Health",Overweight
+113,5.5,26,Female,Unknown,Moderately Active,Non Vegetarian,Thyroid,40.20898767,,Thyroid,Obese
+93,5.3,32,Female,Unknown,Moderately Active,Non Vegetarian,Pcos/Pcod,35.63701206,,PCOS/PCOD,Obese
+73.8,5.33,20,Female,Nil,Moderately Active,Vegetarian,Thyroid,27.96224383,,Thyroid,Overweight
+72,5.1,32,Male,Unknown,Very Active,Non Vegetarian,Other,29.79629181,,Unknown,Overweight
+100,5.6,30,Male,Unknown,Lightly Active,Vegetarian,Unknown,34.32369393,,Unknown,Obese
+89,5.3,37,Female,No Oats N Tofu,Sedentary,Non Vegetarian,Unknown,34.10423735,,Unknown,Obese
+78,5.3,29,Female,Non,Sedentary,Vegetarian,Pcos/Pcod,29.88910689,,PCOS/PCOD,Overweight
+86,5.4,29,Female,Unknown,Moderately Active,Non Vegetarian,Pcos/Pcod,31.74541481,,PCOS/PCOD,Obese
+67.8,5.5,25,Female,Unknown,Lightly Active,Eggetarian,Unknown,24.1253926,,Unknown,Normal
+52.16,5.1,27,Female,Unknown,Moderately Active,Non Vegetarian,Unknown,21.58575807,,Unknown,Normal
+95,5.6,25,Female,Unknown,Sedentary,Non Vegetarian,Post Partum,32.60750923,,Post Partum,Obese
+67,5.37,34,Female,Unknown,Sedentary,Non Vegetarian,Pcos/Pcod,25.00899881,,PCOS/PCOD,Overweight
+73.6,5.4,46,Female,Nine,Moderately Active,Vegetarian,Unknown,27.16816895,,Unknown,Overweight
+68,5.4,26,Female,Unknown,Lightly Active,Non Vegetarian,Other,25.10102566,,Unknown,Overweight
+83.5,5.3,33,Female,Unknown,Moderately Active,Eggetarian,Unknown,31.99667212,,Unknown,Obese
+64,5.3,44,Female,No,Sedentary,Non Vegetarian,Other,24.5243954,,Unknown,Normal
+92.15,5.4,31,Female,Unknown,Sedentary,Non Vegetarian,Other,34.0155811,,Unknown,Obese
+87,5.3,43,Female,Sour Foods,Lightly Active,Non Vegetarian,Thyroid,33.33784999,,Thyroid,Obese
+59,5,37,Female,Unknown,Sedentary,Eggetarian,Other,25.40282858,,Unknown,Overweight
+59,5,37,Female,Unknown,Sedentary,Eggetarian,Other,25.40282858,,Unknown,Overweight
+73.5,5.1,35,Female,No,Very Active,Non Vegetarian,Other,30.41704789,,Unknown,Obese
+117.6,5.5,47,Female,Unknown,Lightly Active,Non Vegetarian,No Idea,41.84581372,,Unknown,Obese
+100,6,32,Male,Unknown,Sedentary,Eggetarian,Unknown,29.89975116,,Unknown,Overweight
+81,5.2,36,Female,Unknown,Lightly Active,Eggetarian,Unknown,32.24396242,,Unknown,Obese
+77.5,5,44,Female,Unknown,Lightly Active,Eggetarian,Rheumatoid Arthritis,33.36812229,,Pain,Obese
+77,5.3,31,Female,Unknown,Moderately Active,Vegetarian,Pcos/Pcod,29.50591321,,PCOS/PCOD,Overweight
+77,5.4,38,Female,No,Moderately Active,Vegetarian,Post Partum,28.42322024,,Post Partum,Overweight
+104,5.8,38,Male,Nothing,Sedentary,Non Vegetarian,Pcos/Pcod,33.2772498,,PCOS/PCOD,Obese
+72,5.3,22,Female,Unknown,Sedentary,Non Vegetarian,Unknown,27.58994482,,Unknown,Overweight
+120,5.9,39,Male,No,Lightly Active,Eggetarian,Sartica Nd Obesity,37.10626975,,Weight Issues,Obese
+84,5.4,37,Female,Unknown,Lightly Active,Non Vegetarian,Diabetes,31.00714935,,Diabetes,Obese
+77,5.4,38,Female,No,Moderately Active,Vegetarian,Post Partum,28.42322024,,Post Partum,Overweight
+84,5.4,37,Female,Unknown,Lightly Active,Non Vegetarian,Diabetes,31.00714935,,Diabetes,Obese
+89.8,5,30,Female,Unknown,Sedentary,Non Vegetarian,Pcos/Pcod,38.66396622,,PCOS/PCOD,Obese
+79.9,4.1,36,Female,Unknown,Lightly Active,Non Vegetarian,Pcos/Pcod,51.16219169,,PCOS/PCOD,Obese
+79.9,4.1,36,Female,Unknown,Moderately Active,Non Vegetarian,Pcos/Pcod,51.16219169,,PCOS/PCOD,Obese
+75,5.3,41,Female,Unknown,Lightly Active,Non Vegetarian,Pcos/Pcod,28.73952585,,PCOS/PCOD,Overweight
+72.6,5.7,23,Female,Unknown,Sedentary,Non Vegetarian,"Insomnia,Stress",24.0523206,,Mental Health,Normal
+70,5.4,33,Female,Unknown,Moderately Active,Non Vegetarian,Thyroid,25.83929112,,Thyroid,Overweight
+83.5,5.3,33,Female,Unknown,Moderately Active,Eggetarian,Unknown,31.99667212,,Unknown,Obese
+116,5.5,31,Female,No Known Allergies,Sedentary,Eggetarian,Unknown,41.27648292,,Unknown,Obese
+85.6,5.6,33,Female,Unknown,Moderately Active,Eggetarian,Post Partum,29.381082,,Post Partum,Overweight
+116,5.5,31,Female,Don.T Have Any Known,Sedentary,Eggetarian,Unknown,41.27648292,,Unknown,Obese
+100,5.9,32,Female,Unknown,Moderately Active,Vegetarian,Post Partum,30.92189146,,Post Partum,Obese
+82.7,5.5,40,Male,Unknown,Lightly Active,Non Vegetarian,Other,29.42728567,,Unknown,Overweight
+90,5.4,39,Female,No,Sedentary,Eggetarian,Post Partum,33.22194573,,Post Partum,Obese
+88,5.3,40,Female,Unknown,Moderately Active,Non Vegetarian,Prediabetes,33.72104367,,Diabetes,Obese
+78.3,5.4,27,Female,Unknown,Lightly Active,Vegetarian,Unknown,28.90309279,,Unknown,Overweight
+88,5.3,40,Female,Unknown,Lightly Active,Non Vegetarian,Prediabetes,33.72104367,,Diabetes,Obese
+96,6,30,Male,Milk,Sedentary,Non Vegetarian,Thyroid,28.70376111,,Thyroid,Overweight
+90.3,5.2,41,Female,Unknown,Very Active,Eggetarian,Other,35.94604699,,Unknown,Obese
+91,5.6,30,Female,No,Sedentary,Non Vegetarian,Post Partum,31.23456148,,Post Partum,Obese
+72,5.6,45,Female,Severe Allergy To Mushrooms,Lightly Active,Eggetarian,Unknown,24.71305963,,Unknown,Normal
+83,5.4,44,Female,No,Lightly Active,Vegetarian,Pcos/Pcod,30.63801662,,PCOS/PCOD,Obese
+85,5.2,26,Female,Unknown,Lightly Active,Non Vegetarian,Pcos/Pcod,33.83625686,,PCOS/PCOD,Obese
+99,5.5,32,Female,Unknown,Lightly Active,Eggetarian,Thyroid,35.22734318,,Thyroid,Obese
+90,5.2,33,Female,Lactose Intorance,Sedentary,Vegetarian,Other,35.82662491,,Unknown,Obese
+90,5.2,33,Female,Lactose Intorance,Sedentary,Vegetarian,Other,35.82662491,,Unknown,Obese
+54,5.5,26,Female,Due To Low Immunity Intake Of Lemon Cause Cold & Breathlessness,Sedentary,Non Vegetarian,Pcos/Pcod,19.21491446,,PCOS/PCOD,Normal
+113,5.8,33,Male,Unknown,Lightly Active,Eggetarian,Thyroid,36.1570118,,Thyroid,Obese
+65.3,5,31,Female,Unknown,Sedentary,Vegetarian,Unknown,28.11533401,,Unknown,Overweight
+67,5.2,41,Female,No,Moderately Active,Eggetarian,Unknown,26.67093188,,Unknown,Overweight
+103,5.4,36,Female,Unknown,Lightly Active,Eggetarian,Unknown,38.02067123,,Unknown,Obese
+103,5.4,36,Female,Unknown,Lightly Active,Eggetarian,Unknown,38.02067123,,Unknown,Obese
+118,5.9,32,Male,"Dairy, Soya, Raw Food, Peas, All Purpose Flour",Sedentary,Vegetarian,Unknown,36.48783192,,Unknown,Obese
+63,5,34,Female,Unknown,Sedentary,Vegetarian,Thyroid,27.12505425,,Thyroid,Overweight
+72.5,5.5,44,Female,"Chickpea Flour,  Bloating Issue",Moderately Active,Non Vegetarian,Unknown,25.79780183,,Unknown,Overweight
+72,5.1,27,Female,Unknown,Sedentary,Eggetarian,Unknown,29.79629181,,Unknown,Overweight
+76,5.7,35,Female,Unknown,Lightly Active,Eggetarian,Post Partum,25.17873782,,Post Partum,Overweight
+70,4.1,26,Female,No,Lightly Active,Vegetarian,Pcos/Pcod,44.82294641,,PCOS/PCOD,Obese
+70,4.1,26,Female,No,Lightly Active,Vegetarian,Pcos/Pcod,44.82294641,,PCOS/PCOD,Obese
+90,5.3,28,Female,Unknown,Lightly Active,Non Vegetarian,Unknown,34.48743103,,Unknown,Obese
+98.83,5.11,28,Male,Unknown,Moderately Active,Vegetarian,Weight Loss,40.739629,,Weight Issues,Obese
+71,5.5,41,Female,Unknown,Lightly Active,Eggetarian,Thyroid,25.2640542,,Thyroid,Overweight
+65,5.4,28,Female,Not Known,Sedentary,Eggetarian,Other,23.99362747,,Unknown,Normal
+62,5.2,35,Female,Unknown,Sedentary,Non Vegetarian,Diabetes,24.68056383,,Diabetes,Normal
+62,5.2,33,Female,Unknown,Moderately Active,Non Vegetarian,Pcos/Pcod,24.68056383,,PCOS/PCOD,Normal
+72,5.1,25,Female,Honey,Sedentary,Vegetarian,Pcos/Pcod,29.79629181,,PCOS/PCOD,Overweight
+96,5.5,35,Female,Unknown,Lightly Active,Non Vegetarian,Unknown,34.15984793,,Unknown,Obese
+120,5.9,22,Male,Unknown,Sedentary,Non Vegetarian,Nothing,37.10626975,,Unknown,Obese
+120,5.9,22,Male,Unknown,Sedentary,Non Vegetarian,Other,37.10626975,,Unknown,Obese
+87.4,5.8,25,Female,Unknown,Sedentary,Non Vegetarian,Pcos/Pcod,27.96568878,,PCOS/PCOD,Overweight
+71.5,5.3,38,Female,Unknown,Moderately Active,Non Vegetarian,Thyroid,27.39834798,,Thyroid,Overweight
+82.55,5.4,34,Female,Unknown,Lightly Active,Eggetarian,Unknown,30.47190689,,Unknown,Obese
+86,5.6,40,Female,Unknown,Moderately Active,Non Vegetarian,Thyroid,29.51837678,,Thyroid,Overweight
+94,5.4,23,Female,Vegetarian Food Only,Moderately Active,Vegetarian,Unknown,34.69847665,,Unknown,Obese
+90,5.4,37,Female,Not That I'M Aware Of,Moderately Active,Vegetarian,Post Partum,33.22194573,,Post Partum,Obese
+84,5.3,31,Female,No,Lightly Active,Eggetarian,Unknown,32.18826896,,Unknown,Obese
+87,5.4,35,Female,Unknown,Sedentary,Eggetarian,Post Partum,32.11454754,,Post Partum,Obese
+84,5.3,31,Female,No,Lightly Active,Eggetarian,Other,32.18826896,,Unknown,Obese
+81.5,5.1,35,Female,Unknown,Sedentary,Non Vegetarian,Unknown,33.72774698,,Unknown,Obese
+99,5.9,44,Male,Unknown,Lightly Active,Eggetarian,Unknown,30.61267254,,Unknown,Obese
+72.5,5.5,36,Female,Unknown,Sedentary,Non Vegetarian,Other,25.79780183,,Unknown,Overweight
+100,5.2,33,Female,Vegetarian ( Do Not Eat Egg But Dont Mind It When Its Mixed In Something And I Cant Taste It),Lightly Active,Vegetarian,Unknown,39.80736101,,Unknown,Obese
+70,5.4,40,Female,Unknown,Lightly Active,Eggetarian,Thyroid,25.83929112,,Thyroid,Overweight
+61.5,4.9,30,Female,No,Very Active,Eggetarian,Unknown,27.57103251,,Unknown,Overweight
+108,5.1,32,Female,Unknown,Lightly Active,Non Vegetarian,Acid Reflux (Gerd),44.69443772,,Digestive Issues,Obese
+96,5.7,32,Female,"Caffeine , Tea , Milk",Sedentary,Non Vegetarian,Pcos/Pcod,31.80472145,,PCOS/PCOD,Obese
+74.85,5.4,29,Female,Mild Soy Allergy,Lightly Active,Vegetarian,Unknown,27.62958487,,Unknown,Overweight
+73,4.11,40,Female,No,Sedentary,Eggetarian,Thyroid,46.51674217,,Thyroid,Obese
+92,5,30,Female,No,Moderately Active,Non Vegetarian,Post Partum,39.61119033,,Post Partum,Obese
+68,5.5,41,Female,Unknown,Lightly Active,Vegetarian,Thyroid,24.19655895,,Thyroid,Normal
+78,5.1,33,Female,Unknown,Lightly Active,Vegetarian,Pcos/Pcod,32.27931613,,PCOS/PCOD,Obese
+90,5.8,34,Female,Unknown,Very Active,Non Vegetarian,Unknown,28.79762002,,Unknown,Overweight
+76,5.5,35,Female,Unknown,Lightly Active,Non Vegetarian,Unknown,27.04321295,,Unknown,Overweight
+70,5.5,26,Female,Prawns,Sedentary,Non Vegetarian,Pcos/Pcod,24.90822245,,PCOS/PCOD,Normal
+80,5,54,Female,"Ground Nut
+Oily Food",Moderately Active,Vegetarian,Osteoarthritis,34.44451333,,Pain,Obese
+100,5.8,43,Female,Unknown,Moderately Active,Vegetarian,Unknown,31.99735558,,Unknown,Obese
+58.8,5,26,Female,Unknown,Lightly Active,Vegetarian,Nothing,25.3167173,,Unknown,Overweight
+78,5.1,35,Female,Unknown,Sedentary,Vegetarian,Post Partum,32.27931613,,Post Partum,Obese
+88,5.3,32,Female,I Am Vegetarian,Sedentary,Eggetarian,Post Partum,33.72104367,,Post Partum,Obese
+95,5.7,28,Female,Unknown,Lightly Active,Non Vegetarian,Pcos/Pcod,31.47342227,,PCOS/PCOD,Obese
+88,5.7,35,Female,No,Sedentary,Vegetarian,Unknown,29.154328,,Unknown,Overweight
+90,5.4,39,Female,No,Moderately Active,Vegetarian,Unknown,33.22194573,,Unknown,Obese
+64,5.1,29,Female,Unknown,Sedentary,Eggetarian,Unknown,26.48559272,,Unknown,Overweight
+64,5.1,29,Female,Unknown,Sedentary,Eggetarian,Other,26.48559272,,Unknown,Overweight
+79.5,5.5,43,Female,No Seafood,Sedentary,Non Vegetarian,Unknown,28.28862407,,Unknown,Overweight
+69,5.8,37,Female,Unknown,Lightly Active,Non Vegetarian,Unknown,22.07817535,,Unknown,Normal
+86.8,5.4,31,Female,Nil,Sedentary,Non Vegetarian,Post Partum,32.04072099,,Post Partum,Obese
+86.8,5.4,31,Female,No,Sedentary,Non Vegetarian,Post Partum,32.04072099,,Post Partum,Obese
+86.8,5.4,31,Female,No,Sedentary,Non Vegetarian,Post Partum,32.04072099,,Post Partum,Obese
+86.8,5.4,31,Female,No,Sedentary,Non Vegetarian,Post Partum,32.04072099,,Post Partum,Obese
+63,5.3,20,Female,Unknown,Sedentary,Non Vegetarian,Pcos/Pcod,24.14120172,,PCOS/PCOD,Normal
+86,5.3,28,Female,Mushroom Sometimes,Very Active,Non Vegetarian,Pcos/Pcod,32.95465631,,PCOS/PCOD,Obese
+61,4.11,38,Female,No,Lightly Active,Non Vegetarian,Diabetes,38.87015442,,Diabetes,Obese
+90,5.4,49,Female,Unknown,Sedentary,Non Vegetarian,Other,33.22194573,,Unknown,Obese
+80,5.5,39,Female,No E,Lightly Active,Vegetarian,Unknown,28.46653995,,Unknown,Overweight
+76.5,4.9,39,Female,Unknown,Moderately Active,Vegetarian,Unknown,34.29567459,,Unknown,Obese
+60,5.7,26,Female,"Allergic To Bhindi , Chana Dal , Cheese 
+Suspected Gluten Allergy",Sedentary,Non Vegetarian,Other,19.87795091,,Unknown,Normal
+77,5.4,30,Female,Not That I Know,Lightly Active,Vegetarian,Unknown,28.42322024,,Unknown,Overweight
+84.5,5.4,34,Female,"Vegetarian 
+Milk Give Bloating",Moderately Active,Vegetarian,Post Partum,31.19171571,,Post Partum,Obese
+114,5.5,35,Female,No,Sedentary,Non Vegetarian,Pcos/Pcod,40.56481942,,PCOS/PCOD,Obese
+114,5.5,35,Female,No,Sedentary,Non Vegetarian,Pcos/Pcod,40.56481942,,PCOS/PCOD,Obese
+79,5.4,39,Female,No,Sedentary,Vegan,Migrain,29.1614857,,Unknown,Overweight
+77,5.3,28,Female,Curd,Moderately Active,Vegetarian,Thyroid,29.50591321,,Thyroid,Overweight
+78.9,5.5,28,Female,Don'T Know Right Now,Sedentary,Vegetarian,"Fatty Liver , Constipation, Hormonal Changes, Acne , Strech Marks",28.07512502,,"Digestive Issues, Fatty Liver, Hormonal Issues, Skin Issues",Overweight
+85.5,5.2,36,Female,Unknown,Lightly Active,Vegetarian,Thyroid,34.03529366,,Thyroid,Obese
+93,5.2,30,Female,Unknown,Lightly Active,Non Vegetarian,Unknown,37.02084574,,Unknown,Obese
+137.5,5.9,31,Female,No,Moderately Active,Vegetarian,Pcos/Pcod,42.51760076,,PCOS/PCOD,Obese
+62.5,5.25,31,Female,No,Lightly Active,Non Vegetarian,Pcos/Pcod,24.40796013,,PCOS/PCOD,Normal
+59,5.6,50,Female,No,Very Active,Vegetarian,Unknown,20.25097942,,Unknown,Normal
+75.5,5.5,35,Female,No,Moderately Active,Vegetarian,Pcos/Pcod,26.86529707,,PCOS/PCOD,Overweight
+78,5.7,35,Female,Unknown,Sedentary,Non Vegetarian,Other,25.84133618,,Unknown,Overweight
+79.1,5.1,45,Female,No,Sedentary,Eggetarian,Unknown,32.73453725,,Unknown,Obese
+105,5.9,33,Female,Unknown,Moderately Active,Non Vegetarian,Unknown,32.46798603,,Unknown,Obese
+99,5.8,38,Female,Unknown,Lightly Active,Non Vegetarian,Unknown,31.67738202,,Unknown,Obese
+78,5.5,35,Female,Unknown,Sedentary,Non Vegetarian,Thyroid,27.75487645,,Thyroid,Overweight
+72,5.5,30,Female,No Allergies,Moderately Active,Vegetarian,Post Partum,25.61988595,,Post Partum,Overweight
+87.7,5.1,43,Female,-,Moderately Active,Eggetarian,Unknown,36.29353878,,Unknown,Obese
+59.5,5.4,25,Female,No,Moderately Active,Vegetarian,Face And Stomach  Gets Fat Very Quickly,21.96339746,,Unknown,Normal
+89,5,33,Female,"Sprouts,  Too Much Sour Food, Milk,",Sedentary,Occasionally Eats Prawns Or Chicken,"Arthritis  Thyroid, Irrreagular Periods",38.31952108,,"Hormonal Issues, Pain, Thyroid",Obese
+80,5.7,29,Female,No,Lightly Active,Non Vegetarian,Post Partum,26.50393454,,Post Partum,Overweight
+80,5.7,29,Female,No,Lightly Active,Non Vegetarian,Post Partum,26.50393454,,Post Partum,Overweight
+75,5.2,29,Female,Unknown,Lightly Active,Eggetarian,Unknown,29.85552076,,Unknown,Overweight
+78,5.3,28,Female,Unknown,Sedentary,Non Vegetarian,Other,29.88910689,,Unknown,Overweight
+95,5.2,61,Female,"No Garlic, Vegetarian, Too Many Lentils Will Make Her Gassy.",Sedentary,Vegetarian,"Blood Pressure, Thyroid And Diabetes",37.81699296,,"Blood Pressure, Diabetes, Thyroid",Obese
+108,5.1,24,Female,No,Lightly Active,Vegetarian,Unknown,44.69443772,,Unknown,Obese
+87,5.05,40,Female,Any Gastric Causing Foods,Sedentary,Non Vegetarian,Thyroid,36.72032962,,Thyroid,Obese
+78,5.5,27,Female,Unknown,Sedentary,Non Vegetarian,Pcos/Pcod,27.75487645,,PCOS/PCOD,Overweight
+73,5.3,38,Female,No,Moderately Active,Vegetarian,Other,27.9731385,,Unknown,Overweight
+119,5.9,33,Female,Unknown,Moderately Active,Non Vegetarian,Thyroid,36.79705084,,Thyroid,Obese
+119,5.9,33,Female,Unknown,Moderately Active,Non Vegetarian,Thyroid,36.79705084,,Thyroid,Obese
+119,5.9,33,Female,Unknown,Moderately Active,Non Vegetarian,Thyroid,36.79705084,,Thyroid,Obese
+83.9,4.9,31,Female,No,Lightly Active,Non Vegetarian,Thyroid,37.61316468,,Thyroid,Obese
+84,5.1,36,Female,No,Moderately Active,Eggetarian,Bad Fat Level Little High,34.76234045,,Unknown,Obese
+75,5.3,35,Male,Unknown,Sedentary,Non Vegetarian,Unknown,28.73952585,,Unknown,Overweight
+72,4.9,29,Female,Unknown,Lightly Active,Vegetarian,No Medical Issue,32.27828197,,Unknown,Obese
+75,5.4,42,Female,Nothing,Lightly Active,Eggetarian,Unknown,27.68495478,,Unknown,Overweight
+96,5.4,30,Female,Nothing As Such,Lightly Active,Eggetarian,Post Partum,35.43674211,,Post Partum,Obese
+70.9,5.3,30,Female,Unknown,Sedentary,Vegetarian,Unknown,27.16843177,,Unknown,Overweight
+110,5.7,37,Female,Gluten,Moderately Active,Non Vegetarian,Unknown,36.44291,,Unknown,Obese
+70,4.1,29,Female,No,Sedentary,Vegetarian,Thyroid,44.82294641,,Thyroid,Obese
+70,5.4,43,Female,"I Don.T Eat  Capsicum, Bhindi, Papaya, Dal Makhni, Rajmah , Garlic, Milk Or Anything Which I Think Causes Me Acidity.",Sedentary,Eggetarian,Unknown,25.83929112,,Unknown,Overweight
+63,5.1,29,Female,Unknown,Sedentary,Eggetarian,Post Partum,26.07175533,,Post Partum,Overweight
+80,5.7,29,Female,Unknown,Lightly Active,Eggetarian,Post Partum,26.50393454,,Post Partum,Overweight
+65,5.1,29,Female,Unknown,Moderately Active,Vegetarian,Unknown,26.89943011,,Unknown,Overweight
+80,5.4,30,Female,Unknown,Lightly Active,Non Vegetarian,Unknown,29.53061843,,Unknown,Overweight
+107,5.7,24,Female,Vegan,Lightly Active,Vegetarian,Pcos/Pcod,35.44901245,,PCOS/PCOD,Obese
+72,5.5,36,Female,Lactose Intolerance  Moderate,Sedentary,Eggetarian,Pcos/Pcod,25.61988595,,PCOS/PCOD,Overweight
+89.9,5.6,28,Female,Unknown,Lightly Active,Non Vegetarian,Unknown,30.85700084,,Unknown,Obese
+78,5,30,Female,No Allergies,Sedentary,Vegetarian,Unknown,33.5834005,,Unknown,Obese
+97,5.1,30,Female,Unknown,Sedentary,Non Vegetarian,Unknown,40.14222647,,Unknown,Obese
+70,5.6,25,Female,Unknown,Sedentary,Vegetarian,Unknown,24.02658575,,Unknown,Normal
+88,5.5,25,Female,Nil,Lightly Active,Non Vegetarian,Pcos/Pcod,31.31319394,,PCOS/PCOD,Obese
+100,5.4,37,Female,Unknown,Sedentary,Non Vegetarian,Unknown,36.91327303,,Unknown,Obese
+55,5,31,Female,Unknown,Moderately Active,Vegetarian,Unknown,23.68060292,,Unknown,Normal
+81.8,5.8,35,Female,No,Sedentary,Non Vegetarian,"I Don'T Have Thyroid Issues, But I Need To Take Thyroid Precautions Due To My Family History.",26.17383686,,Thyroid,Overweight
+85,5.4,23,Female,Unknown,Lightly Active,Non Vegetarian,Unknown,31.37628208,,Unknown,Obese
+85,5.4,23,Female,Unknown,Lightly Active,Non Vegetarian,Unknown,31.37628208,,Unknown,Obese
+70,5,27,Female,I Don'T Prefer Coffee Or Milk As It Gives Acne.,Sedentary,Non Vegetarian,Other,30.13894917,,Unknown,Obese
+70,5,27,Female,I Don'T Prefer Coffee Or Milk As It Gives Acne.,Sedentary,Non Vegetarian,Other,30.13894917,,Unknown,Obese
+85,5.6,34,Female,Unknown,Lightly Active,Vegetarian,Unknown,29.17513984,,Unknown,Overweight
+87.6,5.7,32,Female,Nil,Lightly Active,Non Vegetarian,Unknown,29.02180833,,Unknown,Overweight
+74,5.1,39,Female,Unknown,Lightly Active,Eggetarian,Other,30.62396658,,Unknown,Obese
+94,5.3,34,Female,Unknown,Lightly Active,Non Vegetarian,Unknown,36.02020574,,Unknown,Obese
+100,5.11,30,Male,No,Sedentary,Vegetarian,Other,41.22192553,,Unknown,Obese
+87.5,5.9,32,Female,Unknown,Lightly Active,Non Vegetarian,Endometriosis,27.05665503,,Unknown,Overweight
+96,5.11,30,Male,Unknown,Lightly Active,Vegetarian,Thyroid,39.57304851,,Thyroid,Obese
+83.7,5.2,27,Female,No,Lightly Active,Non Vegetarian,Pcos/Pcod,33.31876116,,PCOS/PCOD,Obese
+75,5.4,27,Female,Unknown,Lightly Active,Non Vegetarian,Unknown,27.68495478,,Unknown,Overweight
+103,5.3,30,Female,Milk,Sedentary,Non Vegetarian,Pcos/Pcod,39.46894884,,PCOS/PCOD,Obese
+63,5.3,37,Female,No Any Allergy,Moderately Active,Non Vegetarian,Thyroid,24.14120172,,Thyroid,Normal
+79,5.6,35,Female,Nothing,Sedentary,Eggetarian,Pcos/Pcod,27.11571821,,PCOS/PCOD,Overweight
+85.3,5.4,25,Female,Unknown,Sedentary,Vegetarian,Pcos/Pcod,31.4870219,,PCOS/PCOD,Obese
+62,4.11,34,Female,Unknown,Sedentary,Eggetarian,See Above,39.50737006,,Unknown,Obese
+98,5.1,36,Male,Unknown,Lightly Active,Non Vegetarian,Unknown,40.55606385,,Unknown,Obese
+88,5.4,35,Female,Unknown,Moderately Active,Eggetarian,Thyroid,32.48368027,,Thyroid,Obese
+92,5.2,33,Female,Mustard,Sedentary,Eggetarian,Thyroid,36.62277213,,Thyroid,Obese
+155,5.11,33,Male,Unknown,Lightly Active,Vegetarian,Thyroid,63.89398457,,Thyroid,Obese
+60,4.1,38,Female,Unknown,Lightly Active,Vegetarian,Pcos/Pcod,38.41966835,,PCOS/PCOD,Obese
+85,5.8,35,Male,Unknown,Moderately Active,Non Vegetarian,Unknown,27.19775224,,Unknown,Overweight
+128,5.7,27,Male,Unknown,Moderately Active,Vegetarian,Unknown,42.40629527,,Unknown,Obese
+80,5.7,33,Female,Peanuts,Sedentary,Eggetarian,Pcos/Pcod,26.50393454,,PCOS/PCOD,Overweight
+89,5.3,34,Female,No,Sedentary,Non Vegetarian,Thyroid,34.10423735,,Thyroid,Obese
+60,5.2,33,Female,Unknown,Lightly Active,Eggetarian,Unknown,23.88441661,,Unknown,Normal
+91,5.4,35,Female,Bo,Sedentary,Non Vegetarian,Constipation And On Laxatives For 3 Months,33.59107846,,Digestive Issues,Obese
+93,5.1,38,Male,Unknown,Sedentary,Eggetarian,Unknown,38.48687692,,Unknown,Obese
+75.7,5.1,33,Male,Unknown,Sedentary,Non Vegetarian,Diabetes,31.32749014,,Diabetes,Obese
+75.7,5.5,33,Male,Unknown,Sedentary,Non Vegetarian,Diabetes,26.93646342,,Diabetes,Overweight
+84,5.3,35,Female,Unknown,Sedentary,Non Vegetarian,Unknown,32.18826896,,Unknown,Obese
+92,5.7,36,Male,Nothing,Lightly Active,Non Vegetarian,Overweight,30.47952473,,Weight Issues,Obese
+76,5.3,36,Female,"Gluten, Lactose Intolerant, Intolerance To Oats ,  Soya",Lightly Active,Non Vegetarian,Insulin Resistance,29.12271953,,Unknown,Overweight
+84,5.3,35,Female,Unknown,Sedentary,Non Vegetarian,Unknown,32.18826896,,Unknown,Obese
+106,5.1,41,Female,Unknown,Sedentary,Vegetarian,Insulin Resistance,43.86676294,,Unknown,Obese
+64.2,5,24,Female,"Smoothie, Pudding, Milk",Moderately Active,Vegetarian,Fatty Liver,27.64172195,,Fatty Liver,Overweight
+64.2,5,24,Female,"Smoothie, Pudding, Milk",Moderately Active,Vegetarian,Fatty Liver,27.64172195,,Fatty Liver,Overweight
+93,5.5,25,Female,Not Allergic But Cannot Eat Salads Or Leafy Raw Greens,Lightly Active,Non Vegetarian,Pcos/Pcod,33.09235269,,PCOS/PCOD,Obese
+78,5.3,27,Female,Unknown,Sedentary,Non Vegetarian,Pcos/Pcod,29.88910689,,PCOS/PCOD,Overweight
+78,5.3,27,Female,Unknown,Sedentary,Non Vegetarian,Pcos/Pcod,29.88910689,,PCOS/PCOD,Overweight
+71.3,5.3,23,Female,Unknown,Sedentary,Non Vegetarian,Unknown,27.32170925,,Unknown,Overweight
+71.3,5.3,23,Female,Unknown,Sedentary,Non Vegetarian,Unknown,27.32170925,,Unknown,Overweight
+71.3,5.3,23,Female,Unknown,Sedentary,Non Vegetarian,Unknown,27.32170925,,Unknown,Overweight
+74,5.2,38,Female,No,Lightly Active,Vegetarian,Back Pain,29.45744715,,Pain,Overweight
+79,5.3,32,Female,No,Lightly Active,Non Vegetarian,Thyroid,30.27230057,,Thyroid,Obese
+88,5.6,38,Female,Unknown,Moderately Active,Non Vegetarian,Unknown,30.20485066,,Unknown,Obese
+93,5.3,27,Female,Unknown,Sedentary,Non Vegetarian,Pcos/Pcod,35.63701206,,PCOS/PCOD,Obese
+95,5.3,37,Female,Unknown,Moderately Active,Non Vegetarian,Post Partum,36.40339942,,Post Partum,Obese
+61,5.1,22,Female,Brinjal,Moderately Active,Non Vegetarian,Unknown,25.24408056,,Unknown,Overweight
+76,5.4,29,Female,Na,Sedentary,Eggetarian,Unknown,28.05408751,,Unknown,Overweight
+67,5.4,33,Female,Unknown,Lightly Active,Vegetarian,Pcos/Pcod,24.73189293,,PCOS/PCOD,Normal
+67,5.4,33,Female,Unknown,Lightly Active,Vegetarian,Pcos/Pcod,24.73189293,,PCOS/PCOD,Normal
+91,5.7,24,Female,Unknown,Lightly Active,Vegetarian,Pcos/Pcod,30.14822554,,PCOS/PCOD,Obese
+69,5.3,40,Female,Unknown,Very Active,Non Vegetarian,Post Partum,26.44036379,,Post Partum,Overweight
+71,5,35,Female,Unknown,Sedentary,Vegetarian,Back Pain,30.56950558,,Pain,Obese
+61.7,5.4,31,Female,Unknown,Moderately Active,Non Vegetarian,Thyroid,22.77548946,,Thyroid,Normal
+86.6,5.5,24,Female,Unknown,Moderately Active,Vegetarian,Pcos/Pcod,30.81502949,,PCOS/PCOD,Obese
+100,5.7,36,Female,Unknown,Lightly Active,Vegetarian,1 Year After Baby,33.12991818,,Post Partum,Obese
+67,5.2,32,Female,Unknown,Sedentary,Non Vegetarian,Pcos/Pcod,26.67093188,,PCOS/PCOD,Overweight
+78,5.3,20,Female,Unknown,Sedentary,Vegetarian,Ibs,29.88910689,,Digestive Issues,Overweight
+79,5.4,40,Female,Unknown,Lightly Active,Eggetarian,Unknown,29.1614857,,Unknown,Overweight
+106,5.3,38,Female,Unknown,Sedentary,Vegetarian,Post Partum,40.61852987,,Post Partum,Obese
+75,5.3,43,Female,No,Lightly Active,Non Vegetarian,Hypertension,28.73952585,,Blood Pressure,Overweight
+85,5.2,39,Female,Unknown,Sedentary,Eggetarian ,Unknown,33.83625686,,Unknown,Obese
+69,5.34,33,Female,Non,Sedentary,Non Vegetarian,"Low Iron, Low Zinc And Vitamin D, High Cholosterol And Alkaline Phosphate High",26.04573703,,"Anemia, Vitamin Deficiency",Overweight
+82.5,5.7,26,Female,Unknown,Lightly Active,Non Vegetarian,Unknown,27.3321825,,Unknown,Overweight
+85,5.05,30,Female,Nil,Lightly Active,Non Vegetarian,Other,35.87618412,,Unknown,Obese
+68,5.4,26,Female,Unknown,Moderately Active,Eggetarian,Unknown,25.10102566,,Unknown,Overweight
+81.5,4.11,36,Female,Unknown,Sedentary,Vegetarian,Unknown,51.93307516,,Unknown,Obese
+108,5.1,35,Male,Unknown,Sedentary,Eggetarian,Thyroid,44.69443772,,Thyroid,Obese
+96,5.7,32,Female,Egg,Sedentary,Non Vegetarian,Thyroid,31.80472145,,Thyroid,Obese
+75.5,5.4,32,Female,Gluten & Diary,Moderately Active,Vegetarian,Unknown,27.86952114,,Unknown,Overweight
+78,5.4,33,Female,Gastric Issue,Sedentary,Vegetarian,Diabetes,28.79235297,,Diabetes,Overweight
+87,5.6,45,Female,Unknown,Lightly Active,Non Vegetarian,Unknown,29.86161372,,Unknown,Overweight
+98,5.6,33,Female,Unknown,Very Active,Non Vegetarian,Pcos/Pcod,33.63722005,,PCOS/PCOD,Obese
+87.5,5.9,32,Female,Unknown,Lightly Active,Non Vegetarian,Endometriosis,27.05665503,,Unknown,Overweight
+84.5,5.6,28,Female,Not Anu,Sedentary,Vegetarian,Unknown,29.00352137,,Unknown,Overweight
+76.3,5.1,26,Female,"Egg, I Can'T Consume Raw Vegetables At All, Only Home Cooked Meals",Sedentary,Vegetarian,Pcos/Pcod,31.57579257,,PCOS/PCOD,Obese
+77.6,5.7,28,Female,Allergic To Cinnamon,Sedentary,Vegetarian,Other,25.70881651,,Unknown,Overweight
+95,5.4,39,Female,Unknown,Sedentary,Non Vegetarian,Unknown,35.06760938,,Unknown,Obese
+54,5.1,34,Female,Gluten And Lactose,Moderately Active,Vegetarian,Pcos/Pcod,22.34721886,,PCOS/PCOD,Normal
+175,5.5,43,Female,Unknown,Sedentary,Non Vegetarian,Unknown,62.27055613,,Unknown,Obese
+60,5.6,33,Female,Unknown,Moderately Active,Non Vegetarian,Thyroid,20.59421636,,Thyroid,Normal
+104.7,5.08,29,Female,No,Sedentary,Non Vegetarian,Other,43.67061739,,Unknown,Obese
+71,5.4,34,Female,Unknown,Moderately Active,Non Vegetarian,Post Partum,26.20842385,,Post Partum,Overweight
+79.3,5.4,35,Female,I Have Stopped Drinking Milk As It Upsets My Stomach,Lightly Active,Non Vegetarian,Pcos/Pcod,29.27222552,,PCOS/PCOD,Overweight
+59,4.11,41,Female,No,Moderately Active,Eggetarian,Unknown,37.59572312,,Unknown,Obese
+79,5.3,31,Female,Toor Dal And Groundnut,Lightly Active,Non Vegetarian,Thyroid,30.27230057,,Thyroid,Obese
+119,5.3,34,Female,Lactose Intolerant,Lightly Active,Non Vegetarian,"Fatty Liver, Adenomyosis",45.60004769,,Fatty Liver,Obese
+89,5.2,30,Female,No,Sedentary,Non Vegetarian,Pcos/Pcod,35.4285513,,PCOS/PCOD,Obese
+83,5.9,33,Female,Unknown,Lightly Active,Eggetarian,Unknown,25.66516991,,Unknown,Overweight
+72,5.2,29,Female,"Mashroom, Peas",Sedentary,Vegetarian,Pcos/Pcod,28.66129993,,PCOS/PCOD,Overweight
+82,5.5,33,Female,No,Moderately Active,Non Vegetarian,Post Partum,29.17820344,,Post Partum,Overweight
+61,4.9,33,Female,"Spicy Food, Vaat Dosha And Bloating After Eat Maida",Very Active,Non Vegetarian,Pcos/Pcod,27.34687778,,PCOS/PCOD,Overweight
+78,5.6,33,Female,Unknown,Sedentary,Eggetarian,Post Partum,26.77248127,,Post Partum,Overweight
+81.5,5.8,33,Female,Unknown,Sedentary,Vegetarian,Post Partum,26.0778448,,Post Partum,Overweight
+103,5.4,27,Female,Unknown,Lightly Active,Non Vegetarian,Pcos/Pcod,38.02067123,,PCOS/PCOD,Obese
+103,5.4,27,Female,Unknown,Lightly Active,Non Vegetarian,Pcos/Pcod,38.02067123,,PCOS/PCOD,Obese
+90.1,5.1,43,Female,Non,Lightly Active,Non Vegetarian,Unknown,37.2867485,,Unknown,Obese
+76,5.4,34,Female,Unknown,Sedentary,Vegetarian,Unknown,28.05408751,,Unknown,Overweight
+76,5.5,37,Female,Unknown,Moderately Active,Eggetarian,Other,27.04321295,,Unknown,Overweight
+72,5.2,25,Female,Unknown,Sedentary,Eggetarian,Uterine Fibroids And High Acidity,28.66129993,,Digestive Issues,Overweight
+89,5.4,36,Female,No,Moderately Active,Vegetarian,Other,32.852813,,Unknown,Obese
+89,5.4,36,Female,No,Moderately Active,Vegetarian,Other,32.852813,,Unknown,Obese
+95,4.11,33,Female,Unknown,Sedentary,Non Vegetarian,Post Partum,60.53548639,,Post Partum,Obese
+70.5,5.4,31,Female,Unknown,Lightly Active,Non Vegetarian,Pcos/Pcod,26.02385749,,PCOS/PCOD,Overweight
+85,5.4,35,Female,Unknown,Sedentary,Non Vegetarian,Borderline Thyroid,31.37628208,,Thyroid,Obese
+82,5.5,35,Female,"As Per Doctor I Am Allergic To Fruits And Vegetables With Seeds Eg Tomato, Brinjal, Cheese, Butter, Ghee, Chicken Organs, Redmeat",Sedentary,Vegetarian,"Inflammation, High Cortisol, High Ige Serum, Pcod,Vasculitis",29.17820344,,"Inflammation, PCOS/PCOD",Overweight
+70,5.3,33,Female,Poppy Seeds,Sedentary,Non Vegetarian,"Diabetes, Thyroid And Fatty Liver",26.82355746,,"Diabetes, Fatty Liver, Thyroid",Overweight
+94,5.4,30,Female,Red Meat,Sedentary,Non Vegetarian,Thyroid,34.69847665,,Thyroid,Obese
+63,5.1,37,Female,Unknown,Sedentary,Non Vegetarian,Post Partum,26.07175533,,Post Partum,Overweight
+78,5.3,33,Female,No,Sedentary,Vegetarian,Unknown,29.88910689,,Unknown,Overweight
+74,5.4,43,Female,No E,Moderately Active,Non Vegetarian,Osteoarthritis,27.31582205,,Pain,Overweight
+102.9,5.6,40,Female,No,Sedentary,Vegetarian,Bp Low And Migraine,35.31908105,,"Blood Pressure, Migraine",Obese
+70,6.4,30,Female,No,Lightly Active,Eggetarian,Post Partum,18.39535472,,Post Partum,Underweight
+80,5.2,28,Female,Unknown,Lightly Active,Non Vegetarian,Pcos/Pcod,31.84588881,,PCOS/PCOD,Obese
+74.5,5.3,28,Female,No,Sedentary,Non Vegetarian,Pcos/Pcod,28.54792902,,PCOS/PCOD,Overweight
+80,5.3,29,Female,Don.T Like Raw Milk And Egg(Boiled),Lightly Active,Non Vegetarian,Pcos/Pcod,30.65549424,,PCOS/PCOD,Obese
+73,5.4,31,Female,Olive Oil And Caffeinated Products Dont Suit Me.,Lightly Active,Eggetarian,Unknown,26.94668931,,Unknown,Overweight
+73,5.4,31,Female,Olive Oil And Caffeinated Products Dont Suit Me.,Lightly Active,Eggetarian,Unknown,26.94668931,,Unknown,Overweight
+73,5.6,33,Female,Unknown,Sedentary,Eggetarian,Post Partum,25.05629657,,Post Partum,Overweight
+75,5.1,37,Female,Unknown,Moderately Active,Vegetarian,Thyroid,31.03780397,,Thyroid,Obese
+90,5.3,34,Female,Unknown,Moderately Active,Non Vegetarian,Inflammation,34.48743103,,Inflammation,Obese
+62,5.2,38,Female,No,Very Active,Eggetarian,Unknown,24.68056383,,Unknown,Normal
+92,5.2,25,Female,Unknown,Sedentary,Non Vegetarian,Unknown,36.62277213,,Unknown,Obese
+97,5.4,35,Female,Unknown,Lightly Active,Non Vegetarian,Pcos/Pcod,35.80587484,,PCOS/PCOD,Obese
+59,5.5,28,Female,Mushroom,Very Active,Vegetarian,Unknown,20.99407321,,Unknown,Normal
+98,5,32,Female,Unknown,Lightly Active,Vegetarian,Pcos/Pcod,42.19452883,,PCOS/PCOD,Obese
+76.2,5.3,37,Female,Nil,Lightly Active,Eggetarian ,Unknown,29.19935827,,Unknown,Overweight
+74.3,5.1,38,Female,Unknown,Lightly Active,Non Vegetarian,Unknown,30.7481178,,Unknown,Obese
+74.3,5.1,38,Female,Unknown,Lightly Active,Non Vegetarian,Unknown,30.7481178,,Unknown,Obese
+84,5.6,34,Female,Unknown,Sedentary,Eggetarian,Post Partum,28.8319029,,Post Partum,Overweight
+78,5.3,28,Female,No Food Allergies In Specific,Lightly Active,Non Vegetarian,Thyroid,29.88910689,,Thyroid,Overweight
+125,6.1,35,Male,Sea Food,Moderately Active,Non Vegetarian,Thyroid,36.15933357,,Thyroid,Obese
+90,5.5,53,Female,Unknown,Lightly Active,Non Vegetarian,Diabetes,32.02485744,,Diabetes,Obese
+70.6,5.2,30,Female,Dairy Products,Sedentary,Eggetarian,Unknown,28.10399687,,Unknown,Overweight
+76,5,26,Female,No,Lightly Active,Non Vegetarian,Other,32.72228767,,Unknown,Obese
+88.5,5.1,37,Female,Unknown,Sedentary,Eggetarian,Thyroid,36.62460868,,Thyroid,Obese
+107,5.7,35,Female,No,Lightly Active,Eggetarian,Pcos/Pcod,35.44901245,,PCOS/PCOD,Obese
+86,5.4,37,Female,"Egg, Pineapple, Honey",Sedentary,Non Vegetarian,Thyroid,31.74541481,,Thyroid,Obese
+77.6,5.4,30,Female,Unknown,Lightly Active,Non Vegetarian,Unknown,28.64469987,,Unknown,Overweight
+102,5.5,39,Female,Unknown,Sedentary,Non Vegetarian,Unknown,36.29483843,,Unknown,Obese
+61,5.6,32,Female,Sea Food,Moderately Active,Non Vegetarian,Pcos/Pcod,20.9374533,,PCOS/PCOD,Normal
+98,5.3,24,Female,Unknown,Lightly Active,Vegetarian,Unknown,37.55298045,,Unknown,Obese
+98,5.3,24,Female,Unknown,Lightly Active,Vegetarian,Unknown,37.55298045,,Unknown,Obese
+97,5.5,35,Female,Unknown,Lightly Active,Non Vegetarian,Unknown,34.51567968,,Unknown,Obese
+76,5.2,28,Female,Unknown,Moderately Active,Vegetarian,Pcos/Pcod,30.25359437,,PCOS/PCOD,Obese
+89,5.5,35,Female,No,Lightly Active,Non Vegetarian,Pcos/Pcod,31.66902569,,PCOS/PCOD,Obese
+150,5.6,28,Female,Unknown,Lightly Active,Non Vegetarian,Pcos/Pcod,51.4855409,,PCOS/PCOD,Obese
+115,5.3,38,Female,Unknown,Moderately Active,Non Vegetarian,Pcos/Pcod,44.06727298,,PCOS/PCOD,Obese
+85,5.7,29,Female,"Yogurt, Fruits",Moderately Active,Non Vegetarian,Unknown,28.16043045,,Unknown,Overweight
+66,5.2,37,Female,Walnut,Lightly Active,Non Vegetarian,Post Partum,26.27285827,,Post Partum,Overweight
+112.5,5.4,38,Female,Unknown,Sedentary,Vegetarian,Unknown,41.52743216,,Unknown,Obese
+124.5,5.5,37,Female,Unknown,Sedentary,Non Vegetarian,Trying To Get Pregnant For Second Baby,44.30105279,,Unknown,Obese
+75.1,5.2,35,Female,Unknown,Lightly Active,Non Vegetarian,Unknown,29.89532812,,Unknown,Overweight
+108,6.2,38,Male,No,Moderately Active,Eggetarian,Pcos/Pcod,30.24199597,,PCOS/PCOD,Obese
+111,5.7,39,Female,Unknown,Sedentary,Non Vegetarian,Pcos/Pcod,36.77420918,,PCOS/PCOD,Obese
+79.9,5.5,21,Female,No,Sedentary,Vegetarian,Other,28.43095677,,Unknown,Overweight
+102,5.7,33,Female,Pickles,Lightly Active,Vegetarian,Post Partum,33.79251654,,Post Partum,Obese
+75,5.7,25,Female,Unknown,Sedentary,Non Vegetarian,Unknown,24.84743864,,Unknown,Normal
+82,5.2,42,Female,Unknown,Sedentary,Non Vegetarian,Unknown,32.64203603,,Unknown,Obese
+95,5.4,35,Female,No,Moderately Active,Non Vegetarian,High Blood Pressure Insulin Resistance,35.06760938,,Blood Pressure,Obese
+111,5.11,35,Male,No,Very Active,Non Vegetarian,Unknown,45.75633734,,Unknown,Obese
+75,5.6,32,Female,No,Sedentary,Vegetarian,Pcos/Pcod,25.74277045,,PCOS/PCOD,Overweight
+82,5.4,37,Female,Unknown,Moderately Active,Eggetarian,Unknown,30.26888389,,Unknown,Obese
+80,5.6,34,Female,Soy,Moderately Active,Eggetarian,Post Partum,27.45895514,,Post Partum,Overweight
+105,5.2,30,Female,Sometimes I Feel Bloated When I Eat Avacado,Sedentary,Non Vegetarian,Pcos/Pcod,41.79772906,,PCOS/PCOD,Obese
+105,5.2,30,Female,Sometimes I Feel Bloated When I Eat Avacado,Sedentary,Non Vegetarian,Pcos/Pcod,41.79772906,,PCOS/PCOD,Obese
+74,5.4,30,Female,Unknown,Sedentary,Non Vegetarian,Pcos/Pcod,27.31582205,,PCOS/PCOD,Overweight
+71,5.5,33,Female,No,Sedentary,Eggetarian,"Pcod, Post Partum, Hormonal Imbalance",25.2640542,,"Hormonal Issues, PCOS/PCOD, Post Partum",Overweight
+74.65,5.3,29,Female,No,Lightly Active,Non Vegetarian,Unknown,28.60540807,,Unknown,Overweight
+78.5,5.4,38,Female,No,Sedentary,Non Vegetarian,Thyroid,28.97691933,,Thyroid,Overweight
+78.5,5.4,38,Female,No,Sedentary,Non Vegetarian,Thyroid,28.97691933,,Thyroid,Overweight
+76,5.3,22,Female,Na,Sedentary,Eggetarian,Pcos/Pcod,29.12271953,,PCOS/PCOD,Overweight
+85,5.5,37,Female,Unknown,Moderately Active,Eggetarian,Inflammation,30.24569869,,Inflammation,Obese
+66,5.5,33,Female,Unknown,Lightly Active,Eggetarian,Unknown,23.48489545,,Unknown,Normal
+77,54,36,Female,Unknown,Lightly Active,Vegetarian,Thyroid,0.284232202,,Thyroid,Underweight
+65,5.1,37,Female,Milk Causes Bloating,Sedentary,Eggetarian,Asthma,26.89943011,,Unknown,Overweight
+83.5,5.6,33,Female,No,Sedentary,Eggetarian,Unknown,28.66028443,,Unknown,Overweight
+113,5.7,31,Female,Unknown,Moderately Active,Eggetarian,Thyroid,37.43680754,,Thyroid,Obese
+90,5.3,28,Female,Unknown,Sedentary,Vegetarian,Pcos/Pcod,34.48743103,,PCOS/PCOD,Obese
+107,5.5,30,Female,Unknown,Lightly Active,Non Vegetarian,Post Partum,38.07399718,,Post Partum,Obese
+84,5.4,35,Female,Unknown,Sedentary,Non Vegetarian,Post Partum,31.00714935,,Post Partum,Obese
+105,5.5,29,Female,Mushroom,Sedentary,Vegetarian,Unknown,37.36233368,,Unknown,Obese
+60,5.4,21,Female,Gluten,Very Active,Vegetarian,Unknown,22.14796382,,Unknown,Normal
+59.5,5,24,Female,Unknown,Sedentary,Non Vegetarian,Pcos/Pcod,25.61810679,,PCOS/PCOD,Overweight
+69,5.2,37,Female,Allergic To Egg Fish,Sedentary,Non Vegetarian,Other,27.4670791,,Unknown,Overweight
+71,5.4,43,Female,No,Sedentary,Non Vegetarian,Post Partum,26.20842385,,Post Partum,Overweight
+83,5.5,29,Female,Unknown,Sedentary,Non Vegetarian,Pcos/Pcod,29.53403519,,PCOS/PCOD,Overweight
+92.6,5.5,23,Female,Lactose Intolerant,Lightly Active,Non Vegetarian,Pcos/Pcod,32.95001999,,PCOS/PCOD,Obese
+72,5.2,40,Female,Vegetarian,Sedentary,Eggetarian,Unknown,28.66129993,,Unknown,Overweight
+72,5.2,40,Female,Vegetarian,Sedentary,Eggetarian,Unknown,28.66129993,,Unknown,Overweight
+59,5.1,27,Female,"Lactose , Almond",Moderately Active,Eggetarian,Unknown,24.41640579,,Unknown,Normal
+78,5.7,26,Female,No,Moderately Active,Non Vegetarian,Pcos/Pcod,25.84133618,,PCOS/PCOD,Overweight
+61.6,5.1,45,Female,No,Sedentary,Non Vegetarian,Other,25.49238299,,Unknown,Overweight
+72.25,5.1,26,Female,Unknown,Sedentary,Vegetarian,Unknown,29.89975116,,Unknown,Overweight
+80.7,5.5,27,Female,Unknown,Sedentary,Non Vegetarian,Unknown,28.71562217,,Unknown,Overweight
+80,5.1,27,Female,No,Lightly Active,Vegetarian,Pcos/Pcod,33.1069909,,PCOS/PCOD,Obese
+68,5.05,24,Female,Unknown,Moderately Active,Eggetarian,Pcos/Pcod,28.70094729,,PCOS/PCOD,Overweight
+69,5.08,49,Female,Nothing,Sedentary,Vegetarian,Thyroid,28.78006304,,Thyroid,Overweight
+81,5.4,24,Female,No,Moderately Active,Eggetarian,Unknown,29.89975116,,Unknown,Overweight
+85,7.7,31,Female,"Allergic To Mushrooms And Don'T Have Milk (Curd, Paneer, Cheese Are Fine)",Lightly Active,Non Vegetarian,Mentioned Under Health Issues,15.43147892,,Unknown,Underweight
+80.7,5.3,36,Female,"Mushrooms, Beets, Corns.",Sedentary,Non Vegetarian,Unknown,30.92372982,,Unknown,Obese
+69,5.18,33,Female,No,Lightly Active,Non Vegetarian,Pcos/Pcod,27.67958955,,PCOS/PCOD,Overweight
+110,6,31,Female,Allergic To Almonds,Sedentary,Vegetarian,Post Partum,32.88972627,,Post Partum,Obese
+77,5.4,26,Female,Egg Whites Causing Skin Eczema,Moderately Active,Non Vegetarian,Pcos/Pcod,28.42322024,,PCOS/PCOD,Overweight
+105,5.4,25,Female,No,Moderately Active,Non Vegetarian,Thyroid,38.75893669,,Thyroid,Obese
+105,5.5,48,Female,Egg Allergies,Sedentary,Vegetarian,Unknown,37.36233368,,Unknown,Obese
+69,5.18,33,Female,No,Lightly Active,Non Vegetarian,Pcos/Pcod,27.67958955,,PCOS/PCOD,Overweight
+67.8,5.2,29,Female,Unknown,Lightly Active,Vegetarian,Unknown,26.98939076,,Unknown,Overweight
+90,5.11,39,Male,No Allergy,Sedentary,Vegetarian,Unknown,37.09973298,,Unknown,Obese
+64,5.3,22,Female,Unknown,Sedentary,Vegetarian,Unknown,24.5243954,,Unknown,Normal
+75,5.5,37,Female,Unknown,Sedentary,Vegetarian,Unknown,26.6873812,,Unknown,Overweight
+61.5,5.1,44,Female,Mushrooms,Lightly Active,Non Vegetarian,Other,25.45099926,,Unknown,Overweight
+118,5.2,36,Female,Unknown,Sedentary,Vegetarian,Unknown,46.97268599,,Unknown,Obese
+85,5.4,24,Female,Chana Atta,Moderately Active,Non Vegetarian,Unknown,31.37628208,,Unknown,Obese
+87,5.1,27,Female,Unknown,Sedentary,Non Vegetarian,Unknown,36.0038526,,Unknown,Obese
+75,5.2,27,Female,"Shrimp, Prawn ",Sedentary,Non Vegetarian,Pcos/Pcod,29.85552076,,PCOS/PCOD,Overweight
+,5.2,55,Female,"Prawn, Curd",Lightly Active,Eggetarian,Triglycerides 200 Rest Ok,,,Cholesterol,Obese
+84,5.6,40,Female,Unknown,Moderately Active,Non Vegetarian,Thyroid,28.8319029,,Thyroid,Overweight
+68,5,41,Female,Egg,Sedentary,Vegetarian,Other,29.27783633,,Unknown,Overweight
+102,5.5,29,Female,"Black Paper, Bay Leaf",Sedentary,Vegetarian,Unknown,36.29483843,,Unknown,Obese
+86.5,5.3,37,Female,Unknown,Moderately Active,Eggetarian,Thyroid,33.14625315,,Thyroid,Obese
+83,5.5,27,Female,No,Sedentary,Non Vegetarian,Pcos/Pcod,29.53403519,,PCOS/PCOD,Overweight
+80,5.2,36,Male,Unknown,Sedentary,Non Vegetarian,Unknown,31.84588881,,Unknown,Obese
+80.2,5.1,30,Female,No Mushrooms,Sedentary,Vegetarian,Unknown,33.18975838,,Unknown,Obese
+76,5.5,37,Female,"Egg , Honey , Milk",Moderately Active,Vegetarian,Post Partum,27.04321295,,Post Partum,Overweight
+115,5.4,34,Female,Mushroom,Moderately Active,Non Vegetarian,Pre Diabetic,42.45026399,,Diabetes,Obese
+86,5.3,26,Female,"Seafood, Chickpea",Lightly Active,Non Vegetarian,Unknown,32.95465631,,Unknown,Obese
+81,5.8,28,Female,Unknown,Sedentary,Non Vegetarian,Pcos/Pcod,25.91785802,,PCOS/PCOD,Overweight
+81,5.8,28,Female,Unknown,Sedentary,Non Vegetarian,Pcos/Pcod,25.91785802,,PCOS/PCOD,Overweight
+94,5,34,Female,Unknown,Sedentary,Non Vegetarian,Pcos/Pcod,40.47230317,,PCOS/PCOD,Obese
+,5.2,33,Female,Unknown,Sedentary,Vegetarian,Post Partum,,,Post Partum,Obese
+75,5.25,29,Female,Unknown,Sedentary,Non Vegetarian,Normal Thyroid Now And Pre Diabetic,29.28955215,,"Diabetes, Thyroid",Overweight
+73,5.4,31,Female,Ragi,Lightly Active,Eggetarian,Unknown,26.94668931,,Unknown,Overweight
+68,5.2,26,Female,Unknown,Sedentary,Non Vegetarian,Unknown,27.06900549,,Unknown,Overweight
+82,51,28,Female,Unknown,Lightly Active,Non Vegetarian,Unknown,0.339346657,,Unknown,Underweight
+81.5,5.4,25,Female,Unknown,Moderately Active,Vegetarian,Pcos/Pcod,30.08431752,,PCOS/PCOD,Obese
+96,5.3,33,Female,Unknown,Sedentary,Vegetarian,No,36.78659309,,Unknown,Obese
+78.8,5.4,45,Female,Egg,Lightly Active,Non Vegetarian,Thyroid,29.08765915,,Thyroid,Overweight
+53.5,5.1,28,Female,"Peanuts, Soya",Lightly Active,Eggetarian,Unknown,22.14030017,,Unknown,Normal
+93,5.3,40,Female,Unknown,Sedentary,Non Vegetarian,Pcos/Pcod,35.63701206,,PCOS/PCOD,Obese
+93,5.3,40,Female,Unknown,Sedentary,Non Vegetarian,Pcos/Pcod,35.63701206,,PCOS/PCOD,Obese
+43,4.6,23,Female,Unknown,Moderately Active,Vegan,Pcos/Pcod,21.873731,,PCOS/PCOD,Normal
+93.3,5.5,39,Female,Unknown,Lightly Active,Non Vegetarian,Pcos/Pcod,33.19910221,,PCOS/PCOD,Obese
+75,5.4,30,Female,Unknown,Moderately Active,Vegetarian,Pcos/Pcod,27.68495478,,PCOS/PCOD,Overweight
+120,5.7,30,Female,Shrimp,Lightly Active,Non Vegetarian,Unknown,39.75590182,,Unknown,Obese
+84,5.08,40,Female,Unknown,Sedentary,Eggetarian,Unknown,35.03659848,,Unknown,Obese
+87,5.5,32,Female,Unknown,Lightly Active,Non Vegetarian,Pcos/Pcod,30.95736219,,PCOS/PCOD,Obese
+74,5.25,28,Female,Unknown,Moderately Active,Vegetarian,Unknown,28.89902479,,Unknown,Overweight
+80,5,24,Female,Unknown,Sedentary,Non Vegetarian,Pcos/Pcod,34.44451333,,PCOS/PCOD,Obese
+106,5.6,37,Female,Unknown,Lightly Active,Vegetarian,Bloating,36.38311557,,Digestive Issues,Obese
+70,5.6,24,Female,Unknown,Lightly Active,Vegetarian,Unknown,24.02658575,,Unknown,Normal
+83,4.9,40,Female,Unknown,Sedentary,Non Vegetarian,Unknown,37.20968616,,Unknown,Obese
+77,5.6,35,Female,"Mushrooms, Egg",Lightly Active,Vegetarian,Unknown,26.42924433,,Unknown,Overweight
+76.3,5.4,39,Female,Unknown,Moderately Active,Eggetarian,Unknown,28.16482732,,Unknown,Overweight
+114,5.5,35,Female,Unknown,Sedentary,Non Vegetarian,Pcos/Pcod,40.56481942,,PCOS/PCOD,Obese
+76,5.6,35,Female,Unknown,Lightly Active,Vegetarian,Other,26.08600739,,Unknown,Overweight
+82,5.4,29,Female,Unknown,Moderately Active,Vegetarian,Pcos/Pcod,30.26888389,,PCOS/PCOD,Obese
+90,5.1,29,Female,Unknown,Sedentary,Non Vegetarian,Unknown,37.24536476,,Unknown,Obese
+87,5.2,24,Female,Unknown,Moderately Active,Non Vegetarian,Other,34.63240408,,Unknown,Obese
+87,5.2,24,Female,Unknown,Moderately Active,Non Vegetarian,Other,34.63240408,,Unknown,Obese
+94.5,55,30,Female,Unknown,Lightly Active,Non Vegetarian,No Health Issues,0.336261003,,Unknown,Underweight
+69,5.2,32,Female,Unknown,Sedentary,Eggetarian,Other,27.4670791,,Unknown,Overweight
+60.5,5.4,45,Female,Unknown,Moderately Active,Vegetarian,Adenomyotic Uterus And Menapause,22.33253019,,Unknown,Normal
+65,5.3,29,Female,Unknown,Lightly Active,Non Vegetarian,Unknown,24.90758907,,Unknown,Normal
+93,5.2,40,Female,Unknown,Lightly Active,Vegetarian,Unknown,37.02084574,,Unknown,Obese
+87,5.1,36,Female,Unknown,Sedentary,Non Vegetarian,Pcos/Pcod,36.0038526,,PCOS/PCOD,Obese
+106,5.6,27,Female,Unknown,Sedentary,Vegetarian,Pcos/Pcod,36.38311557,,PCOS/PCOD,Obese
+67,5.2,27,Female,Unknown,Sedentary,Non Vegetarian,Pcos/Pcod,26.67093188,,PCOS/PCOD,Overweight
+81.5,5.3,39,Female,Pulses,Lightly Active,Eggetarian,Thyroid,31.23028476,,Thyroid,Obese
+89,5.2,29,Female,Unknown,Sedentary,Non Vegetarian,Pcos/Pcod,35.4285513,,PCOS/PCOD,Obese
+89,5.4,34,Female,Unknown,Sedentary,Non Vegetarian,Other,32.852813,,Unknown,Obese
+84,5.3,24,Female,Unknown,Sedentary,Vegetarian,Unknown,32.18826896,,Unknown,Obese
+89,5.4,34,Female,Unknown,Sedentary,Non Vegetarian,Other,32.852813,,Unknown,Obese
+87,5,37,Female,Unknown,Moderately Active,Eggetarian,Pcos/Pcod,37.45840825,,PCOS/PCOD,Obese
+78,5.2,35,Female,Unknown,Lightly Active,Non Vegetarian,Other,31.04974159,,Unknown,Obese
+82,5,27,Female,Unknown,Sedentary,Vegetarian,Unknown,35.30562617,,Unknown,Obese
+90,5,25,Female,Unknown,Sedentary,Non Vegetarian,Thyroid,38.7500775,,Thyroid,Obese
+70,5.6,20,Female,Unknown,Lightly Active,Vegetarian,Pcos/Pcod,24.02658575,,PCOS/PCOD,Normal
+69,5.2,24,Female,Unknown,Lightly Active,Eggetarian,Pcos/Pcod,27.4670791,,PCOS/PCOD,Overweight
+69,5.2,24,Female,Unknown,Lightly Active,Eggetarian,Pcos/Pcod,27.4670791,,PCOS/PCOD,Overweight
+95,5.2,32,Female,Unknown,Moderately Active,Vegetarian,Thyroid,37.81699296,,Thyroid,Obese
+67,5.2,20,Female,Unknown,Moderately Active,Non Vegetarian,Unknown,26.67093188,,Unknown,Overweight
+97.3,5.5,37,Female,Arbi,Lightly Active,Non Vegetarian,Unknown,34.62242921,,Unknown,Obese
+84,5.5,48,Female,Unknown,Lightly Active,Eggetarian,Unknown,29.88986694,,Unknown,Overweight
+88.7,5.4,23,Female,"Mushrooms, Soyabean",Very Active,Vegetarian,Acne Issue,32.74207318,,Skin Issues,Obese
+72.25,5,28,Female,Unknown,Lightly Active,Eggetarian,Unknown,31.1077011,,Unknown,Obese
+99.7,5.8,35,Female,Unknown,Lightly Active,Eggetarian,Unknown,31.90136351,,Unknown,Obese
+70,5.5,34,Female,Unknown,Lightly Active,Eggetarian,Unknown,24.90822245,,Unknown,Normal
+68,5.5,34,Female,"Tomato, Mushrooms",Moderately Active,Vegetarian,Other,24.19655895,,Unknown,Normal
+93,5.7,30,Female,Unknown,Sedentary,Vegetarian,Post Partum,30.81082391,,Post Partum,Obese
+99,5.3,32,Female,Unknown,Moderately Active,Vegetarian,Hormonal Imbalance,37.93617413,,Hormonal Issues,Obese
+101,5.4,34,Female,Unknown,Moderately Active,Non Vegetarian,Unknown,37.28240576,,Unknown,Obese
+96,5.11,43,Male,Unknown,Sedentary,Vegetarian,Diabetes,39.57304851,,Diabetes,Obese
+96,5.11,43,Male,Unknown,Sedentary,Vegetarian,Diabetes,39.57304851,,Diabetes,Obese
+62,5.1,33,Female,"Milk, Gluten, Peanuts, Oranges, Egg",Lightly Active,Non Vegetarian,Autoimmune Conditions,25.65791795,,Autoimmune,Overweight
+81,5.3,28,Female,Unknown,Sedentary,Vegetarian,Unknown,31.03868792,,Unknown,Obese
+73,5.1,35,Female,Unknown,Lightly Active,Vegetarian,Pcos/Pcod,30.2101292,,PCOS/PCOD,Obese
+77,5.3,36,Female,Unknown,Moderately Active,Vegetarian,Unknown,29.50591321,,Unknown,Overweight
+5.5,5.2,35,Female,Unknown,Sedentary,Eggetarian,Pcos/Pcod,2.189404855,,PCOS/PCOD,Underweight
+60.5,5.1,26,Female,Unknown,Very Active,Vegetarian,Thyroid,25.03716187,,Thyroid,Overweight
+86.5,5.4,30,Female,Unknown,Sedentary,Vegetarian,Post Partum,31.92998117,,Post Partum,Obese
+76,5.2,31,Female,Unknown,Moderately Active,Non Vegetarian,Diabetes,30.25359437,,Diabetes,Obese
+63.8,5.1,34,Female,Unknown,Lightly Active,Non Vegetarian,Low Immune . Iga Deficiency,26.40282524,,"Autoimmune, Vitamin Deficiency",Overweight
+69.9,5.1,36,Female,Unknown,Lightly Active,Non Vegetarian,Thyroid,28.9272333,,Thyroid,Overweight
+83,5.3,29,Female,Unknown,Sedentary,Vegetarian,High Crp,31.80507528,,Unknown,Obese
+61,5,33,Female,Unknown,Moderately Active,Non Vegetarian,Unknown,26.26394142,,Unknown,Overweight
+74,5.3,28,Female,Unknown,Lightly Active,Non Vegetarian,Pcos/Pcod,28.35633218,,PCOS/PCOD,Overweight
+82,5.5,31,Female,"Fish, Prawn",Sedentary,Non Vegetarian,Diabetes,29.17820344,,Diabetes,Overweight
+98,5.7,38,Male,Unknown,Very Active,Vegetarian,Unknown,32.46731982,,Unknown,Obese
+91,5.4,35,Female,Unknown,Sedentary,Eggetarian,Thyroid,33.59107846,,Thyroid,Obese
+94.7,5.1,31,Male,Unknown,Sedentary,Eggetarian,Unknown,39.19040048,,Unknown,Obese
+84,6,28,Male,"Dairy, Banana",Moderately Active,Vegetarian,Unknown,25.11579097,,Unknown,Overweight
+93,5,39,Female,Unknown,Lightly Active,Eggetarian,Pcos/Pcod,40.04174675,,PCOS/PCOD,Obese
+98,5.8,21,Female,Unknown,Very Active,Non Vegetarian,Unknown,31.35740847,,Unknown,Obese
+68,5.8,44,Female,Unknown,Moderately Active,Eggetarian,Unknown,21.75820179,,Unknown,Normal
+108,5.3,33,Female,Unknown,Sedentary,Non Vegetarian,Thyroid,41.38491723,,Thyroid,Obese
+72,5.4,36,Female,Unknown,Moderately Active,Non Vegetarian,Unknown,26.57755658,,Unknown,Overweight
+97.15,5.4,19,Female,"Peanut, Soy Chunks",Sedentary,Vegetarian,Very Much Prone To Getting Pcos And Thyroid Both,35.86124475,,"PCOS/PCOD, Thyroid",Obese
+81,5.2,34,Female,Unknown,Sedentary,Vegetarian,Thyroid,32.24396242,,Thyroid,Obese
+85,5.2,33,Female,Unknown,Sedentary,Vegetarian,Unknown,33.83625686,,Unknown,Obese
+74,5.4,38,Female,Unknown,Moderately Active,Non Vegetarian,Unknown,27.31582205,,Unknown,Overweight
+78,5.4,29,Female,Unknown,Lightly Active,Vegetarian,Pcos/Pcod,28.79235297,,PCOS/PCOD,Overweight
+72,5.4,36,Female,Unknown,Moderately Active,Non Vegetarian,Thyroid,26.57755658,,Thyroid,Overweight
+89.5,5.5,33,Female,Unknown,Sedentary,Non Vegetarian,Unknown,31.84694156,,Unknown,Obese
+89.5,5.5,33,Female,Unknown,Sedentary,Non Vegetarian,Other,31.84694156,,Unknown,Obese
+79,5.3,33,Female,Mushrooms And Soy,Lightly Active,Non Vegetarian,Unknown,30.27230057,,Unknown,Obese
+65,5,27,Female,Unknown,Lightly Active,Vegetarian,Unknown,27.98616708,,Unknown,Overweight
+100,5.2,33,Female,Corn,Lightly Active,Non Vegetarian,Pcos/Pcod,39.80736101,,PCOS/PCOD,Obese
+65.7,5.2,38,Female,Dairy,Moderately Active,Non Vegetarian,Pcos/Pcod,26.15343618,,PCOS/PCOD,Overweight
+82.5,5.4,30,Female,Unknown,Sedentary,Non Vegetarian,Pcos/Pcod,30.45345025,,PCOS/PCOD,Obese
+64,5.1,24,Female,Unknown,Lightly Active,Eggetarian,Unknown,26.48559272,,Unknown,Overweight
+79,5.3,26,Female,Unknown,Sedentary,Vegetarian,Basically No Issue,30.27230057,,Unknown,Obese
+79,5.3,26,Female,Unknown,Sedentary,Vegetarian,Basically No Issue,30.27230057,,Unknown,Obese
+89,5.4,38,Female,Milk,Lightly Active,Non Vegetarian,Weight Loss And Fibroid,32.852813,,Weight Issues,Obese
+68,5.2,36,Female,Unknown,Lightly Active,Non Vegetarian,Pcos/Pcod,27.06900549,,PCOS/PCOD,Overweight
+62,5.4,30,Female,Unknown,Sedentary,Non Vegetarian,Other,22.88622928,,Unknown,Normal
+90.8,5.8,35,Female,Unknown,Moderately Active,Eggetarian,Pcos/Pcod,29.05359887,,PCOS/PCOD,Overweight
+80,5.3,34,Female,Unknown,Moderately Active,Vegetarian,Unknown,30.65549424,,Unknown,Obese
+130,5.8,36,Female,Unknown,Sedentary,Non Vegetarian,Post Partum,41.59656225,,Post Partum,Obese
+81,5.1,32,Female,Unknown,Sedentary,Vegetarian,Thyroid,33.52082829,,Thyroid,Obese
+88,5.2,34,Female,Tuna Fish,Sedentary,Non Vegetarian,Unknown,35.03047769,,Unknown,Obese
+74,5.5,28,Female,Unknown,Sedentary,Vegetarian,Post Partum,26.33154945,,Post Partum,Overweight
+62,5.4,30,Female,Unknown,Sedentary,Non Vegetarian,It.S Been 2 Years Since My Delivery,22.88622928,,Fatty Liver,Normal
+76,5,29,Female,Unknown,Sedentary,Non Vegetarian,Unknown,32.72228767,,Unknown,Obese
+70,5.2,30,Female,Unknown,Lightly Active,Non Vegetarian,Other,27.86515271,,Unknown,Overweight
+66.7,5.5,35,Female,Unknown,Lightly Active,Non Vegetarian,Thyroid,23.73397768,,Thyroid,Normal
+80,5.3,36,Female,"Gluten, Diary",Lightly Active,Eggetarian,Pcos/Pcod,30.65549424,,PCOS/PCOD,Obese
+65,5.4,33,Female,Unknown,Sedentary,Non Vegetarian,Unknown,23.99362747,,Unknown,Normal
+73,5.4,23,Female,Milk,Lightly Active,Non Vegetarian,Post Partum,26.94668931,,Post Partum,Overweight
+65,5.4,33,Male,Unknown,Lightly Active,Non Vegetarian,Unknown,23.99362747,,Unknown,Normal
+65,5.4,33,Female,Unknown,Lightly Active,Non Vegetarian,Other,23.99362747,,Unknown,Normal
+100,5.4,33,Female,Unknown,Sedentary,Eggetarian,Post Partum,36.91327303,,Post Partum,Obese
+100,5.4,33,Female,Unknown,Sedentary,Eggetarian,Post Partum,36.91327303,,Post Partum,Obese
+62,5.5,42,Female,Unknown,Lightly Active,Vegetarian,Unknown,22.06156846,,Unknown,Normal
+94.5,55,30,Female,Unknown,Moderately Active,Non Vegetarian,No Health Issues,0.336261003,,Unknown,Underweight
+75,5.2,35,Female,Unknown,Moderately Active,Non Vegetarian,Post Partum,29.85552076,,Post Partum,Overweight
+92,5.4,28,Female,Unknown,Sedentary,Vegetarian,Unknown,33.96021119,,Unknown,Obese
+107,5.7,34,Female,Unknown,Sedentary,Vegetarian,Post Partum,35.44901245,,Post Partum,Obese
+89,5.3,28,Female,Unknown,Moderately Active,Vegetarian,Unknown,34.10423735,,Unknown,Obese
+79,5.6,39,Male,Unknown,Lightly Active,Non Vegetarian,Diabetes,27.11571821,,Diabetes,Overweight
+87,5.6,34,Female,Unknown,Lightly Active,Non Vegetarian,Unknown,29.86161372,,Unknown,Overweight
+84,5.6,34,Female,Unknown,Sedentary,Vegetarian,Unknown,28.8319029,,Unknown,Overweight
+87,5.6,37,Female,Unknown,Lightly Active,Non Vegetarian,Diabetes,29.86161372,,Diabetes,Overweight
+81,5.2,34,Female,Unknown,Sedentary,Non Vegetarian,Post Partum,32.24396242,,Post Partum,Obese
+90.4,5.2,27,Female,Unknown,Lightly Active,Non Vegetarian,Post Partum,35.98585435,,Post Partum,Obese
+83,5.6,44,Female,Unknown,Lightly Active,Vegetarian,Unknown,28.48866596,,Unknown,Overweight
+87,5.7,25,Female,Unknown,Moderately Active,Vegetarian,Gout,28.82302882,,Unknown,Overweight
+63.2,5.3,45,Female,Unknown,Moderately Active,Vegetarian,Unknown,24.21784045,,Unknown,Normal
+76,5.4,35,Female,Unknown,Sedentary,Non Vegetarian,Post Partum,28.05408751,,Post Partum,Overweight
+73,5.25,22,Female,Unknown,Sedentary,Non Vegetarian,Unknown,28.50849743,,Unknown,Overweight
+62,5.1,26,Female,Unknown,Lightly Active,Non Vegetarian,Nil,25.65791795,,Unknown,Overweight
+68,5.3,33,Female,Chia Seeds,Sedentary,Vegetarian,Post Partum,26.05717011,,Post Partum,Overweight
+95,5.7,26,Female,Nothing,Lightly Active,Non Vegetarian,Nothing,31.47342227,,Unknown,Obese
+68.95,5.2,30,Female,"Wheat , Curd , LadyFinger , Radish , Millets , Ginger , Garlic",Moderately Active,Vegetarian,Other,27.44717542,,Unknown,Overweight
+79,5.4,35,Female,Unknown,Lightly Active,Non Vegetarian,Other,29.1614857,,Unknown,Overweight
+115,5.1,40,Male,Milk,Moderately Active,Eggetarian,Other,47.59129942,,Unknown,Obese
+95,5.7,26,Female,Unknown,Lightly Active,Non Vegetarian,Nothing,31.47342227,,Unknown,Obese
+107,5.6,31,Male,Unknown,Sedentary,Non Vegetarian,Diabetes,36.72635251,,Diabetes,Obese
+90.2,5.1,33,Female,Unknown,Sedentary,Eggetarian,Pcos/Pcod,37.32813224,,PCOS/PCOD,Obese
+,5.6,27,Female,Unknown,Sedentary,Vegetarian,Pcos/Pcod,,,PCOS/PCOD,Obese
+53,5.1,19,Female,Unknown,Lightly Active,Vegetarian,Pcos/Pcod,21.93338147,,PCOS/PCOD,Normal
+74.5,5.7,34,Female,Unknown,Lightly Active,Vegetarian,Unknown,24.68178904,,Unknown,Normal
+67.5,5.2,28,Female,Unknown,Sedentary,Non Vegetarian,Unknown,26.86996868,,Unknown,Overweight
+66,5.2,35,Female,Unknown,Lightly Active,Vegetarian,Pcos/Pcod,26.27285827,,PCOS/PCOD,Overweight
+76,5.6,29,Female,Unknown,Sedentary,Non Vegetarian,Unknown,26.08600739,,Unknown,Overweight
+67,5.5,37,Female,Egg,Lightly Active,Eggetarian,Pcos/Pcod,23.8407272,,PCOS/PCOD,Normal
+85,5.4,34,Female,Unknown,Sedentary,Vegetarian,Pcos/Pcod,31.37628208,,PCOS/PCOD,Obese
+68.75,5.4,37,Female,Unknown,Lightly Active,Eggetarian,"Chondromalacia Patella, Gastric Issues",25.37787521,,Digestive Issues,Overweight
+114,5.11,41,Male,Unknown,Lightly Active,Vegetarian,Thyroid,46.99299511,,Thyroid,Obese
+79.7,5.1,28,Female,Unknown,Sedentary,Non Vegetarian,Unknown,32.98283969,,Unknown,Obese
+80,5.1,28,Female,Unknown,Sedentary,Non Vegetarian,Unknown,33.1069909,,Unknown,Obese
+79,5.3,32,Female,Unknown,Sedentary,Non Vegetarian,Pcos/Pcod,30.27230057,,PCOS/PCOD,Obese
+70,5,28,Female,Unknown,Very Active,Eggetarian,Pcos/Pcod,30.13894917,,PCOS/PCOD,Obese
+81,5.5,34,Female,Unknown,Sedentary,Non Vegetarian,Unknown,28.82237169,,Unknown,Overweight
+95,5.8,38,Female,Unknown,Sedentary,Vegetarian,Thyroid,30.3974878,,Thyroid,Obese
+75.65,5.2,31,Female,Unknown,Sedentary,Non Vegetarian,Diabetes,30.1142686,,Diabetes,Obese
+73,5.3,36,Female,Unknown,Lightly Active,Non Vegetarian,Thyroid,27.9731385,,Thyroid,Overweight
+75,5.3,22,Female,Sea Food,Sedentary,Non Vegetarian,Thyroid,28.73952585,,Thyroid,Overweight
+82,5.2,34,Female,Unknown,Sedentary,Non Vegetarian,Anti-Inflamatory,32.64203603,,Unknown,Obese
+82,5.2,34,Female,Unknown,Sedentary,Non Vegetarian,Anti-Inflamatory,32.64203603,,Unknown,Obese
+104.8,5.8,35,Female,Unknown,Lightly Active,Eggetarian,Diabetes,33.53322865,,Diabetes,Obese
+91,5.6,37,Female,Unknown,Sedentary,Vegetarian,Other,31.23456148,,Unknown,Obese
+79.8,5.2,38,Female,Flour,Lightly Active,Eggetarian,Pcos/Pcod,31.76627408,,PCOS/PCOD,Obese
+90,5.5,35,Female,Unknown,Lightly Active,Non Vegetarian,1. Borderline Abnormal Cholesterol Levels- Low Hdl And High Lipoprotein Levels 2. Higher Side Amylase 3. Low Iron 4. Low Vitamin D 5. High Homocysteine,32.02485744,,"Anemia, Cholesterol, Vitamin Deficiency",Obese
+79.8,5.2,38,Female,Unknown,Lightly Active,Eggetarian,Pcos/Pcod,31.76627408,,PCOS/PCOD,Obese
+57,5.2,33,Female,"Egg, Soy Milk",Moderately Active,Vegetarian,Pcos/Pcod,22.69019577,,PCOS/PCOD,Normal
+73,5.5,31,Female,Unknown,Sedentary,Vegetarian,Unknown,25.9757177,,Unknown,Overweight
+99,5.5,47,Male,Unknown,Sedentary,Non Vegetarian,Diabetes,35.22734318,,Diabetes,Obese
+79,5.3,27,Female,Lemon,Moderately Active,Eggetarian,Pcos/Pcod,30.27230057,,PCOS/PCOD,Obese
+80,5.2,57,Female,Unknown,Sedentary,Non Vegetarian,Diabetes,31.84588881,,Diabetes,Obese
+103,5.8,31,Female,Paneer,Lightly Active,Vegan,Post Partum,32.95727625,,Post Partum,Obese
+86,5.4,30,Female,Unknown,Lightly Active,Non Vegetarian,Pcos/Pcod,31.74541481,,PCOS/PCOD,Obese
+79,5.4,28,Female,"Peanuts, Egg Plant, Dairy",Sedentary,Eggetarian,Pcos/Pcod,29.1614857,,PCOS/PCOD,Overweight
+88,5.3,34,Female,Unknown,Sedentary,Vegetarian,Unknown,33.72104367,,Unknown,Obese
+70,5.3,44,Female,"Rice, Spicy",Sedentary,Vegetarian,"Psoriasis, Chin Hair, Cervical Spondylitis",26.82355746,,Skin Issues,Overweight
+82,5.5,36,Female,Unknown,Lightly Active,Non Vegetarian,Thyroid,29.17820344,,Thyroid,Overweight
+120,5.11,30,Male,Unknown,Moderately Active,Non Vegetarian,Unknown,49.46631064,,Unknown,Obese
+83,5.6,36,Female,Mushrooms,Lightly Active,Eggetarian,Other,28.48866596,,Unknown,Overweight
+71,5.4,38,Female,Unknown,Lightly Active,Non Vegetarian,Pcos/Pcod,26.20842385,,PCOS/PCOD,Overweight
+66.5,5.3,29,Female,Unknown,Moderately Active,Eggetarian,Pcos/Pcod,25.48237959,,PCOS/PCOD,Overweight
+85,5.3,21,Female,Unknown,Lightly Active,Non Vegetarian,Unknown,32.57146264,,Unknown,Obese
+57,5.5,27,Female,Unknown,Lightly Active,Non Vegetarian,Other,20.28240971,,Unknown,Normal
+80,4.8,26,Female,Unknown,Sedentary,Non Vegetarian,No,37.37468895,,Unknown,Obese
+64.5,5.3,35,Female,Mushroom,Lightly Active,Non Vegetarian,Don.T Have,24.71599223,,Unknown,Normal
+80,5.2,27,Female,Unknown,Lightly Active,Vegetarian,Unknown,31.84588881,,Unknown,Obese
+98.6,5.4,23,Female,Unknown,Lightly Active,Vegetarian,Pcos/Pcod,36.39648721,,PCOS/PCOD,Obese
+82,5.1,26,Female,Mushroom,Moderately Active,Vegetarian,Pcos/Pcod,33.93466567,,PCOS/PCOD,Obese
+77,5.3,24,Female,"No Seafood, Peanuts, Milk, Pineapple",Moderately Active,Non Vegetarian,Pcos/Pcod,29.50591321,,PCOS/PCOD,Overweight
+84,5.7,59,Male,Mushroom,Moderately Active,Eggetarian,Bp,27.82913127,,Blood Pressure,Overweight
+84,5.7,59,Male,Mushroom,Moderately Active,Eggetarian,Bp,27.82913127,,Blood Pressure,Overweight
+71,5,42,Female,Unknown,Sedentary,Vegetarian,Unknown,30.56950558,,Unknown,Obese
+71,5,42,Female,Unknown,Sedentary,Vegetarian,Unknown,30.56950558,,Unknown,Obese
+88.95,5.6,30,Female,Mushroom,Sedentary,Eggetarian,Pcos/Pcod,30.53092575,,PCOS/PCOD,Obese
+105,5.5,29,Female,Mushroom,Sedentary,Vegetarian,Unknown,37.36233368,,Unknown,Obese
+69.9,5,40,Female,Unknown,Lightly Active,Non Vegetarian,Thyroid,30.09589353,,Thyroid,Obese
+91,5,29,Female,"Egg, Brocolli",Sedentary,Non Vegetarian,Unknown,39.18063392,,Unknown,Obese
+102,5.5,50,Female,Unknown,Sedentary,Eggetarian,High Bp,36.29483843,,Blood Pressure,Obese
+59.5,5.2,29,Female,Unknown,Sedentary,Non Vegetarian,Other,23.6853798,,Unknown,Normal
+62.5,5.2,36,Female,Unknown,Sedentary,Vegetarian,Unknown,24.87960063,,Unknown,Normal
+75,5.4,36,Female,"Milk, Sugar, Tofu",Lightly Active,Vegetarian,Thyroid,27.68495478,,Thyroid,Overweight
+82,5,27,Female,Unknown,Sedentary,Vegetarian,Unknown,35.30562617,,Unknown,Obese
+62,5.5,29,Female,Unknown,Lightly Active,Vegetarian,Unknown,22.06156846,,Unknown,Normal
+60.9,5.3,31,Female,Musk Mellon,Sedentary,Non Vegetarian,Pcos/Pcod,23.33649499,,PCOS/PCOD,Normal
+67,5.4,33,Female,Unknown,Lightly Active,Vegetarian,Unknown,24.73189293,,Unknown,Normal
+83,5.2,25,Female,Unknown,Sedentary,Non Vegetarian,Thyroid,33.04010964,,Thyroid,Obese
+64.4,5.4,27,Female,"Paneer ,Tofu,Cheese",Lightly Active,Vegetarian,"Low Bp ,High Cortisol",23.77214783,,Blood Pressure,Normal
+69,5,41,Female,Unknown,Sedentary,Vegetarian,Thyroid,29.70839275,,Thyroid,Overweight
+100,5.8,37,Female,Unknown,Sedentary,Vegetarian,"Hyperacidity,  Low Metabolism",31.99735558,,Digestive Issues,Obese
+85,5.6,28,Female,Unknown,Sedentary,Non Vegetarian,Pcos/Pcod,29.17513984,,PCOS/PCOD,Overweight
+74,5.2,37,Female,Unknown,Lightly Active,Eggetarian,Thyroid,29.45744715,,Thyroid,Overweight
+69,5.6,29,Female,Unknown,Sedentary,Non Vegetarian,Thyroid,23.68334881,,Thyroid,Normal
+84.8,5.6,28,Female,Unknown,Sedentary,Non Vegetarian,Pcos/Pcod,29.10649245,,PCOS/PCOD,Overweight
+54,5.6,35,Female,Egg,Sedentary,Non Vegetarian,Unknown,18.53479472,,Unknown,Normal
+90,5.4,22,Female,Unknown,Sedentary,Eggetarian,Nil,33.22194573,,Unknown,Obese
+90,5.4,22,Female,Unknown,Sedentary,Eggetarian,Nil,33.22194573,,Unknown,Obese
+66,5.6,24,Female,Unknown,Lightly Active,Non Vegetarian,Other,22.65363799,,Unknown,Normal
+70,5,27,Female,Unknown,Sedentary,Non Vegetarian,Unknown,30.13894917,,Unknown,Obese
+84,5.2,28,Female,Unknown,Lightly Active,Eggetarian,Pcos/Pcod,33.43818325,,PCOS/PCOD,Obese
+86,5.2,29,Female,Unknown,Lightly Active,Non Vegetarian,Thyroid,34.23433047,,Thyroid,Obese
+117,5.7,29,Female,"Fermented Food, Gluten , Yeast",Sedentary,Non Vegetarian,Pcos/Pcod,38.76200427,,PCOS/PCOD,Obese
+145,5.11,21,Male,Unknown,Sedentary,Non Vegetarian,Unknown,59.77179202,,Unknown,Obese
+88,5.6,24,Female,Unknown,Moderately Active,Non Vegetarian,Pcos/Pcod,30.20485066,,PCOS/PCOD,Obese
+89,5.6,37,Female,Unknown,Lightly Active,Vegetarian,Thyroid,30.5480876,,Thyroid,Obese
+60,5.2,22,Female,Unknown,Lightly Active,Vegetarian,Unknown,23.88441661,,Unknown,Normal
+90,5.3,32,Female,Unknown,Sedentary,Vegetarian,Post Partum,34.48743103,,Post Partum,Obese
+75,5.1,32,Male,Unknown,Very Active,Non Vegetarian,Unknown,31.03780397,,Unknown,Obese
+99,5.5,47,Female,Unknown,Moderately Active,Non Vegetarian,High Inflammation- Auto Immune,35.22734318,,"Autoimmune, Inflammation",Obese
+73,5.4,32,Female,Unknown,Sedentary,Eggetarian,Unknown,26.94668931,,Unknown,Overweight
+82,5.7,34,Female,Unknown,Sedentary,Non Vegetarian,Thyroid,27.16653291,,Thyroid,Overweight
+103,5.9,35,Male,Unknown,Sedentary,Eggetarian,High Fasting Insulin,31.8495482,,Unknown,Obese
+76,5.3,36,Female,Curd,Sedentary,Non Vegetarian,Diabetes,29.12271953,,Diabetes,Overweight
+70,5.6,33,Female,Unknown,Sedentary,Eggetarian,Unknown,24.02658575,,Unknown,Normal
+69.5,5.4,36,Female,Unknown,Moderately Active,Vegetarian,Pcos/Pcod,25.65472476,,PCOS/PCOD,Overweight
+80,5,35,Female,Unknown,Sedentary,Vegetarian,Pcos/Pcod,34.44451333,,PCOS/PCOD,Obese
+80,5,35,Female,Unknown,Sedentary,Vegetarian,Pcos/Pcod,34.44451333,,PCOS/PCOD,Obese
+80,5,35,Female,Unknown,Sedentary,Vegetarian,Pcos/Pcod,34.44451333,,PCOS/PCOD,Obese
+77,5,24,Female,Peanuts,Sedentary,Non Vegetarian,Other,33.15284408,,Unknown,Obese
+89,5.4,25,Female,Unknown,Lightly Active,Eggetarian,Other,32.852813,,Unknown,Obese
+98.88,5.3,37,Female,Unknown,Moderately Active,Vegetarian,Diabetes,37.89019089,,Diabetes,Obese
+98.88,5.3,37,Female,Unknown,Moderately Active,Eggetarian,Diabetes,37.89019089,,Diabetes,Obese
+72,5.5,27,Female,Chickpea,Very Active,Vegetarian,Unknown,25.61988595,,Unknown,Overweight
+75,5.5,25,Female,Paneer,Moderately Active,Vegetarian,Other,26.6873812,,Unknown,Overweight
+65.5,5.3,35,Female,Dairy,Lightly Active,Non Vegetarian,Depression,25.09918591,,Mental Health,Overweight
+58,5.1,33,Female,Pork,Sedentary,Non Vegetarian,Thyroid,24.0025684,,Thyroid,Normal
+64,5.6,37,Female,Unknown,Moderately Active,Non Vegetarian,Pcos/Pcod,21.96716412,,PCOS/PCOD,Normal
+90,5.3,41,Female,Unknown,Sedentary,Non Vegetarian,Unknown,34.48743103,,Unknown,Obese
+69,5.4,32,Female,Unknown,Lightly Active,Chicken And Egg In Non Veg,Thyroid,25.47015839,,Thyroid,Overweight
+68.1,5.5,28,Female,Unknown,Sedentary,Non Vegetarian,No Any,24.23214213,,Unknown,Normal
+58,5.1,36,Female,Unknown,Lightly Active,Eggetarian,Pcos/Pcod,24.0025684,,PCOS/PCOD,Normal
+90.45,5.5,24,Female,Unknown,Sedentary,Non Vegetarian,Unknown,32.18498173,,Unknown,Obese
+61,5,34,Female,Unknown,Sedentary,Vegetarian,Thyroid,26.26394142,,Thyroid,Overweight
+89,5.6,34,Female,Unknown,Lightly Active,Vegetarian,Had Major Abdominal Surgeries,30.5480876,,Unknown,Obese
+104,5.2,33,Female,Unknown,Lightly Active,Non Vegetarian,Pcos/Pcod,41.39965545,,PCOS/PCOD,Obese
+85,5.6,26,Female,Unknown,Sedentary,Non Vegetarian,Other,29.17513984,,Unknown,Overweight
+69,5.2,32,Female,Unknown,Sedentary,Eggetarian,Unknown,27.4670791,,Unknown,Overweight
+121,5.8,29,Female,Corn,I Go Into Moderately Active 3 Times A Week And Usually Complete 7K Steps Each Of Those 3 Moderately Active And Moderately Active From Home The Rest 2 Moderately Actives; Those Moderately Actives I Am Sedentaryt As Active.,Non Vegetarian,Other,38.71680025,,Unknown,Obese
+84.1,5.4,26,Female,Unknown,Lightly Active,Non Vegetarian,Pcos/Pcod,31.04406262,,PCOS/PCOD,Obese
+64,5.3,49,Female,Unknown,Lightly Active,Eggetarian,Diabetes,24.5243954,,Diabetes,Normal
+80,5,27,Female,Unknown,Lightly Active,Non Vegetarian,Pcos/Pcod,34.44451333,,PCOS/PCOD,Obese
+80,5,27,Female,Unknown,Lightly Active,Non Vegetarian,Pcos/Pcod,34.44451333,,PCOS/PCOD,Obese
+81,5.7,29,Female,Unknown,Lightly Active,Vegetarian,Other,26.83523373,,Unknown,Overweight
+93,5.2,29,Female,Unknown,Lightly Active,Vegetarian,Pcos/Pcod,37.02084574,,PCOS/PCOD,Obese
+85,5.1,36,Male,Unknown,Lightly Active,Non Vegetarian,Unknown,35.17617783,,Unknown,Obese
+74,5.6,29,Female,Unknown,Lightly Active,Eggetarian,Unknown,25.39953351,,Unknown,Overweight
+72,5.1,28,Female,"Mushroom, Peanuts",Lightly Active,Non Vegetarian,Nothing,29.79629181,,Unknown,Overweight
+79,5.5,26,Female,Unknown,Lightly Active,Non Vegetarian,Pcos/Pcod,28.1107082,,PCOS/PCOD,Overweight
+80,5.6,35,Female,Unknown,Sedentary,Non Vegetarian,"Gas Issues, Back Pain, Knee Pain",27.45895514,,"Digestive Issues, Pain",Overweight
+100,5.7,26,Female,Unknown,Lightly Active,Non Vegetarian,Pcos/Pcod,33.12991818,,PCOS/PCOD,Obese
+85,5.2,26,Female,Unknown,Lightly Active,Non Vegetarian,Other,33.83625686,,Unknown,Obese
+67,5.05,24,Female,Unknown,Sedentary,Non Vegetarian,Pcos/Pcod,28.27887454,,PCOS/PCOD,Overweight
+85,5.08,34,Female,Unknown,Lightly Active,Non Vegetarian,Pcos/Pcod,35.45370084,,PCOS/PCOD,Obese
+73,5.1,32,Female,Nuts,Sedentary,Vegetarian,Pcos/Pcod,30.2101292,,PCOS/PCOD,Obese
+85.5,5.5,35,Female,Unknown,Sedentary,Non Vegetarian,Thyroid,30.42361457,,Thyroid,Obese
+64,4.6,32,Female,Unknown,Lightly Active,Non Vegetarian,Pcos/Pcod,32.55625079,,PCOS/PCOD,Obese
+73,5.4,35,Female,Unknown,Moderately Active,Non Vegetarian,Unknown,26.94668931,,Unknown,Overweight
+74,5.3,31,Female,Unknown,Sedentary,Non Vegetarian,Unknown,28.35633218,,Unknown,Overweight
+74,5.3,27,Female,Unknown,Sedentary,Eggetarian,Unknown,28.35633218,,Unknown,Overweight
+79,5.4,40,Female,Unknown,Sedentary,I Can Eat Outside Chicken If Required But Cannot Cook .,Thyroid,29.1614857,,Thyroid,Overweight
+68,5.4,33,Female,Unknown,Lightly Active,Non Vegetarian,Post Partum,25.10102566,,Post Partum,Overweight
+93,5.4,34,Female,Unknown,Sedentary,Vegetarian,Other,34.32934392,,Unknown,Obese
+89,5.4,40,Female,Unknown,Very Active,Vegetarian,Inflammation,32.852813,,Inflammation,Obese
+102.4,5.6,33,Female,Unknown,Household Lightly Active,Non Vegetarian,Other,35.14746259,,Unknown,Obese
+96.7,6,25,Male,Unknown,Sedentary,Vegetarian,Diabetes,28.91305937,,Diabetes,Overweight
+87,5.5,32,Female,Unknown,Sedentary,Non Vegetarian,Other,30.95736219,,Unknown,Obese
+113,54,47,Female,Unknown,Moderately Active,Non Vegetarian,High Bp,0.417119985,,Blood Pressure,Underweight
+91,5.6,33,Female,Unknown,Moderately Active,Non Vegetarian,"No, Sometime I Have Pain In My Knee Joints Whenevr I Start Eating Sugar",31.23456148,,"Diabetes, Pain",Obese
+65.2,5.5,33,Female,Curd,Sedentary,Vegetarian,"Gastric, Urticaria And Acne",23.20023006,,"Digestive Issues, Skin Issues",Normal
+70,5.6,30,Female,Unknown,Moderately Active,Non Vegetarian,Unknown,24.02658575,,Unknown,Normal
+88,5.4,34,Female,Unknown,Lightly Active,Non Vegetarian,Diabetes,32.48368027,,Diabetes,Obese
+102,5.2,30,Female,Unknown,Lightly Active,Vegetarian,Thyroid,40.60350823,,Thyroid,Obese
+114,5.5,46,Female,Unknown,Lightly Active,Non Vegetarian,Thyroid,40.56481942,,Thyroid,Obese
+95,5.6,35,Female,Sea Food,Lightly Active,Non Vegetarian,Pcos/Pcod,32.60750923,,PCOS/PCOD,Obese
+62,5.2,31,Female,Unknown,Moderately Active,Vegetarian,Thyroid,24.68056383,,Thyroid,Normal
+69.3,5.3,26,Female,Mushroom,Lightly Active,Vegetarian,Other,26.55532189,,Unknown,Overweight
+73.5,5.1,29,Female,Unknown ,Sedentary,Eggetarian,No,30.41704789,,Unknown,Obese
+80,5.5,26,Female,Unknown,Sedentary,Vegetarian,Pcos/Pcod,28.46653995,,PCOS/PCOD,Overweight
+81,5.9,34,Male,Unknown,Sedentary,Non Vegetarian,Unknown,25.04673208,,Unknown,Overweight
+91,5.7,40,Male,Unknown ,Lightly Active,Non Vegetarian,Unknown,30.14822554,,Unknown,Obese
+94,5.2,27,Female,Unknown ,Lightly Active,Non Vegetarian,Thyroid,37.41891935,,Thyroid,Obese
+73.5,5.1,38,Female,Unknown ,Moderately Active,Vegetarian,Thyroid,30.41704789,,Thyroid,Obese
+59.7,5.3,31,Female,Unknown,Sedentary,Vegetarian,Thyroid,22.87666258,,Thyroid,Normal
+87.3,5.2,37,Female,Unknown,Sedentary,Eggetarian,Obesity,34.75182616,,Weight Issues,Obese
+84,5,34,Female,Unknown ,Lightly Active,Vegetarian,Post Partum,36.166739,,Post Partum,Obese
+87,5.4,38,Female,Unknown ,Very Active,Vegetarian,Knee Issues N High Triglycerides,32.11454754,,Cholesterol,Obese
+95,5.6,35,Female,Unknown,Lightly Active,Vegetarian,Unknown,32.60750923,,Unknown,Obese
+95,5.6,35,Female,Unknown,Lightly Active,Vegetarian,Unknown,32.60750923,,Unknown,Obese
+76,5.3,30,Female,Unknown,Sedentary,Non Vegetarian,Post Partum,29.12271953,,Post Partum,Overweight
+90,5.4,27,Female,Unknown,Lightly Active,Non Vegetarian,Unknown,33.22194573,,Unknown,Obese
+90,5.4,27,Female,Unknown,Lightly Active,Non Vegetarian,Unknown,33.22194573,,Unknown,Obese
+63.5,5.3,36,Female,Unknown,Lightly Active,Non Vegetarian,Unknown,24.33279856,,Unknown,Normal
+96,5.11,30,Male,Unknown,Lightly Active,Vegetarian,Thyroid,39.57304851,,Thyroid,Obese
+74,5.6,31,Female,Unknown,Lightly Active,Eggetarian,Unknown,25.39953351,,Unknown,Overweight
+64,5,30,Female,"Shrimp, Wheat",Moderately Active,Non Vegetarian,Pcos/Pcod,27.55561067,,PCOS/PCOD,Overweight
+66,5.3,50,Female,Unknown,Lightly Active,Vegetarian,Unknown,25.29078275,,Unknown,Overweight
+70,5.1,30,Female,Unknown,Moderately Active,Vegetarian,Unknown,28.96861704,,Unknown,Overweight
+85,5.2,36,Female,Unknown,Sedentary,Non Vegetarian,Unknown,33.83625686,,Unknown,Obese
+62,5.2,31,Female,Unknown,Moderately Active,Vegetarian,Thyroid,24.68056383,,Thyroid,Normal
+94,5.6,24,Female,Unknown,Lightly Active,Non Vegetarian,Pcos/Pcod,32.26427229,,PCOS/PCOD,Obese
+60.33,5.1,31,Female,Unknown,Lightly Active,Vegetarian,Diabetes,24.96680951,,Diabetes,Normal
+66,5.7,32,Female,Unknown,Moderately Active,Non Vegetarian,Post Partum,21.865746,,Post Partum,Normal
+62,5.5,24,Female,Unknown,Lightly Active,Vegetarian,Migraine,22.06156846,,Migraine,Normal
+67,5.3,27,Female,Unknown,Lightly Active,Non Vegetarian,Jaw Inflammation,25.67397643,,Inflammation,Overweight
+77,5,29,Female,Unknown,Moderately Active,Eggetarian,Pcos/Pcod,33.15284408,,PCOS/PCOD,Obese
+62.2,5.2,31,Female,"Peanuts,  Wheat ",Lightly Active,Vegetarian,"Thyroid, Gut Issues, Low Vitamin D",24.76017855,,"Thyroid, Vitamin Deficiency",Normal
+62,5,37,Female,Unknown ,Sedentary,Eggetarian,Unknown,26.69449783,,Unknown,Overweight
+82.7,5.1,22,Female,Unknown ,Very Active,Vegetarian,Unknown,34.22435184,,Unknown,Obese
+79,5.3,33,Female,Unknown ,Sedentary,Non Vegetarian,Other,30.27230057,,Unknown,Obese
+79.6,5.4,31,Male,Unknown,Sedentary,Eggetarian,Unknown,29.38296534,,Unknown,Overweight
+70,5.3,30,Female,Unknown,Lightly Active,Eggetarian,Post Partum,26.82355746,,Post Partum,Overweight
+80.5,5.2,30,Female,"Pineapple, Dairy",Moderately Active,Non Vegetarian,Unknown,32.04492561,,Unknown,Obese
+95,5.8,29,Female,Unknown,Sedentary,Non Vegetarian,Pcos/Pcod,30.3974878,,PCOS/PCOD,Obese
+69,5.7,25,Female,Unknown,Sedentary,Non Vegetarian,Unknown,22.85964354,,Unknown,Normal
+106,5.6,30,Female,Unknown,Moderately Active,Eggetarian,Unknown,36.38311557,,Unknown,Obese
+65,5.1,24,Female,Unknown,Moderately Active,Non Vegetarian,Pcos/Pcod,26.89943011,,PCOS/PCOD,Overweight
+81,5.2,31,Female,Unknown,Moderately Active,Non Vegetarian,Post Partum,32.24396242,,Post Partum,Obese
+86,5.3,37,Female,Unknown,Moderately Active,Eggetarian,Thyroid,32.95465631,,Thyroid,Obese
+76.7,4.11,20,Female,Dairy ,Lightly Active,Vegan,Insluin Resistance,48.87444006,,Unknown,Obese
+81,5,45,Male,Peanuts Fermented Food Citrus Fruits,Moderately Active,Vegetarian,Unknown,34.87506975,,Unknown,Obese
+79,5,33,Female,Unknown,Moderately Active,Non Vegetarian,Pcos/Pcod,34.01395692,,PCOS/PCOD,Obese
+70,5.5,36,Female,Unknown,Very Active,Eggetarian,No E,24.90822245,,Unknown,Normal
+88,5,45,Female,Unknown,Sedentary,Eggetarian,Unknown,37.88896467,,Unknown,Obese
+70,5.2,38,Female,Unknown,Lightly Active,Non Vegetarian,Thyroid,27.86515271,,Thyroid,Overweight
+59,5.8,37,Female,Unknown,Lightly Active,Eggetarian,Asthamatic,18.87843979,,Unknown,Normal
+95,5.3,30,Female,Unknown,Sedentary,Non Vegetarian,Pcos/Pcod,36.40339942,,PCOS/PCOD,Obese
+55,4.1,26,Female,Unknown,Moderately Active,Vegetarian,Unknown,35.21802932,,Unknown,Obese
+65.5,5.2,35,Female,"Banana, Chickoo ,Papaya",Sedentary,Vegetarian,Unknown,26.07382146,,Unknown,Overweight
+85,5.7,25,Female,Unknown,Lightly Active,Non Vegetarian,Unknown,28.16043045,,Unknown,Overweight
+85,5.7,25,Female,Unknown,Lightly Active,Non Vegetarian,Unknown,28.16043045,,Unknown,Overweight
+85,5.6,35,Female,Unknown,Lightly Active,Non Vegetarian,Uric Acid,29.17513984,,Unknown,Overweight
+85,5.6,35,Female,Unknown,Lightly Active,Non Vegetarian,Uric Acid,29.17513984,,Unknown,Overweight
+79.5,4,41,Female,Unknown,Sedentary,Vegetarian,Asthma,53.48317988,,Unknown,Obese
+79.5,4,41,Female,Unknown,Sedentary,Vegetarian,Asthma,53.48317988,,Unknown,Obese
+106,5.7,37,Male,Unknown,Lightly Active,Non Vegetarian,Unknown,35.11771327,,Unknown,Obese
+77.5,5.4,31,Female,Unknown,Lightly Active,Vegetarian,Pcos/Pcod,28.6077866,,PCOS/PCOD,Overweight
+83.3,5.4,30,Female,Unknown,Sedentary,Non Vegetarian,Unknown,30.74875644,,Unknown,Obese
+74,5.7,40,Female,Unknown,Lightly Active,Non Vegetarian,Post Partum,24.51613945,,Post Partum,Normal
+100.4,5.4,33,Female,Unknown,Sedentary,Non Vegetarian,Other,37.06092613,,Unknown,Obese
+100.4,5.4,33,Female,Unknown,Sedentary,Non Vegetarian,Other,37.06092613,,Unknown,Obese
+107,5.1,41,Male,Unknown,Lightly Active,Non Vegetarian,Unknown,44.28060033,,Unknown,Obese
+85,5.7,34,Female,"Beef, Egg",Moderately Active,Non Vegetarian,"I Have An Autoimmune Condition Called Lichen Plants, Skin Manifestation",28.16043045,,"Autoimmune, Skin Issues",Overweight
+70,5.2,42,Female,Unknown,Very Active,Vegetarian,Thyroid,27.86515271,,Thyroid,Overweight
+98,4.12,34,Female,Unknown,Lightly Active,Eggetarian,Pcos/Pcod,62.14435979,,PCOS/PCOD,Obese
+106.4,5.6,35,Female,Unknown,Lightly Active,Vegetarian,Pre Diabetic,36.52041034,,Diabetes,Obese
+83,5.2,33,Female,Unknown,Sedentary,Non Vegetarian,Diabetes,33.04010964,,Diabetes,Obese
+86.5,5.4,30,Female,Unknown,Sedentary,Non Vegetarian,Thyroid,31.92998117,,Thyroid,Obese
+89,5.3,40,Female,Unknown,Sedentary,Vegetarian,Unknown,34.10423735,,Unknown,Obese
+69,5.2,40,Female,Unknown,Sedentary,Non Vegetarian,Autoimmune/ Inflammation,27.4670791,,"Autoimmune, Inflammation",Overweight
+69,5.2,40,Female,Unknown,Sedentary,Non Vegetarian,Autoimmune/ Inflammation,27.4670791,,"Autoimmune, Inflammation",Overweight
+80.3,5.7,25,Female,Unknown,Very Active,Non Vegetarian,Pcos/Pcod,26.6033243,,PCOS/PCOD,Overweight
+62.5,5.1,28,Female,Unknown,Lightly Active,Non Vegetarian,Other,25.86483664,,Unknown,Overweight
+82,5.7,25,Female,Unknown,Moderately Active,Vegetarian,Unknown,27.16653291,,Unknown,Overweight
+115,5.4,27,Female,Unknown,Moderately Active,Eggetarian,Pcos/Pcod,42.45026399,,PCOS/PCOD,Obese
+82,5.2,33,Female,Unknown,Moderately Active,Vegetarian,Post Partum,32.64203603,,Post Partum,Obese
+90,5.6,30,Female,Unknown,Sedentary,Vegetarian,Other,30.89132454,,Unknown,Obese
+64,5.1,27,Female,Unknown,Sedentary,Non Vegetarian,Pcos/Pcod,26.48559272,,PCOS/PCOD,Overweight
+64,5.1,33,Female,Unknown,Lightly Active,Non Vegetarian,Unknown,26.48559272,,Unknown,Overweight
+83,5.3,39,Female,"Celery, Kiwi ",Moderately Active,Vegetarian,Pcos/Pcod,31.80507528,,PCOS/PCOD,Obese
+63,5.1,37,Female,Unknown,Moderately Active,Non Vegetarian,Unknown,26.07175533,,Unknown,Overweight
+74.5,5.2,37,Female,Unknown,Lightly Active,Non Vegetarian,Other,29.65648395,,Unknown,Overweight
+73,5.5,27,Female,Unknown,Lightly Active,Eggetarian,No,25.9757177,,Unknown,Overweight
+85,5.4,40,Female,Unknown,Sedentary,Eggetarian,Unknown,31.37628208,,Unknown,Obese
+70,5.1,40,Female,Unknown,Lightly Active,Vegetarian,Unknown,28.96861704,,Unknown,Overweight
+70,5.1,40,Female,Unknown,Lightly Active,Vegetarian,Unknown,28.96861704,,Unknown,Overweight
+85,5.1,23,Female,Unknown,Lightly Active,Non Vegetarian,Other,35.17617783,,Unknown,Obese
+89,5.5,40,Female,Unknown,Sedentary,Vegetarian,Other,31.66902569,,Unknown,Obese
+76.5,5.08,34,Female,Unknown,Moderately Active,Non Vegetarian,Pcos/Pcod,31.90833076,,PCOS/PCOD,Obese
+88,5,45,Female,Unknown,Sedentary,Eggetarian,Pcos/Pcod,37.88896467,,PCOS/PCOD,Obese
+67,5.3,37,Female,Unknown,Moderately Active,Non Vegetarian,Pcos/Pcod,25.67397643,,PCOS/PCOD,Overweight
+88,5.6,34,Male,Unknown,Moderately Active ,Non Vegetarian,Unknown,30.20485066,,Unknown,Obese
+85,5.6,27,Female,Egg,Very Active,Non Vegetarian,Pcos/Pcod,29.17513984,,PCOS/PCOD,Overweight
+80,5.5,28,Female,Unknown,Lightly Active,Non Vegetarian,Nothing,28.46653995,,Unknown,Overweight
+75.7,5.4,30,Female,"Shrimp, Prawns, Crab",Lightly Active,Non Vegetarian,Other,27.94334769,,Unknown,Overweight
+70,5.3,29,Female,Unknown,Sedentary,Vegetarian,Unknown,26.82355746,,Unknown,Overweight
+125,5.8,25,Male,Unknown,Sedentary,Eggetarian,Thyroid,39.99669447,,Thyroid,Obese
+88,5.4,31,Female,Unknown,Lightly Active,Vegetarian,Pcos/Pcod,32.48368027,,PCOS/PCOD,Obese
+76,5.3,30,Female,Unknown,Lightly Active,Vegetarian,Pcos/Pcod,29.12271953,,PCOS/PCOD,Overweight
+85,5.7,27,Male,Diary,Moderately Active,Eggetarian,Psoriasis,28.16043045,,Skin Issues,Overweight
+85,5.7,27,Male,Diary,Moderately Active,Eggetarian,Psoriasis,28.16043045,,Skin Issues,Overweight
+89.5,5.1,28,Female,Unknown,Sedentary,Non Vegetarian,Pcos/Pcod,37.03844607,,PCOS/PCOD,Obese
+77.6,5.3,25,Female,Unknown,Lightly Active,Non Vegetarian,Other,29.73582942,,Unknown,Overweight
+79,5.4,29,Female,Seafood,Very Active,Non Vegetarian,Pcos/Pcod,29.1614857,,PCOS/PCOD,Overweight
+75,5.5,38,Female,Dairy ,Moderately Active,Non Vegetarian,Thyroid,26.6873812,,Thyroid,Overweight
+100,5.3,24,Female,Kiwi,Sedentary,Non Vegetarian,Pcos/Pcod,38.31936781,,PCOS/PCOD,Obese
+88.5,5.2,32,Female,Unknown,Sedentary,Vegetarian,Unknown,35.22951449,,Unknown,Obese
+78,5.3,29,Female,Unknown,Sedentary,Vegetarian,Post Partum,29.88910689,,Post Partum,Overweight
+107,5.1,41,Male,Unknown,Moderately Active,Non Vegetarian,Unknown,44.28060033,,Unknown,Obese
+80,5.6,22,Female,Unknown ,Sedentary,Vegetarian,Pcos/Pcod,27.45895514,,PCOS/PCOD,Overweight
+100,5.5,40,Female,Dairy ,Lightly Active,Vegetarian ,Pcos/Pcod,35.58317493,,PCOS/PCOD,Obese
+52,5,33,Female,Unknown,Moderately Active,Eggetarian,High Bp,22.38893367,,Blood Pressure,Normal
+97,5.4,31,Female,"Besan ,Broccoli, Cabbage",Moderately Active,Eggetarian,Pcos/Pcod,35.80587484,,PCOS/PCOD,Obese
+95,5.3,28,Female,Unknown,Sedentary,Non Vegetarian,"Stress, Grade 1 Fatty Liver, Iron Deficiency",36.40339942,,"Anemia, Fatty Liver, Mental Health, Vitamin Deficiency",Obese
+73,5.4,29,Female,Unknown,Sedentary,Vegan,Unknown,26.94668931,,Unknown,Overweight
+93,5.18,5,Female,Unknown,Lightly Active,Non Vegetarian,Other,37.30727288,,Unknown,Obese
+90.5,5.1,48,Female,Unknown,Moderately Active,Eggetarian,Unknown,37.45228346,,Unknown,Obese
+92.8,5.5,41,Female,Unknown,Lightly Active,Vegetarian,Thyroid,33.02118634,,Thyroid,Obese
+74.5,5.4,30,Female,Unknown,Moderately Active,Eggetarian,Pcos/Pcod,27.50038841,,PCOS/PCOD,Overweight
+79,5.5,47,Female,Walnuts,Moderately Active,Non Vegetarian,Unknown,28.1107082,,Unknown,Overweight
+68,5.5,48,Female,Unknown,Moderately Active,Non Vegetarian,Unknown,24.19655895,,Unknown,Normal
+68,5.5,48,Female,Unknown,Moderately Active,Non Vegetarian,Unknown,24.19655895,,Unknown,Normal
+91,5.5,26,Female,Unknown,Sedentary,Vegetarian,Unknown,32.38068919,,Unknown,Obese
+70,5.5,29,Female,Unknown,Sedentary,Vegetarian,-,24.90822245,,Unknown,Normal
+62,5.5,34,Female,Dairy ,Moderately Active,Non Vegetarian,Endometriosis,22.06156846,,Unknown,Normal
+76,5.5,25,Female,"Mutton , Brinjal ,Prawns",Moderately Active,Non Vegetarian,Diabetes,27.04321295,,Diabetes,Overweight
+86,5.4,26,Female,Mango,Lightly Active,Non Vegetarian,Unknown,31.74541481,,Unknown,Obese
+96,5.5,32,Female,Unknown,Lightly Active,Vegetarian,Pcos/Pcod,34.15984793,,PCOS/PCOD,Obese
+102,5.5,35,Female,Unknown,Lightly Active,Non Vegetarian,Post Partum,36.29483843,,Post Partum,Obese
+64.8,5.2,36,Female,Unknown,Sedentary,Vegetarian,Thyroid,25.79516993,,Thyroid,Overweight
+122.8,5.7,29,Female,Unknown,Sedentary,Vegetarian,Pcos/Pcod,40.68353953,,PCOS/PCOD,Obese
+72,5.3,31,Female,Unknown,Lightly Active,Non Vegetarian,Unknown,27.58994482,,Unknown,Overweight
+73,5.5,27,Female,Unknown,Lightly Active,Non Vegetarian,No,25.9757177,,Unknown,Overweight
+72,5.3,55,Female,Unknown,Moderately Active,Non Vegetarian,Thyroid,27.58994482,,Thyroid,Overweight
+68,5.2,28,Female,Mushrooms,Moderately Active,Vegetarian,Other,27.06900549,,Unknown,Overweight
+65,5.2,27,Female,Unknown,Sedentary,Non Vegetarian,Unknown,25.87478466,,Unknown,Overweight
+67.65,5.4,31,Female,Unknown,Moderately Active,Vegetarian,Skin Sensitivity,24.97182921,,Skin Issues,Normal
+91.95,5.8,27,Female,Unknown,Sedentary,Eggetarian,Pcos/Pcod,29.42156845,,PCOS/PCOD,Overweight
+81,5.2,38,Female,Unknown,Sedentary,Non Vegetarian,Post Partum,32.24396242,,Post Partum,Obese
+103.2,5.8,32,Female,Pulse,Sedentary,Vegetarian,Post Partum,33.02127096,,Post Partum,Obese
+67,5.2,37,Female,Unknown,Sedentary,Vegetarian,Unknown,26.67093188,,Unknown,Overweight
+73.3,5.2,34,Female,Unknown,Lightly Active,Non Vegetarian,Bloating And Weight Gain,29.17879562,,"Digestive Issues, Weight Issues",Overweight
+57,4.1,38,Female,Unknown,Sedentary,Vegetarian,Unknown,36.49868493,,Unknown,Obese
+71.5,5,55,Female,Mushroom,Lightly Active,Non Vegetarian,Bp,30.78478379,,Blood Pressure,Obese
+97,5,34,Female,Unknown,Sedentary,Vegetarian,Pcos/Pcod,41.76397242,,PCOS/PCOD,Obese
+68.2,5.4,38,Female,Unknown,Moderately Active,Eggetarian,Anti Inflammatory,25.17485221,,Inflammation,Overweight
+61,5.2,42,Female,Unknown,Lightly Active,Vegetarian,Other,24.28249022,,Unknown,Normal
+85,5.7,29,Female,Mushroom,Moderately Active,Vegetarian,Unknown,28.16043045,,Unknown,Overweight
+67,5.3,36,Female,Unknown ,Sedentary,Eggetarian,Other,25.67397643,,Unknown,Overweight
+98,5.2,35,Female,Unknown,Lightly Active,Non Vegetarian,Pcos/Pcod,39.01121379,,PCOS/PCOD,Obese
+88,5.5,26,Female,Unknown ,Lightly Active,Non Vegetarian,Pcos/Pcod,31.31319394,,PCOS/PCOD,Obese
+78.2,5.1,31,Female,Unknown,Sedentary,Eggetarian,Pcos/Pcod,32.36208361,,PCOS/PCOD,Obese
+100.2,5.7,32,Male,Unknown ,Sedentary,Non Vegetarian,Unknown,33.19617802,,Unknown,Obese
+75,5.4,35,Female,Unknown ,Sedentary,Non Vegetarian,Pcos/Pcod,27.68495478,,PCOS/PCOD,Overweight
+75,5.4,35,Female,Unknown ,Sedentary,Non Vegetarian,Pcos/Pcod,27.68495478,,PCOS/PCOD,Overweight
+76,5.6,43,Female,Unknown,Lightly Active,Non Vegetarian,Unknown,26.08600739,,Unknown,Overweight
+72,5.4,34,Female,Unknown,Sedentary,Eggetarian,Pcos/Pcod,26.57755658,,PCOS/PCOD,Overweight
+63,5.5,40,Female,Unknown,Moderately Active,Eggetarian,Unknown,22.41740021,,Unknown,Normal
+70,5.3,37,Female,Unknown,Lightly Active,Vegetarian,"Hypertension, Migraine",26.82355746,,"Blood Pressure, Migraine",Overweight
