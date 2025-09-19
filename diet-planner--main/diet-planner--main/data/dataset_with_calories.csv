@@ -1,0 +1,1763 @@
+Weight,Height,Age,Gender,Activity level,BMI_Category,Weight_kg,BMI,BMI_Detailed,Weight_Category,Activity_Score,Calories
+85.0,5.05,39.0,Female,Sedentary,Obese,85.0,35.87618411607985,Obese,Very_Heavy,1.0,1747.23
+72.0,4.9,28.0,Female,Sedentary,Obese,72.0,32.27828196597667,Obese,Heavy,1.0,1622.94
+97.1,5.5,26.0,Female,Lightly Active,Obese,97.1,34.55126285826492,Obese,Very_Heavy,2.0,2375.66
+94.9,5.3,29.0,Female,Sedentary,Obese,94.9,36.365080047908606,Obese,Very_Heavy,1.0,1983.18
+102.3,5.5,41.0,Female,Sedentary,Obese,102.3,36.40158795469106,Obese,Extreme,1.0,2045.7
+46.0,5.5,26.0,Female,Very Active,Underweight,46.0,16.777298556898373,Underweight,Light,4.0,2098.89
+61.7,5.1,19.0,Female,Moderately Active,Overweight,61.7,25.533766732448672,Overweight,Normal,3.0,2065.45
+75.0,5.5,37.0,Female,Lightly Active,Overweight,75.0,26.687381198453856,Overweight,Heavy,2.0,1996.16
+84.0,5.3,42.0,Female,Moderately Active,Obese,84.0,32.18826895705293,Obese,Very_Heavy,3.0,2291.91
+97.5,5.6,34.0,Female,Lightly Active,Obese,97.5,33.46560158256371,Obese,Very_Heavy,2.0,2352.35
+69.3,5.2,50.5,Female,Sedentary,Overweight,69.3,27.58650117891951,Overweight,Heavy,1.0,1524.12
+71.5,5.1,35.0,Female,Moderately Active,Overweight,71.5,29.5893731178295,Overweight,Heavy,3.0,2093.35
+79.0,5.2,34.0,Female,Sedentary,Obese,79.0,31.44781519674807,Obese,Heavy,1.0,1739.52
+85.5,5.1,39.0,Female,Sedentary,Obese,85.5,35.38309652551639,Obese,Very_Heavy,1.0,1764.66
+118.5,5.4,44.0,Female,Sedentary,Obese,118.21875,43.56732230973144,Obese,Extreme,1.0,2195.86
+86.0,5.1,39.0,Female,Sedentary,Obese,86.0,35.59001521864807,Obese,Very_Heavy,1.0,1770.66
+85.0,5.4,26.0,Female,Lightly Active,Obese,85.0,31.376282078886355,Obese,Very_Heavy,2.0,2183.09
+72.0,5.1,35.0,Female,Moderately Active,Overweight,72.0,29.796291810961172,Overweight,Heavy,3.0,2101.1
+88.0,5.3,27.0,Female,Moderately Active,Obese,88.0,33.72104366929354,Obese,Very_Heavy,3.0,2470.16
+102.0,5.4,28.0,Female,Sedentary,Obese,102.0,37.651538494663626,Obese,Extreme,1.0,2097.24
+62.0,5.4,24.0,Female,Lightly Active,Normal,62.0,22.886229281070047,Normal,Normal,2.0,1880.59
+92.5,5.6,32.0,Female,Lightly Active,Obese,92.5,31.74941688602198,Obese,Very_Heavy,2.0,2297.35
+57.25,5.0,32.0,Female,Sedentary,Normal,57.25,24.649354854265262,Normal,Normal,1.0,1444.8
+80.5,5.65,40.0,Male,Lightly Active,Overweight,80.5,27.143700792391964,Overweight,Very_Heavy,2.0,2318.7
+84.0,5.4,50.5,Female,Sedentary,Obese,84.0,31.007149348546516,Obese,Very_Heavy,1.0,1746.24
+80.5,5.65,41.0,Male,Lightly Active,Overweight,80.5,27.143700792391964,Overweight,Very_Heavy,2.0,2311.82
+70.0,5.3,24.0,Female,Sedentary,Overweight,70.0,26.823557464210772,Overweight,Heavy,1.0,1714.38
+87.0,5.2,29.0,Female,Lightly Active,Obese,87.0,34.63240407743142,Obese,Very_Heavy,2.0,2137.57
+75.0,5.0,35.0,Female,Very Active,Obese,75.0,32.29173125012917,Obese,Heavy,4.0,2357.21
+75.0,5.2,49.0,Female,Sedentary,Overweight,75.0,29.855520756406396,Overweight,Heavy,1.0,1601.52
+95.0,5.4,38.0,Female,Sedentary,Obese,95.0,35.06760938228475,Obese,Very_Heavy,1.0,1953.24
+91.0,5.1,34.0,Female,Sedentary,Obese,91.0,37.65920214996481,Obese,Very_Heavy,1.0,1860.66
+79.0,5.4,25.0,Female,Sedentary,Overweight,79.0,29.16148569684732,Overweight,Heavy,1.0,1839.24
+75.5,5.4,37.0,Female,Lightly Active,Overweight,75.5,27.86952114065788,Overweight,Heavy,2.0,1976.84
+67.0,5.2,35.0,Female,Lightly Active,Overweight,67.0,26.67093187572305,Overweight,Heavy,2.0,1821.32
+83.0,5.1,32.0,Female,Moderately Active,Obese,83.0,34.34850305985802,Obese,Very_Heavy,3.0,2294.85
+118.5,5.3,34.0,Female,Lightly Active,Obese,118.21875,43.56732230973144,Obese,Extreme,2.0,2558.65
+87.5,5.7,36.0,Male,Moderately Active,Overweight,87.5,28.988678407574653,Overweight,Very_Heavy,3.0,2768.07
+76.0,5.4,38.0,Female,Sedentary,Overweight,76.0,28.0540875058278,Overweight,Heavy,1.0,1725.24
+60.0,5.4,31.0,Female,Sedentary,Normal,60.0,22.14796382039037,Normal,Normal,1.0,1575.24
+108.0,5.3,50.5,Female,Lightly Active,Obese,108.0,41.38491723049662,Obese,Extreme,2.0,2304.71
+75.0,5.6,33.0,Female,Lightly Active,Overweight,75.0,25.74277044812593,Overweight,Heavy,2.0,2049.85
+65.0,5.4,35.0,Female,Sedentary,Normal,65.0,23.993627472089564,Normal,Normal,1.0,1611.24
+54.0,5.0,30.0,Female,Lightly Active,Normal,54.0,23.250046500093,Normal,Normal,2.0,1624.56
+98.0,5.7,20.0,Female,Lightly Active,Obese,98.0,32.46731981648361,Obese,Very_Heavy,2.0,2481.67
+70.0,5.4,34.0,Female,Moderately Active,Overweight,70.0,25.83929112378876,Overweight,Heavy,3.0,2166.43
+85.0,5.0,44.0,Female,Sedentary,Obese,85.0,36.597295416813054,Obese,Very_Heavy,1.0,1705.8
+88.0,5.6,36.0,Female,Lightly Active,Obese,88.0,30.204850659134426,Obese,Very_Heavy,2.0,2207.97
+87.2,5.1,29.0,Female,Lightly Active,Obese,87.2,36.08662008216409,Obese,Very_Heavy,2.0,2114.13
+95.0,5.1,33.0,Male,Lightly Active,Obese,95.0,39.31455169501822,Obese,Very_Heavy,2.0,2422.13
+70.0,5.2,32.0,Female,Moderately Active,Overweight,70.0,27.865152705979305,Overweight,Heavy,3.0,2122.88
+106.0,5.3,24.0,Female,Sedentary,Obese,106.0,40.618529874376314,Obese,Extreme,1.0,2146.38
+102.0,5.4,37.0,Female,Lightly Active,Obese,102.0,37.651538494663626,Obese,Extreme,2.0,2341.21
+75.0,5.2,36.0,Female,Sedentary,Overweight,75.0,29.855520756406396,Overweight,Heavy,1.0,1679.52
+77.0,5.4,47.0,Female,Lightly Active,Overweight,77.0,28.423220236167637,Overweight,Heavy,2.0,1928.71
+94.0,5.5,26.0,Female,Moderately Active,Obese,94.0,33.4481844353955,Obese,Very_Heavy,3.0,2629.96
+72.8,5.2,30.0,Female,Moderately Active,Overweight,72.8,28.979758814218474,Overweight,Heavy,3.0,2181.78
+74.0,5.1,29.0,Female,Lightly Active,Obese,74.0,30.62396658348787,Obese,Heavy,2.0,1932.63
+76.0,5.6,27.0,Female,Lightly Active,Overweight,76.0,26.086007387434275,Overweight,Heavy,2.0,2104.85
+86.0,5.3,31.0,Female,Moderately Active,Obese,86.0,32.95465631317324,Obese,Very_Heavy,3.0,2408.16
+62.0,5.3,37.0,Female,Moderately Active,Normal,62.0,23.758008039729543,Normal,Normal,3.0,1989.66
+86.0,5.6,30.0,Female,Moderately Active,Overweight,86.0,29.518376780517734,Overweight,Very_Heavy,3.0,2504.49
+73.0,5.7,29.0,Male,Moderately Active,Normal,73.0,24.18484027146228,Normal,Heavy,3.0,2597.57
+84.0,5.5,25.0,Female,Sedentary,Overweight,84.0,29.889866942268316,Overweight,Very_Heavy,1.0,1922.1
+66.0,5.3,43.0,Female,Lightly Active,Overweight,66.0,25.290782751970156,Overweight,Heavy,2.0,1778.77
+62.0,5.3,21.0,Female,Lightly Active,Normal,62.0,23.758008039729543,Normal,Normal,2.0,1875.02
+89.0,5.3,24.0,Female,Moderately Active,Obese,89.0,34.104237347353695,Obese,Very_Heavy,3.0,2508.91
+95.0,5.6,31.0,Female,Sedentary,Obese,95.0,32.60750923429284,Obese,Very_Heavy,1.0,2040.96
+85.0,5.2,36.0,Female,Moderately Active,Obese,85.0,33.83625685726058,Obese,Very_Heavy,3.0,2324.38
+98.15,5.4,38.0,Female,Lightly Active,Obese,98.15,36.230377482855246,Obese,Very_Heavy,2.0,2281.4
+69.7,5.1,30.0,Female,Lightly Active,Overweight,69.7,28.84446582255547,Overweight,Heavy,2.0,1866.63
+60.0,5.3,21.0,Female,Sedentary,Normal,60.0,22.991620683609234,Normal,Normal,1.0,1612.38
+78.0,5.2,32.0,Female,Moderately Active,Obese,78.0,31.049741586662652,Obese,Heavy,3.0,2246.88
+96.3,4.75,33.0,Female,Sedentary,Obese,96.3,43.56732230973144,Obese,Very_Heavy,1.0,1850.25
+64.5,5.1,32.0,Female,Moderately Active,Overweight,64.5,26.69251141398605,Overweight,Normal,3.0,2008.1
+56.2,5.0,26.0,Female,Sedentary,Normal,56.2,24.197270616763454,Normal,Normal,1.0,1468.2
+83.0,5.9,25.0,Female,Lightly Active,Overweight,83.0,25.665169910569,Overweight,Very_Heavy,2.0,2293.43
+89.85,5.2,32.0,Female,Sedentary,Obese,89.85,35.76691386617486,Obese,Very_Heavy,1.0,1881.72
+88.0,5.3,24.0,Female,Very Active,Obese,88.0,33.72104366929354,Obese,Very_Heavy,4.0,2774.92
+79.0,5.3,40.0,Female,Sedentary,Obese,79.0,30.272300566752158,Obese,Heavy,1.0,1726.38
+76.0,5.3,33.0,Female,Sedentary,Overweight,76.0,29.122719532571697,Overweight,Heavy,1.0,1732.38
+65.5,5.3,42.0,Female,Moderately Active,Overweight,65.5,25.09918591294008,Overweight,Heavy,3.0,2005.16
+71.5,5.6,36.0,Female,Sedentary,Normal,71.5,24.54144116054672,Normal,Heavy,1.0,1728.96
+69.0,5.3,26.0,Female,Sedentary,Overweight,69.0,26.44036378615062,Overweight,Heavy,1.0,1690.38
+91.0,5.3,38.0,Female,Sedentary,Obese,91.0,34.87062470347401,Obese,Very_Heavy,1.0,1882.38
+60.0,5.2,36.0,Female,Lightly Active,Normal,60.0,23.884416605125118,Normal,Normal,2.0,1718.2
+76.0,5.5,30.0,Female,Sedentary,Overweight,76.0,27.043212947766573,Overweight,Heavy,1.0,1796.1
+75.0,5.2,44.0,Female,Moderately Active,Overweight,75.0,29.855520756406396,Overweight,Heavy,3.0,2107.38
+80.0,5.2,50.0,Female,Sedentary,Obese,80.0,31.84588880683349,Obese,Heavy,1.0,1655.52
+76.6,5.4,37.0,Female,Moderately Active,Overweight,76.6,28.2755671440317,Overweight,Heavy,3.0,2245.49
+54.0,5.3,48.0,Female,Moderately Active,Normal,54.0,20.69245861524831,Normal,Normal,3.0,1780.41
+60.0,4.75,24.0,Female,Lightly Active,Obese,60.0,28.624249307593722,Overweight,Normal,2.0,1682.83
+102.0,5.5,31.0,Female,Sedentary,Obese,102.0,36.29483842989724,Obese,Extreme,1.0,2102.1
+90.0,5.8,38.0,Male,Sedentary,Overweight,90.0,28.79762002092375,Overweight,Very_Heavy,1.0,2183.88
+75.0,5.4,24.0,Female,Lightly Active,Overweight,75.0,27.68495477548796,Overweight,Heavy,2.0,2059.34
+69.0,5.4,31.0,Female,Lightly Active,Overweight,69.0,25.470158393448923,Overweight,Heavy,2.0,1928.71
+70.0,5.6,41.0,Female,Lightly Active,Normal,70.0,24.0265857515842,Normal,Heavy,2.0,1926.1
+85.0,5.3,33.0,Female,Lightly Active,Obese,85.0,32.57146263511308,Obese,Very_Heavy,2.0,2108.77
+114.0,5.6,32.0,Female,Lightly Active,Obese,114.0,39.12901108115141,Obese,Extreme,2.0,2592.98
+66.5,5.023,25.0,Female,Lightly Active,Overweight,66.5,28.370393768247844,Overweight,Heavy,2.0,1836.84
+84.0,5.6,26.0,Female,Lightly Active,Overweight,84.0,28.831902901901042,Overweight,Very_Heavy,2.0,2221.72
+108.0,5.8,34.0,Female,Lightly Active,Obese,108.0,34.5571440251085,Obese,Extreme,2.0,2549.11
+94.0,5.6,32.0,Female,Sedentary,Obese,94.0,32.2642722949845,Obese,Very_Heavy,1.0,2022.96
+92.0,5.1,47.0,Female,Sedentary,Obese,92.0,38.073039536228166,Obese,Very_Heavy,1.0,1794.66
+75.0,5.7,32.0,Female,Lightly Active,Normal,75.0,24.847438635063988,Normal,Heavy,2.0,2082.92
+118.5,5.8,40.0,Male,Sedentary,Obese,118.21875,37.916866360882935,Obese,Extreme,1.0,2510.5
+58.5,5.1,27.0,Female,Lightly Active,Normal,58.5,24.20948709640595,Normal,Normal,2.0,1733.26
+68.3,5.1,21.0,Female,Sedentary,Overweight,68.3,28.265093481786778,Overweight,Heavy,1.0,1666.26
+71.0,5.8,42.0,Male,Lightly Active,Normal,71.0,22.71812246095096,Normal,Heavy,2.0,2213.61
+71.0,5.4,35.0,Female,Moderately Active,Overweight,71.0,26.2084238541286,Overweight,Heavy,3.0,2174.18
+60.0,5.15,31.0,Female,Sedentary,Normal,60.0,24.350443020174687,Normal,Normal,1.0,1518.09
+77.0,5.05,26.0,Female,Moderately Active,Obese,77.0,32.49960208162528,Obese,Heavy,3.0,2233.59
+75.0,5.3,38.0,Female,Lightly Active,Overweight,75.0,28.73952585451154,Overweight,Heavy,2.0,1936.89
+85.0,5.4,24.0,Female,Sedentary,Obese,85.0,31.376282078886355,Obese,Very_Heavy,1.0,1917.24
+76.0,5.2,32.0,Female,Sedentary,Obese,76.0,30.253594366491814,Obese,Heavy,1.0,1715.52
+64.0,5.3,24.0,Female,Sedentary,Normal,64.0,24.52439539584985,Normal,Normal,1.0,1642.38
+78.0,5.5,35.0,Female,Lightly Active,Overweight,78.0,27.75487644639201,Overweight,Heavy,2.0,2051.16
+73.0,5.2,29.0,Female,Very Active,Overweight,73.0,29.059373536235558,Overweight,Heavy,4.0,2440.18
+60.0,5.0,27.0,Female,Moderately Active,Overweight,60.0,25.83338500010333,Overweight,Normal,3.0,1947.58
+54.9,5.4,32.0,Female,Moderately Active,Normal,54.9,20.265386895657187,Normal,Normal,3.0,1947.89
+80.0,5.6,40.0,Female,Sedentary,Overweight,80.0,27.45895514466766,Overweight,Heavy,1.0,1806.96
+104.0,5.3,42.0,Female,Lightly Active,Obese,104.0,39.852142518256,Obese,Extreme,2.0,2308.14
+94.0,5.1,34.0,Male,Lightly Active,Obese,94.0,38.900714308754864,Obese,Very_Heavy,2.0,2401.51
+95.0,5.3,37.0,Female,Lightly Active,Obese,95.0,36.40339941571462,Obese,Very_Heavy,2.0,2218.77
+85.0,5.5,35.0,Female,Lightly Active,Obese,85.0,30.245698691581037,Obese,Very_Heavy,2.0,2147.41
+118.5,5.949999999999999,43.0,Female,Lightly Active,Underweight,118.21875,36.02918958774386,Obese,Extreme,2.0,2667.04
+117.0,5.51,33.0,Female,Sedentary,Obese,117.0,41.48133631822812,Obese,Extreme,1.0,2272.39
+88.45,5.4,29.0,Female,Sedentary,Obese,88.45,32.6497899985588,Obese,Very_Heavy,1.0,1928.64
+64.0,5.05,35.0,Female,Sedentary,Overweight,64.0,27.012656275636594,Overweight,Normal,1.0,1519.23
+66.0,5.4,31.0,Female,Moderately Active,Normal,66.0,24.362760202429406,Normal,Heavy,3.0,2127.68
+69.0,5.4,50.5,Female,Very Active,Overweight,69.0,25.470158393448923,Overweight,Heavy,4.0,2251.47
+66.95,5.2,24.0,Female,Very Active,Overweight,66.95,26.651028195218778,Overweight,Heavy,4.0,2378.95
+69.0,5.4,37.0,Female,Lightly Active,Overweight,69.0,25.470158393448923,Overweight,Heavy,2.0,1887.46
+69.0,5.2,33.0,Female,Moderately Active,Overweight,69.0,27.467079095893887,Overweight,Heavy,3.0,2099.63
+89.0,5.2,33.0,Female,Moderately Active,Obese,89.0,35.428551297602255,Obese,Very_Heavy,3.0,2409.63
+75.0,5.5,26.0,Female,Lightly Active,Overweight,75.0,26.687381198453856,Overweight,Heavy,2.0,2071.78
+93.0,5.8,40.0,Female,Sedentary,Overweight,93.0,29.757540688287875,Overweight,Very_Heavy,1.0,2008.68
+78.5,5.4,30.0,Female,Lightly Active,Overweight,78.5,28.976919331677397,Overweight,Heavy,2.0,2066.21
+73.0,5.6,32.0,Female,Sedentary,Overweight,73.0,25.05629656950924,Overweight,Heavy,1.0,1770.96
+88.0,5.5,30.0,Female,Lightly Active,Obese,88.0,31.31319393951919,Obese,Very_Heavy,2.0,2223.03
+94.0,5.7,33.0,Female,Moderately Active,Obese,94.0,31.142123089280197,Obese,Very_Heavy,3.0,2634.77
+87.0,5.7,31.0,Female,Lightly Active,Overweight,87.0,28.823028816674224,Overweight,Very_Heavy,2.0,2254.79
+77.0,5.3,30.0,Female,Sedentary,Overweight,77.0,29.50591321063185,Overweight,Heavy,1.0,1762.38
+70.0,5.2,36.0,Female,Sedentary,Overweight,70.0,27.865152705979305,Overweight,Heavy,1.0,1619.52
+78.0,5.2,28.0,Female,Lightly Active,Obese,78.0,31.049741586662652,Obese,Heavy,2.0,2020.7
+66.95,5.2,23.0,Female,Moderately Active,Overweight,66.95,26.651028195218778,Overweight,Heavy,3.0,2145.36
+76.0,5.4,38.0,Female,Sedentary,Overweight,76.0,28.0540875058278,Overweight,Heavy,1.0,1725.24
+79.0,5.3,39.0,Female,Sedentary,Obese,79.0,30.272300566752158,Obese,Heavy,1.0,1732.38
+79.83,5.3,24.0,Female,Lightly Active,Obese,79.83,30.590351319542084,Obese,Heavy,2.0,2099.56
+58.0,5.2,37.0,Female,Moderately Active,Normal,58.0,23.08826938495428,Normal,Normal,3.0,1898.13
+62.5,5.7,20.0,Female,Moderately Active,Normal,62.5,20.70619886255332,Normal,Normal,3.0,2247.27
+86.0,5.7,34.0,Female,Lightly Active,Overweight,86.0,28.491729634873373,Overweight,Very_Heavy,2.0,2220.42
+78.0,5.4,25.0,Female,Moderately Active,Overweight,78.0,28.79235296650748,Overweight,Heavy,3.0,2360.18
+79.0,5.6,33.0,Female,Sedentary,Overweight,79.0,27.115718205359315,Overweight,Heavy,1.0,1836.96
+81.0,5.0,50.5,Female,Lightly Active,Obese,81.0,34.875069750139495,Obese,Very_Heavy,2.0,1854.88
+93.7,5.4,28.0,Female,Sedentary,Obese,93.7,34.58773683284296,Obese,Very_Heavy,1.0,1997.64
+79.0,5.2,45.0,Female,Moderately Active,Obese,79.0,31.44781519674807,Obese,Heavy,3.0,2161.63
+66.8,5.4,27.0,Female,Lightly Active,Normal,66.8,24.658066386701275,Normal,Heavy,2.0,1925.96
+56.0,4.75,29.0,Female,Lightly Active,Overweight,56.0,26.715966020420808,Overweight,Normal,2.0,1593.45
+78.0,5.3,44.0,Female,Lightly Active,Overweight,78.0,29.889106888692005,Overweight,Heavy,2.0,1936.89
+85.0,5.3,33.0,Female,Moderately Active,Obese,85.0,32.57146263511308,Obese,Very_Heavy,3.0,2377.16
+57.0,5.4,31.0,Female,Sedentary,Normal,57.0,21.04056562937085,Normal,Normal,1.0,1539.24
+67.0,5.5,22.0,Female,Lightly Active,Normal,67.0,23.84072720395211,Normal,Heavy,2.0,1989.28
+70.0,5.4,30.0,Female,Moderately Active,Overweight,70.0,25.83929112378876,Overweight,Heavy,3.0,2197.43
+75.45,5.3,35.0,Female,Lightly Active,Overweight,75.45,28.91196300963861,Overweight,Heavy,2.0,1963.71
+71.9,5.5,44.0,Female,Lightly Active,Overweight,71.9,25.58430277558443,Overweight,Heavy,2.0,1905.41
+77.0,5.2,28.0,Female,Lightly Active,Obese,77.0,30.651667976577233,Obese,Heavy,2.0,2006.95
+76.0,5.2,27.0,Female,Sedentary,Obese,76.0,30.253594366491814,Obese,Heavy,1.0,1745.52
+75.0,5.0,25.0,Female,Sedentary,Obese,75.0,32.29173125012917,Obese,Heavy,1.0,1699.8
+63.0,5.3,32.0,Female,Lightly Active,Normal,63.0,24.141201717789695,Normal,Normal,2.0,1813.14
+61.0,5.1,43.0,Female,Sedentary,Overweight,61.0,25.244080562064326,Overweight,Normal,1.0,1446.66
+86.0,5.4,34.0,Female,Sedentary,Obese,86.0,31.745414809226194,Obese,Very_Heavy,1.0,1869.24
+90.0,5.4,43.0,Female,Very Active,Obese,90.0,33.22194573058555,Obese,Very_Heavy,4.0,2678.41
+75.0,5.2,33.0,Female,Lightly Active,Overweight,75.0,29.855520756406396,Overweight,Heavy,2.0,1945.07
+63.0,5.3,28.0,Female,Lightly Active,Normal,63.0,24.141201717789695,Normal,Normal,2.0,1840.64
+76.0,5.1,34.0,Female,Lightly Active,Obese,76.0,31.45164135601457,Obese,Heavy,2.0,1925.76
+82.4,5.6,25.0,Female,Sedentary,Overweight,82.4,28.28272379900769,Overweight,Very_Heavy,1.0,1925.76
+110.0,5.8,33.0,Male,Sedentary,Obese,110.0,35.197091136684584,Obese,Extreme,1.0,2453.88
+80.2,5.5,35.0,Female,Sedentary,Overweight,80.2,28.53770629487999,Overweight,Very_Heavy,1.0,1816.5
+63.6,5.1,37.0,Female,Lightly Active,Overweight,63.6,26.320057766349038,Overweight,Normal,2.0,1734.63
+65.2,5.2,28.0,Female,Lightly Active,Overweight,65.2,25.954399377569295,Overweight,Heavy,2.0,1844.7
+118.5,5.11,27.0,Female,Moderately Active,Obese,118.21875,43.56732230973144,Obese,Extreme,3.0,2882.45
+68.0,5.7,27.0,Female,Sedentary,Normal,68.0,22.528344362458014,Normal,Heavy,1.0,1763.82
+80.0,5.6,24.0,Female,Lightly Active,Overweight,80.0,27.45895514466766,Overweight,Heavy,2.0,2180.47
+118.5,5.3,42.0,Female,Sedentary,Obese,118.21875,43.56732230973144,Obese,Extreme,1.0,2185.0
+84.0,5.1,31.0,Female,Sedentary,Obese,84.0,34.76234044612137,Obese,Very_Heavy,1.0,1794.66
+73.0,5.2,31.0,Female,Lightly Active,Overweight,73.0,29.059373536235558,Overweight,Heavy,2.0,1931.32
+69.0,5.1,32.0,Female,Moderately Active,Overweight,69.0,28.554779652171124,Overweight,Heavy,3.0,2077.85
+72.0,5.2,28.0,Female,Sedentary,Overweight,72.0,28.66129992615014,Overweight,Heavy,1.0,1691.52
+68.0,5.4,50.5,Female,Very Active,Overweight,68.0,25.101025663109084,Overweight,Heavy,4.0,2234.22
+60.78,5.3,39.0,Female,Lightly Active,Normal,60.78,23.290511752496155,Normal,Normal,2.0,1734.49
+105.0,5.6,33.0,Male,Sedentary,Obese,105.0,36.039878627376304,Obese,Extreme,1.0,2348.16
+81.0,5.3,28.0,Female,Moderately Active,Obese,81.0,31.038687922872466,Obese,Very_Heavy,3.0,2353.91
+95.0,5.2,33.0,Female,Sedentary,Obese,95.0,37.81699295811477,Obese,Very_Heavy,1.0,1937.52
+80.0,5.6,37.0,Female,Sedentary,Obese,80.0,27.45895514466766,Overweight,Heavy,1.0,1824.96
+67.2,5.2,21.0,Female,Moderately Active,Overweight,67.2,26.750546597740133,Overweight,Heavy,3.0,2164.73
+75.75,5.6,37.0,Female,Lightly Active,Overweight,75.75,26.00019815260719,Overweight,Heavy,2.0,2032.66
+88.0,5.2,50.5,Female,Lightly Active,Obese,88.0,35.030477687516836,Obese,Very_Heavy,2.0,2003.51
+80.0,5.2,46.0,Female,Lightly Active,Obese,80.0,31.84588880683349,Obese,Heavy,2.0,1924.45
+87.7,5.3,27.0,Female,Very Active,Obese,87.7,33.606085565875496,Obese,Very_Heavy,4.0,2743.87
+118.5,5.4,26.0,Female,Sedentary,Obese,118.21875,43.56732230973144,Obese,Extreme,1.0,2303.86
+69.0,5.6,32.0,Female,Lightly Active,Normal,69.0,23.683348812275856,Normal,Heavy,2.0,1974.22
+79.0,5.6,30.0,Female,Sedentary,Overweight,79.0,27.115718205359315,Overweight,Heavy,1.0,1854.96
+63.0,5.6,30.0,Female,Sedentary,Normal,63.0,21.62392717642578,Normal,Normal,1.0,1662.96
+87.0,5.7,43.0,Female,Sedentary,Overweight,87.0,28.823028816674224,Overweight,Very_Heavy,1.0,1895.82
+107.5,5.6,41.0,Female,Sedentary,Obese,107.5,36.89797097564717,Obese,Extreme,1.0,2130.96
+118.5,5.0,38.0,Female,Moderately Active,Obese,118.21875,43.56732230973144,Obese,Extreme,3.0,2764.72
+112.0,5.8,27.0,Female,Lightly Active,Obese,112.0,35.83703824826067,Obese,Extreme,2.0,2652.24
+73.0,5.3,32.0,Female,Very Active,Overweight,73.0,27.973138498391233,Overweight,Heavy,4.0,2447.17
+63.0,5.3,32.0,Female,Sedentary,Normal,63.0,24.141201717789695,Normal,Normal,1.0,1582.38
+80.0,5.3,42.0,Female,Very Active,Obese,80.0,30.655494244812314,Obese,Heavy,4.0,2481.67
+89.0,5.6,22.0,Female,Moderately Active,Obese,89.0,30.54808759844277,Obese,Very_Heavy,3.0,2612.99
+90.0,5.4,24.0,Female,Sedentary,Obese,90.0,33.22194573058555,Obese,Very_Heavy,1.0,1977.24
+74.0,5.0,25.0,Female,Sedentary,Obese,74.0,31.861174833460776,Obese,Heavy,1.0,1687.8
+86.0,5.2,37.0,Female,Sedentary,Obese,86.0,34.234330467346,Obese,Very_Heavy,1.0,1805.52
+73.55,5.3,25.0,Female,Sedentary,Overweight,73.55,28.183895021324318,Overweight,Heavy,1.0,1750.98
+68.0,5.3,39.0,Female,Moderately Active,Overweight,68.0,26.057170108090464,Overweight,Heavy,3.0,2067.16
+84.3,5.5,42.0,Female,Lightly Active,Overweight,84.3,29.996616467062132,Overweight,Very_Heavy,2.0,2089.66
+76.0,5.3,43.0,Female,Moderately Active,Overweight,76.0,29.122719532571697,Overweight,Heavy,3.0,2160.16
+102.0,5.4,28.0,Female,Very Active,Obese,102.0,37.651538494663626,Obese,Extreme,4.0,3014.78
+90.0,5.3,24.0,Female,Moderately Active,Obese,90.0,34.48743102541385,Obese,Very_Heavy,3.0,2524.41
+72.0,5.2,33.0,Female,Moderately Active,Overweight,72.0,28.66129992615014,Overweight,Heavy,3.0,2146.13
+77.0,5.4,34.0,Female,Very Active,Overweight,77.0,28.423220236167637,Overweight,Heavy,4.0,2531.78
+82.0,5.4,33.0,Female,Sedentary,Obese,82.0,30.268883887866835,Obese,Very_Heavy,1.0,1827.24
+73.0,5.2,35.0,Female,Sedentary,Overweight,73.0,29.059373536235558,Overweight,Heavy,1.0,1661.52
+106.0,5.9,41.0,Female,Moderately Active,Obese,106.0,32.77720494602788,Obese,Extreme,3.0,2817.82
+72.0,5.0,41.0,Female,Sedentary,Obese,72.0,31.000062000123997,Obese,Heavy,1.0,1567.8
+87.0,5.3,24.0,Female,Lightly Active,Obese,87.0,33.33784999123339,Obese,Very_Heavy,2.0,2198.14
+99.0,5.3,41.0,Female,Lightly Active,Obese,99.0,37.93617412795523,Obese,Very_Heavy,2.0,2246.27
+118.5,5.9,32.0,Female,Sedentary,Obese,118.21875,36.64244137834249,Obese,Extreme,1.0,2382.16
+83.0,5.6,34.0,Female,Lightly Active .,Overweight,83.0,28.488665962592695,Overweight,Very_Heavy,,1878.96
+118.5,5.7,17.0,Female,Sedentary,Obese,118.21875,39.2589530434011,Obese,Extreme,1.0,2426.45
+85.0,5.1,36.0,Female,Lightly Active,Obese,85.0,35.17617783238472,Obese,Very_Heavy,2.0,2035.76
+81.0,5.4,29.0,Female,Lightly Active,Overweight,81.0,29.899751157526996,Overweight,Very_Heavy,2.0,2107.46
+74.0,5.2,38.0,Female,Lightly Active,Overweight,74.0,29.457447146320977,Overweight,Heavy,2.0,1896.95
+73.0,5.4,25.0,Female,Very Active,Overweight,73.0,26.946689314808282,Overweight,Heavy,4.0,2540.41
+87.0,5.4,44.0,Male,Moderately Active,Obese,87.0,32.11454753956603,Obese,Very_Heavy,3.0,2609.74
+81.5,5.7,26.0,Female,Sedentary,Overweight,81.5,27.000883316769535,Overweight,Very_Heavy,1.0,1931.82
+79.0,5.7,30.0,Female,Lightly Active,Overweight,79.0,26.1726353622674,Overweight,Heavy,2.0,2151.67
+89.0,5.5,28.0,Female,Very Active,Obese,89.0,31.66902568883191,Obese,Very_Heavy,4.0,2823.39
+83.0,5.4,22.0,Female,Lightly Active,Obese,83.0,30.638016618206677,Obese,Very_Heavy,2.0,2183.09
+85.0,5.4,28.0,Female,Moderately Active,Obese,85.0,31.376282078886355,Obese,Very_Heavy,3.0,2445.43
+67.8,4.8,44.0,Female,Moderately Active,Obese,67.8,31.675048882505166,Obese,Heavy,3.0,1877.67
+90.0,5.7,32.0,Female,Very Active,Overweight,90.0,29.816926362076785,Overweight,Very_Heavy,4.0,2871.87
+65.0,5.0,23.0,Female,Lightly Active,Overweight,65.0,27.986167083445277,Overweight,Normal,2.0,1823.94
+98.6,5.5,50.5,Female,Moderately Active,Obese,98.6,35.085010482234,Obese,Very_Heavy,3.0,2511.39
+74.5,5.3,35.0,Female,Moderately Active,Overweight,74.5,28.547929015481465,Overweight,Heavy,3.0,2198.91
+75.0,5.4,44.0,Female,Sedentary,Overweight,75.0,27.68495477548796,Overweight,Heavy,1.0,1677.24
+62.8,4.75,32.0,Female,Sedentary,Obese,62.8,29.96004760861476,Overweight,Normal,1.0,1454.25
+61.6,5.6,39.0,Female,Moderately Active,Normal,61.6,21.143395461394096,Normal,Normal,3.0,2056.54
+64.0,5.4,30.0,Female,Very Active,Normal,64.0,23.624494741749725,Normal,Normal,4.0,2342.03
+69.0,5.4,20.0,Female,Lightly Active,Overweight,69.0,25.470158393448923,Overweight,Heavy,2.0,2004.34
+118.5,5.5,31.0,Female,Lightly Active,Obese,118.21875,42.16606229355709,Obese,Extreme,2.0,2631.66
+58.75,5.05,27.0,Female,Sedentary,Normal,58.75,24.79677431552578,Normal,Normal,1.0,1504.23
+90.0,5.3,25.0,Female,Lightly Active,Obese,90.0,34.48743102541385,Obese,Very_Heavy,2.0,2232.52
+83.0,5.3,27.0,Female,Moderately Active,Obese,83.0,31.805075278992774,Obese,Very_Heavy,3.0,2392.66
+71.0,5.6,32.0,Female,Moderately Active,Normal,71.0,24.369822690892548,Normal,Heavy,3.0,2256.49
+94.2,5.7,30.0,Male,Sedentary,Obese,94.2,31.208382925640368,Obese,Very_Heavy,1.0,2259.42
+92.0,5.4,34.0,Female,Sedentary,Obese,92.0,33.96021119126523,Obese,Very_Heavy,1.0,1941.24
+92.0,5.7,34.0,Female,Sedentary,Obese,92.0,30.47952472567849,Obese,Very_Heavy,1.0,2009.82
+89.0,5.4,33.0,Female,Lightly Active,Obese,89.0,32.85281300024571,Obese,Very_Heavy,2.0,2189.96
+90.0,5.11,35.0,Male,Moderately Active,Obese,90.0,37.09973297834623,Obese,Very_Heavy,3.0,2640.36
+52.0,5.4,26.0,Female,Moderately Active,Normal,52.0,19.194901977671652,Normal,Normal,3.0,1949.44
+100.0,5.2,31.0,Female,Sedentary,Obese,100.0,39.80736100854186,Obese,Very_Heavy,1.0,2009.52
+71.15,5.1,35.0,Female,Moderately Active,Overweight,71.15,29.444530032637328,Overweight,Heavy,3.0,2087.93
+55.0,5.2,34.0,Female,Lightly Active,Normal,55.0,21.894048554698024,Normal,Normal,2.0,1663.2
+71.0,5.0,27.0,Female,Sedentary,Obese,71.0,30.56950558345561,Obese,Heavy,1.0,1639.8
+78.0,5.6,30.0,Female,Moderately Active,Overweight,78.0,26.772481266050967,Overweight,Heavy,3.0,2380.49
+81.0,5.3,35.0,Female,Moderately Active,Obese,81.0,31.038687922872466,Obese,Very_Heavy,3.0,2299.66
+110.0,5.11,32.0,Male,Moderately Active,Obese,110.0,43.56732230973144,Obese,Extreme,3.0,2973.61
+82.0,5.0,35.0,Female,Sedentary,Obese,82.0,35.30562616680788,Obese,Very_Heavy,1.0,1723.8
+97.5,5.6,24.0,Female,Sedentary,Obese,97.5,33.46560158256371,Obese,Very_Heavy,1.0,2112.96
+93.0,5.2,33.0,Female,Sedentary,Obese,93.0,37.02084573794393,Obese,Very_Heavy,1.0,1913.52
+112.0,5.1,29.0,Female,Sedentary,Obese,112.0,43.56732230973144,Obese,Extreme,1.0,2142.66
+74.4,5.6,30.0,Female,Moderately Active,Overweight,74.4,25.536828284540924,Overweight,Heavy,3.0,2324.69
+67.0,5.2,37.0,Female,Very Active,Overweight,67.0,26.67093187572305,Overweight,Heavy,4.0,2267.68
+63.0,5.1,43.0,Female,Lightly Active,Overweight,63.0,26.071755334591025,Overweight,Normal,2.0,1685.13
+70.0,4.8,39.0,Female,Moderately Active,Obese,70.0,32.702852828545154,Obese,Heavy,3.0,1950.52
+88.0,5.5,45.0,Female,Moderately Active,Obese,88.0,31.31319393951919,Obese,Very_Heavy,3.0,2389.71
+72.0,5.4,27.0,Female,Moderately Active,Overweight,72.0,26.577556584468443,Overweight,Heavy,3.0,2251.68
+95.0,5.6,27.0,Female,Sedentary,Obese,95.0,32.60750923429284,Obese,Very_Heavy,1.0,2064.96
+90.0,5.2,38.0,Male,Sedentary,Obese,90.0,35.82662490768767,Obese,Very_Heavy,1.0,2046.72
+85.0,5.3,30.0,Female,Moderately Active,Obese,85.0,32.57146263511308,Obese,Very_Heavy,3.0,2400.41
+77.2,5.3,14.5,Female,Very Active,Overweight,77.2,29.582551946243882,Overweight,Heavy,4.0,2670.56
+78.0,5.1,38.0,Female,Sedentary,Obese,78.0,32.27931612854127,Obese,Heavy,1.0,1680.66
+42.5,5.1,38.0,Female,Lightly Active,Underweight,42.668749999999996,17.58808891619236,Underweight,Light,2.0,1439.95
+86.0,5.3,45.0,Female,Sedentary,Obese,86.0,32.95465631317324,Obese,Very_Heavy,1.0,1780.38
+84.0,5.6,29.0,Female,Moderately Active,Overweight,84.0,28.831902901901042,Overweight,Very_Heavy,3.0,2481.24
+83.0,5.8,36.0,Female,Lightly Active,Overweight,83.0,26.557805130407456,Overweight,Very_Heavy,2.0,2191.61
+90.0,5.3,39.0,Female,Sedentary,Obese,90.0,34.48743102541385,Obese,Very_Heavy,1.0,1864.38
+81.45,5.05,38.0,Female,Sedentary,Obese,81.45,34.37782583829063,Obese,Very_Heavy,1.0,1710.63
+82.0,5.1,37.0,Female,Lightly Active,Obese,82.0,33.934665673594665,Obese,Very_Heavy,2.0,1987.63
+85.5,5.6,29.0,Female,Lightly Active,Overweight,85.5,29.34675831086356,Overweight,Very_Heavy,2.0,2221.72
+102.5,5.6,34.0,Female,Moderately Active,Obese,102.5,35.18178627910544,Obese,Extreme,3.0,2729.24
+64.0,5.1,29.0,Female,Lightly Active,Overweight,64.0,26.485592720854374,Overweight,Normal,2.0,1795.13
+78.6,5.3,44.0,Female,Lightly Active,Obese,78.6,30.119023095528092,Obese,Heavy,2.0,1945.14
+71.0,5.5,28.0,Female,Lightly Active,Overweight,71.0,25.26405420120298,Overweight,Heavy,2.0,2003.03
+76.0,5.6,42.0,Male,Sedentary,Overweight,76.0,26.086007387434275,Overweight,Heavy,1.0,1946.16
+60.25,5.4,30.0,Female,Sedentary,Normal,60.25,22.240247002975327,Normal,Normal,1.0,1584.24
+82.6,5.6,38.0,Female,Sedentary,Overweight,82.6,28.351371186869354,Overweight,Very_Heavy,1.0,1850.16
+72.5,5.1,42.0,Female,Sedentary,Obese,72.5,30.00321050409285,Obese,Heavy,1.0,1590.66
+91.0,5.4,31.0,Female,Lightly Active,Obese,91.0,33.59107846092539,Obese,Very_Heavy,2.0,2231.21
+78.9,5.3,35.0,Female,Lightly Active,Obese,78.9,30.233981198946143,Obese,Heavy,2.0,2011.14
+118.5,5.949999999999999,36.0,Male,Lightly Active,Obese,118.21875,36.02918958774386,Obese,Extreme,2.0,2943.41
+73.0,5.4,38.0,Female,Sedentary,Overweight,73.0,26.946689314808282,Overweight,Heavy,1.0,1689.24
+88.0,5.3,45.0,Female,Lightly Active,Obese,88.0,33.72104366929354,Obese,Very_Heavy,2.0,2067.52
+70.5,5.3,41.0,Female,Lightly Active,Overweight,70.5,27.01515430324085,Overweight,Heavy,2.0,1854.39
+92.0,5.4,27.0,Female,Sedentary,Obese,92.0,33.96021119126523,Obese,Very_Heavy,1.0,1983.24
+99.5,5.3,37.0,Female,Sedentary,Obese,99.5,38.12777096698531,Obese,Very_Heavy,1.0,1990.38
+62.0,5.2,50.5,Female,Moderately Active,Normal,62.0,24.680563825295955,Normal,Normal,3.0,1855.5
+80.0,5.2,40.0,Female,Moderately Active,Obese,80.0,31.84588880683349,Obese,Heavy,3.0,2215.88
+84.0,5.3,32.0,Female,Lightly Active,Obese,84.0,32.18826895705293,Obese,Very_Heavy,2.0,2101.89
+77.65,5.3,38.0,Female,Lightly Active,Overweight,77.65,29.754989101370953,Overweight,Heavy,2.0,1973.33
+80.0,5.3,27.0,Female,Sedentary,Obese,80.0,30.655494244812314,Obese,Heavy,1.0,1816.38
+79.0,5.4,31.0,Female,Lightly Active,Overweight,79.0,29.16148569684732,Overweight,Heavy,2.0,2066.21
+66.0,5.2,27.0,Female,Sedentary,Overweight,66.0,26.27285826563763,Overweight,Heavy,1.0,1625.52
+89.0,5.3,27.0,Female,Lightly Active,Obese,89.0,34.104237347353695,Obese,Very_Heavy,2.0,2205.02
+77.0,5.0,47.0,Female,Sedentary,Obese,77.0,33.15284408346594,Obese,Heavy,1.0,1591.8
+64.0,5.3,41.0,Female,Sedentary,Normal,64.0,24.52439539584985,Normal,Normal,1.0,1540.38
+80.2,5.0,33.0,Female,Sedentary,Obese,80.2,34.530624616804786,Obese,Very_Heavy,1.0,1714.2
+106.6,5.6,31.0,Female,Sedentary,Obese,106.6,36.58905773026965,Obese,Extreme,1.0,2180.16
+65.0,5.4,28.0,Female,Lightly Active,Normal,65.0,23.993627472089564,Normal,Normal,2.0,1894.34
+82.0,5.2,32.0,Female,Lightly Active,Obese,82.0,32.64203602700433,Obese,Very_Heavy,2.0,2048.2
+98.0,5.6,36.0,Female,Sedentary,Obese,98.0,33.637220052217884,Obese,Very_Heavy,1.0,2046.96
+64.3,5.4,18.0,Female,Sedentary,Normal,64.3,23.735234560851676,Normal,Normal,1.0,1704.84
+91.0,5.4,39.0,Female,Sedentary,Obese,91.0,33.59107846092539,Obese,Very_Heavy,1.0,1899.24
+74.0,5.2,37.0,Female,Sedentary,Overweight,74.0,29.457447146320977,Overweight,Heavy,1.0,1661.52
+71.0,5.3,35.0,Female,Lightly Active,Overweight,71.0,27.206751142270928,Overweight,Heavy,2.0,1902.52
+72.0,5.2,34.0,Female,Lightly Active,Overweight,72.0,28.66129992615014,Overweight,Heavy,2.0,1896.95
+92.0,5.4,35.0,Female,Moderately Active,Obese,92.0,33.96021119126523,Obese,Very_Heavy,3.0,2499.68
+81.5,5.2,26.0,Female,Lightly Active,Obese,81.5,32.44299922196162,Obese,Very_Heavy,2.0,2082.57
+95.0,5.5,25.0,Female,Sedentary,Obese,95.0,33.80401618470822,Obese,Very_Heavy,1.0,2054.1
+75.0,5.2,40.0,Female,Lightly Active,Overweight,75.0,29.855520756406396,Overweight,Heavy,2.0,1896.95
+89.0,5.3,26.0,Female,Lightly Active,Obese,89.0,34.104237347353695,Obese,Very_Heavy,2.0,2211.89
+78.9,5.4,33.0,Female,Sedentary,Overweight,78.9,29.124572423813337,Overweight,Heavy,1.0,1790.04
+93.0,5.6,30.0,Female,Sedentary,Obese,93.0,31.921035355676153,Obese,Very_Heavy,1.0,2022.96
+50.0,4.75,34.0,Female,Sedentary,Obese,50.0,23.853541089661437,Normal,Light,1.0,1288.65
+78.4,5.6,33.0,Female,Sedentary,Overweight,78.4,26.909776041774307,Overweight,Heavy,1.0,1829.76
+90.0,5.7,43.0,Male,Very Active,Overweight,90.0,29.816926362076785,Overweight,Very_Heavy,4.0,3063.34
+76.0,5.2,34.0,Female,Sedentary,Obese,76.0,30.253594366491814,Obese,Heavy,1.0,1703.52
+94.0,5.5,35.0,Female,Moderately Active,Obese,94.0,33.4481844353955,Obese,Very_Heavy,3.0,2560.21
+61.5,5.3,38.0,Female,Moderately Active,Normal,61.5,23.566411200699466,Normal,Normal,3.0,1974.16
+118.0,5.4,27.0,Female,Sedentary,Obese,118.0,43.557662180101055,Obese,Extreme,1.0,2295.24
+94.25,5.6,29.0,Female,Sedentary,Obese,94.25,32.35008152981158,Obese,Very_Heavy,1.0,2043.96
+87.7,5.8,29.0,Female,Sedentary,Overweight,87.7,28.061680842611253,Overweight,Very_Heavy,1.0,2011.08
+76.5,5.4,32.0,Female,Sedentary,Overweight,76.5,28.23865387099772,Overweight,Heavy,1.0,1767.24
+75.0,5.949999999999999,29.0,Female,Sedentary,Normal,75.0,22.803284549204974,Normal,Heavy,1.0,1892.97
+83.0,5.7,27.0,Female,Lightly Active,Overweight,83.0,27.497832089470812,Overweight,Very_Heavy,2.0,2227.29
+72.0,5.2,26.0,Female,Lightly Active,Overweight,72.0,28.66129992615014,Overweight,Heavy,2.0,1951.95
+78.0,5.8,28.0,Female,Moderately Active,Normal,78.0,24.957937351467248,Normal,Heavy,3.0,2455.05
+96.0,5.3,23.0,Female,Sedentary,Obese,96.0,36.786593093774776,Obese,Very_Heavy,1.0,2032.38
+56.1,4.75,38.0,Female,Sedentary,Obese,56.1,26.76367310260013,Overweight,Normal,1.0,1337.85
+83.0,5.4,37.0,Female,Moderately Active,Obese,83.0,30.638016618206677,Obese,Very_Heavy,3.0,2344.68
+104.0,5.3,26.0,Female,Sedentary,Obese,104.0,39.852142518256,Obese,Extreme,1.0,2110.38
+76.0,5.3,25.0,Female,Sedentary,Overweight,76.0,29.122719532571697,Overweight,Heavy,1.0,1780.38
+89.0,5.3,27.0,Female,Sedentary,Obese,89.0,34.104237347353695,Obese,Very_Heavy,1.0,1924.38
+68.0,5.3,25.0,Female,Sedentary,Overweight,68.0,26.057170108090464,Overweight,Heavy,1.0,1684.38
+98.0,5.3,35.0,Female,Sedentary,Obese,98.0,37.55298044989508,Obese,Very_Heavy,1.0,1984.38
+63.0,5.1,36.0,Female,Lightly Active,Overweight,63.0,26.071755334591025,Overweight,Normal,2.0,1733.26
+74.0,5.2,33.0,Female,Moderately Active,Overweight,74.0,29.457447146320977,Overweight,Heavy,3.0,2177.13
+74.0,5.2,33.0,Female,Moderately Active,Overweight,74.0,29.457447146320977,Overweight,Heavy,3.0,2177.13
+72.0,5.2,33.0,Female,Lightly Active,Overweight,72.0,28.66129992615014,Overweight,Heavy,2.0,1903.82
+118.5,5.11,28.0,Male,Lightly Active,Obese,118.21875,43.56732230973144,Obese,Extreme,2.0,2778.38
+75.0,5.2,41.0,Female,Moderately Active,Overweight,75.0,29.855520756406396,Overweight,Heavy,3.0,2130.63
+100.8,5.9,41.0,Female,Lightly Active,Obese,100.8,31.169266590185,Obese,Extreme,2.0,2428.18
+112.0,5.3,35.0,Female,Sedentary,Obese,112.0,42.917691942737235,Obese,Extreme,1.0,2152.38
+74.0,5.5,43.0,Female,Lightly Active,Overweight,74.0,26.331549449141136,Overweight,Heavy,2.0,1941.16
+86.0,5.2,29.0,Female,Sedentary,Obese,86.0,34.234330467346,Obese,Very_Heavy,1.0,1853.52
+90.0,5.7,48.0,Female,Moderately Active,Overweight,90.0,29.816926362076785,Overweight,Very_Heavy,3.0,2456.52
+118.5,5.949999999999999,36.0,Male,Lightly Active,Obese,118.21875,36.02918958774386,Obese,Extreme,2.0,2943.41
+80.0,5.6,28.0,Female,Sedentary,Obese,80.0,27.45895514466766,Overweight,Heavy,1.0,1878.96
+83.0,5.2,32.0,Female,Lightly Active,Obese,83.0,33.04010963708975,Obese,Very_Heavy,2.0,2061.95
+102.0,5.4,38.0,Female,Sedentary,Obese,102.0,37.651538494663626,Obese,Extreme,1.0,2037.24
+82.0,5.0,31.0,Female,Sedentary,Obese,82.0,35.30562616680788,Obese,Very_Heavy,1.0,1747.8
+60.0,5.1,34.0,Female,Moderately Active,Normal,60.0,24.830243175800977,Normal,Normal,3.0,1922.85
+73.0,5.5,36.0,Female,Sedentary,Overweight,73.0,25.97571769982842,Overweight,Heavy,1.0,1724.1
+76.0,5.3,25.0,Female,Lightly Active,Overweight,76.0,29.122719532571697,Overweight,Heavy,2.0,2040.02
+65.0,5.0,32.0,Female,Sedentary,Overweight,65.0,27.986167083445277,Overweight,Normal,1.0,1537.8
+84.0,5.6,36.0,Female,Lightly Active,Overweight,84.0,28.831902901901042,Overweight,Very_Heavy,2.0,2152.97
+57.0,5.3,34.0,Female,Sedentary,Normal,57.0,21.842039649428774,Normal,Normal,1.0,1498.38
+73.2,5.6,40.0,Female,Moderately Active,Overweight,73.2,25.12494395737091,Overweight,Heavy,3.0,2228.59
+79.0,5.3,34.0,Female,Lightly Active,Obese,79.0,30.272300566752158,Obese,Heavy,2.0,2019.39
+88.0,5.7,47.0,Male,Lightly Active,Overweight,88.0,29.15432799847508,Overweight,Very_Heavy,2.0,2386.79
+80.0,5.0,32.0,Female,Lightly Active,Obese,80.0,34.44451333347111,Obese,Heavy,2.0,1968.31
+65.0,5.2,32.0,Female,Lightly Active,Overweight,65.0,25.87478465555221,Overweight,Normal,2.0,1814.45
+70.0,5.2,45.0,Female,Lightly Active,Overweight,70.0,27.865152705979305,Overweight,Heavy,2.0,1793.82
+73.5,5.5,30.0,Female,Sedentary,Overweight,73.5,26.15363357448478,Overweight,Heavy,1.0,1766.1
+70.0,5.0,20.0,Female,Very Active,Obese,70.0,30.13894916678722,Obese,Heavy,4.0,2400.34
+66.0,5.2,37.0,Female,Very Active,Overweight,66.0,26.27285826563763,Overweight,Heavy,4.0,2250.43
+66.0,4.9,32.0,Female,Sedentary,Overweight,66.0,29.58842513547861,Overweight,Heavy,1.0,1526.94
+69.0,5.3,33.0,Female,Moderately Active,Overweight,69.0,26.44036378615062,Overweight,Heavy,3.0,2129.16
+78.0,5.3,24.0,Female,Lightly Active,Overweight,78.0,29.889106888692005,Overweight,Heavy,2.0,2074.39
+65.0,5.4,28.0,Female,Sedentary,Normal,65.0,23.993627472089564,Normal,Normal,1.0,1653.24
+81.5,5.2,37.0,Female,Lightly Active,Obese,81.5,32.44299922196162,Obese,Very_Heavy,2.0,2006.95
+110.0,5.7,30.0,Female,Sedentary,Obese,110.0,36.442909998093846,Obese,Extreme,1.0,2249.82
+83.0,5.6,25.0,Female,Sedentary,Overweight,83.0,28.488665962592695,Overweight,Very_Heavy,1.0,1932.96
+97.0,5.7,30.0,Male,Lightly Active,Obese,97.0,32.13602063468276,Obese,Very_Heavy,2.0,2627.42
+71.5,5.5,38.0,Female,Moderately Active,Overweight,71.5,25.44197007585934,Overweight,Heavy,3.0,2188.21
+81.7,5.3,25.0,Female,Sedentary,Obese,81.7,31.306923497514575,Obese,Very_Heavy,1.0,1848.78
+86.0,5.2,27.0,Female,Moderately Active,Obese,86.0,34.234330467346,Obese,Very_Heavy,3.0,2409.63
+86.0,5.9,24.0,Female,Moderately Active,Overweight,86.0,26.592826654324504,Overweight,Very_Heavy,3.0,2639.57
+73.0,5.3,32.0,Female,Lightly Active,Overweight,73.0,27.973138498391233,Overweight,Heavy,2.0,1950.64
+90.0,5.4,20.0,Female,Lightly Active,Obese,90.0,33.22194573058555,Obese,Very_Heavy,2.0,2293.09
+64.0,4.75,26.0,Female,Sedentary,Obese,64.0,30.53253259476664,Obese,Normal,1.0,1504.65
+91.0,5.1,24.0,Female,Sedentary,Obese,91.0,37.65920214996481,Obese,Very_Heavy,1.0,1920.66
+68.0,5.0,35.0,Female,Lightly Active,Overweight,68.0,29.27783633345044,Overweight,Heavy,2.0,1782.69
+91.0,5.1,34.0,Female,Sedentary,Obese,91.0,37.65920214996481,Obese,Very_Heavy,1.0,1860.66
+85.0,5.0,44.0,Female,Lightly Active,Obese,85.0,36.597295416813054,Obese,Very_Heavy,2.0,1954.56
+76.0,5.8,26.0,Female,Lightly Active,Normal,76.0,24.317990239891166,Normal,Heavy,2.0,2164.11
+90.0,5.6,42.0,Female,Sedentary,Obese,90.0,30.891324537751117,Obese,Very_Heavy,1.0,1914.96
+73.0,5.0,32.0,Female,Sedentary,Obese,73.0,31.430618416792388,Obese,Heavy,1.0,1633.8
+89.0,5.5,28.0,Female,Sedentary,Obese,89.0,31.66902568883191,Obese,Very_Heavy,1.0,1964.1
+73.0,5.2,38.0,Female,Moderately Active,Overweight,73.0,29.059373536235558,Overweight,Heavy,3.0,2122.88
+73.0,5.5,32.0,Female,Lightly Active,Overweight,73.0,25.97571769982842,Overweight,Heavy,2.0,2003.03
+83.0,5.5,24.0,Female,Sedentary,Overweight,83.0,29.5340351929556,Overweight,Very_Heavy,1.0,1916.1
+77.0,5.2,20.0,Female,Moderately Active,Obese,77.0,30.651667976577233,Obese,Heavy,3.0,2324.38
+87.0,5.3,31.0,Female,Moderately Active,Obese,87.0,33.33784999123339,Obese,Very_Heavy,3.0,2423.66
+86.5,5.5,36.0,Female,Sedentary,Obese,86.5,30.779446315550114,Obese,Very_Heavy,1.0,1886.1
+88.0,5.3,29.0,Female,Moderately Active,Obese,88.0,33.72104366929354,Obese,Very_Heavy,3.0,2454.66
+90.0,5.4,43.0,Female,Sedentary,Obese,90.0,33.22194573058555,Obese,Very_Heavy,1.0,1863.24
+88.0,5.4,30.0,Female,Lightly Active,Obese,88.0,32.483680269905875,Obese,Very_Heavy,2.0,2196.84
+87.0,5.2,24.0,Female,Sedentary,Obese,87.0,34.63240407743142,Obese,Very_Heavy,1.0,1895.52
+87.0,5.4,41.0,Female,Lightly Active,Obese,87.0,32.11454753956603,Obese,Very_Heavy,2.0,2107.46
+65.0,4.75,28.0,Female,Lightly Active,Obese,65.0,31.009603416559866,Obese,Normal,2.0,1724.08
+78.0,5.3,30.0,Female,Very Active,Overweight,78.0,29.889106888692005,Overweight,Heavy,4.0,2550.67
+65.1,5.3,29.0,Female,Lightly Active,Normal,65.1,24.945908441716018,Normal,Heavy,2.0,1862.64
+113.0,5.7,35.0,Male,Sedentary,Obese,113.0,37.43680754349641,Obese,Extreme,1.0,2455.02
+102.0,5.949999999999999,35.0,Male,Sedentary,Obese,102.0,31.012466986918763,Obese,Extreme,1.0,2380.17
+91.0,5.4,30.0,Female,Lightly Active,Obese,91.0,33.59107846092539,Obese,Very_Heavy,2.0,2238.09
+82.0,5.7,28.0,Female,Moderately Active,Overweight,82.0,27.16653290766996,Overweight,Very_Heavy,3.0,2487.52
+77.0,5.5,29.0,Female,Lightly Active,Overweight,77.0,27.39904469707929,Overweight,Heavy,2.0,2078.66
+82.0,5.4,35.0,Female,Very Active,Obese,82.0,30.268883887866835,Obese,Very_Heavy,4.0,2609.41
+80.0,5.5,33.0,Female,Moderately Active,Overweight,80.0,28.466539945017445,Overweight,Heavy,3.0,2358.71
+77.0,5.3,31.0,Female,Moderately Active,Overweight,77.0,29.50591321063185,Overweight,Heavy,3.0,2268.66
+61.0,5.2,45.0,Female,Moderately Active,Normal,61.0,24.282490215210537,Normal,Normal,3.0,1882.63
+80.0,5.0,32.0,Female,Sedentary,Obese,80.0,34.44451333347111,Obese,Heavy,1.0,1717.8
+76.0,5.4,24.0,Female,Sedentary,Overweight,76.0,28.0540875058278,Overweight,Heavy,1.0,1809.24
+97.0,5.44,32.0,Female,Lightly Active,Obese,97.0,35.28125373124063,Obese,Very_Heavy,2.0,2317.32
+74.8,5.1,28.0,Female,Sedentary,Obese,74.8,30.95503649249855,Obese,Heavy,1.0,1702.26
+65.0,5.5,24.0,Female,Sedentary,Normal,65.0,23.129063705326676,Normal,Normal,1.0,1700.1
+67.7,5.4,27.0,Female,Sedentary,Normal,67.7,24.990285844007133,Normal,Heavy,1.0,1691.64
+69.0,5.6,42.0,Female,Moderately Active,Normal,69.0,23.683348812275856,Normal,Heavy,3.0,2147.99
+96.0,5.7,32.0,Male,Lightly Active,Obese,96.0,31.804721452881903,Obese,Very_Heavy,2.0,2599.92
+118.5,5.8,44.0,Male,Sedentary,Obese,118.21875,37.916866360882935,Obese,Extreme,1.0,2486.5
+82.0,5.25,26.0,Female,Sedentary,Obese,82.0,32.023243688714636,Obese,Very_Heavy,1.0,1834.95
+66.0,5.4,32.0,Female,Moderately Active,Normal,66.0,24.362760202429406,Normal,Heavy,3.0,2119.93
+65.0,5.2,31.0,Female,Sedentary,Overweight,65.0,25.87478465555221,Overweight,Normal,1.0,1589.52
+89.0,5.5,36.0,Female,Lightly Active,Obese,89.0,31.66902568883191,Obese,Very_Heavy,2.0,2195.53
+85.0,5.7,32.0,Female,Lightly Active,Overweight,85.0,28.160430453072518,Overweight,Very_Heavy,2.0,2220.42
+94.5,5.7,26.0,Female,Sedentary,Obese,94.5,31.307772680180623,Obese,Very_Heavy,1.0,2087.82
+72.0,5.6,28.0,Female,Lightly Active,Normal,72.0,24.713059630200892,Normal,Heavy,2.0,2042.97
+79.0,5.8,24.0,Female,Lightly Active,Overweight,79.0,25.27791090725529,Overweight,Heavy,2.0,2219.11
+78.7,5.6,33.0,Female,Moderately Active,Overweight,78.7,27.01274712356681,Overweight,Heavy,3.0,2368.09
+70.0,5.3,22.0,Female,Sedentary,Overweight,70.0,26.823557464210772,Overweight,Heavy,1.0,1726.38
+69.0,5.4,35.0,Female,Lightly Active,Overweight,69.0,25.470158393448923,Overweight,Heavy,2.0,1901.21
+92.0,5.8,32.0,Male,Sedentary,Overweight,92.0,29.437567132499833,Overweight,Very_Heavy,1.0,2243.88
+74.0,5.2,24.0,Female,Lightly Active,Overweight,74.0,29.457447146320977,Overweight,Heavy,2.0,1993.2
+108.5,5.0,42.0,Female,Sedentary,Obese,108.5,43.56732230973144,Obese,Extreme,1.0,1999.8
+75.0,5.4,39.0,Female,Lightly Active,Overweight,75.0,27.68495477548796,Overweight,Heavy,2.0,1956.21
+64.8,5.6,25.0,Female,Moderately Active,Normal,64.8,22.241753667180802,Normal,Normal,3.0,2214.64
+79.8,5.5,30.0,Female,Lightly Active,Overweight,79.8,28.3953735951549,Overweight,Heavy,2.0,2110.28
+103.0,5.3,31.0,Female,Sedentary,Obese,103.0,39.46894884019585,Obese,Extreme,1.0,2068.38
+76.0,5.4,21.0,Female,Lightly Active,Overweight,76.0,28.0540875058278,Overweight,Heavy,2.0,2093.71
+78.0,5.6,32.0,Female,Sedentary,Overweight,78.0,26.772481266050967,Overweight,Heavy,1.0,1830.96
+118.5,5.7,38.0,Female,Moderately Active,Obese,118.21875,39.2589530434011,Obese,Extreme,3.0,2971.41
+71.6,5.3,44.0,Female,Lightly Active,Overweight,71.6,27.436667349107015,Overweight,Heavy,2.0,1848.89
+71.0,5.4,27.0,Female,Sedentary,Overweight,71.0,26.2084238541286,Overweight,Heavy,1.0,1731.24
+95.0,5.4,30.0,Female,Sedentary,Obese,95.0,35.06760938228475,Obese,Very_Heavy,1.0,2001.24
+67.0,5.0,28.0,Female,Sedentary,Overweight,67.0,28.847279916782053,Overweight,Heavy,1.0,1585.8
+76.0,5.4,39.0,Female,Sedentary,Overweight,76.0,28.0540875058278,Overweight,Heavy,1.0,1719.24
+83.0,5.3,36.0,Female,Sedentary,Obese,83.0,31.805075278992774,Obese,Very_Heavy,1.0,1798.38
+81.0,5.4,40.0,Female,Moderately Active,Overweight,81.0,29.899751157526996,Overweight,Very_Heavy,3.0,2290.43
+115.0,5.1,37.0,Female,Very Active,Obese,115.0,43.56732230973144,Obese,Extreme,4.0,3062.82
+77.0,5.3,38.0,Female,Sedentary,Overweight,77.0,29.50591321063185,Overweight,Heavy,1.0,1714.38
+81.0,5.2,27.0,Female,Lightly Active,Obese,81.0,32.24396241691891,Obese,Very_Heavy,2.0,2068.82
+80.0,5.2,41.0,Female,Lightly Active,Obese,80.0,31.84588880683349,Obese,Heavy,2.0,1958.82
+90.0,5.4,50.5,Female,Lightly Active,Obese,90.0,33.22194573058555,Obese,Very_Heavy,2.0,2083.4
+107.0,5.6,35.0,Female,Sedentary,Obese,107.0,36.72635250599299,Obese,Extreme,1.0,2160.96
+72.0,5.1,34.0,Female,Sedentary,Overweight,72.0,29.796291810961172,Overweight,Heavy,1.0,1632.66
+79.8,5.5,28.0,Female,Moderately Active,Overweight,79.8,28.3953735951549,Overweight,Heavy,3.0,2394.36
+72.0,5.3,36.0,Female,Sedentary,Overweight,72.0,27.58994482033108,Overweight,Heavy,1.0,1666.38
+76.4,5.5,29.0,Female,Sedentary,Overweight,76.4,27.18554564749166,Overweight,Heavy,1.0,1806.9
+77.0,5.0,36.0,Female,Moderately Active,Obese,77.0,33.15284408346594,Obese,Heavy,3.0,2141.33
+79.0,5.9,29.0,Male,Sedentary,Normal,79.0,24.428294252228323,Normal,Heavy,1.0,2128.74
+63.0,5.1,34.0,Female,Lightly Active,Overweight,63.0,26.071755334591025,Overweight,Normal,2.0,1747.01
+66.0,4.75,26.0,Female,Sedentary,Obese,66.0,31.486674238353096,Obese,Heavy,1.0,1528.65
+70.0,5.2,43.0,Female,Moderately Active,Overweight,70.0,27.865152705979305,Overweight,Heavy,3.0,2037.63
+63.45,5.1,31.0,Female,Sedentary,Overweight,63.45,26.257982158409533,Overweight,Normal,1.0,1548.06
+71.0,5.4,37.0,Female,Very Active,Overweight,71.0,26.2084238541286,Overweight,Heavy,4.0,2402.41
+68.0,5.4,31.0,Female,Lightly Active,Overweight,68.0,25.101025663109084,Overweight,Heavy,2.0,1914.96
+73.0,5.5,26.0,Female,Sedentary,Overweight,73.0,25.97571769982842,Overweight,Heavy,1.0,1784.1
+96.0,5.8,31.0,Male,Sedentary,Obese,96.0,30.717461355652,Obese,Very_Heavy,1.0,2297.88
+109.0,5.6,47.0,Female,Moderately Active,Obese,109.0,37.41282638460969,Obese,Extreme,3.0,2729.24
+75.0,5.1,25.0,Female,Lightly Active,Obese,75.0,31.03780396975122,Obese,Heavy,2.0,1973.88
+85.0,5.2,45.0,Female,Sedentary,Obese,85.0,33.83625685726058,Obese,Very_Heavy,1.0,1745.52
+70.0,5.4,50.5,Female,Moderately Active,Overweight,70.0,25.83929112378876,Overweight,Heavy,3.0,2038.56
+90.0,5.9,40.0,Male,Sedentary,Overweight,90.0,27.82970231266518,Overweight,Very_Heavy,1.0,2194.74
+90.0,5.6,35.0,Female,Lightly Active,Obese,90.0,30.891324537751117,Obese,Very_Heavy,2.0,2242.35
+63.5,5.4,25.0,Female,Sedentary,Normal,63.5,23.439928376579807,Normal,Normal,1.0,1653.24
+63.0,5.1,44.0,Female,Lightly Active,Overweight,63.0,26.071755334591025,Overweight,Normal,2.0,1678.26
+77.0,5.6,39.0,Female,Lightly Active,Overweight,77.0,26.429244326742623,Overweight,Heavy,2.0,2036.1
+92.0,5.11,33.0,Male,Lightly Active,Obese,92.0,37.92417148897615,Obese,Very_Heavy,2.0,2383.5
+99.0,5.7,32.0,Female,Sedentary,Obese,99.0,32.79861899828446,Obese,Very_Heavy,1.0,2105.82
+64.0,5.2,29.0,Female,Moderately Active,Overweight,64.0,25.476711045466793,Overweight,Normal,3.0,2053.13
+68.0,5.1,26.0,Female,Moderately Active,Overweight,68.0,28.140942265907775,Overweight,Heavy,3.0,2108.85
+81.0,5.5,26.0,Female,Sedentary,Overweight,81.0,28.82237169433016,Overweight,Very_Heavy,1.0,1880.1
+80.0,5.4,47.0,Female,Moderately Active,Overweight,80.0,29.530618427187157,Overweight,Heavy,3.0,2220.68
+73.0,5.2,30.0,Female,Lightly Active,Overweight,73.0,29.059373536235558,Overweight,Heavy,2.0,1938.2
+71.5,4.9,27.0,Female,Lightly Active,Obese,71.5,32.05412723010183,Obese,Heavy,2.0,1859.62
+70.0,5.2,36.0,Female,Sedentary,Overweight,70.0,27.865152705979305,Overweight,Heavy,1.0,1619.52
+98.7,5.6,33.0,Female,Very Active,Obese,98.7,33.87748590973373,Obese,Very_Heavy,4.0,2980.46
+81.0,5.7,29.0,Female,Lightly Active,Overweight,81.0,26.835233725869106,Overweight,Very_Heavy,2.0,2186.04
+70.0,5.2,25.0,Female,Sedentary,Overweight,70.0,27.865152705979305,Overweight,Heavy,1.0,1685.52
+98.0,5.5,29.0,Female,Moderately Active,Obese,98.0,34.87151143264637,Obese,Very_Heavy,3.0,2668.71
+83.0,4.75,31.0,Female,Sedentary,Obese,83.0,39.596878208837985,Obese,Very_Heavy,1.0,1702.65
+69.2,5.08,44.0,Female,Lightly Active,Overweight,69.2,28.863483509374134,Overweight,Heavy,2.0,1758.27
+94.0,5.3,32.0,Female,Sedentary,Obese,94.0,36.020205737654464,Obese,Very_Heavy,1.0,1954.38
+109.0,5.3,23.0,Female,Sedentary,Obese,109.0,41.76811090855678,Obese,Extreme,1.0,2188.38
+85.0,5.2,34.0,Female,Moderately Active,Obese,85.0,33.83625685726058,Obese,Very_Heavy,3.0,2339.88
+99.7,5.3,36.0,Female,Sedentary,Obese,99.7,38.204409702597346,Obese,Very_Heavy,1.0,1998.78
+59.0,5.2,32.0,Female,Lightly Active,Normal,59.0,23.4863429950397,Normal,Normal,2.0,1731.95
+58.25,5.7,29.0,Female,Lightly Active,Normal,58.25,19.2981773398997,Normal,Normal,2.0,1873.23
+85.0,5.4,39.0,Female,Lightly Active,Obese,85.0,31.376282078886355,Obese,Very_Heavy,2.0,2093.71
+63.0,5.0,33.0,Female,Moderately Active,Overweight,63.0,27.125054250108498,Overweight,Normal,3.0,1947.58
+66.6,5.4,37.0,Female,Lightly Active,Normal,66.6,24.584239840633305,Normal,Heavy,2.0,1854.46
+65.0,5.0,26.0,Female,Sedentary,Overweight,65.0,27.986167083445277,Overweight,Normal,1.0,1573.8
+64.1,5.4,37.0,Female,Lightly Active,Normal,64.1,23.661408014783706,Normal,Normal,2.0,1820.09
+81.0,5.3,38.0,Female,Sedentary,Obese,81.0,31.038687922872466,Obese,Very_Heavy,1.0,1762.38
+95.0,5.4,50.5,Female,Lightly Active,Obese,95.0,35.06760938228475,Obese,Very_Heavy,2.0,2152.15
+60.0,5.1,34.0,Female,Moderately Active,Normal,60.0,24.830243175800977,Normal,Normal,3.0,1922.85
+81.5,5.5,31.0,Female,Sedentary,Overweight,81.5,29.000287568986522,Overweight,Very_Heavy,1.0,1856.1
+78.0,5.47,43.0,Female,Lightly Active,Overweight,78.0,28.06015235181289,Overweight,Heavy,2.0,1988.3
+68.0,5.1,25.0,Female,Lightly Active,Overweight,68.0,28.140942265907775,Overweight,Heavy,2.0,1877.63
+54.0,5.0,27.0,Female,Sedentary,Normal,54.0,23.250046500093,Normal,Normal,1.0,1435.8
+70.0,5.3,37.0,Female,Lightly Active,Overweight,70.0,26.823557464210772,Overweight,Heavy,2.0,1875.02
+77.0,5.3,36.0,Female,Lightly Active,Overweight,77.0,29.50591321063185,Overweight,Heavy,2.0,1978.14
+84.0,5.5,26.0,Female,Lightly Active,Overweight,84.0,29.889866942268316,Overweight,Very_Heavy,2.0,2195.53
+69.5,5.3,33.0,Female,Sedentary,Overweight,69.5,26.631960625180696,Overweight,Heavy,1.0,1654.38
+118.5,5.5,38.0,Female,Lightly Active,Obese,118.21875,42.16606229355709,Obese,Extreme,2.0,2583.54
+88.0,5.4,40.0,Female,Sedentary,Obese,88.0,32.483680269905875,Obese,Very_Heavy,1.0,1857.24
+65.0,5.3,24.0,Female,Lightly Active,Normal,65.0,24.907589073910003,Normal,Normal,2.0,1895.64
+93.5,5.0,40.0,Female,Sedentary,Obese,93.5,40.257024958494355,Obese,Very_Heavy,1.0,1831.8
+55.88,5.1,33.0,Female,Lightly Active,Normal,55.88,23.125233144395978,Normal,Normal,2.0,1655.98
+94.5,5.4,38.0,Female,Sedentary,Obese,94.5,34.88304301711483,Obese,Very_Heavy,1.0,1947.24
+87.0,5.5,31.0,Female,Lightly Active,Obese,87.0,30.95736219020647,Obese,Very_Heavy,2.0,2202.41
+72.45,5.6,32.0,Female,Sedentary,Normal,72.45,24.86751625288965,Normal,Heavy,1.0,1764.36
+77.0,5.3,28.0,Female,Moderately Active,Overweight,77.0,29.50591321063185,Overweight,Heavy,3.0,2291.91
+54.75,5.2,25.0,Female,Lightly Active,Normal,54.75,21.79453015217667,Normal,Normal,2.0,1721.64
+81.0,5.4,37.0,Female,Lightly Active,Overweight,81.0,29.899751157526996,Overweight,Very_Heavy,2.0,2052.46
+98.0,5.3,29.0,Female,Lightly Active,Obese,98.0,37.55298044989508,Obese,Very_Heavy,2.0,2315.02
+97.4,5.6,35.0,Female,Lightly Active,Obese,97.4,33.43127788863288,Obese,Very_Heavy,2.0,2344.1
+87.0,5.2,40.0,Female,Moderately Active,Obese,87.0,34.63240407743142,Obese,Very_Heavy,3.0,2324.38
+60.0,5.2,27.0,Female,Lightly Active,Normal,60.0,23.884416605125118,Normal,Normal,2.0,1780.07
+82.0,5.6,39.0,Female,Sedentary,Overweight,82.0,28.14542902328435,Overweight,Very_Heavy,1.0,1836.96
+88.0,5.3,45.0,Female,Moderately Active,Obese,88.0,33.72104366929354,Obese,Very_Heavy,3.0,2330.66
+80.0,5.1,34.0,Female,Lightly Active,Obese,80.0,33.10699090106797,Obese,Heavy,2.0,1980.76
+70.0,5.4,31.0,Female,Moderately Active,Overweight,70.0,25.83929112378876,Overweight,Heavy,3.0,2189.68
+96.0,5.5,42.0,Female,Moderately Active,Obese,96.0,34.15984793402094,Obese,Very_Heavy,3.0,2536.96
+71.0,5.2,24.0,Female,Sedentary,Overweight,71.0,28.26322631606472,Overweight,Heavy,1.0,1703.52
+83.5,5.4,30.0,Female,Lightly Active,Obese,83.5,30.822582983376595,Obese,Very_Heavy,2.0,2134.96
+74.0,5.4,27.0,Female,Moderately Active,Overweight,74.0,27.31582204514812,Overweight,Heavy,3.0,2282.68
+72.0,5.0,39.0,Female,Moderately Active,Obese,72.0,31.000062000123997,Obese,Heavy,3.0,2040.58
+75.0,5.0,30.0,Female,Lightly Active,Obese,75.0,32.29173125012917,Obese,Heavy,2.0,1913.31
+80.0,5.4,36.0,Female,Sedentary,Overweight,80.0,29.530618427187157,Overweight,Heavy,1.0,1785.24
+82.5,5.2,26.0,Female,Lightly Active,Obese,82.5,32.84107283204704,Obese,Very_Heavy,2.0,2096.32
+74.0,5.2,32.0,Female,Moderately Active,Overweight,74.0,29.457447146320977,Overweight,Heavy,3.0,2184.88
+81.0,5.1,32.0,Female,Lightly Active,Obese,81.0,33.52082828733132,Obese,Very_Heavy,2.0,2008.26
+86.0,5.7,18.0,Female,Moderately Active,Overweight,86.0,28.491729634873373,Overweight,Very_Heavy,3.0,2627.02
+67.5,5.2,40.0,Female,Moderately Active,Overweight,67.5,26.86996868076576,Overweight,Heavy,3.0,2022.13
+86.0,5.3,33.0,Female,Very Active,Obese,86.0,32.95465631317324,Obese,Very_Heavy,4.0,2662.8
+76.1,5.0,31.0,Female,Moderately Active,Obese,76.1,32.76534330846439,Obese,Heavy,3.0,2166.12
+91.0,5.4,32.0,Female,Sedentary,Obese,91.0,33.59107846092539,Obese,Very_Heavy,1.0,1941.24
+80.0,5.3,31.0,Female,Sedentary,Obese,80.0,30.655494244812314,Obese,Heavy,1.0,1792.38
+69.0,5.3,37.0,Female,Sedentary,Overweight,69.0,26.44036378615062,Overweight,Heavy,1.0,1624.38
+86.0,5.4,47.0,Female,Sedentary,Obese,86.0,31.745414809226194,Obese,Very_Heavy,1.0,1791.24
+78.5,5.6,35.0,Female,Lightly Active,Overweight,78.5,26.94409973570514,Overweight,Heavy,2.0,2084.22
+82.0,4.9,26.0,Female,Sedentary,Obese,82.0,36.76137668347342,Obese,Very_Heavy,1.0,1754.94
+95.0,5.6,36.0,Female,Sedentary,Obese,95.0,32.60750923429284,Obese,Very_Heavy,1.0,2010.96
+75.0,5.1,29.0,Female,Lightly Active,Obese,75.0,31.03780396975122,Obese,Heavy,2.0,1946.38
+107.0,5.1,33.0,Female,Lightly Active,Obese,107.0,43.56732230973144,Obese,Extreme,2.0,2358.88
+63.0,5.6,39.0,Female,Moderately Active,Normal,63.0,21.62392717642578,Normal,Normal,3.0,2078.24
+82.0,5.6,31.0,Female,Sedentary,Overweight,82.0,28.14542902328435,Overweight,Very_Heavy,1.0,1884.96
+88.0,5.4,34.0,Female,Sedentary,Obese,88.0,32.483680269905875,Obese,Very_Heavy,1.0,1893.24
+82.8,5.5,26.0,Female,Lightly Active,Overweight,82.8,29.462868843093055,Overweight,Very_Heavy,2.0,2179.03
+75.0,5.3,27.0,Female,Moderately Active,Overweight,75.0,28.73952585451154,Overweight,Heavy,3.0,2268.66
+83.0,5.6,26.0,Female,Sedentary,Overweight,83.0,28.488665962592695,Overweight,Very_Heavy,1.0,1926.96
+75.0,5.3,28.0,Female,Lightly Active,Overweight,75.0,28.73952585451154,Overweight,Heavy,2.0,2005.64
+70.8,5.4,29.0,Female,Sedentary,Overweight,70.8,26.134597308060634,Overweight,Heavy,1.0,1716.84
+104.2,5.7,33.0,Female,Sedentary,Obese,104.2,34.5213747436489,Obese,Extreme,1.0,2162.22
+69.0,5.3,37.0,Female,Sedentary,Overweight,69.0,26.44036378615062,Overweight,Heavy,1.0,1624.38
+42.5,5.5,31.0,Female,Sedentary,Underweight,42.668749999999996,16.777298556898373,Underweight,Light,1.0,1390.12
+70.0,5.5,30.0,Female,Sedentary,Normal,70.0,24.908222451890264,Normal,Heavy,1.0,1724.1
+57.0,5.0,43.0,Female,Moderately Active,Normal,57.0,24.541715750098163,Normal,Normal,3.0,1777.08
+80.0,5.2,32.0,Female,Sedentary,Obese,80.0,31.84588880683349,Obese,Heavy,1.0,1763.52
+61.8,5.2,34.0,Female,Moderately Active,Normal,61.8,24.600949103278868,Normal,Normal,3.0,1980.28
+110.0,5.8,47.0,Female,Sedentary,Obese,110.0,35.197091136684584,Obese,Extreme,1.0,2170.68
+118.5,5.4,28.0,Female,Lightly Active,Obese,118.21875,43.56732230973144,Obese,Extreme,2.0,2626.1
+75.0,5.7,24.0,Female,Sedentary,Normal,75.0,24.847438635063988,Normal,Heavy,1.0,1865.82
+69.0,5.0,31.0,Female,Lightly Active,Overweight,69.0,29.708392750118833,Overweight,Heavy,2.0,1823.94
+94.0,5.6,28.0,Female,Sedentary,Obese,94.0,32.2642722949845,Obese,Very_Heavy,1.0,2046.96
+88.0,5.1,35.0,Female,Moderately Active,Obese,88.0,36.41768999117477,Obese,Very_Heavy,3.0,2349.1
+63.0,5.3,25.0,Female,Lightly Active,Normal,63.0,24.141201717789695,Normal,Normal,2.0,1861.27
+89.0,5.2,40.0,Female,Very Active,Obese,89.0,35.428551297602255,Obese,Very_Heavy,4.0,2621.31
+64.0,5.3,32.0,Female,Sedentary,Normal,64.0,24.52439539584985,Normal,Normal,1.0,1594.38
+77.0,5.2,31.0,Female,Lightly Active,Obese,77.0,30.651667976577233,Obese,Heavy,2.0,1986.32
+60.0,5.2,31.0,Female,Sedentary,Normal,60.0,23.884416605125118,Normal,Normal,1.0,1529.52
+67.0,5.6,35.0,Female,Moderately Active,Normal,67.0,22.996874933659164,Normal,Heavy,3.0,2171.24
+78.2,5.1,27.0,Female,Sedentary,Obese,78.2,32.36208360579394,Obese,Heavy,1.0,1749.06
+79.1,5.5,32.0,Female,Sedentary,Overweight,79.1,28.146291370635996,Overweight,Heavy,1.0,1821.3
+89.0,5.4,30.0,Female,Moderately Active,Obese,89.0,32.85281300024571,Obese,Very_Heavy,3.0,2491.93
+84.55,5.4,30.0,Male,Lightly Active,Obese,84.55,31.210172350233425,Obese,Very_Heavy,2.0,2377.65
+79.2,5.2,24.0,Female,Moderately Active,Obese,79.2,31.527429918765158,Obese,Heavy,3.0,2327.48
+65.7,5.0,27.0,Female,Lightly Active,Overweight,65.7,28.28755657511315,Overweight,Heavy,2.0,1806.06
+58.0,5.4,30.0,Female,Lightly Active,Normal,58.0,21.40969835971069,Normal,Normal,2.0,1784.34
+71.0,5.4,31.0,Female,Lightly Active,Overweight,71.0,26.2084238541286,Overweight,Heavy,2.0,1956.21
+95.0,5.9,29.0,Female,Lightly Active,Overweight,95.0,29.375796885591022,Overweight,Very_Heavy,2.0,2430.93
+66.0,5.4,28.0,Female,Moderately Active,Normal,66.0,24.362760202429406,Normal,Heavy,3.0,2150.93
+68.0,5.0,25.0,Female,Sedentary,Overweight,68.0,29.27783633345044,Overweight,Heavy,1.0,1615.8
+72.0,5.9,38.0,Female,Moderately Active,Normal,72.0,22.263761850132145,Normal,Heavy,3.0,2314.07
+85.0,5.2,39.0,Female,Sedentary,Obese,85.0,33.83625685726058,Obese,Very_Heavy,1.0,1781.52
+107.0,5.1,39.0,Female,Sedentary,Obese,107.0,43.56732230973144,Obese,Extreme,1.0,2022.66
+76.0,5.3,28.0,Female,Sedentary,Overweight,76.0,29.122719532571697,Overweight,Heavy,1.0,1762.38
+88.0,5.4,47.0,Female,Moderately Active,Obese,88.0,32.483680269905875,Obese,Very_Heavy,3.0,2344.68
+72.0,5.6,43.0,Female,Sedentary,Normal,72.0,24.713059630200892,Normal,Heavy,1.0,1692.96
+72.0,5.2,38.0,Female,Sedentary,Overweight,72.0,28.66129992615014,Overweight,Heavy,1.0,1631.52
+91.6,5.7,32.0,Female,Lightly Active,Obese,91.6,30.34700505295815,Obese,Very_Heavy,2.0,2311.17
+79.0,5.7,26.0,Female,Sedentary,Overweight,79.0,26.1726353622674,Overweight,Heavy,1.0,1901.82
+69.3,5.1,35.0,Female,Moderately Active,Overweight,69.3,28.678930868050127,Overweight,Heavy,3.0,2059.25
+78.0,5.2,30.0,Female,Moderately Active,Obese,78.0,31.049741586662652,Obese,Heavy,3.0,2262.38
+63.6,5.4,27.0,Female,Lightly Active,Normal,63.6,23.47684164961379,Normal,Normal,2.0,1881.96
+85.0,5.3,46.0,Female,Moderately Active,Obese,85.0,32.57146263511308,Obese,Very_Heavy,3.0,2276.41
+84.0,5.1,34.0,Female,Sedentary,Obese,84.0,34.76234044612137,Obese,Very_Heavy,1.0,1776.66
+66.95,5.2,24.0,Female,Sedentary,Overweight,66.95,26.651028195218778,Overweight,Heavy,1.0,1654.92
+75.0,5.0,37.0,Female,Sedentary,Obese,75.0,32.29173125012917,Obese,Heavy,1.0,1627.8
+97.0,5.3,32.0,Female,Sedentary,Obese,97.0,37.16978677183493,Obese,Very_Heavy,1.0,1990.38
+74.0,5.3,28.0,Female,Sedentary,Overweight,74.0,28.35633217645139,Overweight,Heavy,1.0,1738.38
+74.0,5.1,31.0,Female,Very Active,Obese,74.0,30.62396658348787,Obese,Heavy,4.0,2407.32
+97.0,5.7,30.0,Female,Lightly Active,Obese,97.0,32.13602063468276,Obese,Very_Heavy,2.0,2399.17
+100.0,5.4,26.0,Female,Lightly Active,Obese,100.0,36.91327303398395,Obese,Very_Heavy,2.0,2389.34
+68.0,5.2,32.0,Female,Moderately Active,Overweight,68.0,27.069005485808468,Overweight,Heavy,3.0,2091.88
+63.0,5.1,29.0,Female,Sedentary,Overweight,63.0,26.071755334591025,Overweight,Normal,1.0,1554.66
+93.0,5.3,34.0,Female,Moderately Active,Obese,93.0,35.63701205959431,Obese,Very_Heavy,3.0,2493.41
+87.0,5.5,39.0,Female,Lightly Active,Obese,87.0,30.95736219020647,Obese,Very_Heavy,2.0,2147.41
+83.0,5.5,39.0,Female,Moderately Active,Overweight,83.0,29.5340351929556,Overweight,Very_Heavy,3.0,2358.71
+78.0,5.8,33.0,Female,Lightly Active,Normal,78.0,24.957937351467248,Normal,Heavy,2.0,2143.49
+74.6,5.3,26.0,Female,Lightly Active,Overweight,74.6,28.58624838328748,Overweight,Heavy,2.0,2013.89
+80.6,5.3,24.0,Female,Sedentary,Obese,80.6,30.8854104516484,Obese,Very_Heavy,1.0,1841.58
+85.0,5.3,21.0,Female,Moderately Active,Obese,85.0,32.57146263511308,Obese,Very_Heavy,3.0,2470.16
+71.0,5.11,27.0,Female,Lightly Active,Overweight,71.0,29.267567127362028,Overweight,Heavy,2.0,1907.75
+94.0,5.5,26.0,Female,Moderately Active,Obese,94.0,33.4481844353955,Obese,Very_Heavy,3.0,2629.96
+60.0,5.3,27.0,Female,Lightly Active,Normal,60.0,22.991620683609234,Normal,Normal,2.0,1806.27
+102.0,5.2,42.0,Female,Lightly Active,Obese,102.0,40.6035082287127,Obese,Extreme,2.0,2254.45
+105.9,5.4,43.0,Female,Moderately Active,Obese,105.9,39.091156142989,Obese,Extreme,3.0,2653.13
+60.0,5.1,29.0,Female,Sedentary,Normal,60.0,24.830243175800977,Normal,Normal,1.0,1518.66
+94.0,5.7,32.0,Female,Lightly Active,Obese,94.0,31.142123089280197,Obese,Very_Heavy,2.0,2344.17
+76.0,5.3,29.0,Female,Lightly Active,Overweight,76.0,29.122719532571697,Overweight,Heavy,2.0,2012.52
+88.3,5.4,30.0,Female,Lightly Active,Obese,88.3,32.594420089007826,Obese,Very_Heavy,2.0,2200.96
+68.5,5.3,23.0,Female,Lightly Active,Overweight,68.5,26.248766947120544,Overweight,Heavy,2.0,1950.64
+98.0,5.5,34.0,Female,Moderately Active,Obese,98.0,34.87151143264637,Obese,Very_Heavy,3.0,2629.96
+86.0,5.3,26.0,Female,Sedentary,Obese,86.0,32.95465631317324,Obese,Very_Heavy,1.0,1894.38
+94.0,5.3,35.0,Female,Lightly Active,Obese,94.0,36.020205737654464,Obese,Very_Heavy,2.0,2218.77
+84.5,5.6,28.0,Female,Lightly Active,Overweight,84.5,29.003521371555216,Overweight,Very_Heavy,2.0,2214.85
+66.7,5.6,26.0,Female,Lightly Active,Normal,66.7,22.89390385186666,Normal,Heavy,2.0,1983.85
+93.0,5.2,34.0,Female,Lightly Active,Obese,93.0,37.02084573794393,Obese,Very_Heavy,2.0,2185.7
+71.5,5.1,27.0,Female,Lightly Active,Overweight,71.5,29.5893731178295,Overweight,Heavy,2.0,1912.01
+67.0,5.2,40.0,Female,Moderately Active,Overweight,67.0,26.67093187572305,Overweight,Heavy,3.0,2014.38
+103.0,5.4,29.0,Female,Sedentary,Obese,103.0,38.02067122500347,Obese,Extreme,1.0,2103.24
+97.2,5.6,38.0,Female,Moderately Active,Obese,97.2,33.3626305007712,Obese,Very_Heavy,3.0,2616.09
+66.0,5.4,24.0,Female,Moderately Active,Normal,66.0,24.362760202429406,Normal,Heavy,3.0,2181.93
+56.0,4.75,27.0,Female,Moderately Active,Obese,56.0,26.715966020420808,Overweight,Normal,3.0,1811.76
+66.8,5.1,27.0,Female,Moderately Active,Overweight,66.8,27.644337402391752,Overweight,Heavy,3.0,2082.5
+68.0,5.4,28.0,Female,Lightly Active,Overweight,68.0,25.101025663109084,Overweight,Heavy,2.0,1935.59
+100.0,5.8,43.0,Male,Sedentary,Obese,100.0,31.997355578804164,Obese,Very_Heavy,1.0,2273.88
+95.0,5.8,37.0,Male,Moderately Active,Obese,95.0,30.397487799863956,Obese,Very_Heavy,3.0,2906.09
+75.0,5.4,50.5,Female,Lightly Active,Overweight,75.0,27.68495477548796,Overweight,Heavy,2.0,1877.15
+63.5,5.1,35.0,Female,Sedentary,Overweight,63.5,26.2786740277227,Overweight,Normal,1.0,1524.66
+96.0,5.2,24.0,Female,Sedentary,Obese,96.0,38.215066568200186,Obese,Very_Heavy,1.0,2003.52
+62.5,5.3,30.0,Female,Sedentary,Normal,62.5,23.94960487875962,Normal,Normal,1.0,1588.38
+59.0,5.2,26.0,Female,Sedentary,Normal,59.0,23.4863429950397,Normal,Normal,1.0,1547.52
+86.0,5.6,32.0,Female,Sedentary,Overweight,86.0,29.518376780517734,Overweight,Very_Heavy,1.0,1926.96
+75.0,5.4,24.0,Female,Sedentary,Overweight,75.0,27.68495477548796,Overweight,Heavy,1.0,1797.24
+68.0,5.1,25.0,Female,Very Active,Overweight,68.0,28.140942265907775,Overweight,Heavy,4.0,2355.57
+83.0,5.2,35.0,Female,Lightly Active,Obese,83.0,33.04010963708975,Obese,Very_Heavy,2.0,2041.32
+86.0,5.3,34.0,Female,Moderately Active,Obese,86.0,32.95465631317324,Obese,Very_Heavy,3.0,2384.91
+82.0,5.3,36.0,Female,Sedentary,Obese,82.0,31.42188160093262,Obese,Very_Heavy,1.0,1786.38
+71.5,5.4,39.0,Female,Very Active,Overweight,71.5,26.39299021929852,Overweight,Heavy,4.0,2393.78
+88.0,5.5,37.0,Female,Sedentary,Obese,88.0,31.31319393951919,Obese,Very_Heavy,1.0,1898.1
+83.0,5.5,33.0,Female,Moderately Active,Overweight,83.0,29.5340351929556,Overweight,Very_Heavy,3.0,2405.21
+74.0,5.7,30.0,Female,Moderately Active,Normal,74.0,24.516139453263133,Normal,Heavy,3.0,2348.02
+102.0,5.3,29.0,Female,Sedentary,Obese,102.0,39.0857551621357,Obese,Extreme,1.0,2068.38
+118.5,5.6,23.0,Female,Moderately Active,Obese,118.21875,40.67357730803897,Obese,Extreme,3.0,3058.13
+65.0,5.0,37.0,Female,Sedentary,Overweight,65.0,27.986167083445277,Overweight,Normal,1.0,1507.8
+63.7,5.1,31.0,Female,Moderately Active,Overweight,63.7,26.36144150497537,Overweight,Normal,3.0,2003.45
+79.0,5.7,34.0,Female,Sedentary,Overweight,79.0,26.1726353622674,Overweight,Heavy,1.0,1853.82
+118.5,5.7,27.0,Female,Moderately Active,Obese,118.21875,39.2589530434011,Obese,Extreme,3.0,3056.66
+93.0,5.4,39.0,Female,Lightly Active,Obese,93.0,34.32934392160507,Obese,Very_Heavy,2.0,2203.71
+108.0,5.4,31.0,Female,Sedentary,Obese,108.0,39.86633487670266,Obese,Extreme,1.0,2151.24
+69.0,5.4,38.0,Female,Sedentary,Overweight,69.0,25.470158393448923,Overweight,Heavy,1.0,1641.24
+85.0,5.2,26.0,Female,Very Active,Obese,85.0,33.83625685726058,Obese,Very_Heavy,4.0,2673.06
+88.0,5.5,34.0,Female,Moderately Active,Obese,88.0,31.31319393951919,Obese,Very_Heavy,3.0,2474.96
+55.5,5.4,41.0,Female,Moderately Active,Normal,55.5,20.48686653386109,Normal,Normal,3.0,1887.44
+70.0,5.0,36.0,Female,Moderately Active,Obese,70.0,30.13894916678722,Obese,Heavy,3.0,2032.83
+97.0,5.2,39.0,Female,Very Active,Obese,97.0,38.613140178285605,Obese,Very_Heavy,4.0,2767.93
+66.0,5.6,42.0,Female,Sedentary,Normal,66.0,22.65363799435082,Normal,Heavy,1.0,1626.96
+73.0,5.4,32.0,Female,Lightly Active,Overweight,73.0,26.946689314808282,Overweight,Heavy,2.0,1976.84
+62.2,4.8,33.0,Female,Lightly Active,Overweight,62.2,29.058820656221556,Overweight,Normal,2.0,1664.3
+92.0,5.6,38.0,Female,Lightly Active,Obese,92.0,31.57779841636781,Obese,Very_Heavy,2.0,2249.22
+74.0,5.4,39.0,Female,Lightly Active,Overweight,74.0,27.31582204514812,Overweight,Heavy,2.0,1942.46
+80.0,5.3,40.0,Female,Moderately Active,Obese,80.0,30.655494244812314,Obese,Heavy,3.0,2245.41
+78.0,5.2,40.0,Female,Moderately Active,Obese,78.0,31.049741586662652,Obese,Heavy,3.0,2184.88
+55.0,5.5,34.0,Female,Lightly Active,Normal,55.0,19.570746212199495,Normal,Normal,2.0,1741.78
+81.0,5.4,29.0,Female,Moderately Active,Overweight,81.0,29.899751157526996,Overweight,Very_Heavy,3.0,2375.68
+68.0,5.4,38.0,Female,Sedentary,Overweight,68.0,25.101025663109084,Overweight,Heavy,1.0,1629.24
+63.5,5.4,25.0,Female,Lightly Active,Normal,63.5,23.439928376579807,Normal,Normal,2.0,1894.34
+76.0,5.7,30.0,Female,Sedentary,Overweight,76.0,25.178737816864842,Overweight,Heavy,1.0,1841.82
+72.0,5.4,33.0,Female,Lightly Active,Overweight,72.0,26.577556584468443,Overweight,Heavy,2.0,1956.21
+79.0,5.3,38.0,Female,Sedentary,Obese,79.0,30.272300566752158,Obese,Heavy,1.0,1738.38
+74.0,5.4,32.0,Female,Sedentary,Overweight,74.0,27.31582204514812,Overweight,Heavy,1.0,1737.24
+96.0,5.5,27.0,Male,Sedentary,Obese,96.0,34.15984793402094,Obese,Very_Heavy,1.0,2253.3
+64.0,5.3,36.0,Female,Lightly Active,Normal,64.0,24.52439539584985,Normal,Normal,2.0,1799.39
+72.0,5.1,30.0,Female,Sedentary,Overweight,72.0,29.796291810961172,Overweight,Heavy,1.0,1656.66
+88.0,5.3,31.0,Female,Lightly Active,Obese,88.0,33.72104366929354,Obese,Very_Heavy,2.0,2163.77
+80.0,5.1,32.0,Female,Lightly Active,Obese,80.0,33.10699090106797,Obese,Heavy,2.0,1994.51
+88.2,5.3,33.0,Female,Sedentary,Obese,88.2,33.79768240490557,Obese,Very_Heavy,1.0,1878.78
+83.0,5.3,50.5,Female,Sedentary,Obese,83.0,31.805075278992774,Obese,Very_Heavy,1.0,1711.38
+75.0,5.7,30.0,Female,Sedentary,Normal,75.0,24.847438635063988,Normal,Heavy,1.0,1829.82
+96.0,5.0,50.5,Female,Sedentary,Obese,96.0,41.33341600016533,Obese,Very_Heavy,1.0,1798.8
+108.0,5.1,28.0,Female,Lightly Active,Obese,108.0,43.56732230973144,Obese,Extreme,2.0,2407.01
+96.3,5.6,23.0,Female,Lightly Active,Obese,96.3,33.05371725539369,Obese,Very_Heavy,2.0,2411.47
+70.0,5.6,31.0,Female,Lightly Active,Normal,70.0,24.0265857515842,Normal,Heavy,2.0,1994.85
+71.0,5.1,34.0,Female,Lightly Active,Overweight,71.0,29.382454424697823,Overweight,Heavy,2.0,1857.01
+80.25,5.2,23.0,Female,Sedentary,Obese,80.25,31.945407209354844,Obese,Very_Heavy,1.0,1820.52
+75.0,5.1,34.0,Female,Sedentary,Obese,75.0,31.03780396975122,Obese,Heavy,1.0,1668.66
+58.2,5.2,26.0,Female,Sedentary,Normal,58.2,23.167884106971364,Normal,Normal,1.0,1537.92
+81.0,5.3,40.0,Female,Sedentary,Obese,81.0,31.038687922872466,Obese,Very_Heavy,1.0,1750.38
+69.0,5.3,32.0,Female,Moderately Active,Overweight,69.0,26.44036378615062,Overweight,Heavy,3.0,2136.91
+65.0,5.3,35.0,Female,Lightly Active,Normal,65.0,24.907589073910003,Normal,Normal,2.0,1820.02
+65.0,5.7,30.0,Female,Sedentary,Normal,65.0,21.534446817055457,Normal,Normal,1.0,1709.82
+107.0,5.5,36.0,Female,Lightly Active,Obese,107.0,38.073997176460836,Obese,Extreme,2.0,2443.03
+67.0,5.2,36.0,Female,Moderately Active,Overweight,67.0,26.67093187572305,Overweight,Heavy,3.0,2045.38
+88.0,5.1,34.0,Female,Sedentary,Obese,88.0,36.41768999117477,Obese,Very_Heavy,1.0,1824.66
+77.0,5.4,27.0,Female,Lightly Active,Overweight,77.0,28.423220236167637,Overweight,Heavy,2.0,2066.21
+81.0,5.2,42.0,Female,Lightly Active,Obese,81.0,32.24396241691891,Obese,Very_Heavy,2.0,1965.7
+88.0,5.5,43.0,Female,Sedentary,Obese,88.0,31.31319393951919,Obese,Very_Heavy,1.0,1862.1
+42.5,5.5,38.0,Female,Sedentary,Underweight,42.668749999999996,16.777298556898373,Underweight,Light,1.0,1348.12
+82.0,5.4,30.0,Female,Sedentary,Obese,82.0,30.268883887866835,Obese,Very_Heavy,1.0,1845.24
+112.0,5.0,34.0,Female,Sedentary,Obese,112.0,43.56732230973144,Obese,Extreme,1.0,2089.8
+54.2,4.9,50.5,Female,Lightly Active,Normal,54.2,24.298373368832436,Normal,Normal,2.0,1460.18
+80.0,5.7,23.0,Female,Sedentary,Obese,80.0,26.503934544068255,Overweight,Heavy,1.0,1931.82
+77.0,5.1,33.0,Female,Sedentary,Obese,77.0,31.865478742277922,Obese,Heavy,1.0,1698.66
+85.2,5.3,24.0,Female,Sedentary,Obese,85.2,32.648101370725115,Obese,Very_Heavy,1.0,1896.78
+72.0,5.4,36.0,Female,Moderately Active,Overweight,72.0,26.577556584468443,Overweight,Heavy,3.0,2181.93
+71.0,5.4,30.0,Female,Moderately Active,Overweight,71.0,26.2084238541286,Overweight,Heavy,3.0,2212.93
+62.0,5.0,29.0,Female,Sedentary,Overweight,62.0,26.69449783344011,Overweight,Normal,1.0,1519.8
+87.0,5.5,33.0,Female,Lightly Active,Obese,87.0,30.95736219020647,Obese,Very_Heavy,2.0,2188.66
+62.0,5.0,29.0,Female,Sedentary,Overweight,62.0,26.69449783344011,Overweight,Normal,1.0,1519.8
+67.5,5.1,34.0,Female,Lightly Active,Overweight,67.5,27.9340235727761,Overweight,Heavy,2.0,1808.88
+75.0,5.1,41.0,Female,Lightly Active,Obese,75.0,31.03780396975122,Obese,Heavy,2.0,1863.88
+75.0,5.08,40.0,Female,Lightly Active,Obese,75.0,31.28267721391705,Obese,Heavy,2.0,1865.52
+76.0,5.4,35.0,Female,Sedentary,Overweight,76.0,28.0540875058278,Overweight,Heavy,1.0,1743.24
+48.7,4.75,40.0,Female,Sedentary,Obese,48.7,23.23334902133024,Normal,Light,1.0,1237.05
+73.0,5.6,50.5,Female,Lightly Active,Overweight,73.0,25.05629656950924,Overweight,Heavy,2.0,1902.04
+78.9,5.5,28.0,Female,Sedentary,Overweight,78.9,28.07512502077346,Overweight,Heavy,1.0,1842.9
+80.0,5.5,25.0,Male,Sedentary,Obese,80.0,28.466539945017445,Overweight,Heavy,1.0,2073.3
+79.0,5.3,31.0,Female,Lightly Active,Obese,79.0,30.272300566752158,Obese,Heavy,2.0,2040.02
+82.0,5.05,37.0,Female,Lightly Active,Obese,82.0,34.60996585315939,Obese,Very_Heavy,2.0,1974.53
+71.0,5.2,27.0,Female,Sedentary,Overweight,71.0,28.26322631606472,Overweight,Heavy,1.0,1685.52
+71.0,5.1,31.0,Female,Moderately Active,Overweight,71.0,29.382454424697823,Overweight,Heavy,3.0,2116.6
+72.0,5.4,28.0,Female,Moderately Active,Overweight,72.0,26.577556584468443,Overweight,Heavy,3.0,2243.93
+68.0,5.4,25.0,Female,Lightly Active,Overweight,68.0,25.101025663109084,Overweight,Heavy,2.0,1956.21
+76.0,5.3,26.0,Female,Lightly Active,Overweight,76.0,29.122719532571697,Overweight,Heavy,2.0,2033.14
+56.0,5.2,27.0,Female,Lightly Active,Normal,56.0,22.292122164783443,Normal,Normal,2.0,1725.07
+100.0,5.6,30.0,Female,Moderately Active,Obese,100.0,34.32369393083457,Obese,Very_Heavy,3.0,2721.49
+98.0,5.949999999999999,46.0,Male,Lightly Active,Overweight,98.0,29.796291810961165,Overweight,Very_Heavy,2.0,2596.65
+70.5,5.2,26.0,Female,Lightly Active,Overweight,70.5,28.06418951102201,Overweight,Heavy,2.0,1931.32
+66.0,5.2,34.0,Female,Sedentary,Overweight,66.0,26.27285826563763,Overweight,Heavy,1.0,1583.52
+87.0,5.4,45.0,Female,Moderately Active,Obese,87.0,32.11454753956603,Obese,Very_Heavy,3.0,2344.68
+82.0,5.3,26.0,Female,Sedentary,Obese,82.0,31.42188160093262,Obese,Very_Heavy,1.0,1846.38
+84.0,5.4,29.0,Female,Sedentary,Obese,84.0,31.007149348546516,Obese,Very_Heavy,1.0,1875.24
+63.2,5.3,20.0,Female,Moderately Active,Normal,63.2,24.217840453401728,Normal,Normal,3.0,2140.01
+73.0,5.3,34.0,Female,Very Active,Overweight,73.0,27.973138498391233,Overweight,Heavy,4.0,2429.92
+96.0,5.5,34.0,Female,Lightly Active,Obese,96.0,34.15984793402094,Obese,Very_Heavy,2.0,2305.53
+92.0,5.11,29.0,Female,Sedentary,Obese,92.0,37.92417148897615,Obese,Very_Heavy,1.0,1904.95
+84.0,5.2,42.0,Female,Sedentary,Obese,84.0,33.43818324717517,Obese,Very_Heavy,1.0,1751.52
+83.0,5.5,23.0,Female,Lightly Active,Overweight,83.0,29.5340351929556,Overweight,Very_Heavy,2.0,2202.41
+84.0,5.1,28.0,Female,Sedentary,Obese,84.0,34.76234044612137,Obese,Very_Heavy,1.0,1812.66
+93.0,5.5,29.0,Female,Sedentary,Obese,93.0,33.09235268608278,Obese,Very_Heavy,1.0,2006.1
+67.4,5.1,37.0,Female,Lightly Active,Overweight,67.4,27.892639834149765,Overweight,Heavy,2.0,1786.88
+77.6,5.1,39.0,Female,Lightly Active,Obese,77.6,32.11378117403593,Obese,Heavy,2.0,1913.38
+80.0,5.3,30.0,Female,Sedentary,Obese,80.0,30.655494244812314,Obese,Heavy,1.0,1798.38
+90.0,5.4,39.0,Female,Very Active,Obese,90.0,33.22194573058555,Obese,Very_Heavy,4.0,2712.91
+110.0,5.4,34.0,Female,Sedentary,Obese,110.0,40.604600337382344,Obese,Extreme,1.0,2157.24
+88.0,5.8,26.0,Female,Sedentary,Overweight,88.0,28.157672909347667,Overweight,Very_Heavy,1.0,2032.68
+103.0,5.6,23.0,Female,Lightly Active,Obese,103.0,35.35340474875961,Obese,Extreme,2.0,2503.6
+69.0,5.3,30.0,Female,Moderately Active,Overweight,69.0,26.44036378615062,Overweight,Heavy,3.0,2152.41
+62.0,5.1,33.0,Male,Moderately Active,Overweight,62.0,25.657917948327675,Overweight,Normal,3.0,2218.9
+96.0,5.6,50.5,Female,Sedentary,Obese,96.0,32.95074617360119,Obese,Very_Heavy,1.0,1935.96
+85.0,5.4,27.0,Female,Sedentary,Obese,85.0,31.376282078886355,Obese,Very_Heavy,1.0,1899.24
+81.6,5.2,37.0,Female,Sedentary,Obese,81.6,32.482806582970156,Obese,Very_Heavy,1.0,1752.72
+118.5,5.7,32.0,Female,Moderately Active,Obese,118.21875,39.2589530434011,Obese,Extreme,3.0,3017.91
+94.1,5.6,27.0,Female,Sedentary,Obese,94.1,32.29859598891533,Obese,Very_Heavy,1.0,2054.16
+70.0,5.3,32.0,Female,Sedentary,Overweight,70.0,26.823557464210772,Overweight,Heavy,1.0,1666.38
+75.0,5.6,31.0,Female,Lightly Active,Overweight,75.0,25.74277044812593,Overweight,Heavy,2.0,2063.6
+102.8,5.4,31.0,Female,Sedentary,Obese,102.8,37.9468446789355,Obese,Extreme,1.0,2088.84
+91.0,5.5,29.0,Female,Lightly Active,Obese,91.0,32.38068918745734,Obese,Very_Heavy,2.0,2271.16
+79.5,5.45,29.0,Female,Sedentary,Overweight,79.5,28.810062389644735,Overweight,Heavy,1.0,1832.67
+76.8,5.0,33.0,Female,Sedentary,Obese,76.8,33.066732800132264,Obese,Heavy,1.0,1673.4
+81.0,4.75,35.0,Female,Sedentary,Obese,81.0,38.642736565251525,Obese,Very_Heavy,1.0,1654.65
+71.0,5.4,38.0,Female,Moderately Active,Overweight,71.0,26.2084238541286,Overweight,Heavy,3.0,2150.93
+67.0,5.3,27.0,Female,Moderately Active,Overweight,67.0,25.67397643003031,Overweight,Heavy,3.0,2144.66
+94.0,5.949999999999999,36.0,Female,Sedentary,Underweight,94.0,28.580116635003566,Overweight,Very_Heavy,1.0,2078.97
+74.5,5.3,40.0,Female,Lightly Active,Overweight,74.5,28.547929015481465,Overweight,Heavy,2.0,1916.27
+89.0,5.3,43.0,Female,Sedentary,Obese,89.0,34.104237347353695,Obese,Very_Heavy,1.0,1828.38
+94.0,5.2,36.0,Female,Sedentary,Obese,94.0,37.41891934802935,Obese,Very_Heavy,1.0,1907.52
+94.0,5.5,33.0,Female,Very Active,Obese,94.0,33.4481844353955,Obese,Very_Heavy,4.0,2866.52
+93.0,5.5,38.0,Female,Sedentary,Obese,93.0,33.09235268608278,Obese,Very_Heavy,1.0,1952.1
+93.0,5.0,33.0,Female,Sedentary,Obese,93.0,40.041746750160165,Obese,Very_Heavy,1.0,1867.8
+89.56,5.3,36.0,Female,Lightly Active,Obese,89.56,34.318825807067384,Obese,Very_Heavy,2.0,2150.84
+78.0,5.4,25.0,Female,Lightly Active,Overweight,78.0,28.79235296650748,Overweight,Heavy,2.0,2093.71
+90.0,5.3,25.0,Female,Sedentary,Obese,90.0,34.48743102541385,Obese,Very_Heavy,1.0,1948.38
+97.0,5.4,39.0,Female,Sedentary,Obese,97.0,35.80587484296443,Obese,Very_Heavy,1.0,1971.24
+81.0,5.3,38.0,Female,Moderately Active,Obese,81.0,31.038687922872466,Obese,Very_Heavy,3.0,2276.41
+78.0,5.3,39.0,Female,Moderately Active,Overweight,78.0,29.889106888692005,Overweight,Heavy,3.0,2222.16
+82.0,5.4,41.0,Female,Sedentary,Obese,82.0,30.268883887866835,Obese,Very_Heavy,1.0,1779.24
+85.0,5.4,32.0,Female,Sedentary,Obese,85.0,31.376282078886355,Obese,Very_Heavy,1.0,1869.24
+86.0,5.0,35.0,Female,Sedentary,Obese,86.0,37.02785183348144,Obese,Very_Heavy,1.0,1771.8
+59.7,5.1,27.0,Female,Lightly Active,Normal,59.7,24.706091959921974,Normal,Normal,2.0,1749.76
+79.0,4.75,35.0,Female,Moderately Active,Obese,79.0,37.68859492166507,Obese,Heavy,3.0,2106.26
+103.0,5.4,40.0,Female,Lightly Active,Obese,103.0,38.02067122500347,Obese,Extreme,2.0,2334.34
+80.0,5.3,19.0,Female,Sedentary,Obese,80.0,30.655494244812314,Obese,Heavy,1.0,1864.38
+86.0,5.6,30.0,Female,Lightly Active,Overweight,86.0,29.518376780517734,Overweight,Very_Heavy,2.0,2221.72
+90.0,5.6,32.0,Female,Moderately Active,Obese,90.0,30.891324537751117,Obese,Very_Heavy,3.0,2550.99
+77.5,5.5,43.0,Male,Very Active,Overweight,77.5,27.57696057173565,Overweight,Heavy,4.0,2781.99
+76.0,5.7,39.0,Male,Sedentary,Overweight,76.0,25.178737816864842,Overweight,Heavy,1.0,1987.02
+88.0,5.0,27.0,Female,Moderately Active,Obese,88.0,37.88896466681822,Obese,Very_Heavy,3.0,2381.58
+67.0,5.0,28.0,Female,Lightly Active,Overweight,67.0,28.847279916782053,Overweight,Heavy,2.0,1817.06
+66.0,5.2,29.0,Female,Lightly Active,Overweight,66.0,26.27285826563763,Overweight,Heavy,2.0,1848.82
+81.0,5.6,47.0,Female,Moderately Active,Overweight,81.0,27.802192083976003,Overweight,Very_Heavy,3.0,2295.24
+85.0,5.3,27.0,Female,Sedentary,Obese,85.0,32.57146263511308,Obese,Very_Heavy,1.0,1876.38
+84.7,5.0,50.5,Female,Sedentary,Obese,84.7,36.468128491812536,Obese,Very_Heavy,1.0,1663.2
+88.0,5.3,29.0,Female,Lightly Active,Obese,88.0,33.72104366929354,Obese,Very_Heavy,2.0,2177.52
+85.6,5.2,31.0,Female,Lightly Active,Obese,85.6,34.07510102331183,Obese,Very_Heavy,2.0,2104.57
+72.0,5.7,34.0,Female,Lightly Active,Normal,72.0,23.853541089661427,Normal,Heavy,2.0,2027.92
+83.5,5.2,50.5,Female,Lightly Active,Obese,83.5,33.23914644213246,Obese,Very_Heavy,2.0,1941.64
+105.0,5.5,28.0,Female,Sedentary,Obese,105.0,37.362333677835394,Obese,Extreme,1.0,2156.1
+90.0,5.1,34.0,Female,Moderately Active,Obese,90.0,37.24536476370147,Obese,Very_Heavy,3.0,2387.85
+73.0,5.3,28.0,Female,Sedentary,Overweight,73.0,27.973138498391233,Overweight,Heavy,1.0,1726.38
+118.5,5.1,26.0,Male,Lightly Active,Obese,118.21875,43.56732230973144,Obese,Extreme,2.0,2789.51
+67.55,5.4,30.0,Female,Sedentary,Normal,67.55,24.934915934456154,Normal,Heavy,1.0,1671.84
+108.0,5.4,28.0,Female,Sedentary,Obese,108.0,39.86633487670266,Obese,Extreme,1.0,2169.24
+72.0,5.7,42.0,Female,Moderately Active,Normal,72.0,23.853541089661427,Normal,Heavy,3.0,2224.02
+85.4,5.5,38.0,Female,Moderately Active,Obese,85.4,30.388031391306125,Obese,Very_Heavy,3.0,2403.66
+72.0,5.5,36.0,Female,Lightly Active,Overweight,72.0,25.6198859505157,Overweight,Heavy,2.0,1961.78
+70.0,5.2,38.0,Female,Lightly Active,Overweight,70.0,27.865152705979305,Overweight,Heavy,2.0,1841.95
+64.0,5.2,29.0,Female,Sedentary,Overweight,64.0,25.476711045466793,Overweight,Normal,1.0,1589.52
+86.0,5.8,27.0,Female,Sedentary,Overweight,86.0,27.517725797771583,Overweight,Very_Heavy,1.0,2002.68
+64.5,5.4,34.0,Female,Lightly Active,Normal,64.5,23.809061106919646,Normal,Normal,2.0,1846.21
+95.5,5.3,25.0,Female,Lightly Active,Obese,95.5,36.5949962547447,Obese,Very_Heavy,2.0,2308.14
+86.0,5.3,31.0,Female,Moderately Active,Obese,86.0,32.95465631317324,Obese,Very_Heavy,3.0,2408.16
+81.0,5.3,33.0,Female,Lightly Active,Obese,81.0,31.038687922872466,Obese,Very_Heavy,2.0,2053.77
+86.0,5.4,42.0,Female,Lightly Active,Obese,86.0,31.745414809226194,Obese,Very_Heavy,2.0,2086.84
+102.0,5.6,31.0,Female,Lightly Active,Obese,102.0,35.01016780945127,Obese,Extreme,2.0,2434.85
+68.0,5.4,41.0,Female,Lightly Active,Overweight,68.0,25.101025663109084,Overweight,Heavy,2.0,1846.21
+61.3,4.9,24.0,Female,Lightly Active,Overweight,61.3,27.48137061825513,Overweight,Normal,2.0,1739.99
+99.8,5.3,27.0,Female,Sedentary,Obese,99.8,38.24272907040336,Obese,Very_Heavy,1.0,2053.98
+68.0,5.1,28.0,Female,Sedentary,Overweight,68.0,28.140942265907775,Overweight,Heavy,1.0,1620.66
+105.0,5.8,40.0,Male,Moderately Active,Obese,105.0,33.597223357744376,Obese,Extreme,3.0,3037.84
+84.0,5.4,40.0,Female,Sedentary,Obese,84.0,31.007149348546516,Obese,Very_Heavy,1.0,1809.24
+85.0,5.4,37.0,Female,Sedentary,Obese,85.0,31.376282078886355,Obese,Very_Heavy,1.0,1839.24
+73.0,5.2,42.0,Female,Moderately Active,Overweight,73.0,29.059373536235558,Overweight,Heavy,3.0,2091.88
+65.0,4.9,28.0,Female,Moderately Active,Overweight,65.0,29.140115663728935,Overweight,Normal,3.0,1987.8
+64.6,5.3,37.0,Female,Lightly Active,Normal,64.6,24.754311602685938,Normal,Normal,2.0,1800.77
+94.0,5.6,47.0,Male,Lightly Active,Obese,94.0,32.2642722949845,Obese,Very_Heavy,2.0,2443.1
+78.0,5.4,39.0,Female,Lightly Active,Overweight,78.0,28.79235296650748,Overweight,Heavy,2.0,1997.46
+90.0,5.5,33.0,Female,Lightly Active,Obese,90.0,32.02485743814463,Obese,Very_Heavy,2.0,2229.91
+79.0,5.7,38.0,Female,Sedentary,Overweight,79.0,26.1726353622674,Overweight,Heavy,1.0,1829.82
+86.0,5.6,28.0,Female,Very Active,Overweight,86.0,29.518376780517734,Overweight,Very_Heavy,4.0,2804.51
+85.0,5.4,33.0,Female,Sedentary,Obese,85.0,31.376282078886355,Obese,Very_Heavy,1.0,1863.24
+92.5,5.5,26.0,Female,Sedentary,Obese,92.5,32.91443681142642,Obese,Very_Heavy,1.0,2018.1
+78.0,5.1,40.0,Female,Lightly Active,Obese,78.0,32.27931612854127,Obese,Heavy,2.0,1912.01
+78.0,5.1,40.0,Female,Moderately Active,Obese,78.0,32.27931612854127,Obese,Heavy,3.0,2155.35
+68.0,5.3,32.0,Female,Lightly Active,Overweight,68.0,26.057170108090464,Overweight,Heavy,2.0,1881.89
+64.0,5.5,36.0,Female,Moderately Active,Normal,64.0,22.773231956013955,Normal,Normal,3.0,2087.46
+100.0,5.5,38.0,Female,Sedentary,Obese,100.0,35.583174931271806,Obese,Very_Heavy,1.0,2036.1
+83.0,5.5,33.0,Male,Lightly Active,Overweight,83.0,29.5340351929556,Overweight,Very_Heavy,2.0,2361.91
+85.0,5.3,34.0,Female,Lightly Active,Obese,85.0,32.57146263511308,Obese,Very_Heavy,2.0,2101.89
+86.0,5.2,36.0,Female,Moderately Active,Obese,86.0,34.234330467346,Obese,Very_Heavy,3.0,2339.88
+68.0,5.3,30.0,Female,Sedentary,Overweight,68.0,26.057170108090464,Overweight,Heavy,1.0,1654.38
+75.0,5.3,27.0,Female,Sedentary,Overweight,75.0,28.73952585451154,Overweight,Heavy,1.0,1756.38
+80.0,5.2,30.0,Female,Sedentary,Obese,80.0,31.84588880683349,Obese,Heavy,1.0,1775.52
+62.0,5.2,27.0,Female,Sedentary,Normal,62.0,24.680563825295955,Normal,Normal,1.0,1577.52
+95.6,5.7,26.0,Female,Sedentary,Obese,95.6,31.67220178016156,Obese,Very_Heavy,1.0,2101.02
+70.0,5.2,45.0,Female,Sedentary,Overweight,70.0,27.865152705979305,Overweight,Heavy,1.0,1565.52
+82.0,5.3,28.0,Female,Lightly Active,Obese,82.0,31.42188160093262,Obese,Very_Heavy,2.0,2101.89
+86.0,5.5,49.0,Female,Moderately Active,Obese,86.0,30.601530440893754,Obese,Very_Heavy,3.0,2327.71
+94.0,5.0,31.0,Female,Sedentary,Obese,94.0,40.47230316682855,Obese,Very_Heavy,1.0,1891.8
+89.0,5.3,26.0,Female,Sedentary,Obese,89.0,34.104237347353695,Obese,Very_Heavy,1.0,1930.38
+75.0,5.1,28.0,Female,Sedentary,Obese,75.0,31.03780396975122,Obese,Heavy,1.0,1704.66
+99.0,5.4,42.0,Female,Moderately Active,Obese,99.0,36.544140303644106,Obese,Very_Heavy,3.0,2553.93
+72.0,5.3,50.0,Female,Lightly Active,Overweight,72.0,27.58994482033108,Overweight,Heavy,2.0,1813.14
+99.0,5.4,29.0,Female,Sedentary,Obese,99.0,36.544140303644106,Obese,Very_Heavy,1.0,2055.24
+73.5,5.3,34.0,Female,Sedentary,Overweight,73.5,28.164735337421313,Overweight,Heavy,1.0,1696.38
+91.0,5.6,34.0,Female,Lightly Active,Obese,91.0,31.23456147705946,Obese,Very_Heavy,2.0,2262.97
+89.5,5.4,30.0,Female,Sedentary,Obese,89.5,33.03737936541563,Obese,Very_Heavy,1.0,1935.24
+80.0,5.4,26.0,Female,Lightly Active,Overweight,80.0,29.530618427187157,Overweight,Heavy,2.0,2114.34
+78.0,5.5,31.0,Female,Lightly Active,Overweight,78.0,27.75487644639201,Overweight,Heavy,2.0,2078.66
+118.5,5.7,25.0,Female,Sedentary,Obese,118.21875,39.2589530434011,Obese,Extreme,1.0,2378.45
+92.5,5.45,38.0,Female,Lightly Active,Obese,92.5,33.521141774114945,Obese,Very_Heavy,2.0,2216.81
+88.0,5.0,35.0,Female,Moderately Active,Obese,88.0,37.88896466681822,Obese,Very_Heavy,3.0,2319.58
+83.0,5.6,42.0,Female,Moderately Active,Overweight,83.0,28.488665962592695,Overweight,Very_Heavy,3.0,2364.99
+118.5,5.5,26.0,Male,Sedentary,Obese,118.21875,42.16606229355709,Obese,Extreme,1.0,2525.92
+82.0,5.4,35.0,Female,Moderately Active,Obese,82.0,30.268883887866835,Obese,Very_Heavy,3.0,2344.68
+100.0,5.3,22.0,Female,Sedentary,Obese,100.0,38.31936780601539,Obese,Very_Heavy,1.0,2086.38
+76.0,5.6,33.0,Female,Lightly Active,Overweight,76.0,26.086007387434275,Overweight,Heavy,2.0,2063.6
+114.0,5.6,34.0,Female,Very Active,Obese,114.0,39.12901108115141,Obese,Extreme,4.0,3235.76
+118.0,5.5,31.0,Female,Lightly Active,Obese,118.0,41.98814641890073,Obese,Extreme,2.0,2628.66
+80.0,5.2,28.0,Female,Moderately Active,Obese,80.0,31.84588880683349,Obese,Heavy,3.0,2308.88
+83.0,5.3,30.0,Female,Lightly Active,Obese,83.0,31.805075278992774,Obese,Very_Heavy,2.0,2101.89
+94.0,5.4,23.0,Female,Moderately Active,Obese,94.0,34.69847665194491,Obese,Very_Heavy,3.0,2623.68
+78.0,5.2,31.0,Female,Lightly Active,Obese,78.0,31.049741586662652,Obese,Heavy,2.0,2000.07
+90.0,5.4,23.0,Female,Sedentary,Obese,90.0,33.22194573058555,Obese,Very_Heavy,1.0,1983.24
+85.5,5.0,34.0,Female,Lightly Active,Obese,85.5,36.812573625147245,Obese,Very_Heavy,2.0,2030.19
+70.5,5.1,28.0,Female,Sedentary,Overweight,70.5,29.175535731566146,Overweight,Heavy,1.0,1650.66
+82.0,5.6,32.0,Female,Lightly Active,Overweight,82.0,28.14542902328435,Overweight,Very_Heavy,2.0,2152.97
+75.3,5.2,38.0,Female,Moderately Active,Overweight,75.3,29.97494283943202,Overweight,Heavy,3.0,2158.53
+66.0,5.3,50.5,Female,Lightly Active,Overweight,66.0,25.290782751970156,Overweight,Heavy,2.0,1727.21
+74.3,5.7,34.0,Male,Lightly Active,Normal,74.3,24.61552920780339,Normal,Heavy,2.0,2287.79
+76.0,5.2,35.0,Female,Sedentary,Obese,76.0,30.253594366491814,Obese,Heavy,1.0,1697.52
+68.0,5.3,35.0,Female,Lightly Active,Overweight,68.0,26.057170108090464,Overweight,Heavy,2.0,1861.27
+80.3,5.5,43.0,Female,Sedentary,Overweight,80.3,28.57328946981126,Overweight,Very_Heavy,1.0,1769.7
+89.5,5.0,30.0,Female,Sedentary,Obese,89.5,38.5347992918208,Obese,Very_Heavy,1.0,1843.8
+88.0,5.2,31.0,Female,Sedentary,Obese,88.0,35.030477687516836,Obese,Very_Heavy,1.0,1865.52
+78.0,5.0,32.0,Female,Sedentary,Obese,78.0,33.58340050013433,Obese,Heavy,1.0,1693.8
+80.0,5.2,30.0,Female,Lightly Active,Obese,80.0,31.84588880683349,Obese,Heavy,2.0,2034.45
+95.0,5.1,38.0,Female,Lightly Active,Obese,95.0,39.31455169501822,Obese,Very_Heavy,2.0,2159.51
+104.3,5.3,27.0,Female,Moderately Active,Obese,104.3,39.96710062167405,Obese,Extreme,3.0,2722.81
+80.8,5.4,20.0,Female,Lightly Active,Overweight,80.8,29.825924611459026,Overweight,Very_Heavy,2.0,2166.59
+71.0,5.0,43.0,Female,Sedentary,Obese,71.0,30.56950558345561,Obese,Heavy,1.0,1543.8
+76.0,5.3,26.0,Female,Sedentary,Overweight,76.0,29.122719532571697,Overweight,Heavy,1.0,1774.38
+75.6,5.1,33.0,Female,Sedentary,Obese,75.6,31.28610640150923,Obese,Heavy,1.0,1681.86
+58.0,5.1,38.0,Female,Moderately Active,Normal,58.0,24.002568403274278,Normal,Normal,3.0,1860.85
+110.0,5.7,31.0,Male,Sedentary,Obese,110.0,36.442909998093846,Obese,Extreme,1.0,2443.02
+85.0,5.4,46.0,Female,Moderately Active,Obese,85.0,31.376282078886355,Obese,Very_Heavy,3.0,2305.93
+80.0,5.2,26.0,Female,Lightly Active,Obese,80.0,31.84588880683349,Obese,Heavy,2.0,2061.95
+74.0,5.5,37.0,Female,Sedentary,Overweight,74.0,26.331549449141136,Overweight,Heavy,1.0,1730.1
+104.0,5.5,22.0,Female,Sedentary,Obese,104.0,37.00650192852268,Obese,Extreme,1.0,2180.1
+76.0,5.3,27.0,Female,Lightly Active,Overweight,76.0,29.122719532571697,Overweight,Heavy,2.0,2026.27
+65.0,5.1,33.0,Female,Lightly Active,Overweight,65.0,26.899430107117727,Overweight,Normal,2.0,1781.38
+65.0,5.0,37.0,Female,Sedentary,Overweight,65.0,27.986167083445277,Overweight,Normal,1.0,1507.8
+96.0,5.6,37.0,Male,Sedentary,Obese,96.0,32.95074617360119,Obese,Very_Heavy,1.0,2216.16
+78.0,5.5,42.0,Female,Lightly Active,Overweight,78.0,27.75487644639201,Overweight,Heavy,2.0,2003.03
+74.5,5.4,37.0,Female,Lightly Active,Overweight,74.5,27.500388410318042,Overweight,Heavy,2.0,1963.09
+95.0,5.5,26.0,Female,Moderately Active,Obese,95.0,33.80401618470822,Obese,Very_Heavy,3.0,2645.46
+60.5,4.75,41.0,Female,Moderately Active,Obese,60.5,28.86278471849034,Overweight,Normal,3.0,1773.01
+80.9,5.4,29.0,Female,Moderately Active,Overweight,80.9,29.862837884493015,Overweight,Very_Heavy,3.0,2374.14
+92.0,5.2,34.0,Female,Sedentary,Obese,92.0,36.62277212785851,Obese,Very_Heavy,1.0,1895.52
+105.0,5.7,28.0,Female,Lightly Active,Obese,105.0,34.78641408908958,Obese,Extreme,2.0,2522.92
+96.0,5.6,33.0,Female,Lightly Active,Obese,96.0,32.95074617360119,Obese,Very_Heavy,2.0,2338.6
+55.0,5.2,32.0,Female,Sedentary,Normal,55.0,21.894048554698024,Normal,Normal,1.0,1463.52
+70.0,5.4,37.0,Female,Lightly Active,Overweight,70.0,25.83929112378876,Overweight,Heavy,2.0,1901.21
+95.2,5.3,32.0,Female,Sedentary,Obese,95.2,36.48003815132665,Obese,Very_Heavy,1.0,1968.78
+79.0,5.4,39.0,Female,Sedentary,Overweight,79.0,29.16148569684732,Overweight,Heavy,1.0,1755.24
+113.0,5.5,26.0,Female,Moderately Active,Obese,113.0,40.208987672337145,Obese,Extreme,3.0,2924.46
+93.0,5.3,32.0,Female,Moderately Active,Obese,93.0,35.63701205959431,Obese,Very_Heavy,3.0,2508.91
+73.8,5.33,20.0,Female,Moderately Active,Overweight,73.8,27.96224383039039,Overweight,Heavy,3.0,2313.17
+72.0,5.1,32.0,Male,Very Active,Overweight,72.0,29.796291810961172,Overweight,Heavy,4.0,2650.55
+100.0,5.6,30.0,Male,Lightly Active,Obese,100.0,34.32369393083457,Obese,Very_Heavy,2.0,2642.48
+89.0,5.3,37.0,Female,Sedentary,Obese,89.0,34.104237347353695,Obese,Very_Heavy,1.0,1864.38
+78.0,5.3,29.0,Female,Sedentary,Overweight,78.0,29.889106888692005,Overweight,Heavy,1.0,1780.38
+86.0,5.4,29.0,Female,Moderately Active,Obese,86.0,31.745414809226194,Obese,Very_Heavy,3.0,2453.18
+67.8,5.5,25.0,Female,Lightly Active,Normal,67.8,24.125392603402283,Normal,Heavy,2.0,1979.66
+52.16,5.1,27.0,Female,Moderately Active,Normal,52.16,21.585758067496315,Normal,Normal,3.0,1855.58
+95.0,5.6,25.0,Female,Sedentary,Obese,95.0,32.60750923429284,Obese,Very_Heavy,1.0,2076.96
+67.0,5.37,34.0,Female,Sedentary,Overweight,67.0,25.008998814697534,Overweight,Heavy,1.0,1634.38
+73.6,5.4,46.0,Female,Moderately Active,Overweight,73.6,27.168168953012184,Overweight,Heavy,3.0,2129.24
+68.0,5.4,26.0,Female,Lightly Active,Overweight,68.0,25.101025663109084,Overweight,Heavy,2.0,1949.34
+83.5,5.3,33.0,Female,Moderately Active,Obese,83.5,31.99667211802285,Obese,Very_Heavy,3.0,2353.91
+64.0,5.3,44.0,Female,Sedentary,Normal,64.0,24.52439539584985,Normal,Normal,1.0,1522.38
+92.15,5.4,31.0,Female,Sedentary,Obese,92.15,34.015581100816206,Obese,Very_Heavy,1.0,1961.04
+87.0,5.3,43.0,Female,Lightly Active,Obese,87.0,33.33784999123339,Obese,Very_Heavy,2.0,2067.52
+59.0,5.0,37.0,Female,Sedentary,Overweight,59.0,25.402828583434943,Overweight,Normal,1.0,1435.8
+73.5,5.1,35.0,Female,Very Active,Obese,73.5,30.417047890356198,Obese,Heavy,4.0,2364.2
+117.6,5.5,47.0,Female,Lightly Active,Obese,117.6,41.845813719175645,Obese,Extreme,2.0,2513.16
+100.0,5.949999999999999,32.0,Male,Sedentary,Overweight,100.0,30.404379398939966,Obese,Very_Heavy,1.0,2374.17
+81.0,5.2,36.0,Female,Lightly Active,Obese,81.0,32.24396241691891,Obese,Very_Heavy,2.0,2006.95
+77.5,5.0,44.0,Female,Lightly Active,Obese,77.5,33.368122291800134,Obese,Heavy,2.0,1851.44
+77.0,5.4,38.0,Female,Moderately Active,Overweight,77.0,28.423220236167637,Overweight,Heavy,3.0,2243.93
+104.0,5.8,38.0,Male,Sedentary,Obese,104.0,33.27724980195633,Obese,Extreme,1.0,2351.88
+72.0,5.3,22.0,Female,Sedentary,Overweight,72.0,27.58994482033108,Overweight,Heavy,1.0,1750.38
+118.5,5.9,39.0,Male,Lightly Active,Obese,118.21875,36.64244137834249,Obese,Extreme,2.0,2909.69
+84.0,5.4,37.0,Female,Lightly Active,Obese,84.0,31.007149348546516,Obese,Very_Heavy,2.0,2093.71
+89.8,5.0,30.0,Female,Sedentary,Obese,89.8,38.663966216821315,Obese,Very_Heavy,1.0,1847.4
+79.9,4.75,36.0,Female,Lightly Active,Obese,79.9,38.117958661278976,Obese,Heavy,2.0,1873.95
+79.9,4.75,36.0,Female,Moderately Active,Obese,79.9,38.117958661278976,Obese,Heavy,3.0,2112.46
+75.0,5.3,41.0,Female,Lightly Active,Overweight,75.0,28.73952585451154,Overweight,Heavy,2.0,1916.27
+72.6,5.7,23.0,Female,Sedentary,Normal,72.6,24.05232059874194,Normal,Heavy,1.0,1843.02
+70.0,5.4,33.0,Female,Moderately Active,Overweight,70.0,25.83929112378876,Overweight,Heavy,3.0,2174.18
+116.0,5.5,31.0,Female,Sedentary,Obese,116.0,41.2764829202753,Obese,Extreme,1.0,2270.1
+85.6,5.6,33.0,Female,Moderately Active,Overweight,85.6,29.381082004794393,Overweight,Very_Heavy,3.0,2475.04
+100.0,5.9,32.0,Female,Moderately Active,Obese,100.0,30.921891458516868,Obese,Very_Heavy,3.0,2794.57
+82.7,5.5,40.0,Male,Lightly Active,Overweight,82.7,29.427285668161787,Overweight,Very_Heavy,2.0,2309.66
+90.0,5.4,39.0,Female,Sedentary,Obese,90.0,33.22194573058555,Obese,Very_Heavy,1.0,1887.24
+88.0,5.3,40.0,Female,Moderately Active,Obese,88.0,33.72104366929354,Obese,Very_Heavy,3.0,2369.41
+78.3,5.4,27.0,Female,Lightly Active,Overweight,78.3,28.90309278560943,Overweight,Heavy,2.0,2084.09
+88.0,5.3,40.0,Female,Lightly Active,Obese,88.0,33.72104366929354,Obese,Very_Heavy,2.0,2101.89
+96.0,5.949999999999999,30.0,Male,Sedentary,Overweight,96.0,29.188204222982367,Overweight,Very_Heavy,1.0,2338.17
+90.3,5.2,41.0,Female,Very Active,Obese,90.3,35.9460469907133,Obese,Very_Heavy,4.0,2635.11
+91.0,5.6,30.0,Female,Sedentary,Obese,91.0,31.23456147705946,Obese,Very_Heavy,1.0,1998.96
+72.0,5.6,45.0,Female,Lightly Active,Normal,72.0,24.713059630200892,Normal,Heavy,2.0,1926.1
+83.0,5.4,44.0,Female,Lightly Active,Obese,83.0,30.638016618206677,Obese,Very_Heavy,2.0,2031.84
+85.0,5.2,26.0,Female,Lightly Active,Obese,85.0,33.83625685726058,Obese,Very_Heavy,2.0,2130.7
+99.0,5.5,32.0,Female,Lightly Active,Obese,99.0,35.227343181959085,Obese,Very_Heavy,2.0,2360.53
+90.0,5.2,33.0,Female,Sedentary,Obese,90.0,35.82662490768767,Obese,Very_Heavy,1.0,1877.52
+54.0,5.5,26.0,Female,Sedentary,Normal,54.0,19.214914462886775,Normal,Normal,1.0,1556.1
+113.0,5.8,33.0,Male,Lightly Active,Obese,113.0,36.15701180404871,Obese,Extreme,2.0,2852.99
+65.3,5.0,31.0,Female,Sedentary,Overweight,65.3,28.115334008445792,Overweight,Heavy,1.0,1547.4
+67.0,5.2,41.0,Female,Moderately Active,Overweight,67.0,26.67093187572305,Overweight,Heavy,3.0,2006.63
+103.0,5.4,36.0,Female,Lightly Active,Obese,103.0,38.02067122500347,Obese,Extreme,2.0,2361.84
+118.0,5.9,32.0,Male,Sedentary,Obese,118.0,36.4878319210499,Obese,Extreme,1.0,2578.74
+63.0,5.0,34.0,Female,Sedentary,Overweight,63.0,27.125054250108498,Overweight,Normal,1.0,1501.8
+72.5,5.5,44.0,Female,Moderately Active,Overweight,72.5,25.79780182517206,Overweight,Heavy,3.0,2157.21
+72.0,5.1,27.0,Female,Sedentary,Overweight,72.0,29.796291810961172,Overweight,Heavy,1.0,1674.66
+76.0,5.7,35.0,Female,Lightly Active,Overweight,76.0,25.178737816864842,Overweight,Heavy,2.0,2076.04
+70.0,4.75,26.0,Female,Lightly Active,Obese,70.0,33.39495752552601,Obese,Heavy,2.0,1806.58
+90.0,5.3,28.0,Female,Lightly Active,Obese,90.0,34.48743102541385,Obese,Very_Heavy,2.0,2211.89
+98.83,5.11,28.0,Male,Moderately Active,Obese,98.83,40.73962900277731,Obese,Very_Heavy,3.0,2831.47
+71.0,5.5,41.0,Female,Lightly Active,Overweight,71.0,25.26405420120298,Overweight,Heavy,2.0,1913.66
+65.0,5.4,28.0,Female,Sedentary,Normal,65.0,23.993627472089564,Normal,Normal,1.0,1653.24
+62.0,5.2,35.0,Female,Sedentary,Normal,62.0,24.680563825295955,Normal,Normal,1.0,1529.52
+62.0,5.2,33.0,Female,Moderately Active,Normal,62.0,24.680563825295955,Normal,Normal,3.0,1991.13
+72.0,5.1,25.0,Female,Sedentary,Overweight,72.0,29.796291810961172,Overweight,Heavy,1.0,1686.66
+96.0,5.5,35.0,Female,Lightly Active,Obese,96.0,34.15984793402094,Obese,Very_Heavy,2.0,2298.66
+118.5,5.9,22.0,Male,Sedentary,Obese,118.21875,36.64244137834249,Obese,Extreme,1.0,2641.36
+87.4,5.8,25.0,Female,Sedentary,Overweight,87.4,27.965688775874842,Overweight,Very_Heavy,1.0,2031.48
+71.5,5.3,38.0,Female,Moderately Active,Overweight,71.5,27.398347981301004,Overweight,Heavy,3.0,2129.16
+82.55,5.4,34.0,Female,Lightly Active,Obese,82.55,30.471906889553747,Obese,Very_Heavy,2.0,2094.4
+86.0,5.6,40.0,Female,Moderately Active,Overweight,86.0,29.518376780517734,Overweight,Very_Heavy,3.0,2426.99
+90.0,5.4,37.0,Female,Moderately Active,Obese,90.0,33.22194573058555,Obese,Very_Heavy,3.0,2453.18
+84.0,5.3,31.0,Female,Lightly Active,Obese,84.0,32.18826895705293,Obese,Very_Heavy,2.0,2108.77
+87.0,5.4,35.0,Female,Sedentary,Obese,87.0,32.11454753956603,Obese,Very_Heavy,1.0,1875.24
+81.5,5.1,35.0,Female,Sedentary,Obese,81.5,33.727746980462996,Obese,Very_Heavy,1.0,1740.66
+99.0,5.9,44.0,Male,Lightly Active,Obese,99.0,30.612672543931698,Obese,Very_Heavy,2.0,2611.06
+72.5,5.5,36.0,Female,Sedentary,Overweight,72.5,25.79780182517206,Overweight,Heavy,1.0,1718.1
+100.0,5.2,33.0,Female,Lightly Active,Obese,100.0,39.80736100854186,Obese,Very_Heavy,2.0,2288.82
+70.0,5.4,40.0,Female,Lightly Active,Overweight,70.0,25.83929112378876,Overweight,Heavy,2.0,1880.59
+61.5,4.9,30.0,Female,Very Active,Overweight,61.5,27.57103251260507,Overweight,Normal,4.0,2134.6
+108.0,5.1,32.0,Female,Lightly Active,Obese,108.0,43.56732230973144,Obese,Extreme,2.0,2379.51
+96.0,5.7,32.0,Female,Sedentary,Obese,96.0,31.804721452881903,Obese,Very_Heavy,1.0,2069.82
+74.85,5.4,29.0,Female,Lightly Active,Overweight,74.85,27.62958486593698,Overweight,Heavy,2.0,2022.9
+73.0,4.75,40.0,Female,Sedentary,Obese,73.0,34.8261699909057,Obese,Heavy,1.0,1528.65
+92.0,5.0,30.0,Female,Moderately Active,Obese,92.0,39.61119033349178,Obese,Very_Heavy,3.0,2420.33
+68.0,5.5,41.0,Female,Lightly Active,Normal,68.0,24.19655895326483,Normal,Heavy,2.0,1872.41
+78.0,5.1,33.0,Female,Lightly Active,Obese,78.0,32.27931612854127,Obese,Heavy,2.0,1960.13
+90.0,5.8,34.0,Female,Very Active,Overweight,90.0,28.79762002092375,Overweight,Very_Heavy,4.0,2887.48
+76.0,5.5,35.0,Female,Lightly Active,Overweight,76.0,27.043212947766573,Overweight,Heavy,2.0,2023.66
+70.0,5.5,26.0,Female,Sedentary,Normal,70.0,24.908222451890264,Normal,Heavy,1.0,1748.1
+80.0,5.0,50.5,Female,Moderately Active,Obese,80.0,34.44451333347111,Obese,Heavy,3.0,2075.45
+100.0,5.8,43.0,Female,Moderately Active,Obese,100.0,31.997355578804164,Obese,Very_Heavy,3.0,2679.79
+58.8,5.0,26.0,Female,Lightly Active,Overweight,58.8,25.316717300101264,Overweight,Normal,2.0,1718.06
+78.0,5.1,35.0,Female,Sedentary,Obese,78.0,32.27931612854127,Obese,Heavy,1.0,1698.66
+88.0,5.3,32.0,Female,Sedentary,Obese,88.0,33.72104366929354,Obese,Very_Heavy,1.0,1882.38
+95.0,5.7,28.0,Female,Lightly Active,Obese,95.0,31.473422271081052,Obese,Very_Heavy,2.0,2385.42
+88.0,5.7,35.0,Female,Sedentary,Overweight,88.0,29.15432799847508,Overweight,Very_Heavy,1.0,1955.82
+90.0,5.4,39.0,Female,Moderately Active,Obese,90.0,33.22194573058555,Obese,Very_Heavy,3.0,2437.68
+64.0,5.1,29.0,Female,Sedentary,Overweight,64.0,26.485592720854374,Overweight,Normal,1.0,1566.66
+79.5,5.5,43.0,Female,Sedentary,Overweight,79.5,28.288624070361088,Overweight,Heavy,1.0,1760.1
+69.0,5.8,37.0,Female,Lightly Active,Normal,69.0,22.078175349374874,Normal,Heavy,2.0,1992.24
+86.8,5.4,31.0,Female,Sedentary,Obese,86.8,32.04072099349806,Obese,Very_Heavy,1.0,1896.84
+63.0,5.3,20.0,Female,Sedentary,Normal,63.0,24.141201717789695,Normal,Normal,1.0,1654.38
+86.0,5.3,28.0,Female,Very Active,Obese,86.0,32.95465631317324,Obese,Very_Heavy,4.0,2705.92
+61.0,4.75,38.0,Female,Lightly Active,Obese,61.0,29.101320129386952,Overweight,Normal,2.0,1600.33
+90.0,5.4,49.0,Female,Sedentary,Obese,90.0,33.22194573058555,Obese,Very_Heavy,1.0,1827.24
+80.0,5.5,39.0,Female,Lightly Active,Overweight,80.0,28.466539945017445,Overweight,Heavy,2.0,2051.16
+76.5,4.9,39.0,Female,Moderately Active,Obese,76.5,34.295674588850204,Obese,Heavy,3.0,2080.8
+60.0,5.7,26.0,Female,Sedentary,Normal,60.0,19.87795090805119,Normal,Normal,1.0,1673.82
+77.0,5.4,30.0,Female,Lightly Active,Overweight,77.0,28.423220236167637,Overweight,Heavy,2.0,2045.59
+84.5,5.4,34.0,Female,Moderately Active,Obese,84.5,31.191715713716434,Obese,Very_Heavy,3.0,2391.18
+114.0,5.5,35.0,Female,Sedentary,Obese,114.0,40.56481942164986,Obese,Extreme,1.0,2222.1
+79.0,5.4,39.0,Female,Sedentary,Overweight,79.0,29.16148569684732,Overweight,Heavy,1.0,1755.24
+77.0,5.3,28.0,Female,Moderately Active,Overweight,77.0,29.50591321063185,Overweight,Heavy,3.0,2291.91
+85.5,5.2,36.0,Female,Lightly Active,Obese,85.5,34.03529366230329,Obese,Very_Heavy,2.0,2068.82
+93.0,5.2,30.0,Female,Lightly Active,Obese,93.0,37.02084573794393,Obese,Very_Heavy,2.0,2213.2
+118.5,5.9,31.0,Female,Moderately Active,Obese,118.21875,36.64244137834249,Obese,Extreme,3.0,3084.71
+62.5,5.25,31.0,Female,Lightly Active,Normal,62.5,24.407960128593473,Normal,Normal,2.0,1800.05
+59.0,5.6,50.0,Female,Very Active,Normal,59.0,20.250979419192397,Normal,Normal,4.0,2149.01
+75.5,5.5,35.0,Female,Moderately Active,Overweight,75.5,26.865297073110213,Overweight,Heavy,3.0,2273.46
+78.0,5.7,35.0,Female,Sedentary,Overweight,78.0,25.84133618046655,Overweight,Heavy,1.0,1835.82
+79.1,5.1,45.0,Female,Sedentary,Obese,79.1,32.73453725343095,Obese,Heavy,1.0,1651.86
+105.0,5.9,33.0,Female,Moderately Active,Obese,105.0,32.46798603144271,Obese,Extreme,3.0,2864.32
+99.0,5.8,38.0,Female,Lightly Active,Obese,99.0,31.677382023016122,Obese,Very_Heavy,2.0,2397.86
+78.0,5.5,35.0,Female,Sedentary,Overweight,78.0,27.75487644639201,Overweight,Heavy,1.0,1790.1
+72.0,5.5,30.0,Female,Moderately Active,Overweight,72.0,25.6198859505157,Overweight,Heavy,3.0,2257.96
+87.7,5.1,43.0,Female,Moderately Active,Obese,87.7,36.293538775295765,Obese,Very_Heavy,3.0,2282.45
+59.5,5.4,25.0,Female,Moderately Active,Normal,59.5,21.96339745522045,Normal,Normal,3.0,2073.43
+89.0,5.0,33.0,Female,Sedentary,Obese,89.0,38.319521083486606,Obese,Very_Heavy,1.0,1819.8
+80.0,5.7,29.0,Female,Lightly Active,Overweight,80.0,26.503934544068255,Overweight,Heavy,2.0,2172.29
+75.0,5.2,29.0,Female,Lightly Active,Overweight,75.0,29.855520756406396,Overweight,Heavy,2.0,1972.57
+78.0,5.3,28.0,Female,Sedentary,Overweight,78.0,29.889106888692005,Overweight,Heavy,1.0,1786.38
+95.0,5.2,50.5,Female,Sedentary,Obese,95.0,37.81699295811477,Obese,Very_Heavy,1.0,1832.52
+108.0,5.1,24.0,Female,Lightly Active,Obese,108.0,43.56732230973144,Obese,Extreme,2.0,2434.51
+87.0,5.05,40.0,Female,Sedentary,Obese,87.0,36.7203296246935,Obese,Very_Heavy,1.0,1765.23
+78.0,5.5,27.0,Female,Sedentary,Overweight,78.0,27.75487644639201,Overweight,Heavy,1.0,1838.1
+73.0,5.3,38.0,Female,Moderately Active,Overweight,73.0,27.973138498391233,Overweight,Heavy,3.0,2152.41
+118.5,5.9,33.0,Female,Moderately Active,Obese,118.21875,36.64244137834249,Obese,Extreme,3.0,3069.21
+83.9,4.9,31.0,Female,Lightly Active,Obese,83.9,37.61316467979781,Obese,Very_Heavy,2.0,2002.62
+84.0,5.1,36.0,Female,Moderately Active,Obese,84.0,34.76234044612137,Obese,Very_Heavy,3.0,2279.35
+75.0,5.3,35.0,Male,Sedentary,Overweight,75.0,28.73952585451154,Overweight,Heavy,1.0,1907.58
+72.0,4.9,29.0,Female,Lightly Active,Obese,72.0,32.27828196597667,Obese,Heavy,2.0,1852.74
+75.0,5.4,42.0,Female,Lightly Active,Overweight,75.0,27.68495477548796,Overweight,Heavy,2.0,1935.59
+96.0,5.4,30.0,Female,Lightly Active,Obese,96.0,35.436742112624586,Obese,Very_Heavy,2.0,2306.84
+70.9,5.3,30.0,Female,Sedentary,Overweight,70.9,27.168431774464914,Overweight,Heavy,1.0,1689.18
+110.0,5.7,37.0,Female,Moderately Active,Obese,110.0,36.442909998093846,Obese,Extreme,3.0,2851.77
+70.0,4.75,29.0,Female,Sedentary,Obese,70.0,33.39495752552601,Obese,Heavy,1.0,1558.65
+70.0,5.4,43.0,Female,Sedentary,Overweight,70.0,25.83929112378876,Overweight,Heavy,1.0,1623.24
+63.0,5.1,29.0,Female,Sedentary,Overweight,63.0,26.071755334591025,Overweight,Normal,1.0,1554.66
+80.0,5.7,29.0,Female,Lightly Active,Overweight,80.0,26.503934544068255,Overweight,Heavy,2.0,2172.29
+65.0,5.1,29.0,Female,Moderately Active,Overweight,65.0,26.899430107117727,Overweight,Normal,3.0,2039.1
+80.0,5.4,30.0,Female,Lightly Active,Overweight,80.0,29.530618427187157,Overweight,Heavy,2.0,2086.84
+107.0,5.7,24.0,Female,Lightly Active,Obese,107.0,35.44901245269129,Obese,Extreme,2.0,2577.92
+72.0,5.5,36.0,Female,Sedentary,Overweight,72.0,25.6198859505157,Overweight,Heavy,1.0,1712.1
+89.9,5.6,28.0,Female,Lightly Active,Obese,89.9,30.857000843820284,Obese,Very_Heavy,2.0,2289.1
+78.0,5.0,30.0,Female,Sedentary,Obese,78.0,33.58340050013433,Obese,Heavy,1.0,1705.8
+97.0,5.1,30.0,Female,Sedentary,Obese,97.0,40.142226467544916,Obese,Very_Heavy,1.0,1956.66
+70.0,5.6,25.0,Female,Sedentary,Normal,70.0,24.0265857515842,Normal,Heavy,1.0,1776.96
+88.0,5.5,25.0,Female,Lightly Active,Obese,88.0,31.31319393951919,Obese,Very_Heavy,2.0,2257.41
+100.0,5.4,37.0,Female,Sedentary,Obese,100.0,36.91327303398395,Obese,Very_Heavy,1.0,2019.24
+55.0,5.0,31.0,Female,Moderately Active,Normal,55.0,23.680602916761387,Normal,Normal,3.0,1839.08
+81.8,5.8,35.0,Female,Sedentary,Overweight,81.8,26.173836863461805,Overweight,Very_Heavy,1.0,1904.28
+85.0,5.4,23.0,Female,Lightly Active,Obese,85.0,31.376282078886355,Obese,Very_Heavy,2.0,2203.71
+70.0,5.0,27.0,Female,Sedentary,Obese,70.0,30.13894916678722,Obese,Heavy,1.0,1627.8
+85.0,5.6,34.0,Female,Lightly Active,Overweight,85.0,29.175139841209386,Overweight,Very_Heavy,2.0,2180.47
+87.6,5.7,32.0,Female,Lightly Active,Overweight,87.6,29.021808325754737,Overweight,Very_Heavy,2.0,2256.17
+74.0,5.1,39.0,Female,Lightly Active,Obese,74.0,30.62396658348787,Obese,Heavy,2.0,1863.88
+94.0,5.3,34.0,Female,Lightly Active,Obese,94.0,36.020205737654464,Obese,Very_Heavy,2.0,2225.64
+100.0,5.11,30.0,Male,Sedentary,Obese,100.0,41.22192553149581,Obese,Very_Heavy,1.0,2194.15
+87.5,5.9,32.0,Female,Lightly Active,Overweight,87.5,27.056655026202257,Overweight,Very_Heavy,2.0,2307.18
+96.0,5.11,30.0,Male,Lightly Active,Obese,96.0,39.57304851023598,Obese,Very_Heavy,2.0,2459.13
+83.7,5.2,27.0,Female,Lightly Active,Obese,83.7,33.31876116414954,Obese,Very_Heavy,2.0,2105.95
+75.0,5.4,27.0,Female,Lightly Active,Overweight,75.0,27.68495477548796,Overweight,Heavy,2.0,2038.71
+103.0,5.3,30.0,Female,Sedentary,Obese,103.0,39.46894884019585,Obese,Extreme,1.0,2074.38
+63.0,5.3,37.0,Female,Moderately Active,Normal,63.0,24.141201717789695,Normal,Normal,3.0,2005.16
+79.0,5.6,35.0,Female,Sedentary,Overweight,79.0,27.115718205359315,Overweight,Heavy,1.0,1824.96
+85.3,5.4,25.0,Female,Sedentary,Obese,85.3,31.487021897988306,Obese,Very_Heavy,1.0,1914.84
+62.0,4.75,34.0,Female,Sedentary,Obese,62.0,29.57839095118018,Overweight,Normal,1.0,1432.65
+98.0,5.1,36.0,Male,Lightly Active,Obese,98.0,40.55606385380826,Obese,Very_Heavy,2.0,2442.76
+88.0,5.4,35.0,Female,Moderately Active,Obese,88.0,32.483680269905875,Obese,Very_Heavy,3.0,2437.68
+92.0,5.2,33.0,Female,Sedentary,Obese,92.0,36.62277212785851,Obese,Very_Heavy,1.0,1901.52
+118.5,5.11,33.0,Male,Lightly Active,Obese,118.21875,43.56732230973144,Obese,Extreme,2.0,2744.01
+60.0,4.75,38.0,Female,Lightly Active,Obese,60.0,28.624249307593722,Overweight,Normal,2.0,1586.58
+85.0,5.8,35.0,Male,Moderately Active,Overweight,85.0,27.19775224198354,Overweight,Very_Heavy,3.0,2766.59
+118.5,5.7,27.0,Male,Moderately Active,Obese,118.21875,39.2589530434011,Obese,Extreme,3.0,3313.96
+80.0,5.7,33.0,Female,Sedentary,Overweight,80.0,26.503934544068255,Overweight,Heavy,1.0,1871.82
+89.0,5.3,34.0,Female,Sedentary,Obese,89.0,34.104237347353695,Obese,Very_Heavy,1.0,1882.38
+60.0,5.2,33.0,Female,Lightly Active,Normal,60.0,23.884416605125118,Normal,Normal,2.0,1738.82
+91.0,5.4,35.0,Female,Sedentary,Obese,91.0,33.59107846092539,Obese,Very_Heavy,1.0,1923.24
+93.0,5.1,38.0,Male,Sedentary,Obese,93.0,38.48687692249151,Obese,Very_Heavy,1.0,2059.86
+75.7,5.1,33.0,Male,Sedentary,Obese,75.7,31.327490140135566,Obese,Heavy,1.0,1882.26
+75.7,5.5,33.0,Male,Sedentary,Overweight,75.7,26.936463422972757,Overweight,Heavy,1.0,1973.7
+84.0,5.3,35.0,Female,Sedentary,Obese,84.0,32.18826895705293,Obese,Very_Heavy,1.0,1816.38
+92.0,5.7,36.0,Male,Lightly Active,Obese,92.0,30.47952472567849,Obese,Very_Heavy,2.0,2517.42
+76.0,5.3,36.0,Female,Lightly Active,Overweight,76.0,29.122719532571697,Overweight,Heavy,2.0,1964.39
+106.0,5.1,41.0,Female,Sedentary,Obese,106.0,43.56732230973144,Obese,Extreme,1.0,1998.66
+64.2,5.0,24.0,Female,Moderately Active,Overweight,64.2,27.641721950110565,Overweight,Normal,3.0,2035.92
+93.0,5.5,25.0,Female,Lightly Active,Obese,93.0,33.09235268608278,Obese,Very_Heavy,2.0,2326.16
+78.0,5.3,27.0,Female,Sedentary,Overweight,78.0,29.889106888692005,Overweight,Heavy,1.0,1792.38
+71.3,5.3,23.0,Female,Sedentary,Overweight,71.3,27.32170924568897,Overweight,Heavy,1.0,1735.98
+74.0,5.2,38.0,Female,Lightly Active,Overweight,74.0,29.457447146320977,Overweight,Heavy,2.0,1896.95
+79.0,5.3,32.0,Female,Lightly Active,Obese,79.0,30.272300566752158,Obese,Heavy,2.0,2033.14
+88.0,5.6,38.0,Female,Moderately Active,Obese,88.0,30.204850659134426,Obese,Very_Heavy,3.0,2473.49
+93.0,5.3,27.0,Female,Sedentary,Obese,93.0,35.63701205959431,Obese,Very_Heavy,1.0,1972.38
+95.0,5.3,37.0,Female,Moderately Active,Obese,95.0,36.40339941571462,Obese,Very_Heavy,3.0,2501.16
+61.0,5.1,22.0,Female,Moderately Active,Overweight,61.0,25.244080562064326,Overweight,Normal,3.0,2031.35
+76.0,5.4,29.0,Female,Sedentary,Overweight,76.0,28.0540875058278,Overweight,Heavy,1.0,1779.24
+67.0,5.4,33.0,Female,Lightly Active,Normal,67.0,24.731892932769245,Normal,Heavy,2.0,1887.46
+91.0,5.7,24.0,Female,Lightly Active,Obese,91.0,30.14822554387764,Obese,Very_Heavy,2.0,2357.92
+69.0,5.3,40.0,Female,Very Active,Overweight,69.0,26.44036378615062,Overweight,Heavy,4.0,2309.17
+71.0,5.0,35.0,Female,Sedentary,Obese,71.0,30.56950558345561,Obese,Heavy,1.0,1591.8
+61.7,5.4,31.0,Female,Moderately Active,Normal,61.7,22.775489461968096,Normal,Normal,3.0,2061.04
+86.6,5.5,24.0,Female,Moderately Active,Obese,86.6,30.815029490481383,Obese,Very_Heavy,3.0,2530.76
+100.0,5.7,36.0,Female,Lightly Active,Obese,100.0,33.12991818008532,Obese,Very_Heavy,2.0,2399.17
+67.0,5.2,32.0,Female,Sedentary,Overweight,67.0,26.67093187572305,Overweight,Heavy,1.0,1607.52
+78.0,5.3,20.0,Female,Sedentary,Overweight,78.0,29.889106888692005,Overweight,Heavy,1.0,1834.38
+79.0,5.4,40.0,Female,Lightly Active,Overweight,79.0,29.16148569684732,Overweight,Heavy,2.0,2004.34
+106.0,5.3,38.0,Female,Sedentary,Obese,106.0,40.618529874376314,Obese,Extreme,1.0,2062.38
+75.0,5.3,43.0,Female,Lightly Active,Overweight,75.0,28.73952585451154,Overweight,Heavy,2.0,1902.52
+85.0,5.2,39.0,Female,Sedentary,Obese,85.0,33.83625685726058,Obese,Very_Heavy,1.0,1781.52
+69.0,5.34,33.0,Female,Sedentary,Overweight,69.0,26.04573702650377,Overweight,Heavy,1.0,1657.52
+82.5,5.7,26.0,Female,Lightly Active,Overweight,82.5,27.332182498570386,Overweight,Very_Heavy,2.0,2227.29
+85.0,5.05,30.0,Female,Lightly Active,Obese,85.0,35.87618411607985,Obese,Very_Heavy,2.0,2063.91
+68.0,5.4,26.0,Female,Moderately Active,Overweight,68.0,25.101025663109084,Overweight,Heavy,3.0,2197.43
+81.5,4.75,36.0,Female,Sedentary,Obese,81.5,38.88127197614814,Obese,Very_Heavy,1.0,1654.65
+108.0,5.1,35.0,Male,Sedentary,Obese,108.0,43.56732230973144,Obese,Extreme,1.0,2257.86
+75.5,5.4,32.0,Female,Moderately Active,Overweight,75.5,27.86952114065788,Overweight,Heavy,3.0,2267.18
+78.0,5.4,33.0,Female,Sedentary,Overweight,78.0,28.79235296650748,Overweight,Heavy,1.0,1779.24
+87.0,5.6,45.0,Female,Lightly Active,Overweight,87.0,29.861613719826078,Overweight,Very_Heavy,2.0,2132.35
+98.0,5.6,33.0,Female,Very Active,Obese,98.0,33.637220052217884,Obese,Very_Heavy,4.0,2968.38
+84.5,5.6,28.0,Female,Sedentary,Overweight,84.5,29.003521371555216,Overweight,Very_Heavy,1.0,1932.96
+76.3,5.1,26.0,Female,Sedentary,Obese,76.3,31.575792571893576,Obese,Heavy,1.0,1732.26
+77.6,5.7,28.0,Female,Sedentary,Overweight,77.6,25.708816507746203,Overweight,Heavy,1.0,1873.02
+95.0,5.4,39.0,Female,Sedentary,Obese,95.0,35.06760938228475,Obese,Very_Heavy,1.0,1947.24
+54.0,5.1,34.0,Female,Moderately Active,Normal,54.0,22.34721885822088,Normal,Normal,3.0,1829.85
+118.5,5.5,43.0,Female,Sedentary,Obese,118.21875,42.16606229355709,Obese,Extreme,1.0,2224.72
+60.0,5.6,33.0,Female,Moderately Active,Normal,60.0,20.594216358500745,Normal,Normal,3.0,2078.24
+104.7,5.08,29.0,Female,Sedentary,Obese,104.7,43.56732230973144,Obese,Extreme,1.0,2050.49
+71.0,5.4,34.0,Female,Moderately Active,Overweight,71.0,26.2084238541286,Overweight,Heavy,3.0,2181.93
+79.3,5.4,35.0,Female,Lightly Active,Overweight,79.3,29.27222551594927,Overweight,Heavy,2.0,2042.84
+59.0,4.75,41.0,Female,Moderately Active,Obese,59.0,28.147178485800495,Overweight,Normal,3.0,1749.76
+89.0,5.2,30.0,Female,Sedentary,Obese,89.0,35.428551297602255,Obese,Very_Heavy,1.0,1883.52
+83.0,5.9,33.0,Female,Lightly Active,Overweight,83.0,25.665169910569,Overweight,Very_Heavy,2.0,2238.43
+72.0,5.2,29.0,Female,Sedentary,Overweight,72.0,28.66129992615014,Overweight,Heavy,1.0,1685.52
+82.0,5.5,33.0,Female,Moderately Active,Overweight,82.0,29.178203443642882,Overweight,Very_Heavy,3.0,2389.71
+61.0,4.9,33.0,Female,Very Active,Overweight,61.0,27.34687777673023,Overweight,Normal,4.0,2100.1
+78.0,5.6,33.0,Female,Sedentary,Overweight,78.0,26.772481266050967,Overweight,Heavy,1.0,1824.96
+81.5,5.8,33.0,Female,Sedentary,Overweight,81.5,26.077844796725394,Overweight,Very_Heavy,1.0,1912.68
+103.0,5.4,27.0,Female,Lightly Active,Obese,103.0,38.02067122500347,Obese,Extreme,2.0,2423.71
+90.1,5.1,43.0,Female,Lightly Active,Obese,90.1,37.2867485023278,Obese,Very_Heavy,2.0,2057.76
+76.0,5.4,34.0,Female,Sedentary,Overweight,76.0,28.0540875058278,Overweight,Heavy,1.0,1749.24
+76.0,5.5,37.0,Female,Moderately Active,Overweight,76.0,27.043212947766573,Overweight,Heavy,3.0,2265.71
+72.0,5.2,25.0,Female,Sedentary,Overweight,72.0,28.66129992615014,Overweight,Heavy,1.0,1709.52
+89.0,5.4,36.0,Female,Moderately Active,Obese,89.0,32.85281300024571,Obese,Very_Heavy,3.0,2445.43
+95.0,4.75,33.0,Female,Sedentary,Obese,95.0,43.56732230973144,Obese,Very_Heavy,1.0,1834.65
+70.5,5.4,31.0,Female,Lightly Active,Overweight,70.5,26.023857488958683,Overweight,Heavy,2.0,1949.34
+85.0,5.4,35.0,Female,Sedentary,Obese,85.0,31.376282078886355,Obese,Very_Heavy,1.0,1851.24
+82.0,5.5,35.0,Female,Sedentary,Overweight,82.0,29.178203443642882,Overweight,Very_Heavy,1.0,1838.1
+70.0,5.3,33.0,Female,Sedentary,Overweight,70.0,26.823557464210772,Overweight,Heavy,1.0,1660.38
+94.0,5.4,30.0,Female,Sedentary,Obese,94.0,34.69847665194491,Obese,Very_Heavy,1.0,1989.24
+63.0,5.1,37.0,Female,Sedentary,Overweight,63.0,26.071755334591025,Overweight,Normal,1.0,1506.66
+78.0,5.3,33.0,Female,Sedentary,Overweight,78.0,29.889106888692005,Overweight,Heavy,1.0,1756.38
+74.0,5.4,43.0,Female,Moderately Active,Overweight,74.0,27.31582204514812,Overweight,Heavy,3.0,2158.68
+102.9,5.6,40.0,Female,Sedentary,Obese,102.9,35.31908105482878,Obese,Extreme,1.0,2081.76
+70.0,5.949999999999999,30.0,Female,Lightly Active,Underweight,70.0,21.283065579257975,Normal,Heavy,2.0,2093.4
+80.0,5.2,28.0,Female,Lightly Active,Obese,80.0,31.84588880683349,Obese,Heavy,2.0,2048.2
+74.5,5.3,28.0,Female,Sedentary,Overweight,74.5,28.547929015481465,Overweight,Heavy,1.0,1744.38
+80.0,5.3,29.0,Female,Lightly Active,Obese,80.0,30.655494244812314,Obese,Heavy,2.0,2067.52
+73.0,5.4,31.0,Female,Lightly Active,Overweight,73.0,26.946689314808282,Overweight,Heavy,2.0,1983.71
+73.0,5.6,33.0,Female,Sedentary,Overweight,73.0,25.05629656950924,Overweight,Heavy,1.0,1764.96
+75.0,5.1,37.0,Female,Moderately Active,Obese,75.0,31.03780396975122,Obese,Heavy,3.0,2132.1
+90.0,5.3,34.0,Female,Moderately Active,Obese,90.0,34.48743102541385,Obese,Very_Heavy,3.0,2446.91
+62.0,5.2,38.0,Female,Very Active,Normal,62.0,24.680563825295955,Normal,Normal,4.0,2172.81
+92.0,5.2,25.0,Female,Sedentary,Obese,92.0,36.62277212785851,Obese,Very_Heavy,1.0,1949.52
+97.0,5.4,35.0,Female,Lightly Active,Obese,97.0,35.80587484296443,Obese,Very_Heavy,2.0,2286.21
+59.0,5.5,28.0,Female,Very Active,Normal,59.0,20.994073209450367,Normal,Normal,4.0,2305.89
+98.0,5.0,32.0,Female,Lightly Active,Obese,98.0,42.194528833502105,Obese,Very_Heavy,2.0,2215.81
+76.2,5.3,37.0,Female,Lightly Active,Overweight,76.2,29.19935826818373,Overweight,Heavy,2.0,1960.27
+74.3,5.1,38.0,Female,Lightly Active,Obese,74.3,30.748117799366874,Obese,Heavy,2.0,1874.88
+84.0,5.6,34.0,Female,Sedentary,Overweight,84.0,28.831902901901042,Overweight,Very_Heavy,1.0,1890.96
+78.0,5.3,28.0,Female,Lightly Active,Overweight,78.0,29.889106888692005,Overweight,Heavy,2.0,2046.89
+118.5,5.949999999999999,35.0,Male,Moderately Active,Obese,118.21875,36.02918958774386,Obese,Extreme,3.0,3325.78
+90.0,5.5,50.5,Female,Lightly Active,Obese,90.0,32.02485743814463,Obese,Very_Heavy,2.0,2109.59
+70.6,5.2,30.0,Female,Sedentary,Overweight,70.6,28.103996872030553,Overweight,Heavy,1.0,1662.72
+76.0,5.0,26.0,Female,Lightly Active,Obese,76.0,32.722287666797556,Obese,Heavy,2.0,1954.56
+88.5,5.1,37.0,Female,Sedentary,Obese,88.5,36.624608684306445,Obese,Very_Heavy,1.0,1812.66
+107.0,5.7,35.0,Female,Lightly Active,Obese,107.0,35.44901245269129,Obese,Extreme,2.0,2502.29
+86.0,5.4,37.0,Female,Sedentary,Obese,86.0,31.745414809226194,Obese,Very_Heavy,1.0,1851.24
+77.6,5.4,30.0,Female,Lightly Active,Overweight,77.6,28.64469987437154,Overweight,Heavy,2.0,2053.84
+102.0,5.5,39.0,Female,Sedentary,Obese,102.0,36.29483842989724,Obese,Extreme,1.0,2054.1
+61.0,5.6,32.0,Female,Moderately Active,Normal,61.0,20.93745329780909,Normal,Normal,3.0,2101.49
+98.0,5.3,24.0,Female,Lightly Active,Obese,98.0,37.55298044989508,Obese,Very_Heavy,2.0,2349.39
+97.0,5.5,35.0,Female,Lightly Active,Obese,97.0,34.51567968333365,Obese,Very_Heavy,2.0,2312.41
+76.0,5.2,28.0,Female,Moderately Active,Obese,76.0,30.253594366491814,Obese,Heavy,3.0,2246.88
+89.0,5.5,35.0,Female,Lightly Active,Obese,89.0,31.66902568883191,Obese,Very_Heavy,2.0,2202.41
+118.5,5.6,28.0,Female,Lightly Active,Obese,118.21875,40.67357730803897,Obese,Extreme,2.0,2678.48
+115.0,5.3,38.0,Female,Moderately Active,Obese,115.0,43.56732230973144,Obese,Extreme,3.0,2803.41
+85.0,5.7,29.0,Female,Moderately Active,Overweight,85.0,28.160430453072518,Overweight,Very_Heavy,3.0,2526.27
+66.0,5.2,37.0,Female,Lightly Active,Overweight,66.0,26.27285826563763,Overweight,Heavy,2.0,1793.82
+112.5,5.4,38.0,Female,Sedentary,Obese,112.5,41.52743216323194,Obese,Extreme,1.0,2163.24
+118.5,5.5,37.0,Female,Sedentary,Obese,118.21875,42.16606229355709,Obese,Extreme,1.0,2260.72
+75.1,5.2,35.0,Female,Lightly Active,Overweight,75.1,29.895328117414937,Overweight,Heavy,2.0,1932.7
+108.0,5.949999999999999,38.0,Male,Moderately Active,Obese,108.0,32.83672975085516,Obese,Extreme,3.0,3144.14
+111.0,5.7,39.0,Female,Sedentary,Obese,111.0,36.774209179894704,Obese,Extreme,1.0,2207.82
+79.9,5.5,21.0,Female,Sedentary,Overweight,79.9,28.430956770086176,Overweight,Heavy,1.0,1896.9
+102.0,5.7,33.0,Female,Lightly Active,Obese,102.0,33.79251654368702,Obese,Extreme,2.0,2447.29
+75.0,5.7,25.0,Female,Sedentary,Normal,75.0,24.847438635063988,Normal,Heavy,1.0,1859.82
+82.0,5.2,42.0,Female,Sedentary,Obese,82.0,32.64203602700433,Obese,Very_Heavy,1.0,1727.52
+95.0,5.4,35.0,Female,Moderately Active,Obese,95.0,35.06760938228475,Obese,Very_Heavy,3.0,2546.18
+111.0,5.11,35.0,Male,Very Active,Obese,111.0,43.56732230973144,Obese,Extreme,4.0,3300.71
+75.0,5.6,32.0,Female,Sedentary,Overweight,75.0,25.74277044812593,Overweight,Heavy,1.0,1794.96
+82.0,5.4,37.0,Female,Moderately Active,Obese,82.0,30.268883887866835,Obese,Very_Heavy,3.0,2329.18
+80.0,5.6,34.0,Female,Moderately Active,Overweight,80.0,27.45895514466766,Overweight,Heavy,3.0,2380.49
+105.0,5.2,30.0,Female,Sedentary,Obese,105.0,41.797729058968955,Obese,Extreme,1.0,2075.52
+74.0,5.4,30.0,Female,Sedentary,Overweight,74.0,27.31582204514812,Overweight,Heavy,1.0,1749.24
+71.0,5.5,33.0,Female,Sedentary,Overweight,71.0,25.26405420120298,Overweight,Heavy,1.0,1718.1
+74.65,5.3,29.0,Female,Lightly Active,Overweight,74.65,28.605408067190492,Overweight,Heavy,2.0,1993.96
+78.5,5.4,38.0,Female,Sedentary,Overweight,78.5,28.976919331677397,Overweight,Heavy,1.0,1755.24
+76.0,5.3,22.0,Female,Sedentary,Overweight,76.0,29.122719532571697,Overweight,Heavy,1.0,1798.38
+85.0,5.5,37.0,Female,Moderately Active,Obese,85.0,30.245698691581037,Obese,Very_Heavy,3.0,2405.21
+66.0,5.5,33.0,Female,Lightly Active,Normal,66.0,23.484895454639393,Normal,Heavy,2.0,1899.91
+77.0,5.949999999999999,36.0,Female,Lightly Active,Underweight,77.0,23.411372137183772,Normal,Heavy,2.0,2148.4
+65.0,5.1,37.0,Female,Sedentary,Overweight,65.0,26.899430107117727,Overweight,Normal,1.0,1530.66
+83.5,5.6,33.0,Female,Sedentary,Overweight,83.5,28.66028443224687,Overweight,Very_Heavy,1.0,1890.96
+113.0,5.7,31.0,Female,Moderately Active,Obese,113.0,37.43680754349641,Obese,Extreme,3.0,2944.77
+90.0,5.3,28.0,Female,Sedentary,Obese,90.0,34.48743102541385,Obese,Very_Heavy,1.0,1930.38
+107.0,5.5,30.0,Female,Lightly Active,Obese,107.0,38.073997176460836,Obese,Extreme,2.0,2484.28
+84.0,5.4,35.0,Female,Sedentary,Obese,84.0,31.007149348546516,Obese,Very_Heavy,1.0,1839.24
+105.0,5.5,29.0,Female,Sedentary,Obese,105.0,37.362333677835394,Obese,Extreme,1.0,2150.1
+60.0,5.4,21.0,Female,Very Active,Normal,60.0,22.14796382039037,Normal,Normal,4.0,2350.66
+59.5,5.0,24.0,Female,Sedentary,Overweight,59.5,25.618106791769137,Overweight,Normal,1.0,1519.8
+69.0,5.2,37.0,Female,Sedentary,Overweight,69.0,27.467079095893887,Overweight,Heavy,1.0,1601.52
+71.0,5.4,43.0,Female,Sedentary,Overweight,71.0,26.2084238541286,Overweight,Heavy,1.0,1635.24
+83.0,5.5,29.0,Female,Sedentary,Overweight,83.0,29.5340351929556,Overweight,Very_Heavy,1.0,1886.1
+92.6,5.5,23.0,Female,Lightly Active,Obese,92.6,32.95001998635769,Obese,Very_Heavy,2.0,2334.41
+72.0,5.2,40.0,Female,Sedentary,Overweight,72.0,28.66129992615014,Overweight,Heavy,1.0,1619.52
+59.0,5.1,27.0,Female,Moderately Active,Normal,59.0,24.416405789537627,Normal,Normal,3.0,1961.6
+78.0,5.7,26.0,Female,Moderately Active,Overweight,78.0,25.84133618046655,Overweight,Heavy,3.0,2441.02
+61.6,5.1,45.0,Female,Sedentary,Overweight,61.6,25.492382993822336,Overweight,Normal,1.0,1441.86
+72.25,5.1,26.0,Female,Sedentary,Overweight,72.25,29.89975115752701,Overweight,Heavy,1.0,1683.66
+80.7,5.5,27.0,Female,Sedentary,Overweight,80.7,28.71562216953635,Overweight,Very_Heavy,1.0,1870.5
+80.0,5.1,27.0,Female,Lightly Active,Obese,80.0,33.10699090106797,Obese,Heavy,2.0,2028.88
+68.0,5.05,24.0,Female,Moderately Active,Overweight,68.0,28.70094729286388,Overweight,Heavy,3.0,2109.59
+69.0,5.08,49.0,Female,Sedentary,Overweight,69.0,28.78006303680369,Overweight,Heavy,1.0,1502.09
+81.0,5.4,24.0,Female,Moderately Active,Overweight,81.0,29.899751157526996,Overweight,Very_Heavy,3.0,2414.43
+85.0,5.949999999999999,31.0,Female,Lightly Active,Underweight,85.0,25.84372248909897,Overweight,Very_Heavy,2.0,2292.78
+80.7,5.3,36.0,Female,Sedentary,Obese,80.7,30.923729819454422,Obese,Very_Heavy,1.0,1770.78
+69.0,5.18,33.0,Female,Lightly Active,Overweight,69.0,27.679589554157317,Overweight,Heavy,2.0,1857.34
+110.0,5.949999999999999,31.0,Female,Sedentary,Obese,110.0,33.444817338833964,Obese,Extreme,1.0,2300.97
+77.0,5.4,26.0,Female,Moderately Active,Overweight,77.0,28.423220236167637,Overweight,Heavy,3.0,2336.93
+105.0,5.4,25.0,Female,Moderately Active,Obese,105.0,38.758936685683146,Obese,Extreme,3.0,2778.68
+105.0,5.5,48.0,Female,Sedentary,Obese,105.0,37.362333677835394,Obese,Extreme,1.0,2036.1
+67.8,5.2,29.0,Female,Lightly Active,Overweight,67.8,26.98939076379138,Overweight,Heavy,2.0,1873.57
+90.0,5.11,39.0,Male,Sedentary,Obese,90.0,37.09973297834623,Obese,Very_Heavy,1.0,2020.15
+64.0,5.3,22.0,Female,Sedentary,Normal,64.0,24.52439539584985,Normal,Normal,1.0,1654.38
+75.0,5.5,37.0,Female,Sedentary,Overweight,75.0,26.687381198453856,Overweight,Heavy,1.0,1742.1
+61.5,5.1,44.0,Female,Lightly Active,Overweight,61.5,25.450999255196002,Overweight,Normal,2.0,1657.63
+118.0,5.2,36.0,Female,Sedentary,Obese,118.0,43.56732230973144,Obese,Extreme,1.0,2195.52
+85.0,5.4,24.0,Female,Moderately Active,Obese,85.0,31.376282078886355,Obese,Very_Heavy,3.0,2476.43
+87.0,5.1,27.0,Female,Sedentary,Obese,87.0,36.003852604911415,Obese,Very_Heavy,1.0,1854.66
+75.0,5.2,27.0,Female,Sedentary,Overweight,75.0,29.855520756406396,Overweight,Heavy,1.0,1733.52
+80.0,5.2,50.5,Female,Lightly Active,Obese,80.0,31.84588880683349,Obese,Heavy,2.0,1893.51
+84.0,5.6,40.0,Female,Moderately Active,Overweight,84.0,28.831902901901042,Overweight,Very_Heavy,3.0,2395.99
+68.0,5.0,41.0,Female,Sedentary,Overweight,68.0,29.27783633345044,Overweight,Heavy,1.0,1519.8
+102.0,5.5,29.0,Female,Sedentary,Obese,102.0,36.29483842989724,Obese,Extreme,1.0,2114.1
+86.5,5.3,37.0,Female,Moderately Active,Obese,86.5,33.146253152203315,Obese,Very_Heavy,3.0,2369.41
+83.0,5.5,27.0,Female,Sedentary,Overweight,83.0,29.5340351929556,Overweight,Very_Heavy,1.0,1898.1
+80.0,5.2,36.0,Male,Sedentary,Obese,80.0,31.84588880683349,Obese,Heavy,1.0,1938.72
+80.2,5.1,30.0,Female,Sedentary,Obese,80.2,33.18975837832064,Obese,Very_Heavy,1.0,1755.06
+76.0,5.5,37.0,Female,Moderately Active,Overweight,76.0,27.043212947766573,Overweight,Heavy,3.0,2265.71
+115.0,5.4,34.0,Female,Moderately Active,Obese,115.0,42.45026398908154,Obese,Extreme,3.0,2863.93
+86.0,5.3,26.0,Female,Lightly Active,Obese,86.0,32.95465631317324,Obese,Very_Heavy,2.0,2170.64
+81.0,5.8,28.0,Female,Sedentary,Overweight,81.0,25.917858018831375,Overweight,Very_Heavy,1.0,1936.68
+94.0,5.0,34.0,Female,Sedentary,Obese,94.0,40.47230316682855,Obese,Very_Heavy,1.0,1873.8
+80.0,5.2,33.0,Female,Sedentary,Obese,80.0,31.84588880683349,Obese,Heavy,1.0,1757.52
+75.0,5.25,29.0,Female,Sedentary,Overweight,75.0,29.28955215431217,Overweight,Heavy,1.0,1732.95
+68.0,5.2,26.0,Female,Sedentary,Overweight,68.0,27.069005485808468,Overweight,Heavy,1.0,1655.52
+82.0,5.949999999999999,28.0,Female,Lightly Active,Underweight,82.0,24.93159110713077,Normal,Very_Heavy,2.0,2272.15
+81.5,5.4,25.0,Female,Moderately Active,Obese,81.5,30.084317522696917,Obese,Very_Heavy,3.0,2414.43
+96.0,5.3,33.0,Female,Sedentary,Obese,96.0,36.786593093774776,Obese,Very_Heavy,1.0,1972.38
+78.8,5.4,45.0,Female,Lightly Active,Overweight,78.8,29.08765915077935,Overweight,Heavy,2.0,1967.21
+53.5,5.1,28.0,Female,Lightly Active,Normal,53.5,22.140300165089204,Normal,Normal,2.0,1657.63
+93.0,5.3,40.0,Female,Sedentary,Obese,93.0,35.63701205959431,Obese,Very_Heavy,1.0,1894.38
+43.0,4.75,23.0,Female,Moderately Active,Normal,43.0,20.514045337108836,Normal,Light,3.0,1641.26
+93.3,5.5,39.0,Female,Lightly Active,Obese,93.3,33.199102210876596,Obese,Very_Heavy,2.0,2234.03
+75.0,5.4,30.0,Female,Moderately Active,Overweight,75.0,27.68495477548796,Overweight,Heavy,3.0,2274.93
+118.5,5.7,30.0,Female,Lightly Active,Obese,118.21875,39.2589530434011,Obese,Extreme,2.0,2690.93
+84.0,5.08,40.0,Female,Sedentary,Obese,84.0,35.0365984795871,Obese,Very_Heavy,1.0,1736.09
+87.0,5.5,32.0,Female,Lightly Active,Obese,87.0,30.95736219020647,Obese,Very_Heavy,2.0,2195.53
+74.0,5.25,28.0,Female,Moderately Active,Overweight,74.0,28.899024792254675,Overweight,Heavy,3.0,2230.64
+80.0,5.0,24.0,Female,Sedentary,Obese,80.0,34.44451333347111,Obese,Heavy,1.0,1765.8
+106.0,5.6,37.0,Female,Lightly Active,Obese,106.0,36.38311556668465,Obese,Extreme,2.0,2448.6
+70.0,5.6,24.0,Female,Lightly Active,Normal,70.0,24.0265857515842,Normal,Heavy,2.0,2042.97
+83.0,4.9,40.0,Female,Sedentary,Obese,83.0,37.2096861552231,Obese,Very_Heavy,1.0,1682.94
+77.0,5.6,35.0,Female,Lightly Active,Overweight,77.0,26.429244326742623,Overweight,Heavy,2.0,2063.6
+76.3,5.4,39.0,Female,Moderately Active,Overweight,76.3,28.16482732492975,Overweight,Heavy,3.0,2225.34
+76.0,5.6,35.0,Female,Lightly Active,Overweight,76.0,26.086007387434275,Overweight,Heavy,2.0,2049.85
+82.0,5.4,29.0,Female,Moderately Active,Obese,82.0,30.268883887866835,Obese,Very_Heavy,3.0,2391.18
+90.0,5.1,29.0,Female,Sedentary,Obese,90.0,37.24536476370147,Obese,Very_Heavy,1.0,1878.66
+87.0,5.2,24.0,Female,Moderately Active,Obese,87.0,34.63240407743142,Obese,Very_Heavy,3.0,2448.38
+94.5,5.949999999999999,30.0,Female,Lightly Active,Underweight,94.5,28.732138531998267,Overweight,Very_Heavy,2.0,2430.28
+69.0,5.2,32.0,Female,Sedentary,Overweight,69.0,27.467079095893887,Overweight,Heavy,1.0,1631.52
+60.5,5.4,45.0,Female,Moderately Active,Normal,60.5,22.332530185560287,Normal,Normal,3.0,1933.94
+65.0,5.3,29.0,Female,Lightly Active,Normal,65.0,24.907589073910003,Normal,Normal,2.0,1861.27
+93.0,5.2,40.0,Female,Lightly Active,Obese,93.0,37.02084573794393,Obese,Very_Heavy,2.0,2144.45
+87.0,5.1,36.0,Female,Sedentary,Obese,87.0,36.003852604911415,Obese,Very_Heavy,1.0,1800.66
+106.0,5.6,27.0,Female,Sedentary,Obese,106.0,36.38311556668465,Obese,Extreme,1.0,2196.96
+67.0,5.2,27.0,Female,Sedentary,Overweight,67.0,26.67093187572305,Overweight,Heavy,1.0,1637.52
+81.5,5.3,39.0,Female,Lightly Active,Obese,81.5,31.230284761902542,Obese,Very_Heavy,2.0,2019.39
+89.0,5.2,29.0,Female,Sedentary,Obese,89.0,35.428551297602255,Obese,Very_Heavy,1.0,1889.52
+89.0,5.4,34.0,Female,Sedentary,Obese,89.0,32.85281300024571,Obese,Very_Heavy,1.0,1905.24
+84.0,5.3,24.0,Female,Sedentary,Obese,84.0,32.18826895705293,Obese,Very_Heavy,1.0,1882.38
+87.0,5.0,37.0,Female,Moderately Active,Obese,87.0,37.45840825014983,Obese,Very_Heavy,3.0,2288.58
+78.0,5.2,35.0,Female,Lightly Active,Obese,78.0,31.049741586662652,Obese,Heavy,2.0,1972.57
+82.0,5.0,27.0,Female,Sedentary,Obese,82.0,35.30562616680788,Obese,Very_Heavy,1.0,1771.8
+90.0,5.0,25.0,Female,Sedentary,Obese,90.0,38.750077500154994,Obese,Very_Heavy,1.0,1879.8
+70.0,5.6,20.0,Female,Lightly Active,Normal,70.0,24.0265857515842,Normal,Heavy,2.0,2070.47
+69.0,5.2,24.0,Female,Lightly Active,Overweight,69.0,27.467079095893887,Overweight,Heavy,2.0,1924.45
+95.0,5.2,32.0,Female,Moderately Active,Obese,95.0,37.81699295811477,Obese,Very_Heavy,3.0,2510.38
+67.0,5.2,20.0,Female,Moderately Active,Overweight,67.0,26.67093187572305,Overweight,Heavy,3.0,2169.38
+97.3,5.5,37.0,Female,Lightly Active,Obese,97.3,34.622429208127464,Obese,Very_Heavy,2.0,2302.78
+84.0,5.5,48.0,Female,Lightly Active,Overweight,84.0,29.889866942268316,Overweight,Very_Heavy,2.0,2044.28
+88.7,5.4,23.0,Female,Very Active,Obese,88.7,32.74207318114376,Obese,Very_Heavy,4.0,2828.48
+72.25,5.0,28.0,Female,Lightly Active,Obese,72.25,31.107701104291095,Obese,Heavy,2.0,1889.25
+99.7,5.8,35.0,Female,Lightly Active,Obese,99.7,31.901363512067753,Obese,Very_Heavy,2.0,2428.11
+70.0,5.5,34.0,Female,Lightly Active,Normal,70.0,24.908222451890264,Normal,Heavy,2.0,1948.03
+68.0,5.5,34.0,Female,Moderately Active,Normal,68.0,24.19655895326483,Normal,Heavy,3.0,2164.96
+93.0,5.7,30.0,Female,Sedentary,Obese,93.0,30.810823907479346,Obese,Very_Heavy,1.0,2045.82
+99.0,5.3,32.0,Female,Moderately Active,Obese,99.0,37.93617412795523,Obese,Very_Heavy,3.0,2601.91
+101.0,5.4,34.0,Female,Moderately Active,Obese,101.0,37.282405764323784,Obese,Extreme,3.0,2646.93
+96.0,5.11,43.0,Male,Sedentary,Obese,96.0,39.57304851023598,Obese,Very_Heavy,1.0,2068.15
+62.0,5.1,33.0,Female,Lightly Active,Overweight,62.0,25.657917948327675,Overweight,Normal,2.0,1740.13
+81.0,5.3,28.0,Female,Sedentary,Obese,81.0,31.038687922872466,Obese,Very_Heavy,1.0,1822.38
+73.0,5.1,35.0,Female,Lightly Active,Obese,73.0,30.21012919722452,Obese,Heavy,2.0,1877.63
+77.0,5.3,36.0,Female,Moderately Active,Overweight,77.0,29.50591321063185,Overweight,Heavy,3.0,2229.91
+42.5,5.2,35.0,Female,Sedentary,Underweight,42.668749999999996,16.91812842863029,Underweight,Light,1.0,1297.54
+60.5,5.1,26.0,Female,Very Active,Overweight,60.5,25.037161868932653,Overweight,Normal,4.0,2217.57
+86.5,5.4,30.0,Female,Sedentary,Obese,86.5,31.929981174396115,Obese,Very_Heavy,1.0,1899.24
+76.0,5.2,31.0,Female,Moderately Active,Obese,76.0,30.253594366491814,Obese,Heavy,3.0,2223.63
+63.8,5.1,34.0,Female,Lightly Active,Overweight,63.8,26.402825243601704,Overweight,Normal,2.0,1758.01
+69.9,5.1,36.0,Female,Lightly Active,Overweight,69.9,28.92723329980814,Overweight,Heavy,2.0,1828.13
+83.0,5.3,29.0,Female,Sedentary,Obese,83.0,31.805075278992774,Obese,Very_Heavy,1.0,1840.38
+61.0,5.0,33.0,Female,Moderately Active,Overweight,61.0,26.26394141677172,Overweight,Normal,3.0,1916.58
+74.0,5.3,28.0,Female,Lightly Active,Overweight,74.0,28.35633217645139,Overweight,Heavy,2.0,1991.89
+82.0,5.5,31.0,Female,Sedentary,Overweight,82.0,29.178203443642882,Overweight,Very_Heavy,1.0,1862.1
+98.0,5.7,38.0,Male,Very Active,Obese,98.0,32.46731981648361,Obese,Very_Heavy,4.0,3244.47
+91.0,5.4,35.0,Female,Sedentary,Obese,91.0,33.59107846092539,Obese,Very_Heavy,1.0,1923.24
+94.7,5.1,31.0,Male,Sedentary,Obese,94.7,39.19040047913921,Obese,Very_Heavy,1.0,2122.26
+84.0,5.949999999999999,28.0,Male,Moderately Active,Overweight,84.0,25.539678695109572,Overweight,Very_Heavy,3.0,2849.64
+93.0,5.0,39.0,Female,Lightly Active,Obese,93.0,40.041746750160165,Obese,Very_Heavy,2.0,2098.94
+98.0,5.8,21.0,Female,Very Active,Obese,98.0,31.357408467228083,Obese,Very_Heavy,4.0,3137.6
+68.0,5.8,44.0,Female,Moderately Active,Normal,68.0,21.75820179358683,Normal,Heavy,3.0,2176.05
+108.0,5.3,33.0,Female,Sedentary,Obese,108.0,41.38491723049662,Obese,Extreme,1.0,2116.38
+97.15,5.4,19.0,Female,Sedentary,Obese,97.15,35.861244752515404,Obese,Very_Heavy,1.0,2093.04
+81.0,5.2,34.0,Female,Sedentary,Obese,81.0,32.24396241691891,Obese,Very_Heavy,1.0,1763.52
+85.0,5.2,33.0,Female,Sedentary,Obese,85.0,33.83625685726058,Obese,Very_Heavy,1.0,1817.52
+74.0,5.4,38.0,Female,Moderately Active,Overweight,74.0,27.31582204514812,Overweight,Heavy,3.0,2197.43
+78.0,5.4,29.0,Female,Lightly Active,Overweight,78.0,28.79235296650748,Overweight,Heavy,2.0,2066.21
+89.5,5.5,33.0,Female,Sedentary,Obese,89.5,31.84694156348827,Obese,Very_Heavy,1.0,1940.1
+79.0,5.3,33.0,Female,Lightly Active,Obese,79.0,30.272300566752158,Obese,Heavy,2.0,2026.27
+65.0,5.0,27.0,Female,Lightly Active,Overweight,65.0,27.986167083445277,Overweight,Normal,2.0,1796.44
+100.0,5.2,33.0,Female,Lightly Active,Obese,100.0,39.80736100854186,Obese,Very_Heavy,2.0,2288.82
+65.7,5.2,38.0,Female,Moderately Active,Overweight,65.7,26.153436182612005,Overweight,Heavy,3.0,2009.73
+82.5,5.4,30.0,Female,Sedentary,Obese,82.5,30.453450253036756,Obese,Very_Heavy,1.0,1851.24
+64.0,5.1,24.0,Female,Lightly Active,Overweight,64.0,26.485592720854374,Overweight,Normal,2.0,1829.51
+79.0,5.3,26.0,Female,Sedentary,Obese,79.0,30.272300566752158,Obese,Heavy,1.0,1810.38
+89.0,5.4,38.0,Female,Lightly Active,Obese,89.0,32.85281300024571,Obese,Very_Heavy,2.0,2155.59
+68.0,5.2,36.0,Female,Lightly Active,Overweight,68.0,27.069005485808468,Overweight,Heavy,2.0,1828.2
+62.0,5.4,30.0,Female,Sedentary,Normal,62.0,22.886229281070047,Normal,Normal,1.0,1605.24
+90.8,5.8,35.0,Female,Moderately Active,Overweight,90.8,29.053598865554182,Overweight,Very_Heavy,3.0,2599.19
+80.0,5.3,34.0,Female,Moderately Active,Obese,80.0,30.655494244812314,Obese,Heavy,3.0,2291.91
+118.5,5.8,36.0,Female,Sedentary,Obese,118.21875,37.916866360882935,Obese,Extreme,1.0,2335.3
+81.0,5.1,32.0,Female,Sedentary,Obese,81.0,33.52082828733132,Obese,Very_Heavy,1.0,1752.66
+88.0,5.2,34.0,Female,Sedentary,Obese,88.0,35.030477687516836,Obese,Very_Heavy,1.0,1847.52
+74.0,5.5,28.0,Female,Sedentary,Overweight,74.0,26.331549449141136,Overweight,Heavy,1.0,1784.1
+76.0,5.0,29.0,Female,Sedentary,Obese,76.0,32.722287666797556,Obese,Heavy,1.0,1687.8
+70.0,5.2,30.0,Female,Lightly Active,Overweight,70.0,27.865152705979305,Overweight,Heavy,2.0,1896.95
+66.7,5.5,35.0,Female,Lightly Active,Normal,66.7,23.733977679158297,Normal,Heavy,2.0,1895.78
+80.0,5.3,36.0,Female,Lightly Active,Obese,80.0,30.655494244812314,Obese,Heavy,2.0,2019.39
+65.0,5.4,33.0,Female,Sedentary,Normal,65.0,23.993627472089564,Normal,Normal,1.0,1623.24
+73.0,5.4,23.0,Female,Lightly Active,Overweight,73.0,26.946689314808282,Overweight,Heavy,2.0,2038.71
+65.0,5.4,33.0,Male,Lightly Active,Normal,65.0,23.993627472089564,Normal,Normal,2.0,2088.21
+65.0,5.4,33.0,Female,Lightly Active,Normal,65.0,23.993627472089564,Normal,Normal,2.0,1859.96
+100.0,5.4,33.0,Female,Sedentary,Obese,100.0,36.91327303398395,Obese,Very_Heavy,1.0,2043.24
+62.0,5.5,42.0,Female,Lightly Active,Normal,62.0,22.06156845738852,Normal,Normal,2.0,1783.03
+94.5,5.949999999999999,30.0,Female,Moderately Active,Underweight,94.5,28.732138531998267,Overweight,Very_Heavy,3.0,2739.59
+75.0,5.2,35.0,Female,Moderately Active,Overweight,75.0,29.855520756406396,Overweight,Heavy,3.0,2177.13
+92.0,5.4,28.0,Female,Sedentary,Obese,92.0,33.96021119126523,Obese,Very_Heavy,1.0,1977.24
+107.0,5.7,34.0,Female,Sedentary,Obese,107.0,35.44901245269129,Obese,Extreme,1.0,2189.82
+89.0,5.3,28.0,Female,Moderately Active,Obese,89.0,34.104237347353695,Obese,Very_Heavy,3.0,2477.91
+79.0,5.6,39.0,Male,Lightly Active,Overweight,79.0,27.115718205359315,Overweight,Heavy,2.0,2291.85
+87.0,5.6,34.0,Female,Lightly Active,Overweight,87.0,29.861613719826078,Overweight,Very_Heavy,2.0,2207.97
+84.0,5.6,34.0,Female,Sedentary,Overweight,84.0,28.831902901901042,Overweight,Very_Heavy,1.0,1890.96
+87.0,5.6,37.0,Female,Lightly Active,Overweight,87.0,29.861613719826078,Overweight,Very_Heavy,2.0,2187.35
+81.0,5.2,34.0,Female,Sedentary,Obese,81.0,32.24396241691891,Obese,Very_Heavy,1.0,1763.52
+90.4,5.2,27.0,Female,Lightly Active,Obese,90.4,35.98585435172185,Obese,Very_Heavy,2.0,2198.07
+83.0,5.6,44.0,Female,Lightly Active,Overweight,83.0,28.488665962592695,Overweight,Very_Heavy,2.0,2084.22
+87.0,5.7,25.0,Female,Moderately Active,Overweight,87.0,28.823028816674224,Overweight,Very_Heavy,3.0,2588.27
+63.2,5.3,45.0,Female,Moderately Active,Normal,63.2,24.217840453401728,Normal,Normal,3.0,1946.26
+76.0,5.4,35.0,Female,Sedentary,Overweight,76.0,28.0540875058278,Overweight,Heavy,1.0,1743.24
+73.0,5.25,22.0,Female,Sedentary,Overweight,73.0,28.508497430197178,Overweight,Heavy,1.0,1750.95
+62.0,5.1,26.0,Female,Lightly Active,Overweight,62.0,25.657917948327675,Overweight,Normal,2.0,1788.26
+68.0,5.3,33.0,Female,Sedentary,Overweight,68.0,26.057170108090464,Overweight,Heavy,1.0,1636.38
+95.0,5.7,26.0,Female,Lightly Active,Obese,95.0,31.473422271081052,Obese,Very_Heavy,2.0,2399.17
+68.95,5.2,30.0,Female,Moderately Active,Overweight,68.95,27.447175415389616,Overweight,Heavy,3.0,2122.11
+79.0,5.4,35.0,Female,Lightly Active,Overweight,79.0,29.16148569684732,Overweight,Heavy,2.0,2038.71
+115.0,5.1,40.0,Male,Moderately Active,Obese,115.0,43.56732230973144,Obese,Extreme,3.0,2986.15
+107.0,5.6,31.0,Male,Sedentary,Obese,107.0,36.72635250599299,Obese,Extreme,1.0,2384.16
+90.2,5.1,33.0,Female,Sedentary,Obese,90.2,37.32813224095413,Obese,Very_Heavy,1.0,1857.06
+80.0,5.6,27.0,Female,Sedentary,Obese,80.0,27.45895514466766,Overweight,Heavy,1.0,1884.96
+53.0,5.1,19.0,Female,Lightly Active,Normal,53.0,21.93338147195753,Normal,Normal,2.0,1712.63
+74.5,5.7,34.0,Female,Lightly Active,Normal,74.5,24.681789044163562,Normal,Heavy,2.0,2062.29
+67.5,5.2,28.0,Female,Sedentary,Overweight,67.5,26.86996868076576,Overweight,Heavy,1.0,1637.52
+66.0,5.2,35.0,Female,Lightly Active,Overweight,66.0,26.27285826563763,Overweight,Heavy,2.0,1807.57
+76.0,5.6,29.0,Female,Sedentary,Overweight,76.0,26.086007387434275,Overweight,Heavy,1.0,1824.96
+67.0,5.5,37.0,Female,Lightly Active,Normal,67.0,23.84072720395211,Normal,Heavy,2.0,1886.16
+85.0,5.4,34.0,Female,Sedentary,Obese,85.0,31.376282078886355,Obese,Very_Heavy,1.0,1857.24
+68.75,5.4,37.0,Female,Lightly Active,Overweight,68.75,25.377875210863962,Overweight,Heavy,2.0,1884.03
+114.0,5.11,41.0,Male,Lightly Active,Obese,114.0,43.56732230973144,Obese,Extreme,2.0,2631.0
+79.7,5.1,28.0,Female,Sedentary,Obese,79.7,32.982839685188964,Obese,Heavy,1.0,1761.06
+80.0,5.1,28.0,Female,Sedentary,Obese,80.0,33.10699090106797,Obese,Heavy,1.0,1764.66
+79.0,5.3,32.0,Female,Sedentary,Obese,79.0,30.272300566752158,Obese,Heavy,1.0,1774.38
+70.0,5.0,28.0,Female,Very Active,Obese,70.0,30.13894916678722,Obese,Heavy,4.0,2331.34
+81.0,5.5,34.0,Female,Sedentary,Overweight,81.0,28.82237169433016,Overweight,Very_Heavy,1.0,1832.1
+95.0,5.8,38.0,Female,Sedentary,Obese,95.0,30.397487799863956,Obese,Very_Heavy,1.0,2044.68
+75.65,5.2,31.0,Female,Sedentary,Obese,75.65,30.11426860296192,Obese,Heavy,1.0,1717.32
+73.0,5.3,36.0,Female,Lightly Active,Overweight,73.0,27.973138498391233,Overweight,Heavy,2.0,1923.14
+75.0,5.3,22.0,Female,Sedentary,Overweight,75.0,28.73952585451154,Overweight,Heavy,1.0,1786.38
+82.0,5.2,34.0,Female,Sedentary,Obese,82.0,32.64203602700433,Obese,Very_Heavy,1.0,1775.52
+104.8,5.8,35.0,Female,Lightly Active,Obese,104.8,33.533228646586764,Obese,Extreme,2.0,2498.24
+91.0,5.6,37.0,Female,Sedentary,Obese,91.0,31.23456147705946,Obese,Very_Heavy,1.0,1956.96
+79.8,5.2,38.0,Female,Lightly Active,Obese,79.8,31.766274084816406,Obese,Heavy,2.0,1976.7
+90.0,5.5,35.0,Female,Lightly Active,Obese,90.0,32.02485743814463,Obese,Very_Heavy,2.0,2216.16
+57.0,5.2,33.0,Female,Moderately Active,Normal,57.0,22.69019577486886,Normal,Normal,3.0,1913.63
+73.0,5.5,31.0,Female,Sedentary,Overweight,73.0,25.97571769982842,Overweight,Heavy,1.0,1754.1
+99.0,5.5,47.0,Male,Sedentary,Obese,99.0,35.227343181959085,Obese,Very_Heavy,1.0,2169.3
+79.0,5.3,27.0,Female,Moderately Active,Obese,79.0,30.272300566752158,Obese,Heavy,3.0,2330.66
+80.0,5.2,50.5,Female,Sedentary,Obese,80.0,31.84588880683349,Obese,Heavy,1.0,1652.52
+103.0,5.8,31.0,Female,Lightly Active,Obese,103.0,32.95727624616829,Obese,Extreme,2.0,2500.99
+86.0,5.4,30.0,Female,Lightly Active,Obese,86.0,31.745414809226194,Obese,Very_Heavy,2.0,2169.34
+79.0,5.4,28.0,Female,Sedentary,Overweight,79.0,29.16148569684732,Overweight,Heavy,1.0,1821.24
+88.0,5.3,34.0,Female,Sedentary,Obese,88.0,33.72104366929354,Obese,Very_Heavy,1.0,1870.38
+70.0,5.3,44.0,Female,Sedentary,Overweight,70.0,26.823557464210772,Overweight,Heavy,1.0,1594.38
+82.0,5.5,36.0,Female,Lightly Active,Overweight,82.0,29.178203443642882,Overweight,Very_Heavy,2.0,2099.28
+118.5,5.11,30.0,Male,Moderately Active,Obese,118.21875,43.56732230973144,Obese,Extreme,3.0,3116.5
+83.0,5.6,36.0,Female,Lightly Active,Overweight,83.0,28.488665962592695,Overweight,Very_Heavy,2.0,2139.22
+71.0,5.4,38.0,Female,Lightly Active,Overweight,71.0,26.2084238541286,Overweight,Heavy,2.0,1908.09
+66.5,5.3,29.0,Female,Moderately Active,Overweight,66.5,25.482379591000235,Overweight,Heavy,3.0,2121.41
+85.0,5.3,21.0,Female,Lightly Active,Obese,85.0,32.57146263511308,Obese,Very_Heavy,2.0,2191.27
+57.0,5.5,27.0,Female,Lightly Active,Normal,57.0,20.28240971082493,Normal,Normal,2.0,1817.41
+80.0,4.8,26.0,Female,Sedentary,Obese,80.0,37.37468894690875,Obese,Heavy,1.0,1708.08
+64.5,5.3,35.0,Female,Lightly Active,Normal,64.5,24.715992234879927,Normal,Normal,2.0,1813.14
+80.0,5.2,27.0,Female,Lightly Active,Obese,80.0,31.84588880683349,Obese,Heavy,2.0,2055.07
+98.6,5.4,23.0,Female,Lightly Active,Obese,98.6,36.396487211508166,Obese,Very_Heavy,2.0,2390.71
+82.0,5.1,26.0,Female,Moderately Active,Obese,82.0,33.934665673594665,Obese,Very_Heavy,3.0,2325.85
+77.0,5.3,24.0,Female,Moderately Active,Overweight,77.0,29.50591321063185,Overweight,Heavy,3.0,2322.91
+84.0,5.7,50.5,Male,Moderately Active,Overweight,84.0,27.829131271271667,Overweight,Very_Heavy,3.0,2601.44
+71.0,5.0,42.0,Female,Sedentary,Obese,71.0,30.56950558345561,Obese,Heavy,1.0,1549.8
+88.95,5.6,30.0,Female,Sedentary,Obese,88.95,30.530925751477355,Obese,Very_Heavy,1.0,1974.36
+69.9,5.0,40.0,Female,Lightly Active,Obese,69.9,30.095893525120385,Obese,Heavy,2.0,1774.44
+91.0,5.0,29.0,Female,Sedentary,Obese,91.0,39.18063391682339,Obese,Very_Heavy,1.0,1867.8
+102.0,5.5,50.0,Female,Sedentary,Obese,102.0,36.29483842989724,Obese,Extreme,1.0,1988.1
+59.5,5.2,29.0,Female,Sedentary,Normal,59.5,23.68537980008241,Normal,Normal,1.0,1535.52
+62.5,5.2,36.0,Female,Sedentary,Normal,62.5,24.879600630338665,Normal,Normal,1.0,1529.52
+75.0,5.4,36.0,Female,Lightly Active,Overweight,75.0,27.68495477548796,Overweight,Heavy,2.0,1976.84
+62.0,5.5,29.0,Female,Lightly Active,Normal,62.0,22.06156845738852,Normal,Normal,2.0,1872.41
+60.9,5.3,31.0,Female,Sedentary,Normal,60.9,23.336494993863372,Normal,Normal,1.0,1563.18
+83.0,5.2,25.0,Female,Sedentary,Obese,83.0,33.04010963708975,Obese,Very_Heavy,1.0,1841.52
+64.4,5.4,27.0,Female,Lightly Active,Normal,64.4,23.772147833885665,Normal,Normal,2.0,1892.96
+69.0,5.0,41.0,Female,Sedentary,Overweight,69.0,29.708392750118833,Overweight,Heavy,1.0,1531.8
+100.0,5.8,37.0,Female,Sedentary,Obese,100.0,31.997355578804164,Obese,Very_Heavy,1.0,2110.68
+85.0,5.6,28.0,Female,Sedentary,Overweight,85.0,29.175139841209386,Overweight,Very_Heavy,1.0,1938.96
+74.0,5.2,37.0,Female,Lightly Active,Overweight,74.0,29.457447146320977,Overweight,Heavy,2.0,1903.82
+69.0,5.6,29.0,Female,Sedentary,Normal,69.0,23.683348812275856,Normal,Heavy,1.0,1740.96
+84.8,5.6,28.0,Female,Sedentary,Overweight,84.8,29.106492453347716,Overweight,Very_Heavy,1.0,1936.56
+54.0,5.6,35.0,Female,Sedentary,Normal,54.0,18.53479472265067,Normal,Normal,1.0,1524.96
+90.0,5.4,22.0,Female,Sedentary,Obese,90.0,33.22194573058555,Obese,Very_Heavy,1.0,1989.24
+66.0,5.6,24.0,Female,Lightly Active,Normal,66.0,22.65363799435082,Normal,Heavy,2.0,1987.97
+84.0,5.2,28.0,Female,Lightly Active,Obese,84.0,33.43818324717517,Obese,Very_Heavy,2.0,2103.2
+86.0,5.2,29.0,Female,Lightly Active,Obese,86.0,34.234330467346,Obese,Very_Heavy,2.0,2123.82
+117.0,5.7,29.0,Female,Sedentary,Obese,117.0,38.76200427069982,Obese,Extreme,1.0,2339.82
+118.5,5.11,21.0,Male,Sedentary,Obese,118.21875,43.56732230973144,Obese,Extreme,1.0,2466.77
+88.0,5.6,24.0,Female,Moderately Active,Obese,88.0,30.204850659134426,Obese,Very_Heavy,3.0,2581.99
+89.0,5.6,37.0,Female,Lightly Active,Obese,89.0,30.54808759844277,Obese,Very_Heavy,2.0,2214.85
+60.0,5.2,22.0,Female,Lightly Active,Normal,60.0,23.884416605125118,Normal,Normal,2.0,1814.45
+90.0,5.3,32.0,Female,Sedentary,Obese,90.0,34.48743102541385,Obese,Very_Heavy,1.0,1906.38
+75.0,5.1,32.0,Male,Very Active,Obese,75.0,31.03780396975122,Obese,Heavy,4.0,2702.3
+99.0,5.5,47.0,Female,Moderately Active,Obese,99.0,35.227343181959085,Obese,Very_Heavy,3.0,2544.71
+73.0,5.4,32.0,Female,Sedentary,Overweight,73.0,26.946689314808282,Overweight,Heavy,1.0,1725.24
+82.0,5.7,34.0,Female,Sedentary,Overweight,82.0,27.16653290766996,Overweight,Very_Heavy,1.0,1889.82
+103.0,5.9,35.0,Male,Sedentary,Obese,103.0,31.849548202272373,Obese,Extreme,1.0,2380.74
+76.0,5.3,36.0,Female,Sedentary,Overweight,76.0,29.122719532571697,Overweight,Heavy,1.0,1714.38
+70.0,5.6,33.0,Female,Sedentary,Normal,70.0,24.0265857515842,Normal,Heavy,1.0,1728.96
+69.5,5.4,36.0,Female,Moderately Active,Overweight,69.5,25.654724758618844,Overweight,Heavy,3.0,2143.18
+80.0,5.0,35.0,Female,Sedentary,Obese,80.0,34.44451333347111,Obese,Heavy,1.0,1699.8
+77.0,5.0,24.0,Female,Sedentary,Obese,77.0,33.15284408346594,Obese,Heavy,1.0,1729.8
+89.0,5.4,25.0,Female,Lightly Active,Obese,89.0,32.85281300024571,Obese,Very_Heavy,2.0,2244.96
+98.88,5.3,37.0,Female,Moderately Active,Obese,98.88,37.890190886588016,Obese,Very_Heavy,3.0,2561.3
+98.88,5.3,37.0,Female,Moderately Active,Obese,98.88,37.890190886588016,Obese,Very_Heavy,3.0,2561.3
+72.0,5.5,27.0,Female,Very Active,Overweight,72.0,25.6198859505157,Overweight,Heavy,4.0,2538.77
+75.0,5.5,25.0,Female,Moderately Active,Overweight,75.0,26.687381198453856,Overweight,Heavy,3.0,2343.21
+65.5,5.3,35.0,Female,Lightly Active,Overweight,65.5,25.09918591294008,Overweight,Heavy,2.0,1826.89
+58.0,5.1,33.0,Female,Sedentary,Normal,58.0,24.002568403274278,Normal,Normal,1.0,1470.66
+64.0,5.6,37.0,Female,Moderately Active,Normal,64.0,21.96716411573413,Normal,Normal,3.0,2109.24
+90.0,5.3,41.0,Female,Sedentary,Obese,90.0,34.48743102541385,Obese,Very_Heavy,1.0,1852.38
+69.0,5.4,32.0,Female,Lightly Active,Overweight,69.0,25.470158393448923,Overweight,Heavy,2.0,1921.84
+68.1,5.5,28.0,Female,Sedentary,Normal,68.1,24.2321421281961,Normal,Heavy,1.0,1713.3
+58.0,5.1,36.0,Female,Lightly Active,Normal,58.0,24.002568403274278,Normal,Normal,2.0,1664.51
+90.45,5.5,24.0,Female,Sedentary,Obese,90.45,32.18498172533535,Obese,Very_Heavy,1.0,2005.5
+61.0,5.0,34.0,Female,Sedentary,Overweight,61.0,26.26394141677172,Overweight,Normal,1.0,1477.8
+89.0,5.6,34.0,Female,Lightly Active,Obese,89.0,30.54808759844277,Obese,Very_Heavy,2.0,2235.47
+104.0,5.2,33.0,Female,Lightly Active,Obese,104.0,41.399655448883536,Obese,Extreme,2.0,2343.82
+85.0,5.6,26.0,Female,Sedentary,Overweight,85.0,29.175139841209386,Overweight,Very_Heavy,1.0,1950.96
+118.5,5.8,29.0,Female,I Go Into Moderately Active 3 Times A Week And Usually Complete 7K Steps Each Of Those 3 Moderately Active And Moderately Active From Home The Rest 2 Moderately Actives; Those Moderately Actives I Am Sedentaryt As Active.,Obese,118.21875,37.916866360882935,Obese,Extreme,,2377.3
+84.1,5.4,26.0,Female,Lightly Active,Obese,84.1,31.044062621580498,Obese,Very_Heavy,2.0,2170.71
+64.0,5.3,49.0,Female,Lightly Active,Normal,64.0,24.52439539584985,Normal,Normal,2.0,1710.02
+80.0,5.0,27.0,Female,Lightly Active,Obese,80.0,34.44451333347111,Obese,Heavy,2.0,2002.69
+81.0,5.7,29.0,Female,Lightly Active,Overweight,81.0,26.835233725869106,Overweight,Very_Heavy,2.0,2186.04
+93.0,5.2,29.0,Female,Lightly Active,Obese,93.0,37.02084573794393,Obese,Very_Heavy,2.0,2220.07
+85.0,5.1,36.0,Male,Lightly Active,Obese,85.0,35.17617783238472,Obese,Very_Heavy,2.0,2264.01
+74.0,5.6,29.0,Female,Lightly Active,Overweight,74.0,25.399533508817584,Overweight,Heavy,2.0,2063.6
+72.0,5.1,28.0,Female,Lightly Active,Overweight,72.0,29.796291810961172,Overweight,Heavy,2.0,1912.01
+79.0,5.5,26.0,Female,Lightly Active,Overweight,79.0,28.110708195704728,Overweight,Heavy,2.0,2126.78
+80.0,5.6,35.0,Female,Sedentary,Overweight,80.0,27.45895514466766,Overweight,Heavy,1.0,1836.96
+100.0,5.7,26.0,Female,Lightly Active,Obese,100.0,33.12991818008532,Obese,Very_Heavy,2.0,2467.92
+67.0,5.05,24.0,Female,Sedentary,Overweight,67.0,28.27887453855706,Overweight,Heavy,1.0,1621.23
+85.0,5.08,34.0,Female,Lightly Active,Obese,85.0,35.453700842439325,Obese,Very_Heavy,2.0,2044.27
+73.0,5.1,32.0,Female,Sedentary,Obese,73.0,30.21012919722452,Obese,Heavy,1.0,1656.66
+85.5,5.5,35.0,Female,Sedentary,Obese,85.5,30.423614566237394,Obese,Very_Heavy,1.0,1880.1
+64.0,4.75,32.0,Female,Lightly Active,Obese,64.0,30.53253259476664,Obese,Normal,2.0,1682.83
+73.0,5.4,35.0,Female,Moderately Active,Overweight,73.0,26.946689314808282,Overweight,Heavy,3.0,2205.18
+74.0,5.3,31.0,Female,Sedentary,Overweight,74.0,28.35633217645139,Overweight,Heavy,1.0,1720.38
+74.0,5.3,27.0,Female,Sedentary,Overweight,74.0,28.35633217645139,Overweight,Heavy,1.0,1744.38
+79.0,5.4,40.0,Female,Sedentary,Overweight,79.0,29.16148569684732,Overweight,Heavy,1.0,1749.24
+68.0,5.4,33.0,Female,Lightly Active,Overweight,68.0,25.101025663109084,Overweight,Heavy,2.0,1901.21
+93.0,5.4,34.0,Female,Sedentary,Obese,93.0,34.32934392160507,Obese,Very_Heavy,1.0,1953.24
+89.0,5.4,40.0,Female,Very Active,Obese,89.0,32.85281300024571,Obese,Very_Heavy,4.0,2687.03
+102.4,5.6,33.0,Female,Household Lightly Active,Obese,102.4,35.14746258517461,Obese,Extreme,,2117.76
+96.7,5.949999999999999,25.0,Male,Sedentary,Overweight,96.7,29.401034878774947,Overweight,Very_Heavy,1.0,2376.57
+87.0,5.5,32.0,Female,Sedentary,Obese,87.0,30.95736219020647,Obese,Very_Heavy,1.0,1916.1
+113.0,5.949999999999999,47.0,Female,Moderately Active,Underweight,113.0,34.35694872080216,Obese,Extreme,3.0,2894.59
+91.0,5.6,33.0,Female,Moderately Active,Obese,91.0,31.23456147705946,Obese,Very_Heavy,3.0,2558.74
+65.2,5.5,33.0,Female,Sedentary,Normal,65.2,23.20023005518922,Normal,Heavy,1.0,1648.5
+70.0,5.6,30.0,Female,Moderately Active,Normal,70.0,24.0265857515842,Normal,Heavy,3.0,2256.49
+88.0,5.4,34.0,Female,Lightly Active,Obese,88.0,32.483680269905875,Obese,Very_Heavy,2.0,2169.34
+102.0,5.2,30.0,Female,Lightly Active,Obese,102.0,40.6035082287127,Obese,Extreme,2.0,2336.95
+114.0,5.5,46.0,Female,Lightly Active,Obese,114.0,40.56481942164986,Obese,Extreme,2.0,2470.53
+95.0,5.6,35.0,Female,Lightly Active,Obese,95.0,32.60750923429284,Obese,Very_Heavy,2.0,2311.1
+62.0,5.2,31.0,Female,Moderately Active,Normal,62.0,24.680563825295955,Normal,Normal,3.0,2006.63
+69.3,5.3,26.0,Female,Lightly Active,Overweight,69.3,26.555321889568663,Overweight,Heavy,2.0,1941.02
+73.5,5.1,29.0,Female,Sedentary,Obese,73.5,30.417047890356198,Obese,Heavy,1.0,1680.66
+80.0,5.5,26.0,Female,Sedentary,Overweight,80.0,28.466539945017445,Overweight,Heavy,1.0,1868.1
+81.0,5.9,34.0,Male,Sedentary,Overweight,81.0,25.046732081398662,Overweight,Very_Heavy,1.0,2122.74
+91.0,5.7,40.0,Male,Lightly Active,Obese,91.0,30.14822554387764,Obese,Very_Heavy,2.0,2476.17
+94.0,5.2,27.0,Female,Lightly Active,Obese,94.0,37.41891934802935,Obese,Very_Heavy,2.0,2247.57
+73.5,5.1,38.0,Female,Moderately Active,Obese,73.5,30.417047890356198,Obese,Heavy,3.0,2101.1
+59.7,5.3,31.0,Female,Sedentary,Normal,59.7,22.876662580191187,Normal,Normal,1.0,1548.78
+87.3,5.2,37.0,Female,Sedentary,Obese,87.3,34.75182616045704,Obese,Very_Heavy,1.0,1821.12
+84.0,5.0,34.0,Female,Lightly Active,Obese,84.0,36.166739000144666,Obese,Very_Heavy,2.0,2009.56
+87.0,5.4,38.0,Female,Very Active,Obese,87.0,32.11454753956603,Obese,Very_Heavy,4.0,2669.78
+95.0,5.6,35.0,Female,Lightly Active,Obese,95.0,32.60750923429284,Obese,Very_Heavy,2.0,2311.1
+76.0,5.3,30.0,Female,Sedentary,Overweight,76.0,29.122719532571697,Overweight,Heavy,1.0,1750.38
+90.0,5.4,27.0,Female,Lightly Active,Obese,90.0,33.22194573058555,Obese,Very_Heavy,2.0,2244.96
+63.5,5.3,36.0,Female,Lightly Active,Normal,63.5,24.33279855681977,Normal,Normal,2.0,1792.52
+74.0,5.6,31.0,Female,Lightly Active,Overweight,74.0,25.399533508817584,Overweight,Heavy,2.0,2049.85
+64.0,5.0,30.0,Female,Moderately Active,Overweight,64.0,27.555610666776886,Overweight,Normal,3.0,1986.33
+66.0,5.3,50.0,Female,Lightly Active,Overweight,66.0,25.290782751970156,Overweight,Heavy,2.0,1730.64
+70.0,5.1,30.0,Female,Moderately Active,Overweight,70.0,28.968617038434473,Overweight,Heavy,3.0,2108.85
+85.0,5.2,36.0,Female,Sedentary,Obese,85.0,33.83625685726058,Obese,Very_Heavy,1.0,1799.52
+94.0,5.6,24.0,Female,Lightly Active,Obese,94.0,32.2642722949845,Obese,Very_Heavy,2.0,2372.97
+60.33,5.1,31.0,Female,Lightly Active,Normal,60.33,24.966809513267883,Normal,Normal,2.0,1730.92
+66.0,5.7,32.0,Female,Moderately Active,Normal,66.0,21.86574599885631,Normal,Heavy,3.0,2208.52
+62.0,5.5,24.0,Female,Lightly Active,Normal,62.0,22.06156845738852,Normal,Normal,2.0,1906.78
+67.0,5.3,27.0,Female,Lightly Active,Overweight,67.0,25.67397643003031,Overweight,Heavy,2.0,1902.52
+77.0,5.0,29.0,Female,Moderately Active,Obese,77.0,33.15284408346594,Obese,Heavy,3.0,2195.58
+62.2,5.2,31.0,Female,Lightly Active,Normal,62.2,24.76017854731304,Normal,Normal,2.0,1782.82
+62.0,5.0,37.0,Female,Sedentary,Overweight,62.0,26.69449783344011,Overweight,Normal,1.0,1471.8
+82.7,5.1,22.0,Female,Very Active,Obese,82.7,34.224351843979015,Obese,Very_Heavy,4.0,2635.02
+79.0,5.3,33.0,Female,Sedentary,Obese,79.0,30.272300566752158,Obese,Heavy,1.0,1768.38
+79.6,5.4,31.0,Male,Sedentary,Overweight,79.6,29.38296533505122,Overweight,Heavy,1.0,2009.64
+70.0,5.3,30.0,Female,Lightly Active,Overweight,70.0,26.823557464210772,Overweight,Heavy,2.0,1923.14
+80.5,5.2,30.0,Female,Moderately Active,Obese,80.5,32.0449256118762,Obese,Very_Heavy,3.0,2301.13
+95.0,5.8,29.0,Female,Sedentary,Obese,95.0,30.397487799863956,Obese,Very_Heavy,1.0,2098.68
+69.0,5.7,25.0,Female,Sedentary,Normal,69.0,22.85964354425887,Normal,Heavy,1.0,1787.82
+106.0,5.6,30.0,Female,Moderately Active,Obese,106.0,36.38311556668465,Obese,Extreme,3.0,2814.49
+65.0,5.1,24.0,Female,Moderately Active,Overweight,65.0,26.899430107117727,Overweight,Normal,3.0,2077.85
+81.0,5.2,31.0,Female,Moderately Active,Obese,81.0,32.24396241691891,Obese,Very_Heavy,3.0,2301.13
+86.0,5.3,37.0,Female,Moderately Active,Obese,86.0,32.95465631317324,Obese,Very_Heavy,3.0,2361.66
+76.7,4.75,20.0,Female,Lightly Active,Obese,76.7,36.591332031540645,Obese,Heavy,2.0,1939.95
+81.0,5.0,45.0,Male,Moderately Active,Obese,81.0,34.875069750139495,Obese,Very_Heavy,3.0,2390.88
+79.0,5.0,33.0,Female,Moderately Active,Obese,79.0,34.01395691680272,Obese,Heavy,3.0,2195.58
+70.0,5.5,36.0,Female,Very Active,Normal,70.0,24.908222451890264,Normal,Heavy,4.0,2426.64
+88.0,5.0,45.0,Female,Sedentary,Obese,88.0,37.88896466681822,Obese,Very_Heavy,1.0,1735.8
+59.0,5.8,37.0,Female,Lightly Active,Normal,59.0,18.878439791494458,Normal,Normal,2.0,1854.74
+95.0,5.3,30.0,Female,Sedentary,Obese,95.0,36.40339941571462,Obese,Very_Heavy,1.0,1978.38
+55.0,4.75,26.0,Female,Moderately Active,Obese,55.0,26.238895198627578,Overweight,Normal,3.0,1804.01
+65.5,5.2,35.0,Female,Sedentary,Overweight,65.5,26.07382146059492,Overweight,Heavy,1.0,1571.52
+85.0,5.7,25.0,Female,Lightly Active,Overweight,85.0,28.160430453072518,Overweight,Very_Heavy,2.0,2268.54
+85.0,5.6,35.0,Female,Lightly Active,Overweight,85.0,29.175139841209386,Overweight,Very_Heavy,2.0,2173.6
+79.5,4.75,41.0,Female,Sedentary,Obese,79.5,37.92713033256168,Obese,Heavy,1.0,1600.65
+106.0,5.7,37.0,Male,Lightly Active,Obese,106.0,35.117713270890434,Obese,Extreme,2.0,2703.04
+77.5,5.4,31.0,Female,Lightly Active,Overweight,77.5,28.60778660133756,Overweight,Heavy,2.0,2045.59
+83.3,5.4,30.0,Female,Sedentary,Obese,83.3,30.748756437308625,Obese,Very_Heavy,1.0,1860.84
+74.0,5.7,40.0,Female,Lightly Active,Normal,74.0,24.516139453263133,Normal,Heavy,2.0,2014.17
+100.4,5.4,33.0,Female,Sedentary,Obese,100.4,37.06092612611988,Obese,Extreme,1.0,2048.04
+107.0,5.1,41.0,Male,Lightly Active,Obese,107.0,43.56732230973144,Obese,Extreme,2.0,2532.13
+85.0,5.7,34.0,Female,Moderately Active,Overweight,85.0,28.160430453072518,Overweight,Very_Heavy,3.0,2487.52
+70.0,5.2,42.0,Female,Very Active,Overweight,70.0,27.865152705979305,Overweight,Heavy,4.0,2276.31
+98.0,4.75,34.0,Female,Lightly Active,Obese,98.0,43.56732230973144,Obese,Very_Heavy,2.0,2136.58
+106.4,5.6,35.0,Female,Lightly Active,Obese,106.4,36.520410342407985,Obese,Extreme,2.0,2467.85
+83.0,5.2,33.0,Female,Sedentary,Obese,83.0,33.04010963708975,Obese,Very_Heavy,1.0,1793.52
+86.5,5.4,30.0,Female,Sedentary,Obese,86.5,31.929981174396115,Obese,Very_Heavy,1.0,1899.24
+89.0,5.3,40.0,Female,Sedentary,Obese,89.0,34.104237347353695,Obese,Very_Heavy,1.0,1846.38
+69.0,5.2,40.0,Female,Sedentary,Overweight,69.0,27.467079095893887,Overweight,Heavy,1.0,1583.52
+80.3,5.7,25.0,Female,Very Active,Overweight,80.3,26.60332429860851,Overweight,Very_Heavy,4.0,2764.92
+62.5,5.1,28.0,Female,Lightly Active,Overweight,62.5,25.864836641459352,Overweight,Normal,2.0,1781.38
+82.0,5.7,25.0,Female,Moderately Active,Overweight,82.0,27.16653290766996,Overweight,Very_Heavy,3.0,2510.77
+115.0,5.4,27.0,Female,Moderately Active,Obese,115.0,42.45026398908154,Obese,Extreme,3.0,2918.18
+82.0,5.2,33.0,Female,Moderately Active,Obese,82.0,32.64203602700433,Obese,Very_Heavy,3.0,2301.13
+90.0,5.6,30.0,Female,Sedentary,Obese,90.0,30.891324537751117,Obese,Very_Heavy,1.0,1986.96
+64.0,5.1,27.0,Female,Sedentary,Overweight,64.0,26.485592720854374,Overweight,Normal,1.0,1578.66
+64.0,5.1,33.0,Female,Lightly Active,Overweight,64.0,26.485592720854374,Overweight,Normal,2.0,1767.63
+83.0,5.3,39.0,Female,Moderately Active,Obese,83.0,31.805075278992774,Obese,Very_Heavy,3.0,2299.66
+63.0,5.1,37.0,Female,Moderately Active,Overweight,63.0,26.071755334591025,Overweight,Normal,3.0,1946.1
+74.5,5.2,37.0,Female,Lightly Active,Overweight,74.5,29.656483951363686,Overweight,Heavy,2.0,1910.7
+73.0,5.5,27.0,Female,Lightly Active,Overweight,73.0,25.97571769982842,Overweight,Heavy,2.0,2037.41
+85.0,5.4,40.0,Female,Sedentary,Obese,85.0,31.376282078886355,Obese,Very_Heavy,1.0,1821.24
+70.0,5.1,40.0,Female,Lightly Active,Overweight,70.0,28.968617038434473,Overweight,Heavy,2.0,1802.01
+85.0,5.1,23.0,Female,Lightly Active,Obese,85.0,35.17617783238472,Obese,Very_Heavy,2.0,2125.13
+89.0,5.5,40.0,Female,Sedentary,Obese,89.0,31.66902568883191,Obese,Very_Heavy,1.0,1892.1
+76.5,5.08,34.0,Female,Moderately Active,Obese,76.5,31.908330758195394,Obese,Heavy,3.0,2172.7
+67.0,5.3,37.0,Female,Moderately Active,Overweight,67.0,25.67397643003031,Overweight,Heavy,3.0,2067.16
+88.0,5.6,34.0,Male,Moderately Active ,Obese,88.0,30.204850659134426,Obese,Very_Heavy,,2138.16
+85.0,5.6,27.0,Female,Very Active,Overweight,85.0,29.175139841209386,Overweight,Very_Heavy,4.0,2795.88
+80.0,5.5,28.0,Female,Lightly Active,Overweight,80.0,28.466539945017445,Overweight,Heavy,2.0,2126.78
+75.7,5.4,30.0,Female,Lightly Active,Overweight,75.7,27.943347686725847,Overweight,Heavy,2.0,2027.71
+70.0,5.3,29.0,Female,Sedentary,Overweight,70.0,26.823557464210772,Overweight,Heavy,1.0,1684.38
+118.5,5.8,25.0,Male,Sedentary,Obese,118.21875,37.916866360882935,Obese,Extreme,1.0,2600.5
+88.0,5.4,31.0,Female,Lightly Active,Obese,88.0,32.483680269905875,Obese,Very_Heavy,2.0,2189.96
+76.0,5.3,30.0,Female,Lightly Active,Overweight,76.0,29.122719532571697,Overweight,Heavy,2.0,2005.64
+85.0,5.7,27.0,Male,Moderately Active,Overweight,85.0,28.160430453072518,Overweight,Very_Heavy,3.0,2799.07
+89.5,5.1,28.0,Female,Sedentary,Obese,89.5,37.03844607056979,Obese,Very_Heavy,1.0,1878.66
+77.6,5.3,25.0,Female,Lightly Active,Overweight,77.6,29.73582941746794,Overweight,Heavy,2.0,2062.02
+79.0,5.4,29.0,Female,Very Active,Overweight,79.0,29.16148569684732,Overweight,Heavy,4.0,2609.41
+75.0,5.5,38.0,Female,Moderately Active,Overweight,75.0,26.687381198453856,Overweight,Heavy,3.0,2242.46
+100.0,5.3,24.0,Female,Sedentary,Obese,100.0,38.31936780601539,Obese,Very_Heavy,1.0,2074.38
+88.5,5.2,32.0,Female,Sedentary,Obese,88.5,35.229514492559545,Obese,Very_Heavy,1.0,1865.52
+107.0,5.1,41.0,Male,Moderately Active,Obese,107.0,43.56732230973144,Obese,Extreme,3.0,2854.4
+80.0,5.6,22.0,Female,Sedentary,Overweight,80.0,27.45895514466766,Overweight,Heavy,1.0,1914.96
+100.0,5.5,40.0,Female,Lightly Active,Obese,100.0,35.583174931271806,Obese,Very_Heavy,2.0,2319.28
+52.0,5.0,33.0,Female,Moderately Active,Normal,52.0,22.38893366675622,Normal,Normal,3.0,1777.08
+97.0,5.4,31.0,Female,Moderately Active,Obese,97.0,35.80587484296443,Obese,Very_Heavy,3.0,2608.18
+95.0,5.3,28.0,Female,Sedentary,Obese,95.0,36.40339941571462,Obese,Very_Heavy,1.0,1990.38
+73.0,5.4,29.0,Female,Sedentary,Overweight,73.0,26.946689314808282,Overweight,Heavy,1.0,1743.24
+93.0,5.18,14.5,Female,Lightly Active,Obese,93.0,37.30727287734247,Obese,Very_Heavy,2.0,2314.52
+90.5,5.1,48.0,Female,Moderately Active,Obese,90.5,37.45228345683314,Obese,Very_Heavy,3.0,2287.1
+92.8,5.5,41.0,Female,Lightly Active,Obese,92.8,33.02118633622023,Obese,Very_Heavy,2.0,2213.41
+74.5,5.4,30.0,Female,Moderately Active,Overweight,74.5,27.500388410318042,Overweight,Heavy,3.0,2267.18
+79.0,5.5,47.0,Female,Moderately Active,Overweight,79.0,28.110708195704728,Overweight,Heavy,3.0,2234.71
+68.0,5.5,48.0,Female,Moderately Active,Normal,68.0,24.19655895326483,Normal,Heavy,3.0,2056.46
+91.0,5.5,26.0,Female,Sedentary,Obese,91.0,32.38068918745734,Obese,Very_Heavy,1.0,2000.1
+70.0,5.5,29.0,Female,Sedentary,Normal,70.0,24.908222451890264,Normal,Heavy,1.0,1730.1
+62.0,5.5,34.0,Female,Moderately Active,Normal,62.0,22.06156845738852,Normal,Normal,3.0,2071.96
+76.0,5.5,25.0,Female,Moderately Active,Overweight,76.0,27.043212947766573,Overweight,Heavy,3.0,2358.71
+86.0,5.4,26.0,Female,Lightly Active,Obese,86.0,31.745414809226194,Obese,Very_Heavy,2.0,2196.84
+96.0,5.5,32.0,Female,Lightly Active,Obese,96.0,34.15984793402094,Obese,Very_Heavy,2.0,2319.28
+102.0,5.5,35.0,Female,Lightly Active,Obese,102.0,36.29483842989724,Obese,Extreme,2.0,2381.16
+64.8,5.2,36.0,Female,Sedentary,Overweight,64.8,25.795169933535124,Overweight,Normal,1.0,1557.12
+118.5,5.7,29.0,Female,Sedentary,Obese,118.21875,39.2589530434011,Obese,Extreme,1.0,2354.45
+72.0,5.3,31.0,Female,Lightly Active,Overweight,72.0,27.58994482033108,Overweight,Heavy,2.0,1943.77
+73.0,5.5,27.0,Female,Lightly Active,Overweight,73.0,25.97571769982842,Overweight,Heavy,2.0,2037.41
+72.0,5.3,50.5,Female,Moderately Active,Overweight,72.0,27.58994482033108,Overweight,Heavy,3.0,2040.03
+68.0,5.2,28.0,Female,Moderately Active,Overweight,68.0,27.069005485808468,Overweight,Heavy,3.0,2122.88
+65.0,5.2,27.0,Female,Sedentary,Overweight,65.0,25.87478465555221,Overweight,Normal,1.0,1613.52
+67.65,5.4,31.0,Female,Moderately Active,Normal,67.65,24.971829207490142,Normal,Heavy,3.0,2153.26
+91.95,5.8,27.0,Female,Sedentary,Overweight,91.95,29.42156845471043,Overweight,Very_Heavy,1.0,2074.08
+81.0,5.2,38.0,Female,Sedentary,Obese,81.0,32.24396241691891,Obese,Very_Heavy,1.0,1739.52
+103.2,5.8,32.0,Female,Sedentary,Obese,103.2,33.021270957325896,Obese,Extreme,1.0,2179.08
+67.0,5.2,37.0,Female,Sedentary,Overweight,67.0,26.67093187572305,Overweight,Heavy,1.0,1577.52
+73.3,5.2,34.0,Female,Lightly Active,Overweight,73.3,29.178795619261184,Overweight,Heavy,2.0,1914.82
+57.0,4.75,38.0,Female,Sedentary,Obese,57.0,27.19303684221404,Overweight,Normal,1.0,1348.65
+71.5,5.0,50.5,Female,Lightly Active,Obese,71.5,30.784783791789803,Obese,Heavy,2.0,1724.25
+97.0,5.0,34.0,Female,Sedentary,Obese,97.0,41.76397241683372,Obese,Very_Heavy,1.0,1909.8
+68.2,5.4,38.0,Female,Moderately Active,Overweight,68.2,25.174852209177054,Overweight,Heavy,3.0,2107.54
+61.0,5.2,42.0,Female,Lightly Active,Normal,61.0,24.282490215210537,Normal,Normal,2.0,1690.7
+85.0,5.7,29.0,Female,Moderately Active,Overweight,85.0,28.160430453072518,Overweight,Very_Heavy,3.0,2526.27
+67.0,5.3,36.0,Female,Sedentary,Overweight,67.0,25.67397643003031,Overweight,Heavy,1.0,1606.38
+98.0,5.2,35.0,Female,Lightly Active,Obese,98.0,39.01121378837102,Obese,Very_Heavy,2.0,2247.57
+88.0,5.5,26.0,Female,Lightly Active,Obese,88.0,31.31319393951919,Obese,Very_Heavy,2.0,2250.53
+78.2,5.1,31.0,Female,Sedentary,Obese,78.2,32.36208360579394,Obese,Heavy,1.0,1725.06
+100.2,5.7,32.0,Male,Sedentary,Obese,100.2,33.19617801644549,Obese,Extreme,1.0,2319.42
+75.0,5.4,35.0,Female,Sedentary,Overweight,75.0,27.68495477548796,Overweight,Heavy,1.0,1731.24
+76.0,5.6,43.0,Female,Lightly Active,Overweight,76.0,26.086007387434275,Overweight,Heavy,2.0,1994.85
+72.0,5.4,34.0,Female,Sedentary,Overweight,72.0,26.577556584468443,Overweight,Heavy,1.0,1701.24
+63.0,5.5,40.0,Female,Moderately Active,Normal,63.0,22.417400206701238,Normal,Normal,3.0,2040.96
+70.0,5.3,37.0,Female,Lightly Active,Overweight,70.0,26.823557464210772,Overweight,Heavy,2.0,1875.02

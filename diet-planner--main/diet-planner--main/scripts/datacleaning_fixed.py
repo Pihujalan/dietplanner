@@ -8,10 +8,11 @@ df = pd.read_csv("../data/pbl_datasheet.csv")  # change filename if needed
 print(f"Original dataset shape: {df.shape}")
 print(f"Total rows: {len(df)}")
 
-# Function to clean Food Allergies column (COMMENTED OUT - no Food Allergies column in dataset)
-"""
+# Function to clean Food Allergies column
 def clean_food_allergies_column(df):
-    # Clean the Food Allergies column by replacing variations of 'no allergies' with 'Unknown'
+    """
+    Clean the Food Allergies column by replacing variations of 'no allergies' with 'Unknown'
+    """
     print("\n🧹 Cleaning Food Allergies column...")
     print(f"Food Allergies column unique values before cleaning:")
     print(df['Food Allergies'].value_counts().head(10))
@@ -57,7 +58,7 @@ def clean_food_allergies_column(df):
         
         # Check if it matches any of the "no allergy" patterns (case insensitive)
         if re.match(combined_pattern, value_str, re.IGNORECASE):
-        return 'Unknown'
+            return 'Unknown'
 
         return value_str
     
@@ -77,7 +78,6 @@ def clean_food_allergies_column(df):
     print(f"Percentage with 'Unknown' allergies: {(unknown_count/total_count)*100:.1f}%")
     
     return df
-"""
 
 # Function to remove duplicate rows
 def remove_duplicate_rows(df):
@@ -111,7 +111,7 @@ def remove_duplicate_rows(df):
         return df
 
 # Apply cleaning functions
-# df = clean_food_allergies_column(df)  # Commented out - no Food Allergies column in dataset
+df = clean_food_allergies_column(df)
 df = remove_duplicate_rows(df)
 
 print(f"\n📊 After initial cleaning: {df.shape}")
@@ -177,10 +177,9 @@ def standardize_categorical_variables(df):
     
     return df
 
-# Function to extract specific food allergen keywords (COMMENTED OUT - no Food Allergies column in dataset)
-"""
+# Function to extract specific food allergen keywords
 def extract_allergen_keywords(df):
-    # Extract specific individual allergen keywords from long food allergy descriptions
+    """Extract specific individual allergen keywords from long food allergy descriptions"""
     print("\n🥜 Extracting specific allergen keywords...")
     
     # Define specific allergens (matching exact spelling from dataset)
@@ -215,7 +214,7 @@ def extract_allergen_keywords(df):
     
     def extract_keywords(text):
         if pd.isna(text) or str(text).lower() in ['unknown', 'no', 'none', 'nil', 'na', 'nothing']:
-        return 'Unknown'
+            return 'Unknown'
         
         text_lower = str(text).lower()
         found_allergens = []
@@ -226,7 +225,7 @@ def extract_allergen_keywords(df):
                 found_allergens.append(allergen.title())
         
         if not found_allergens:
-        return 'Unknown'
+            return 'Unknown'
 
         # Return sorted, unique specific allergens
         return ', '.join(sorted(set(found_allergens)))
@@ -246,7 +245,6 @@ def extract_allergen_keywords(df):
         print(f"  - {example}")
     
     return df
-"""
 
 # Function to recalculate BMI correctly
 def recalculate_bmi(df):
@@ -256,8 +254,8 @@ def recalculate_bmi(df):
     # Convert height from feet.decimal to meters
     df['Height_m'] = pd.to_numeric(df['Height'], errors='coerce') * 0.3048
     
-    # Ensure weight is in kg (use existing 'Weight' column)
-    df['Weight_kg'] = pd.to_numeric(df['Weight'], errors='coerce')
+    # Ensure weight is in kg
+    df['Weight_kg'] = pd.to_numeric(df['Weight_kg'], errors='coerce')
     
     # Recalculate BMI: BMI = weight(kg) / height(m)²
     df['BMI'] = df['Weight_kg'] / (df['Height_m'] ** 2)
@@ -333,7 +331,7 @@ def calculate_calories(df):
     def calculate_calories_row(row):
         """Helper function to calculate calories for a single row"""
         # Extract values
-        weight = row["Weight_kg"]   # kg (created from Weight column)
+        weight = row["Weight_kg"]   # kg
         height = row["Height"]      # feet (like 5.2)
         age = row["Age"]
         gender = row["Gender"]
@@ -377,7 +375,7 @@ def finalize_dataset(df):
     print("\n🚀 Finalizing dataset...")
     
     # Remove unnecessary columns
-    columns_to_remove = ['Unnamed: 9', 'Height_m', 'Eating preference']  # Remove redundant columns and eating preference
+    columns_to_remove = ['Unnamed: 9', 'Height_m']  # Remove redundant columns
     df = df.drop(columns=[col for col in columns_to_remove if col in df.columns])
     
     print(f"Final dataset shape: {df.shape}")
@@ -391,7 +389,7 @@ print("🧹 COMPREHENSIVE DATA CLEANING")
 print("="*50)
 
 df = handle_missing_values(df)
-# df = extract_allergen_keywords(df)  # Commented out - no Food Allergies column in dataset
+df = extract_allergen_keywords(df)
 df = recalculate_bmi(df)
 df = standardize_categorical_variables(df)
 df = handle_outliers(df)
@@ -403,8 +401,6 @@ print(f"\n✅ FINAL CLEANED DATASET")
 print(f"Shape: {df.shape}")
 print(f"Data types: {df.dtypes.value_counts()}")
 print(f"No missing values: {df.isnull().sum().sum() == 0}")
-
-
 
 # Save the cleaned dataset
 print("\n💾 Saving cleaned dataset...")
