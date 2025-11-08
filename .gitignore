@@ -6,3 +6,11 @@ venv/
 .env
 dist/
 coverage/
+node_modules/
+.venv/
+venv/
+**/venv/
+.DS_Store
+.env
+dist/
+coverage/
